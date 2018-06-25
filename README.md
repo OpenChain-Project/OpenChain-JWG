@@ -1,4 +1,4 @@
-# Onboarding-JP
+# Onboarding-JWG
 
 OpenChain Japan Work Groupのリーフレットを提供するサイトです
 
