@@ -1,9 +1,13 @@
 # Onboarding-JWG
 
-OpenChain Japan Work Groupのリーフレットを提供するサイトです
+OpenChain Japan Work Groupのリーフレットとケーススタディを提供するサイトです
 
-1ページ版と2ページ版があります
+ケーススタディは、テンプレートおよびJapan WG会合で共有された実例がここに置かれます。
 
-This site provides the leaflets of the OpenChain Japan work group.
+リーフレットには、1ページ版と2ページ版があります
 
-There are one-page version and two-page version.
+This site provides the case studies and the leaflets of the OpenChain Japan work group.
+
+This site contains template for case study, and collected case studies at each meetings.
+
+Leaflet has two versions, one-page version and two-page version.
