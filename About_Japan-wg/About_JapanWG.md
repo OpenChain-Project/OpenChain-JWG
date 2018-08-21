@@ -1,61 +1,58 @@
-# OpenChain Project Japan Work Group �ɂ���
+# OpenChain Project Japan Work Group について
 
-## ���ŁF2018�N8��2��
+## 初版：2018年8月2日
 
-## �{�����ɂ���
-* �{�����́AOpenChain Project��Japan Work Group�ɂ��āA��{������������������ł��B
-
-
-## OpenChain Project�ɂ���
-* OpenChain Project�́A Linux Foundation���z�X�g����I�[�v����Project�ŁAOSS(Open Source Software)���C�Z���X����̑��i������ʂ��āA�T�v���C�`�F�[���i�g�D�ԁj�ɂ�����M���\�z��ڎw���Ă��܂�
-  * OSS���C�Z���X����Ɋւ���d�l�A�J���L�������A���ȔF�؃v���O������񋟂��Ă��܂�
-* OpenChain Project�ł́A�v���`�i�����o�[�ƈ�ʃ����o�[����`����Ă��܂�
-  * �v���`�i�����o�[�́A�L���ŁAOpenChain Project�̃{�[�h��c�ɎQ���ł��܂�
-  * ��ʃ����o�[�́A�N�ł����R�ɖ����Ŋ����ɎQ���ł��܂�
-* �ڍׂ́AProject Director�ł���Shane Coughlan <coughlan@linux.com>�ɖ₢���킹�Ă�������
-
-## Japan Work Group�ɂ���
-* Japan Work Group�i�ȍ~Japan WG�j�́AOpenChain Project�̈�̊����ł�
-* Japan WG�́A���{�E�A�W�A�𒆐S�ɁAOSS���C�Z���X�����OSS���p�Ɋւ���ۑ������ڎw���Ă��܂�
-* �K�񓙂ɂ��ẮAJapan WG�Ƃ��Čʂɐ݂��Ă��炸�AOpenChain Project�̋K�񓙂ɏ]���܂�
-* OpenChain Project�̋K�񓙂ɂ��ẮAProject Director�ł���Shane Coughlan <coughlan@linux.com>�ɖ₢���킹�Ă�������
-
-## Japan WG�̎�Ȋ���
-* OSS���C�Z���X�����OSS���p�Ɋւ��āA�����o�[��������ۑ���c�_���A�����Ă��Ă��Ă����܂��i������AML���j
-* OpenChain Project��Â̍��ۉ�c�A�d�b��c�AML���֎Q�����AJapan WG�����œ���ꂽ���ʂ�ӌ���OpenChain Project�֔��M���Ă��܂�
-* ���{�𒆐S���_�Ƃ��Ċ������s���Ă��܂�
-* �T�v���C�`�F�[���ŏd�v�ȃp�[�g�i�[�ł���A�W�A�e���i�����A��p�A�؍����j�Ƃ̘A�g��}��܂�
+## 本文書について
+* 本文書は、OpenChain ProjectのJapan Work Groupについて、基本事項を説明した資料です。
 
 
-## Japan WG�����o�[
-* Japan WG�́A�I�[�v�� �R�~���j�e�B�����ł�
-* ��ƁE�c�̂��邢�͌l�����R�ɖ����ŎQ���ł��܂�
-* Japan WG�́A�L�u�ɂ��^�c���s���Ă��܂�
+## OpenChain Projectについて
+* OpenChain Projectは、 Linux FoundationがホストするオープンなProjectで、OSS(Open Source Software)ライセンス遵守の促進活動を通じて、サプライチェーン（組織間）における信頼構築を目指しています
+  * OSSライセンス遵守に関する仕様、カリキュラム、自己認証プログラムを提供しています
+* OpenChain Projectでは、プラチナメンバーと一般メンバーが定義されています
+  * プラチナメンバーは、有償で、OpenChain Projectのボード会議に参加できます
+  * 一般メンバーは、誰でも自由に無償で活動に参加できます
+* 詳細は、Project General ManagerであるShane Coughlan <coughlan@linux.com>に問い合わせてください
+
+## Japan Work Groupについて
+* Japan Work Group（以降Japan WG）は、OpenChain Projectの一つの活動です
+* Japan WGは、日本・アジアを中心に、OSSライセンス遵守やOSS利用に関する課題解決を目指しています
+* 規約等については、Japan WGとして個別に設けておらず、OpenChain Projectの規約等に従います（本文書に書かれた内容以外に特に注意する事項はありません）
+
+* OpenChain Projectの規約等については、Project General ManagerであるShane Coughlan <coughlan@linux.com>に問い合わせてください
+
+## Japan WGの主な活動
+* OSSライセンス遵守やOSS利用に関して、メンバーが抱える課題を議論し、解決案を提案していきます（国内会合、ML等）
+* OpenChain Project主催の国際会議、電話会議、ML等へ参加し、Japan WG活動で得られた成果や意見をOpenChain Projectへ発信しています
+* 日本を中心拠点として活動を行っています
+* サプライチェーンで重要なパートナーであるアジア各国（中国、台湾、韓国等）との連携を図ります
 
 
+## Japan WGメンバー
+* Japan WGは、オープン コミュニティ活動です
+* 企業・団体あるいは個人が自由に無償で参加できます
+* Japan WGは、有志による運営を行っています
 
-## �񋟕��A���ʕ��̈���
-* Japan WG�ւ̒񋟕��́AOpenChain Project�ւ̒񋟕��Ƃ݂Ȃ���܂��B
-* �񋟕��̃��C�Z���X�͈ȉ��ƂȂ�܂��B
 
-* 1.�@�v���W�F�N�g�ւ̕񍐁iReport�j�ɂ��Ă͈ȉ��ɏ]��
-  * 1-1.�@�e�Ђ���񍐂��ꂽ�Ж�����̃P�[�X�X�^�f�B: �@���C�Z���X��CC-BY-ND-4.0 �Ƃ���
-    * ���O�A���쌠��\�L
-    * �������A�����̕񍐂́ACC0-1.0�Ƃ���
-  * 1-2.�@�ʐ^�F�@ ���C�Z���X��CC-BY-ND-4.0�Ƃ���
+## 提供物、成果物の扱い
+* ライセンスは以下とします
+* 共同成果物
+  * Japan WGの参加者が協力して作成したもの　　CC0-1.0
+* 報告（Report）
+  * 各社が自社の活動紹介として個別にJapan WG向けに作成したもの　CC-BY-ND 4.0
+* その他資料
+  * OpenChain Japan WGでの活動とは関係なく作成したものを各社が会合等で紹介する場合は、著作権法の通り、各社がライセンス条件を定めて下さい
+  * 配布を許諾する場合は、ライセンス条件を明記して提供して下さい
 
-* 2.�@�v���W�F�N�g�ւ̍v���iContribution�j�ɂ��Ă͈ȉ��ɏ]��
-  * ���C�Z���X��CC0-1.0�Ƃ���iOpenChain Project�Ɠ����^�p�j
-  * �c���^�A�d�l�ւ̃R�����g�AJWG�Љ���A���[�t���b�g�ALightning Talk�̐���������t�H�[�}�b�g
 
-## ���`��
-* ���`���͂���܂���
-* �閧�����͎������܂Ȃ��悤�ɒ��ӂ��ĉ�����
+## 守秘義務
+* 守秘義務はありません
+* 秘密事項は持ち込まないように注意して下さい
 
-## �Ƌ֖@����
-* Japan WG�����ɂ����ẮA�Ƌ֖@��������肢���܂�
+## 独禁法遵守
+* Japan WG活動においては、独禁法遵守をお願いします
 
-## �֘A���
+## 関連情報
 * OpenChain project:
   * Website: https://www.openchainproject.org/
   * Wiki: https://wiki.linuxfoundation.org/openchain/start
