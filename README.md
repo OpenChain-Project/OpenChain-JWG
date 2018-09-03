@@ -6,6 +6,13 @@
 
 リーフレットには、1ページ版と2ページ版があります
 
+## Japan Work Groupの説明
+
+Japan WGを説明する資料は以下にあります。
+
+* https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
+
+
 ## 貢献（Contribution）の方法
 
 * 自分の手元にクローンを作り、変更案を作成する
@@ -23,6 +30,12 @@
 This site contains template for case study, and collected case studies at each meetings.
 
 Leaflet has two versions, one-page version and two-page version.
+
+## About Japan Work Group
+
+The brief explanation of Japan WG is here:(Japanese language only)
+
+* https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
 
 ## Contribution
 
