@@ -1,16 +1,23 @@
 # Onboarding-JWG
 
-## OpenChain Japan Work Groupのリーフレットとケーススタディを提供するサイトです
+## OpenChain Japan Work Groupの作業成果物を共有するサイトです
 
-ケーススタディは、テンプレートおよびJapan WG会合で共有された実例がここに置かれます。
+* ケーススタディ https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
+  * OSS推進組織
+  * 教育
+  * ビジネスフロー図
 
-リーフレットには、1ページ版と2ページ版があります
+* 教育資料　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material
+  * OSSライセンス関連でよくある誤解
+
+* リーフレット　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet
+  * 1ページ版および2ページ版
+
 
 ## Japan Work Groupの説明
 
-Japan WGを説明する資料は以下にあります。
-
-* https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
+* Japan WGを説明する資料は以下にあります。
+  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
 
 
 ## 貢献（Contribution）の方法
@@ -25,11 +32,17 @@ Japan WGを説明する資料は以下にあります。
 
 ---
 
-## This site provides the case studies and the leaflets of the OpenChain Japan work group.
+## This site provides the outcomes of the OpenChain Japan work group.
+* Case Study https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
+  * Organization to promote OSS
+  * Education
+  * Business flow diagram
 
-This site contains template for case study, and collected case studies at each meetings.
+* Education Material　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material
+  * Misunderstanding of OSS license
 
-Leaflet has two versions, one-page version and two-page version.
+* Leaflet　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet
+  * 1 page version and 2 page version
 
 ## About Japan Work Group
 
