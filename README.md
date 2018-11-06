@@ -5,7 +5,7 @@
 * ケーススタディ https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
   * OSS推進組織
   * 教育
-  * ビジネスフロー図
+  * ビジネス ワークフロー図
 
 * 教育資料　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material
   * OSSライセンス関連でよくある誤解
@@ -36,7 +36,7 @@
 * Case Study https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
   * Organization to promote OSS
   * Education
-  * Business flow diagram
+  * Business workflow diagram
 
 * Education Material　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material
   * Misunderstanding of OSS license
