@@ -30,7 +30,7 @@ The supply chain of the automotive industry consists of OEM (automotive company)
 
 The diagram shows the relationship of software supply chain. 
 
-automotive business workflow (img/BF-AUTO-1.png)
+![automotive business workflow] (img/BF-AUTO-1.png)
 
  
 ## 3-2.	 CE (consumer electronics) industry
@@ -39,28 +39,28 @@ CE industry has several patterns for product development.
 ### 3-2-1. Case CE-1: (brand: own brand / development: own development with ISV and contractual developer)
 CE-1 is a typical pattern for development of CE products. A company develops a product in cooperation with a contractual software developer and an ISV (independent software vendor). In this case, the company has direct connection with the contractual developer and the ISV. The company release software embedded in a product to end users. OSS comes directly to the company, and indirectly via the contractual developer and the ISV. 
 
-CE business workflow 1 (img/BF-CE-1.png)
+![CE business workflow 1](img/BF-CE-1.png)
 
  
 ### 3-2-2. Case CE-2: (brand: own brand / development: contractual developer)
 In this case, a CE company does not develop software by itself, instead, a contractual developer develops whole software in cooperation with a ISV and the CE company receives software and verifies and releases software embedded in a product to end users.
 OSS comes indirectly via the contractual developer and the ISV. 
 
-CE business workflow 2 (img/BF-CE-2.png)
+![CE business workflow 2](img/BF-CE-2.png)
 
  
 ### 3-2-3. Case CE-3: (brand: own brand / development: SoC vendor)
 In this case, a CE company does not develop software by itself, instead, an SoC vendor develops whole software and the CE company receives software and verifies and releases software embedded in a product to end users. 
 OSS comes indirectly via the SoC vendor. 
 
-CE business workflow 3 (img/BF-CE-3.png)
+![CE business workflow 3](img/BF-CE-3.png)
 
 
 ### 3-2-4. Case CE-4: (brand: own brand / development: ODM vendor)
 In this case, a CE company does not develop software by itself, instead, an ODM vendor develops whole software and the CE company receives software and verifies and releases software embedded in a product to end users. 
 OSS comes indirectly via the ODM vendor.
 
-CE business workflow 4 (img/BF-CE-4.png)
+![CE business workflow 4](img/BF-CE-4.png)
 
  
 ### 3-2-5. Case CE-5: (brand: own brand / development: system integration)
@@ -68,10 +68,27 @@ In this case, a CE company purchases a hardware product, and builds system integ
 CE company integrates system solution and releases the system solution to end users. 
 OSS comes indirectly via the hardware product company.
 
-CE business workflow 5 (img/BF-CE-5.png)
+![CE business workflow 5](img/BF-CE-5.png)
 
  
 ## 3-3.	 IT industry
+
+### 3-3-1. Case IT-1: (brand: own brand / development: )
+
+![IT business workflow 1](img/BF-IT-1.png)
+
+### 3-3-2. Case IT-2: (brand: own brand / development: )
+
+![IT business workflow 2](img/BF-IT-2.png)
+
+### 3-3-3. Case IT-3: (brand: own brand / development: )
+
+![IT business workflow 3](img/BF-IT-3.png)
+
+### 3-3-4. Case IT-4: (brand: own brand / development: )
+
+![IT business workflow 4](img/BF-IT-4.png)
+
 
  
 ## 4.	Universal model
