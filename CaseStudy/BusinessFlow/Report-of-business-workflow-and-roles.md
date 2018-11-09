@@ -15,11 +15,11 @@ The outcome of the studies has been disclosed at the OpenChain GitHub site and w
 ## 2.	Approach taken by the Japan workgroup
 The Japan work group took the following approach:
 
-* (1)	Business workflow: At first, before defining the roles, the Japan workgroup has studied several examples of business workflows in industries, such as Automotive, CE, IT. The examples of the business workflow diagram across different domains have been created and those are also useful references for a company to apply OSS compliance process to itself.
+* (1)	Business workflow: At first, before defining the roles, the Japan work group has studied several examples of business workflows in industries, such as Automotive, CE, IT. The examples of the business workflow diagram across different domains have been created by menber companies, and those are also very useful references for a company to analyze its organization when applying OSS compliance process to itself.
 
-* (2)	Universal model of business workflow: Then the Japan workgroup has built the universal model of business workflow derived from examples. This model consists of “supplier”, “organization” and “recipient”. The “organization” has internal functional blocks, those are candidates of roles.
+* (2)	Universal model of business workflow: Then the Japan work group has built the universal model of business workflow derived from examples. This model consists of “supplier”, “organization” and “recipient”. The “organization” has internal functional blocks, those are candidates of roles.
 
-* (3)	Roles: From the universal model, the Japan workgroup has defined the roles. The roles are not organizational but functional, because a function in OSS compliance can be carried out by different organizational units. For example, reviewing a license is done by legal department in some companies, and by intellectual property department in other companies. It is useful to define roles as functional, so that different companies can easily apply the roles and its concept to themselves. The roles are listed with explanation.
+* (3)	Roles: From the universal model, the Japan work group has defined the roles. The roles are not organizational but functional, because a function in OSS compliance can be carried out by different organizational units. For example, reviewing a license is done by legal department in some companies, and by intellectual property department in other companies. It is useful to define roles as functional, so that different companies can easily apply the roles and its concept to themselves. The roles are listed with explanation.
 
  
 ## 3.	Business workflow
@@ -34,10 +34,10 @@ The diagram shows the relationship of software supply chain.
 
  
 ## 3-2.	 CE (consumer electronics) industry
-CE industry has several patterns for product development. 
+CE industry has several patterns for product development. Its business is B2C.(Its customer is end user.) The diagrams are categorized according to the patern who has the brand of a product, and who develop(s) a product with whom. 
 
 ### 3-2-1. Case CE-1: (brand: own brand / development: own development with ISV and contractual developer)
-CE-1 is a typical pattern for development of CE products. A company develops a product in cooperation with a contractual software developer and an ISV (independent software vendor). In this case, the company has direct connection with the contractual developer and the ISV. The company release software embedded in a product to end users. OSS comes directly to the company, and indirectly via the contractual developer and the ISV. 
+CE-1 is a typical pattern for development of CE products. A company develops a product in cooperation with a contractual software developer and an ISV (independent software vendor). In this case, the company has direct connection with the contractual developer and the ISV. The company releases software embedded in a product to end users. OSS comes directly to the company, and indirectly via the contractual developer and the ISV. 
 
 ![CE business workflow 1](img/BF-CE-1.png)
 
@@ -64,37 +64,41 @@ OSS comes indirectly via the ODM vendor.
 
  
 ### 3-2-5. Case CE-5: (brand: own brand / development: system integration)
-In this case, a CE company purchases a hardware product, and builds system integrating with the purchased hardware and own developed software and service. 
-CE company integrates system solution and releases the system solution to end users. 
-OSS comes indirectly via the hardware product company.
+In this case, a CE company purchases a hardware product, and builds system integrating with the purchased hardware and own developed software and service. The CE company integrates system solution and releases the system solution to end users. OSS comes indirectly via the hardware product company.
 
 ![CE business workflow 5](img/BF-CE-5.png)
 
  
 ## 3-3.	 IT industry
+IT industry has several patterns for product/service development. Its business is B2B.(its customer is a company) The diagrams are categorized according to the patern who has the brand of a product, and who develop(s) a product with whom. 
 
-### 3-3-1. Case IT-1: (brand: own brand / development: )
+### 3-3-1. Case IT-1: (brand: own brand / development: own development)
+IT-1 is a typical pattern for development of IT industry. A company develops system by itself. The company releases software embedded in a product to a customer company. OSS comes directly to the company. 
 
 ![IT business workflow 1](img/BF-IT-1.png)
 
-### 3-3-2. Case IT-2: (brand: own brand / development: )
+### 3-3-2. Case IT-2: (brand: own brand / development: ISV or contractual development)
+In this case, an IT company a CE company does not develop software by itself, instead, an ISV (or contractual developer) develops whole software, and the IT company receives software and verifies and releases software embedded in a system to a costomer company. The company has direct connection with the ISV. OSS comes indirectly via the ISV. 
 
 ![IT business workflow 2](img/BF-IT-2.png)
 
-### 3-3-3. Case IT-3: (brand: own brand / development: )
+### 3-3-3. Case IT-3: (brand: customer's brand / development: ISV or contractual development)
+In this case, the costomer company has the brand of the developed system. an IT company is entrusted to develop the system by the customer company. The IT company develops software in cooperation with an ISV. THe IT company receives software and integrate it with its developed software, and releases to the customer company. OSS comes directly, and indirectly via the ISV.
 
 ![IT business workflow 3](img/BF-IT-3.png)
 
-### 3-3-4. Case IT-4: (brand: own brand / development: )
+
+### 3-3-4. Case IT-4: (brand: own brand / development: system integration)
+
+In this case, an IT company purchases a hardware product, and builds system integrating with the purchased hardware.  The IT company integrates system solution and releases the system solution to a customer company. OSS comes indirectly via the hardware product company.
 
 ![IT business workflow 4](img/BF-IT-4.png)
 
 
- 
 ## 4.	Universal model
 The Japan work group has built the universal model of business workflow derived from examples. This model consists of “supplier”, “organization” and “recipient”. The “organization” has internal functional blocks.
 
-Universal model of business workflow (img/Universal-Model.png)
+![Universal model of business workflow](img/Universal-Model.png)
 
 
  
