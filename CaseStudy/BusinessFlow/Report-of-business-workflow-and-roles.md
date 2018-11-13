@@ -91,12 +91,12 @@ In this case, an IT company purchases a hardware product, and builds system inte
 
 
 ## 4.	Universal model
-The Japan work group has defined the universal(abstract) model of business workflow derived from examples. This model consists of “supplier”, “organization” and “recipient”. The “organization” has internal functional blocks. The specific business workflows are different organization by organization across industries, so that the Japan work group cocluded the abstract model which can be universally applied to a specific workflow is needed. 
+The Japan work group has defined the universal(abstract) model of business workflow derived from examples. This model consists of “supplier”, “organization”, “recipient” and "OSS community". The “organization” has internal functional blocks. The specific business workflows are different, organization by organization across industries, so that the Japan work group concluded the abstract model which can be universally applied to a specific workflow is needed. 
 
 ![Universal model of business workflow](img/Universal-Model.png)
 
 
  
 ## 5. Roles
-
+The Japan work group extracted the roles from the universal model, and specified the description of each role. 
 
