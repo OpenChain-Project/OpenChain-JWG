@@ -90,7 +90,7 @@ In this case, an IT company purchases a hardware product, and builds system inte
 ![IT business workflow 4](img/BF-IT-4.png)
 
 
-## 4.	Universal model
+## 4.	Universal model of business workflow
 The Japan work group has defined the universal(abstract) model of business workflow derived from examples. This model consists of “supplier”, “organization”, “recipient” and "OSS community". The “organization” has internal functional blocks. The specific business workflows are different, organization by organization across industries, so that the Japan work group concluded the abstract model which can be universally applied to a specific workflow is needed. 
 
 ![Universal model of business workflow](img/Universal-Model.png)
@@ -99,4 +99,16 @@ The Japan work group has defined the universal(abstract) model of business workf
  
 ## 5. Roles
 The Japan work group extracted the roles from the universal model, and specified the description of each role. 
+
+| Role        | Description  | Note         |
+|:------------|:-------------|:-------------|
+| software development | to develop software |  |
+| OSPO (Open Source Program Office) | to promote OSS and OSS compliance, to receive an internal inquiry and resolve issues |  |
+| OSS license | to review a new OSS license | This function is usually carried out by legal section or IP section |
+| contract    |  |  |
+| patent      |  |  |
+| management  |  |  |
+| customer support | to receive an external inquiry |  |
+| community liaison | to communicate with a OSS community |  |
+
 
