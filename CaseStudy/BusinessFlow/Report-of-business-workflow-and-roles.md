@@ -103,11 +103,12 @@ The Japan work group extracted the roles from the universal model, and specified
 | Role        | Description  | Note         |
 |:------------|:-------------|:-------------|
 | software development | to develop software |  |
+| software verification | to verify software |  For example, in ODM develpment case, an organization entrusts software development to ISV without own development. In this case the organization receives software, and verifies and releases it to its customer. |
 | OSPO (Open Source Program Office) | to promote OSS and OSS compliance, to receive an internal inquiry and resolve issues |  |
-| OSS license | to review a new OSS license | This function is usually carried out by legal section or IP section |
-| contract    |  |  |
-| patent      |  |  |
-| management  |  |  |
+| OSS license | to review a new OSS license | This function is usually carried out by legal section or IP section. |
+| software contract |  |  |
+| intellectual property / patent | to reveiw intellectual property in OSS |  |
+| management / executive | to authorize OSS policy and activity, to approve/decide OSS contribution |  |
 | customer support | to receive an external inquiry |  |
 | community liaison | to communicate with a OSS community |  |
 
