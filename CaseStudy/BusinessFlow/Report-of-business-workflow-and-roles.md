@@ -100,6 +100,8 @@ The Japan work group has defined the universal(abstract) model of business workf
 ## 5. Roles
 The Japan work group extracted the roles from the universal model, and specified the description of each role. 
 
+## 5.1．
+
 | Role        | Description  | Note         |
 |:------------|:-------------|:-------------|
 | software development | to develop software |  |
@@ -111,6 +113,7 @@ The Japan work group extracted the roles from the universal model, and specified
 | education         | to train an engineer and staff, to prepare education materials |  |
 | customer support  | to receive an external inquiry |  |
 
+## 5.2. 
 
 | Role        | Description  | Note         |
 |:------------|:-------------|:-------------|
