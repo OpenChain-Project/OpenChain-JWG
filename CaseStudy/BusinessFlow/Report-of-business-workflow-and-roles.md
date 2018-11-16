@@ -1,4 +1,4 @@
-# Report of studies on business workflow and roles for software development
+# Report of the studies on business workflow and roles for software development
 
 ### by the OpenChain Japan work group
 
