@@ -15,7 +15,7 @@ The outcome of the studies has been disclosed at the OpenChain GitHub site and w
 ## 2.	Approach taken by the Japan work group
 The Japan work group took the following approach:
 
-* (1)	Business workflow: At first, before defining the roles, the Japan work group has studied several examples of business workflows in industries, such as Automotive, CE, IT. The examples of the business workflow diagram across different domains have been created by menber companies, and those are also very useful references for a company to analyze its organization when applying OSS compliance process to itself.
+* (1)	Business workflow: At first, before defining the roles, the Japan work group has studied several examples of business workflows in industries, such as Automotive, CE(consumer electronics) and IT. The examples of the business workflow diagram across different domains have been created by menber companies, and those are also very useful references for a company to analyze its organization when applying OSS compliance process to itself.
 
 * (2)	Universal model of business workflow: Then the Japan work group has defined the universal model of business workflow derived from examples. This model consists of “supplier”, “organization” and “recipient”. The “organization” has internal functional blocks, those are candidates of roles.
 
@@ -23,7 +23,7 @@ The Japan work group took the following approach:
 
  
 ## 3.	Business workflow
-The Japan work group has studied business workflow across automotive, CE, IT industries. 
+The Japan work group has studied business workflow across automotive, CE and IT industries. 
  
 ## 3-1.	 Automotive industry (case for development of infotainment system)
 The automotive industry has the layer structure for product development. The supply chain of the automotive industry consists of OEM (an automotive company) and Tier-x(x-layer) suppliers. An OEM directly contracts with Tier-1 suppliers to develop a system. OSS comes indirectly via Tier-x suppliers. The diagram shows the layered relationship of software supply chain. 
@@ -104,8 +104,8 @@ The Japan work group extracted the roles from the universal model, and specified
 
 | Role        | Description  | Note         |
 |:------------|:-------------|:-------------|
-| software development | to develop software, to receive software from a supplier, to release software to a recipient |  |
-| software verification | to verify software, to receive software and to release software to a recipient in ODM development case  |  For example, in ODM develpment case, an organization entrusts software development to ISV without own development. |
+| software development | to develop software, to receive software from a supplier, to release software to a recipient | It can be divided into inbound, internal development and release functions. |
+| software verification | to verify software, to receive software from a supplier and to release software to a recipient in ODM development case  |  In ODM develpment case, an organization entrusts software development to ISV without its own development. |
 | OSS license | to review a new OSS license | This function is usually carried out by either legal section or IP section. It depends on the organization. |
 | intellectual property / patent | to reveiw intellectual property in OSS |  |
 | engineering | to review OSS from the view point of software technology |  |
@@ -113,6 +113,7 @@ The Japan work group extracted the roles from the universal model, and specified
 | community liaison | to establish relationship with an OSS community, to communicate with an OSS community |  |
 | education         | to train an engineer and staff, to prepare education materials |  |
 | customer support  | to receive an external inquiry |  |
+
 
 ## 5.2. table of roles - part 2
 
