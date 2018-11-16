@@ -1,18 +1,18 @@
 # Report of studies on business workflow and roles for OSS compliance
 
-### The OpenChain Japan work group
+### by the OpenChain Japan work group
 
 ## 1.	Background of the work
-For an organization, to understand its business workflow of software is very important to improve OSS compliance process. In this context, “business workflow” means how software and license information is received from a supplier, transferred and processed from section to section inside an organization, and finally released to a recipient. Inside an organization, several functional blocks may cooperate each other to achieve OSS compliance.
+For an organization, to understand its business workflow for software development is critical to improve OSS compliance process. In this context, “business workflow” means how software and license information is received from a supplier, transferred and processed from section to section inside an organization, and finally released to a recipient. Inside an organization, several functional blocks may cooperate each other to achieve OSS compliance.
 
 The new proposal for the training part of the OpenChain specification requires an organization to define the roles for OSS compliance process. 
 
-Therefore, it is important to share examples of how the roles could be structured in an organization. The OpenChain Japan workgroup would like to contribute by providing examples of the roles in business workflow.
+Therefore, it is important to share examples of how the roles could be structured in an organization. The OpenChain Japan work group would like to contribute by providing examples of the roles in business workflow.
 
 The outcome of the studies has been disclosed at the OpenChain GitHub site and wiki.
 
 
-## 2.	Approach taken by the Japan workgroup
+## 2.	Approach taken by the Japan work group
 The Japan work group took the following approach:
 
 * (1)	Business workflow: At first, before defining the roles, the Japan work group has studied several examples of business workflows in industries, such as Automotive, CE, IT. The examples of the business workflow diagram across different domains have been created by menber companies, and those are also very useful references for a company to analyze its organization when applying OSS compliance process to itself.
