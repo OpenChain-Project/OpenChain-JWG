@@ -1,9 +1,9 @@
-# Report of studies on business workflow and roles for OSS compliance
+# Report of studies on business workflow and roles for software development
 
 ### by the OpenChain Japan work group
 
 ## 1.	Background of the work
-For an organization, to understand its business workflow for software development is critical to improve OSS compliance process. In this context, “business workflow” means how software and license information is received from a supplier, transferred and processed from section to section inside an organization, and finally released to a recipient. Inside an organization, several functional block(team) may cooperate each other to achieve OSS compliance.
+For an organization, to understand its business workflow for software development is critical to improve OSS compliance process. In this context, “business workflow” means how software and license information is received from a supplier, transferred and processed from section to section inside an organization, and finally released to a recipient. Inside an organization, several functional blocks(teams) may cooperate each other to achieve OSS compliance.
 
 The new proposal for the training part of the OpenChain specification requires an organization to define the roles for OSS compliance process. 
 
@@ -98,13 +98,14 @@ The Japan work group has defined the universal(abstract) model of business workf
 
  
 ## 5. Roles
-The Japan work group extracted the roles from the universal model, and specified the description of each role. 
+The Japan work group extracted the roles from the universal model, and specified the description of each role. These roles are defined as functional blocks, so that each organization can implement these roles in its own organizational blocks. Several roles can be carried by one organization block. 
 
-## 5.1．table of roles part 1
+## 5.1．table of roles - part 1
 
 | Role        | Description  | Note         |
 |:------------|:-------------|:-------------|
 | software development | to develop software, to receive software from a supplier, to release software to a recipient |  |
+| software verification | to verify software, to receive software and to release software to a recipient in ODM development case  |  For example, in ODM develpment case, an organization entrusts software development to ISV without own development. |
 | OSS license | to review a new OSS license | This function is usually carried out by either legal section or IP section. It depends on the organization. |
 | intellectual property / patent | to reveiw intellectual property in OSS |  |
 | engineering | to review OSS from the view point of software technology |  |
@@ -113,12 +114,11 @@ The Japan work group extracted the roles from the universal model, and specified
 | education         | to train an engineer and staff, to prepare education materials |  |
 | customer support  | to receive an external inquiry |  |
 
-## 5.2. table of roles part 2
+## 5.2. table of roles - part 2
 
 | Role        | Description  | Note         |
 |:------------|:-------------|:-------------|
-| OSPO (Open Source Program Office) | to promote OSS and OSS compliance, to receive an internal inquiry and resolve issues |  |
-| software verification | to verify software, to receive software and to release software to a recipient in ODM development case  |  For example, in ODM develpment case, an organization entrusts software development to ISV without own development. |
+| OSPO (Open Source Program Office) | to promote OSS and OSS compliance, to receive internal inquiries and resolve issues | It may consist of OSS officer, legal representative, engineering representative.   |
 | environment       | to provide tools for software development and licensing |  |
 | software contract | to review a contract of software development, to gives advices |  |
 | product planning  | to plan products or sevices |  |
