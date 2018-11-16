@@ -106,9 +106,9 @@ The Japan work group extracted the roles from the universal model, and specified
 | OSS license | to review a new OSS license | This function is usually carried out by either legal section or IP section. It depends on the organization. |
 | intellectual property / patent | to reveiw intellectual property in OSS |  |
 | engineering | to review OSS from the view point of software technology |  |
-| management / executive | to authorize OSS policy and activity, to approve/decide OSS contribution |  |
+| management / executive | to authorize OSS policy and activity, to make a corporate level decision on OSS |  |
 | community liaison | to establish relationship with an OSS community, to communicate with an OSS community |  |
-| education         | to train an engineer and staff |  |
+| education         | to train an engineer and staff, to prepare education materials |  |
 | customer support  | to receive an external inquiry |  |
 
 
