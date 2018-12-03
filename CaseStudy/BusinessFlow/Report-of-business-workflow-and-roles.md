@@ -28,6 +28,8 @@ The Japan work group has studied business workflow across automotive, CE and IT 
 ## 3-1.	 Automotive industry (case for development of infotainment system)
 The automotive industry has the layer structure for product development. The supply chain of the automotive industry consists of OEM (an automotive company) and Tier-x(x-layer) suppliers. An OEM directly contracts with Tier-1 suppliers to develop a system. OSS comes indirectly via Tier-x suppliers. The diagram shows the layered relationship of software supply chain. 
 
+(The following figure is temporarily described in Japanese language. The figure will be replaced with English language version.)
+
 ![automotive business workflow](img/BF-Auto-1.png)
 
  
@@ -106,6 +108,7 @@ The Japan work group extracted the roles from the universal model, and specified
 |:------------|:-------------|:-------------|
 | software development | to develop software, to receive software from a supplier, to release software to a recipient | It can be divided into inbound, internal development and release functions. |
 | software verification | to verify software, to receive software from a supplier and to release software to a recipient in ODM development case  |  In ODM develpment case, an organization entrusts software development to ISV without its own development. |
+| system engineering | to design system     |  In SI business  |
 | OSS license | to review a new OSS license | This function is usually carried out by either legal section or IP section. It depends on the organization. |
 | intellectual property / patent | to reveiw intellectual property in OSS |  |
 | engineering | to review OSS from the view point of software technology |  |
