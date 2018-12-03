@@ -28,7 +28,7 @@ The Japan work group has studied business workflow across automotive, CE and IT 
 ## 3-1.	 Automotive industry (case for development of infotainment system)
 The automotive industry has the layer structure for product development. The supply chain of the automotive industry consists of OEM (an automotive company) and Tier-x(x-layer) suppliers. An OEM directly contracts with Tier-1 suppliers to develop a system. OSS comes indirectly via Tier-x suppliers. The diagram shows the layered relationship of software supply chain. 
 
-![automotive business workflow] (img/BF-AUTO-1.png)
+![automotive business workflow] (./BusinessFlow-Automotive.pdf)
 
  
 ## 3-2.	 CE (consumer electronics) industry
