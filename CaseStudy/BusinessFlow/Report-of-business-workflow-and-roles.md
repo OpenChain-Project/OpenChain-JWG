@@ -1,15 +1,16 @@
-# Report of the studies on business workflow and roles for software development
+# Report of Studies into Business Workflow and Defined Roles for Software Development
 
-### by the OpenChain Japan work group
+### An Outcome of the OpenChain Japan Work Group
 
-## 1.	Background of the work
-For an organization, to understand its business workflow for software development is critical to improve OSS compliance process. In this context, “business workflow” means how software and license information is received from a supplier, transferred and processed from section to section inside an organization, and finally released to a recipient. Inside an organization, several functional blocks(teams) may cooperate each other to achieve OSS compliance.
+## 1.	Background
 
-The new proposal for the training part of the OpenChain specification requires an organization to define the roles for OSS compliance process. 
+Business workflows for software development are critical for organizations seeking to improve open source compliance processes. In this context "business workflow" means how software and relevant license information is received from a supplier, how it is transferred and processed internally, and finally how it is released to customers. Inside an organization several team (functional blocks) may cooperate with each other to achieve overall open source compliance.
 
-Therefore, it is important to share examples of how the roles could be structured in an organization. The OpenChain Japan work group would like to contribute by providing examples of the roles in business workflow.
+This document contains a proposal for an expansion of the training requirement of the OpenChain Specification with respect to a requirement to define roles for the open source compliance process.
 
-The outcome of the studies has been disclosed at the OpenChain GitHub site and wiki.
+To contribute to this discussion the OpenChain Japan Work Group has prepared examples of roles in business workflows. These examples are intended to help frame the discussion and to acknowledge that multiple roles exist in multiple business workflows across different companies and markets.  
+
+The outcome of these studies are being disclosed on the OpenChain GitHub site and OpenChain Japan Work wiki.
 
 
 ## 2.	Approach taken by the Japan work group
