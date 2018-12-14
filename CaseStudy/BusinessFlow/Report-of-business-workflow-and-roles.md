@@ -6,7 +6,7 @@
 
 Business workflows for software development are critical for organizations seeking to improve open source compliance processes. In this context "business workflow" means how software and relevant license information is received from a supplier, how it is transferred and processed internally, and finally how it is released to customers. Inside an organization several team (functional blocks) may cooperate with each other to achieve overall open source compliance.
 
-This document contains a proposal for an expansion of the training requirement of the OpenChain Specification with respect to a requirement to define roles for the open source compliance process.
+This document contains a proposal for new material to be codified as part of the OpenChain reference material.
 
 To contribute to this discussion the OpenChain Japan Work Group has prepared examples of roles in business workflows. These examples are intended to help frame the discussion and to acknowledge that multiple roles exist in multiple business workflows across different companies and markets.  
 
