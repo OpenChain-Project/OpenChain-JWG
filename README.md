@@ -13,6 +13,9 @@
 * リーフレット　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet
   * 1ページ版および2ページ版
 
+* Report of Studies into Business Workflows and Defined Roles for Software Development
+  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/CaseStudy/BusinessFlow/Report-of-business-workflow-and-roles.md
+
 
 ## Japan Work Groupの説明
 
@@ -43,6 +46,11 @@
 
 * Leaflet　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet
   * 1 page version and 2 page version
+
+
+* Report of Studies into Business Workflows and Defined Roles for Software Development
+  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/CaseStudy/BusinessFlow/Report-of-business-workflow-and-roles.md
+
 
 ## About Japan Work Group
 
