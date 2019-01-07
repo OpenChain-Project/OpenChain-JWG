@@ -1,6 +1,6 @@
 # Onboarding-JWG
 
-## OpenChain Japan Work Groupの作業成果物を共有するサイトです
+## OpenChain Japan Work Groupのリポジトリです
 
 * ケーススタディ https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
   * OSS推進組織
@@ -15,6 +15,11 @@
 
 * Report of Studies into Business Workflows and Defined Roles for Software Development
   * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/CaseStudy/BusinessFlow/Report-of-business-workflow-and-roles.md
+
+## 今後の作業成果物は以下のリポジトリで管理していきます
+
+* Japan-WG-General
+  * https://github.com/OpenChain-Project/Japan-WG-General
 
 
 ## Japan Work Groupの説明
@@ -50,6 +55,12 @@
 
 * Report of Studies into Business Workflows and Defined Roles for Software Development
   * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/CaseStudy/BusinessFlow/Report-of-business-workflow-and-roles.md
+
+
+## New outcomes are shared at Japan-WG-General repository
+
+* Japan-WG-General
+  * https://github.com/OpenChain-Project/Japan-WG-General
 
 
 ## About Japan Work Group
