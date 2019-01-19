@@ -280,3 +280,16 @@ Push後
       * Submit New Issueを押す
  
 　　* 登録後にも編集可能
+
+
+
+# Issue & Pull Request運用例
+
+* 課題発見
+* Issue Registered
+* Pull Request
+* Review
+* Merge
+* Issue Resolved
+* 課題解決
+
