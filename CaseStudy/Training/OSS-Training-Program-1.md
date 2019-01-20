@@ -1,4 +1,4 @@
-# An example of OSS training program
+# An example of OSS training program (Company A)
 
 |  Target of Training | Style   | Voluntary/All | Timing    | English |
 |:--------------------|:--------|:-------------:|:---------:|:--------:|
