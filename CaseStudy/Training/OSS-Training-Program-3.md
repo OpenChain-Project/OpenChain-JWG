@@ -1,4 +1,4 @@
-# An example of OSS training program (A Consumer Electronics Company)
+# An example of OSS training program (A Consumer Electronics Company #1)
 
 | title      |  Target of Training |  Style |  Voluntary/All |  Timing |  Japanese/English |
 |:------------|:--------|:------:|:--------------:|:-------:|:--------:|
