@@ -1,5 +1,7 @@
 # An example of OSS training program (A Consumer Electronics Company #1)
 
+## Training program
+
 | title      |  Target of Training |  Style |  Voluntary/All |  Timing |  Japanese/English |
 |:------------|:--------|:------:|:--------------:|:-------:|:--------:|
 | Open Source Software | Software Engineer, General | Lecture by Internal Trainer |  Voluntary |  4/year |  Both  |
@@ -7,7 +9,6 @@
 | Community - Basics | Software Engineer | Lecture by Internal Trainer |  Voluntary |  2/year |  English  |
 | Community - Sending a Patch | Software Engineer | Lecture by Internal Trainer |  Voluntary |  2/year |  English  |
 | OSS Basics | General | e-learning | Voluntary |  N/A |  Japanese  |
-
 
 
 | 教育名称 |  対象者 | 形態   | 希望/全員 | タイミング    | 日本語/英語 |
@@ -18,7 +19,9 @@
 | OSS基礎研修 |  新人  | 集合研修（社内講師）   |  SW系全員   | 1回/年 |  日本語      |
 | OSS基礎研修 |  一般  | e-learning   |  希望者   | N/A |  日本語      |
 
-| 教育名称 |  概要 | 
+## Chapter of each training
+
+| 教育名称 |  章 | 
 |:--------|:--------------------|
 | OSS研修  |  OSSとは何か |
 |          |  OSSに対する基本ポリシーとライセンスの基本 |
@@ -30,7 +33,7 @@
 |          |  OSSに関する社外からの問い合わせへの対応指針 |
 |          |  独自技術をOSSとして開示する戦略と実務 |
 
-| 教育名称 |  概要 | 
+| 教育名称 |  章 | 
 |:--------|:--------------------|
 | OSSコミュニティ研修#1  |  独自技術をOSSとして開示する戦略と実務 |
 |          | OSSとは何か  |
@@ -41,7 +44,7 @@
 |          | 参考情報  |
 
 
-| 教育名称 |  概要 | 
+| 教育名称 |  章 | 
 |:--------|:--------------------|
 | OSSコミュニティ研修#2  |  独自技術をOSSとして開示する戦略と実務 |
 |          | 独自技術をOSSとして開示する戦略と実務  |
@@ -53,14 +56,14 @@
 |          | 「英語力」はどのくらい必要か  |
 
 
-| 教育名称 |  概要 | 
+| 教育名称 |  章 | 
 |:--------|:--------------------|
 | OSS基礎研修 新人  |  ソフトウェアライセンスについての基礎 |
 |          | OSSについての基礎  |
 |          | 代表的なOSSライセンスの紹介と対応の基本  |
 
 
-| 教育名称 |  概要 | 
+| 教育名称 |  章 | 
 |:--------|:--------------------|
 | OSS基礎研修 e-Learning  | 研修の背景 |
 |          | OSSとOSSライセンスの基本事項  |
