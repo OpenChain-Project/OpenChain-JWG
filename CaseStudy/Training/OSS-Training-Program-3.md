@@ -21,6 +21,19 @@
 
 ## Chapter of each training
 
+| Training |  Chapter | 
+|:--------|:--------------------|
+| Open Source Software   |  What is OSS? |
+|          |  OSS policy and basics of license |
+|          |  Basic of OSS license (Permissive license) |
+|          |  Basic of OSS license (OSS license and Patent) |
+|          |  Basic of OSS license (Reciprocal license)  |
+|          |  OSS and Software development |
+|          |  OSS and Software procurement |
+|          |  Response policy to external inquiry |
+|          |  Strategy for open sourcing internal technology |
+
+
 | 教育名称 |  章 | 
 |:--------|:--------------------|
 | OSS研修  |  OSSとは何か |
