@@ -33,6 +33,40 @@
 |          |  Response policy to external inquiry |
 |          |  Strategy for open sourcing internal technology |
 
+| Training |  Chapter | 
+|:--------|:--------------------|
+| Community basics#1  |  Strategy for open sourcing internal technology |
+|          | Introduction to Open Source Software |
+|          | Why use OpenSource?  |
+|          | Why participate in Open Source?  |
+|          | How to participate / How to workwith the community / Obstacles to participating  |
+|          | Best Practices  |
+|          | Resources for Open Source work  |
+
+| Training |  Chapter | 
+|:--------|:--------------------|
+| Community basics#2  |  Strategy for open sourcing internal technology |
+|          | Submitting patches  |
+|          | Patch Process, The Mechanics  |
+|          | What To Expect From Maintainers  |
+|          | When to submit patches |
+|          | Review Comments  |
+|          | Community Communication  |
+
+| Training |  Chapter | 
+|:--------|:--------------------|
+| OSS Basics / new employee  | Software license |
+|          | Open Source Software  |
+|          | Typical OSS license  |
+
+
+| Training |  Chapter | 
+|:--------|:--------------------|
+| OSS Basics / e-Learning  | Introduction |
+|          | OSS and OSS license  |
+|          | Appropriate usage of OSS  |
+|          | Contact window and resources for OSS  |
+
 
 | 教育名称 |  章 | 
 |:--------|:--------------------|
