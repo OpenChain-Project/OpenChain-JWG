@@ -1,5 +1,46 @@
 # Onboarding-JWG
 
+## This site provides the outcomes of the OpenChain Japan work group.
+* Case Study https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
+  * Organization to promote OSS
+  * Education
+  * Business workflow diagram
+
+* Education Material　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material
+  * Misunderstanding of OSS license
+
+* Leaflet　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet
+  * 1 page version and 2 page version
+
+* Report of Studies into Business Workflows and Defined Roles for Software Development
+  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/CaseStudy/BusinessFlow/Report-of-business-workflow-and-roles.md
+
+
+## New outcomes are shared at Japan-WG-General repository
+
+* Japan-WG-General
+  * https://github.com/OpenChain-Project/Japan-WG-General
+
+
+## About Japan Work Group
+
+* The brief explanation of Japan WG is here:(Japanese language only)
+  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
+  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
+
+## Contribution
+
+* to make clone and work at your local
+
+* to send pull request of your change 
+
+or 
+
+* write your change or comment on Issue list
+
+---
+---
+
 ## OpenChain Japan Work Groupのリポジトリです
 
 * ケーススタディ https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
@@ -39,42 +80,3 @@
 * Issue Listに変更案やコメントを記載する
 
 ---
-
-## This site provides the outcomes of the OpenChain Japan work group.
-* Case Study https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/CaseStudy
-  * Organization to promote OSS
-  * Education
-  * Business workflow diagram
-
-* Education Material　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material
-  * Misunderstanding of OSS license
-
-* Leaflet　https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet
-  * 1 page version and 2 page version
-
-
-* Report of Studies into Business Workflows and Defined Roles for Software Development
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/CaseStudy/BusinessFlow/Report-of-business-workflow-and-roles.md
-
-
-## New outcomes are shared at Japan-WG-General repository
-
-* Japan-WG-General
-  * https://github.com/OpenChain-Project/Japan-WG-General
-
-
-## About Japan Work Group
-
-* The brief explanation of Japan WG is here:(Japanese language only)
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
-
-## Contribution
-
-* to make clone and work at your local
-
-* to send pull request of your change 
-
-or 
-
-* write your change or comment on Issue list
