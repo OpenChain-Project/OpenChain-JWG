@@ -24,9 +24,12 @@
 
 ## About Japan Work Group
 
-* The brief explanation of Japan WG is here:(Japanese language only)
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
+* The brief explanation of Japan WG is here:
+  * (Japanese language)
+    * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
+    * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_CC0_20190205.pdf
+  * (English language)
+    * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
 
 ## Contribution
 
@@ -66,8 +69,11 @@ or
 ## Japan Work Groupの説明
 
 * Japan WGを説明する資料は以下にあります。
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
-  * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
+  * (日本語)
+    * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md
+    * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_CC0_20190205.pdf
+  * (英語)
+    * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
 
 ## 貢献（Contribution）の方法
 
