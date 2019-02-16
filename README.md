@@ -31,6 +31,9 @@
   * (English language)
     * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
 
+* wiki:
+  * https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group
+
 ## Contribution
 
 * to make clone and work at your local
@@ -74,6 +77,10 @@ or
     * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_CC0_20190205.pdf
   * (英語)
     * https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/OpenChain_JWG_Activities_20180806_r03.pdf
+
+* wiki:
+  * https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group
+
 
 ## 貢献（Contribution）の方法
 
