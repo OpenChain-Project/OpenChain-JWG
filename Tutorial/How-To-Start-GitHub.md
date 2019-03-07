@@ -292,7 +292,7 @@ Push後
 
 # Issue & Pull Request運用例
 
-![Issue and Pull Request image](img/PullReq-process.png)
+![Issue and Pull Request image](img/PullReq-Process.png)
 
 
 * 課題発見
