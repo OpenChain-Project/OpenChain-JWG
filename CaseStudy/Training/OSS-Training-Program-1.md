@@ -1,4 +1,4 @@
-# An example of OSS training program (A Precision Machineries Company)
+# An example of OSS training program (A Precision Machinery Company)
 
 |  Target of Training | Style   | Voluntary/All | Timing    | Japanese/English |
 |:--------------------|:--------|:-------------:|:---------:|:--------:|

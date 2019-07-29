@@ -1,4 +1,4 @@
-# How to start GitHub
+﻿# How to start GitHub
 
 ## 初版：2018年7月25日
 ## 更新：2018年7月30日
@@ -34,6 +34,9 @@
 
 * リポジトリ：　ファイルやディレクトリの状態（変更履歴等）を記録する場所
 
+![Repository image](img/Repository-image.png)
+
+
 * クラウド
   * Web Browserで操作
   * Clone / Download
@@ -49,6 +52,8 @@
   * Commit
 
 # リポジトリのイメージ２
+
+![Repository image](img/Repository-image-2.png)
 
 * クラウド
   * Aさん リモート リポジトリ
@@ -219,6 +224,9 @@
  
 # ブランチとPull Requestのイメージ
 
+![Branch and Pull Request image](img/Branch-PullRequest.png)
+
+
 * Masterブランチ
   * Masterブランチ上で直接変更
 
@@ -231,6 +239,9 @@
   * 作業ブランチを作成したタイミングからMergeまでのタイミングで、Masterブランチに変更が入っていると、両ブランチの変更を反映させる必要がある。
 
 # ブランチとリポジトリのイメージ
+
+![Branch and Pull Request image](img/Branch-PullRequest-2.png)
+
 
 Masterブランチ
 
@@ -280,6 +291,9 @@ Push後
 
 
 # Issue & Pull Request運用例
+
+![Issue and Pull Request image](img/PullReq-Process.png)
+
 
 * 課題発見
 * Issue Registered
