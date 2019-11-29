@@ -12,8 +12,6 @@
    * OSS開発者／権利保有者の権利を尊重し、ライセンス義務を果たす
    * OSSコミュニティに参加し、コントリビュートする
 
-![An example of an organization for OSS compliance](img/OSSComplianceOrganization.png)
-
 ---
 #### このスライドで、企業が、社内文書として内部OSSポリシーがどこにあるかを示すことができるようにしています。
 ---
@@ -23,6 +21,7 @@
 ---
 # OSSコンプライアンス体制例
 
+![An example of an organization for OSS compliance](img/OSSComplianceOrganization.png)
 
 
 ---
