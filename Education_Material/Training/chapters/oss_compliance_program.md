@@ -87,6 +87,8 @@
 ## 各工程の詳細な説明は割愛するが、開発プロセスは以下５つの工程により構成される。
   * （１）検討　（２）開発　（３）検査　（４）出荷　（５）保守
 
+![An exampole of development process](img/oss_compliance_program-2.png)
+
 
 ---
 ---
@@ -98,6 +100,9 @@
 
 ## 「OSSコンプライアンス・プロセス」は以下３つの工程により構成される。
   * （１）OSSリスト作成　（２）OSSレビュー（ライセンス条件確認）　（３）OSS配布物確認　
+
+![An exampole of development process](img/oss_compliance_program-3.png)
+
 
 ---
 ---
@@ -111,20 +116,29 @@
 
 ## 「OSSコンプライアンス・プロセス」のそれぞれの工程での確認事項や関連部門などについては、次ページから説明する。
 
+![An exampole of development process](img/oss_compliance_program-4.png)
+
 
 ---
 ---
 # OSSリスト作成プロセス例　　　　　　　【§3.1】
+
+![An exampole of development process](img/oss_compliance_program-5.png)
 
 
 ---
 ---
 # OSSレビュー(ライセンス条件確認)プロセス例
 
+![An exampole of development process](img/oss_compliance_program-6.png)
+
 
 ---
 ---
 # OSS配布物確認プロセス例　　　　　　　　【§3.2,4.1】
+
+![An exampole of development process](img/oss_compliance_program-7.png)
+
 
 ---
 ---
