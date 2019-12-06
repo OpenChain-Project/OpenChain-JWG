@@ -38,12 +38,12 @@
 # OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)とは？
 
 ## OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要
-![OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要](img/Training_Material_1.png)
+![OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要](img/introduction_1.png)
 
 ---
 ---
 # OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要
-![OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要](img/Training_Material_2.png)
+![OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要](img/introduction_2.png)
 # 本教育資料中、【§】で関連する仕様書2.0の”章”番号を記載した。
 
 ---
