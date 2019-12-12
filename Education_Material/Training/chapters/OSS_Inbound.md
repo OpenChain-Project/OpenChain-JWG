@@ -24,7 +24,7 @@
 
 ### 矛盾するライセンスを同時に使用すると、少なくとも一方がライセンス違反となり、そのOSSが使えなくなる。矛盾するライセンスを同時に使用している製品､アプリケーションは、頒布できなくなる。
 
-### 互換性のある例：(a) LGPLv3 – GPLv3、(b) AGPLv1 – GPLv3、　　　　　　　　　　　　　　　　　　　　　　(c) Apache License v2.0 – GPLv3、 (d) MIT License – GPLv3,v2
+### 互換性のある例：(a) LGPLv3 – GPLv3、(b) AGPLv1 – GPLv3、(c) Apache License v2.0 – GPLv3、 (d) MIT License – GPLv3,v2
 
 ### 互換性のない例：(e) 4-Clause BSD License － GPLv3、 (f) Apache License v2.0 ー GPLv2
 
