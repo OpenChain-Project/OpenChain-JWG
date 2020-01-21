@@ -1,63 +1,63 @@
 ---
 ---
-# ���玑��
-#### (�R���v���C�A���X�v���O������o�[�W����)
+# 教育資料
+#### (コンプライアンスプログラム･バージョン)
 ---
-### OSS���玑��(�R���v���C�A���X�v���O������o�[�W����) �X���C�h �@(OpenChain �d�l�� 2.0�őΉ�)
-### �{���玑�����A��Ƃ�OSS�̃R���v���C�A���X�Ɋւ��鋳����s���ۂɁA OpenChain�̎d�l�ɏ������`�ŋ���R���e���c���\�����邽�߂́A�ꏕ�ƂȂ�΍K���ł���B�{���玑���́A OpenChain�̎d�l��������F��擾���A��ؕۏ؂�����̂ł͂Ȃ��B
+### OSS教育資料(コンプライアンスプログラム･バージョン) スライド 　(OpenChain 仕様書 2.0版対応)
+### 本教育資料が、企業がOSSのコンプライアンスに関する教育を行う際に、 OpenChainの仕様に準じた形で教育コンテンツを構成するための、一助となれば幸いである。本教育資料は、 OpenChainの仕様書準拠や認定取得を、一切保証するものではない。
 
-### �{�X���C�h�� Creative Commons CC0 1.0 Universal ���C�Z���X�̉��Ń����[�X����Ă��܂��B
-### �{�X���C�h�̎g�p�A���ς���ы��L�ɂ������Ă̐����͂���܂���B
-### �܂��A�����͖��ۏ؂ƂȂ�܂��B
+### 本スライドは Creative Commons CC0 1.0 Universal ライセンスの下でリリースされています。
+### 本スライドの使用、改変および共有にあたっての制限はありません。
+### また、これらは無保証となります。
 
-#### �{�X���C�h�͓��{���@�߂ɏ����Ă��܂��B���{���O�ł͖@�I�v���������قȂ�ꍇ������܂��̂ŃR���v���C�A���X �g���[�j���O �v���O�����Ŗ{�X���C�h���g���ۂɂ͂��̓_���l������K�v������܂��B
-### �{�X���C�h�͖@�I������񋟂�����̂ł͂���܂���BThese slides do not contain legal advice
+#### 本スライドは日本国法令に準じています。日本国外では法的要求事項が異なる場合がありますのでコンプライアンス トレーニングプログラムで本スライドを使う際にはこの点を考慮する必要があります。
+### 本スライドは法的助言を提供するものではありません。These slides do not contain legal advice
 
 
 ---
 ---
-# Disclaimer�i�Ɛӎ����j
+# Disclaimer（免責事項）
 
-## �{�����́AThe Linux Foundation �ɂ�����OpenChain �v���W�F�N�gJapanWG�̓��{��h�L�������g�u OpenChain ���玑�� (�R���v���C�A���X�v���O������o�[�W����) �v�ł��B�������A���{��łƖ|��łƂ̊Ԃŉ��炩�̈Ӗ��̈Ⴂ������ꍇ�ɂ́A���{��ł��D�悳��܂��B 
-## �܂��AOpenChain �͐��E�̃����o�[��Ƃ��Q�����Ă���v���W�F�N�g�ł����A�����̍ו��ɂ��ĕK�������e���̖@�߂ɑΉ����Ă��Ȃ��\��������܂��B�|��ł���{�ȊO�ŗ��p����ۂɂ́A�e��Ƃ̖@��������������������s���ł��B 
+## 本文書は、The Linux Foundation におけるOpenChain プロジェクトJapanWGの日本語ドキュメント「 OpenChain 教育資料 (コンプライアンスプログラム･バージョン) 」です。ただし、日本語版と翻訳版との間で何らかの意味の違いがある場合には、日本語版が優先されます。 
+## また、OpenChain は世界のメンバー企業が参加しているプロジェクトですが、資料の細部について必ずしも各国の法令に対応していない可能性があります。翻訳版を日本以外で利用する際には、各企業の法務部門を加えた検討が不可欠です。 
  
 
 ---
 ---
-# OpenChain ���玑��(����ײ�ݽ��۸��ѥ�ް�ޮ�)�Ƃ́H
+# OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)とは？
 
-## OpenChain �v���W�F�N�g�́A�t���[�^�I�[�v���\�[�X �\�t�g�E�F�A�i�ȍ~�uOSS�v)�R���v���C�A���X�v���O�����̒��j�ƂȂ�R���|�[�l���g�𖾊m�ɂ��A��������L���邱�Ƃ𑣐i���邽�߂̃v���W�F�N�g�ł���B
-## OpenChain�̒��j���d�l���iSpecification�j�ƂȂ�BOSS�R���v���C�A���X�v���O�������������ׂ���v�v���𖾊m�ɂ��A��������J���Ă���B
-## OpenChain �p���t���b�g�́AOSS�̏������L���A�s�[�����AOSS�̗��p���[�����邽�߂̎����ł���B
-## OpenChain ���玑��(�R���v���C�A���X�v���O������o�[�W����)�́A�ŏ���OSS�̗��p����|�����Ќ����ɁA�P���Ȗ����z��̂��ƁA�\�t�g�J���Ҍ����ɏ����������玑���ł���B
-## �����̃X���C�h�́A��Ƃ��d�l��2.0�̋L�ڂ̑S�v���𖞂������Ƃ����サ�Ă���B�������A��ؕۏ؂��Ă�����̂ł͂Ȃ��B�ڍׂ͍��L�Fhttps://www.openchainproject.org
+## OpenChain プロジェクトは、フリー／オープンソース ソフトウェア（以降「OSS」)コンプライアンスプログラムの中核となるコンポーネントを明確にし、これを共有することを促進するためのプロジェクトである。
+## OpenChainの中核が仕様書（Specification）となる。OSSコンプライアンスプログラムが満たすべき主要要件を明確にし、これを公開している。
+## OpenChain パンフレットは、OSSの初歩を広くアピールし、OSSの利用を啓発するための資料である。
+## OpenChain 教育資料(コンプライアンスプログラム･バージョン)は、最初にOSSの利用を手掛ける会社向けに、単純な役割想定のもと、ソフト開発者向けに準備した教育資料である。
+## これらのスライドは、企業が仕様書2.0の記載の全要件を満たすことを奨励している。ただし、一切保証しているものではない。詳細は左記：https://www.openchainproject.org
 
-
----
----
-# OpenChain ���玑��(����ײ�ݽ��۸��ѥ�ް�ޮ�)�Ƃ́H
-
-## OpenChain ���玑��(����ײ�ݽ��۸��ѥ�ް�ޮ�)�T�v
-![OpenChain ���玑��(����ײ�ݽ��۸��ѥ�ް�ޮ�)�T�v](img/introduction_1.png)
 
 ---
 ---
-# OpenChain ���玑��(����ײ�ݽ��۸��ѥ�ް�ޮ�)�T�v
-![OpenChain ���玑��(����ײ�ݽ��۸��ѥ�ް�ޮ�)�T�v](img/introduction_2.png)
-# �{���玑�����A�y���z�Ŋ֘A����d�l��2.0�́h�́h�ԍ����L�ڂ����B
+# OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)とは？
+
+## OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要
+![OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要](img/introduction_1.png)
 
 ---
 ---
-# �R���e���c
-1. �m�I���Y��
-1. OSS���C�Z���X
-1. OSS�R���v���C�A���X�v���O����
-1. ��Ƃɂ�����OSS���p�FOSS�������̌���
-1. ��Ƃɂ�����OSS���p�FOSS���r���[
-1. ��Ƃɂ�����OSS���p�FOSS�z�z
-1. �܂Ƃ�
-1. �₢���킹��
-1. �Q�l�����E�c��
+# OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要
+![OpenChain 教育資料(ｺﾝﾌﾟﾗｲｱﾝｽﾌﾟﾛｸﾞﾗﾑ･ﾊﾞｰｼﾞｮﾝ)概要](img/introduction_2.png)
+# 本教育資料中、【§】で関連する仕様書2.0の”章”番号を記載した。
+
+---
+---
+# コンテンツ
+1. 知的財産権
+1. OSSライセンス
+1. OSSコンプライアンスプログラム
+1. 企業におけるOSS利用：OSS導入時の検討
+1. 企業におけるOSS利用：OSSレビュー
+1. 企業におけるOSS利用：OSS配布
+1. まとめ
+1. 問い合わせ先
+1. 参考文献・団体
 
 
 
