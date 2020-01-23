@@ -12,10 +12,6 @@
    * OSS開発者／権利保有者の権利を尊重し、ライセンス義務を果たす
    * OSSコミュニティに参加し、コントリビュートする
 
----
-#### このスライドで、企業が、社内文書として内部OSSポリシーがどこにあるかを示すことができるようにしています。
----
-#### This slide is intended to help a company identify where their internal OSS policy is located in the company documentation.
 
 ---
 ---
@@ -24,7 +20,7 @@
 ## <<本スライドは、OSSポリシーが企業内のどこに置かれているかを周知するためにご使用ください（OpenChain仕様書2.0の1.1.1項）>>
 
 ## OSSポリシーのサンプルは、The Liunux Foundationの Open Compliance Programのサイトより入手可能
-  * https://www.linux.com/publications/generic-OSS-policy
+  * https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf
 
 ## 先ず、これからOSSを利用しようとしている組織では、 OSSコミュニティへの参加(コントリビューション)は、将来の課題となる場合が多い。その場合、先ずOSSポリシーでOSSコミュニティへの不参加を明示する必要がある。
 
