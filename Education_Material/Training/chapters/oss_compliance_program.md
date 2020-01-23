@@ -17,7 +17,7 @@
 ---
 # OSSポリシー
 
-## <<本スライドは、OSSポリシーが企業内のどこに置かれているかを周知するためにご使用ください（OpenChain仕様書2.0の1.1.1項）>>
+## <<本スライドは、OSSポリシーが企業内のどこに置かれているかを周知するためにご使用ください（OpenChain仕様書2.0の1.1.2項）>>
 
 ## OSSポリシーのサンプルは、The Liunux Foundationの Open Compliance Programのサイトより入手可能
   * https://github.com/todogroup/policies/blob/master/linuxfoundation/lf_compliance_generic_policy.pdf
