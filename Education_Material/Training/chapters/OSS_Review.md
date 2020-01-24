@@ -59,11 +59,6 @@
 
 ## 無償で、自由に利用できるソースコード スキャン ツールの1つのよい例としてThe Linux Foundation でホストしたプロジェクトである、FOSSologyがある：https://www.fossology.org 
 
----
-#### 本スライドではオープンソースコードスキャンツールがどんなもので、それがどういった働きをし、経験の浅いユーザがこのトピックについてどのように知識を集めることができるのか、といった点について全体像で説明しています。
-
-#### This slide explains the big picture of what Open Source code scanning tools are, how they work, and where a new user can start to gather knowledge about the subject.
-
 
 ---
 ---
