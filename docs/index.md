@@ -96,11 +96,11 @@ We have four mail lists. To sign up for each mail list, send a message to follow
 - OpenChain Japan WG ML  
 [&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)
 - ライセンス情報 SWG ML  
-[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](japan-sg-licensing+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)
 - Planning SWG ML  
-[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](japan-sg-planning+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
 - Tooling SWG ML  
-[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](japan-sg-tooling+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
 
 ## メーリングリスト
 
@@ -109,11 +109,11 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 - OpenChain Japan WG ML  
 [&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)
 - ライセンス情報 SWG ML  
-[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](japan-sg-licensing+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)
 - Planning SWG ML  
-[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](japan-sg-planning+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
 - Tooling SWG ML  
-[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](japan-sg-tooling+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
 
 ---
 
