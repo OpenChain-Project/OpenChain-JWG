@@ -2,18 +2,12 @@
 
 ## Upcoming Events
 
-- Feb.17 (MON) 2020, 16:00-18:00 JST
-  - Tooling SWG Meeting
-  - **<span style="color: red;">You can participate with Microsoft Teams. Please check [OpenChain-JWG Tooling SWG ML](https://lists.openchainproject.org/g/japan-sg-tooling)</span>**.  
-  - Venue: Lazona Kawasaki Toshiba Building 14F (Kawasaki, Japan)  
-    [&#x1f30f;Map](https://www.toshiba.co.jp/about/location/index_j.htm#KAWASAKI)
-
 - ~~Feb.18 (TUE) 2020, 14:00-17:30 JST~~
   - ~~OpenChain Japan WG 13th Meeting~~
+  - ~~Venue: DeNA (Shibuya, Tokyo, Japan)~~  
+    ~~[&#x1f30f;Map](https://dena.com/intl/contact#contact-map)~~
+  - ~~[&#x1f4dd;Annoucement & How to Register](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)~~  
   - **<span style="color: red;">Cancelled. Please check [OpenChain-JWG ML](https://lists.openchainproject.org/g/japan-wg)</span>**.  
-  - Venue: DeNA (Shibuya, Tokyo, Japan)  
-    [&#x1f30f;Map](https://dena.com/intl/contact#contact-map)
-  - [&#x1f4dd;Annoucement & How to Register](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)  
 
 - Feb.28 (FRI) 2020, 0930-12:00 JST
   - Planning SWG Meeting
@@ -22,18 +16,12 @@
 
 ## 今後のイベント
 
-- 2020/2/17 (月) 16:00-18:00
-  - Tooling SWG会合
-  - **<span style="color: red;">Microsoft Teamsによるリモート参加が可能です。[OpenChain-JWG Tooling SWG ML](https://lists.openchainproject.org/g/japan-sg-tooling) をご確認ください</span>**  
-  - 会場：ラゾーナ川崎東芝ビル14F  
-    [&#x1f30f;Map](https://www.toshiba.co.jp/about/location/index_j.htm#KAWASAKI)
-
 - ~~2020/2/18 (火) 14:00-17:30~~
   - ~~第13回 OpenChain Japan WG 会合~~
+  - ~~会場：DeNA (渋谷)~~  
+    ~~[&#x1f30f;Map](https://dena.com/intl/contact#contact-map)~~
+  - ~~[&#x1f4dd;開催案内＆申し込み方法](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)~~
   - **<span style="color: red;">中止となりました。[OpenChain-JWG ML](https://lists.openchainproject.org/g/japan-wg) をご確認ください。</span>**  
-  - 会場：DeNA (渋谷)  
-    [&#x1f30f;Map](https://dena.com/intl/contact#contact-map)
-  - [&#x1f4dd;開催案内＆申し込み方法](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)
 
 - 2020/2/28 (金) 09:30-12:00
   - Planning SWG 会合
@@ -59,7 +47,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
 
 - Japan WGの簡単な説明資料 (brief explanation about OpenChain-JWG)  
-[&#x1f4c3;日本語のみ(only in Japanese language)](https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md)
+[&#x1F4D6;日本語のみ(only in Japanese language)](https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md)
 
 ---
 
@@ -98,12 +86,16 @@ OpenChain Japan Work Group (JWG) の Website です。
 We have four mail lists. To sign up for each mail list, send a message to following addresses.
 
 - OpenChain Japan WG ML  
-[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)
-- ライセンス情報 SWG ML  
-[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)
+[&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
+[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
+- Licensing SWG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
+[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
 - Planning SWG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-planning](https://lists.openchainproject.org/g/japan-sg-planning)  
 [&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
 - Tooling SWG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
 [&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
 
 ## メーリングリスト
@@ -111,19 +103,23 @@ We have four mail lists. To sign up for each mail list, send a message to follow
 OpenChain Japan WGには4つのメーリングリストがあります。各メーリングリストに参加するには、それぞれ下記のアドレスにメールを送信してください。機械的に処理されますので本文の内容は不要です。
 
 - OpenChain Japan WG ML  
-[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)
+[&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
+[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
 - ライセンス情報 SWG ML  
-[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)
-- Planning SWG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
+[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
+- プランニング SWG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-planning](https://lists.openchainproject.org/g/japan-sg-planning)  
 [&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
-- Tooling SWG ML  
+- ツーリング SWG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
 [&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
 
 ---
 
 ## Slack
 
-[&#x1f4ac; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)
+- [&#x1F5EB; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)
 
 ---
 
@@ -149,5 +145,3 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 1. プロジェクトへの貢献（Contribution）については以下に従う  
    - Japan WGの参加者が協力して作成したもの  
    CC0-1.0（OpenChain Projectと同じ運用）
-
----
