@@ -1,5 +1,9 @@
 # Education Subgroup / 教育資料サブグループ活動
 
+<div style="text-align: right;">
+<a href="/Onboarding-JWG/">Back / 戻る</a>
+</div>
+
 ## Members / メンバー
 
 - Team Lead / チームリード  
