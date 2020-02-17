@@ -4,7 +4,7 @@
 
 - Feb.17 (MON) 2020, 16:00-18:00 JST
   - Tooling SWG Meeting
-  - **<span style="color: red;">You can participate with Microsoft Teams. Please check [OpenChain-JWG Tooling SWG ML Mail List](https://lists.openchainproject.org/g/japan-sg-tooling)</span>**.  
+  - **<span style="color: red;">You can participate with Microsoft Teams. Please check [OpenChain-JWG Tooling SWG ML](https://lists.openchainproject.org/g/japan-sg-tooling)</span>**.  
   - Venue: Lazona Kawasaki Toshiba Building 14F (Kawasaki, Japan)  
     [&#x1f30f;Map](https://www.toshiba.co.jp/about/location/index_j.htm#KAWASAKI)
 
