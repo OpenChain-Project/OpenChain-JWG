@@ -4,13 +4,13 @@
 
 - Feb.17 (MON) 2020, 16:00-18:00 JST
   - Tooling SWG Meeting
-  - **<span style="color: red;">You can participate with Microsoft Teams. Please check OpenChain-JWG Mail list.</span>**  
+  - **<span style="color: red;">You can participate with Microsoft Teams. Please check [OpenChain-JWG Tooling SWG ML Mail List](https://lists.openchainproject.org/g/japan-sg-tooling)</span>**.  
   - Venue: Lazona Kawasaki Toshiba Building 14F (Kawasaki, Japan)  
     [&#x1f30f;Map](https://www.toshiba.co.jp/about/location/index_j.htm#KAWASAKI)
 
 - ~~Feb.18 (TUE) 2020, 14:00-17:30 JST~~
   - ~~OpenChain Japan WG 13th Meeting~~
-  - **<span style="color: red;">Cancelled</span>**  
+  - **<span style="color: red;">Cancelled. Please check [OpenChain-JWG ML](https://lists.openchainproject.org/g/japan-wg)</span>**.  
   - Venue: DeNA (Shibuya, Tokyo, Japan)  
     [&#x1f30f;Map](https://dena.com/intl/contact#contact-map)
   - [&#x1f4dd;Annoucement & How to Register](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)  
@@ -24,13 +24,13 @@
 
 - 2020/2/17 (月) 16:00-18:00
   - Tooling SWG会合
-  - **<span style="color: red;">Microsoft Teamsによるリモート参加が可能です。Japan MLをご確認ください</span>**  
+  - **<span style="color: red;">Microsoft Teamsによるリモート参加が可能です。[OpenChain-JWG Tooling SWG ML](https://lists.openchainproject.org/g/japan-sg-tooling) をご確認ください</span>**  
   - 会場：ラゾーナ川崎東芝ビル14F  
     [&#x1f30f;Map](https://www.toshiba.co.jp/about/location/index_j.htm#KAWASAKI)
 
 - ~~2020/2/18 (火) 14:00-17:30~~
   - ~~第13回 OpenChain Japan WG 会合~~
-  - **<span style="color: red;">中止となりました。</span>**  
+  - **<span style="color: red;">中止となりました。[OpenChain-JWG ML](https://lists.openchainproject.org/g/japan-wg) をご確認ください。</span>**  
   - 会場：DeNA (渋谷)  
     [&#x1f30f;Map](https://dena.com/intl/contact#contact-map)
   - [&#x1f4dd;開催案内＆申し込み方法](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)
