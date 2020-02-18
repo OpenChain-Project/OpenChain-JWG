@@ -15,13 +15,13 @@
    1. If you want, you can change theme of the page.  **```Change theme```** . In this example, [Cayman](https://pages-themes.github.io/cayman/) is used.   manual.
    [docs/_config.yml](https://github.com/NorioKobota/OpenChain-JWG/blob/master/docs/_config.yml) Other settings can be refered in [Github Pagesのヘルプ](https://help.github.com/ja/github/working-with-github-pages/about-github-pages-and-jekyll), and jekyll  
    ![themes](images/themes.png)
-1. 後は、docsフォルダ以下に、Websiteとなるコンテンツを(例えば)index.mdとして配置していく。  
-ただし、[Github Pagesを試用するためのガイドライン](https://help.github.com/ja/github/working-with-github-pages/about-github-pages) に記載があるが、  
+1. Create contents of your Website in the "docs" folder. index.md, etc.  
+Note: GitHub Pages has folder size limitation 1GB. [Github Pagesを試用するためのガイドライン](https://help.github.com/ja/github/working-with-github-pages/about-github-pages) 
    ```GitHub Pages ソースリポジトリには、1GB の推奨上限があります。```  
-   なので、出来うる限り、index.mdなどtextベースのコンテンツのみをdocs以下には配置し、その他マテリアルは、その他ディレクトリに配置、リンクで飛ばすのが良いと思います。  
-   また、アイコンについては、imageを利用するのではなく、絵文字を利用するのが楽だと思います。例えば、[こちらを参照](https://unicode.org/emoji/charts/full-emoji-list.html)。 **```Code```** に記載された文字コードが、```U+1F600```の場合は、```&#x1F600;```と記載することによって、絵文字が出ます。  
-   最後に、既知の問題点として、会合で撮影した写真などを置く場所は別途考える必要がある。Githubを写真のストレージとして使うことは許諾されていないと思います。
-1. 最終的なリポジトリのディレクトリ構成は以下のようになると良いかもしれません。  
+  It is recommended to place text only files in the "docs" folder, and large size files like images should be placed in other folders. 
+Note: It is easy and useful to use Emoji instead of an image file.[Emoji](https://unicode.org/emoji/charts/full-emoji-list.html)。 **```Code```** に記載された文字コードが、```U+1F600```の場合は、```&#x1F600;```と記載することによって、絵文字が出ます。  
+Note: Photos are not allowed to store in GitHub. 
+1. Example repository structure:  
    ```
    OpenChain-JWG +- docs-------+- index.md  
                  |             +- meetings -> 各回毎にdirectoryを分けて資料を配置。もしくはGeneralなどに配置して、link  
