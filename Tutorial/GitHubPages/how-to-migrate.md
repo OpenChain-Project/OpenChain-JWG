@@ -12,7 +12,7 @@
    ![settings](images/settings.png)  
    1. In Settings->Github Pages, change **```Source```** to **```master branch/docs folder```**.  
    ![source](images/docs.png)
-   1. If you want, you can change theme of the page.  **```Change theme```** . In this example, [Cayman](https://pages-themes.github.io/cayman/) is used.   manual.
+   1. If you want, you can change theme of the page.  **```Change theme```** . In this example, [Cayman](https://pages-themes.github.io/cayman/) is used. 
    [docs/_config.yml](https://github.com/NorioKobota/OpenChain-JWG/blob/master/docs/_config.yml) Other settings can be refered in [Github Pagesのヘルプ](https://help.github.com/ja/github/working-with-github-pages/about-github-pages-and-jekyll), and jekyll  
    ![themes](images/themes.png)
 1. Create contents of your Website in the "docs" folder. index.md, etc.  
@@ -21,12 +21,12 @@ Note: GitHub Pages has folder size limitation 1GB. [Github Pagesを試用する�
   It is recommended to place text only files in the "docs" folder, and large size files like images should be placed in other folders. 
 Note: It is easy and useful to use Emoji instead of an image file.[Emoji](https://unicode.org/emoji/charts/full-emoji-list.html)。 **```Code```** に記載された文字コードが、```U+1F600```の場合は、```&#x1F600;```と記載することによって、絵文字が出ます。  
 Note: Photos are not allowed to store in GitHub. 
-1. Example repository structure:  
+1. An example of repository structure:  
    ```
    OpenChain-JWG +- docs-------+- index.md  
-                 |             +- meetings -> 各回毎にdirectoryを分けて資料を配置。もしくはGeneralなどに配置して、link  
-                 |             +- subgroups -> SWG毎にdir分けして資料配置。  
-                 |             +- outcomes  -> Generalなどに配置して、link  
+                 |             +- meetings   
+                 |             +- subgroups   
+                 |             +- outcomes    
                  +- Onboarding : 今まで通り  
                  +- General    : 今まで通り  
    ```
