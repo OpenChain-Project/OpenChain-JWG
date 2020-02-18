@@ -2,8 +2,6 @@
 
 ## Upcoming Events
 
-TEST ONE
-
 - ~~Feb.18 (TUE) 2020, 14:00-17:30 JST~~
   - ~~OpenChain Japan WG 13th Meeting~~
   - ~~Venue: DeNA (Shibuya, Tokyo, Japan)~~  
