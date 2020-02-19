@@ -22,11 +22,11 @@ Onboarding-JWG has already created the Github Pages, please see the following we
    The config looks like [docs/_config.yml](https://github.com/NorioKobota/OpenChain-JWG/blob/master/docs/_config.yml) Other settings can be refered in [Github Pages](https://help.github.com/github/working-with-github-pages/about-github-pages-and-jekyll), and jekyll  
    ![themes](images/themes.png)
 1. Create contents of your Website in the "docs" folder. index.md, etc.  
-Note: GitHub Pages has folder size limit of 1GB. [Guidelines for using GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages#guidelines-for-using-github-pages) 
+Note: GitHub Pages has folder size limit of 1GB. [Guidelines for using GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages#guidelines-for-using-github-pages)  
    ```GitHub Pages source repositories have a recommended limit of 1GB.```  
-  It is recommended to place text-only files in the "docs" folder, and large size files like images should be placed in other folders. 
+  Note: It is recommended to place text-only files in the "docs" folder, and large size files like images should be placed in other folders.  
 Note: It is easy and useful to use Emoji instead of an image file.[Emoji](https://unicode.org/emoji/charts/full-emoji-list.html)。 In **```Code```** , if the text code is ```U+1F600```, then you can display by writing ```&#x1F600;```.  
-Note: Photos are not allowed to store in GitHub. 
+Note: We're not sure but storing many photos are not allowed in GitHub.  
 1. An example of repository structure:  
    ```
    OpenChain-JWG +- docs-------+- index.md  
