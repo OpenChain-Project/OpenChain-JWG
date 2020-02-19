@@ -11,7 +11,9 @@
    1. Click ```Settings``` tab in "OpenChain-JWG" repository.  
    ![settings](images/settings.png)  
    1. In Settings->Github Pages, change **```Source```** to **```master branch/docs folder```**.  
-   ![source](images/docs.png)
+   ![source](images/docs.png)  
+   After applying this settings, you can see the Website(GithubPages) at **```https://OpenChain-Project.github.io/[repository-name]/```**  
+   ex. https://OpenChain-Project.github.io/Onboarding-JWG/  
    1. If you want, you can change theme of the page.  **```Change theme```** . In this example, [Cayman](https://pages-themes.github.io/cayman/) is used. 
    The config looks like [docs/_config.yml](https://github.com/NorioKobota/OpenChain-JWG/blob/master/docs/_config.yml) Other settings can be refered in [Github Pages](https://help.github.com/github/working-with-github-pages/about-github-pages-and-jekyll), and jekyll  
    ![themes](images/themes.png)
