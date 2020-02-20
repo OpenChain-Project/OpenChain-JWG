@@ -119,7 +119,7 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 
 ## Slack
 
-- [&#x1F5EB; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)
+- [&#x1F4AC; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)
 
 ---
 
