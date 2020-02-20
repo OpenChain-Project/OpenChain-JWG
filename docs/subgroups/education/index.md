@@ -1,18 +1,24 @@
-# Education Subgroup / 教育資料サブグループ活動
+# Education Subgroup / 教育資料サブグループ
 
 <div style="text-align: right;">
 <a href="/Onboarding-JWG/">Back / 戻る</a>
 </div>
 
+## Purpose / 目的
+
+```ToBeFilled```
+
+---
+
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Yoshitaka Iwata / 岩田吉隆  
+Yoshitaka Iwata / 岩田 吉隆  
 
 - Members / メンバー  
-Satoru Koizumi / 小泉悟  
-Yuji Nomura / 野村祐治  
-Hiroyuki Fukuchi / 福地弘行  
+Satoru Koizumi / 小泉 悟  
+Yuji Nomura / 野村 祐治  
+Hiroyuki Fukuchi / 福地 弘行  
 
 ---
 
