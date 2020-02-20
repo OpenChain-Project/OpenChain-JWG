@@ -60,7 +60,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 ## Subgroup Acts / サブグループ活動
 
 - [&#x1f4c2;Education](subgroups/education)
-- [&#x1f4c2;FAQ](subgroups/faq)
+- [&#x1f4c2;FAQ](subgroups/FAQ)
 - [&#x1f4c2;Leaflet](subgroups/leaflet)
 - [&#x1f4c2;License Information Exchange](subgroups/licenseInfo)
 - [&#x1f4c2;Planning](subgroups/planning)
