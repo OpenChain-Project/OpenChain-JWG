@@ -1,4 +1,4 @@
-# Leaflet to Supplier Subgroup / サプライチェーンリーフレットサブグループ
+# FAQ Subgroup / FAQサブグループ
 
 <div style="text-align: right;">
 <a href="/Onboarding-JWG/">Back / 戻る</a>
