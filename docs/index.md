@@ -65,7 +65,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ## Photos / 写真
 
-- [&#x1f4f7; Photos / 写真](photos)
+- [&#x1f4f7; Photos / 写真](https://lists.openchainproject.org/g/japan-wg/album?id=241538)  
 
 ---
 
