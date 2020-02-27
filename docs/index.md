@@ -41,25 +41,25 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ## Meetings / 全体会合
 
-- [&#x1f4c2;Meeting Minutes / 会合記録](meetings)
+- [&#x1f4c2;Meeting Minutes / 会合記録](meetings/)  ```ToBeCommitted```  
 
 ---
 
 ## Subgroup Acts / サブグループ活動
 
-- [&#x1f4c2;Education](subgroups/education)
-- [&#x1f4c2;FAQ](subgroups/FAQ)
-- [&#x1f4c2;Leaflet](subgroups/leaflet)
-- [&#x1f4c2;License Information Exchange](subgroups/licensing)
-- [&#x1f4c2;Planning](subgroups/planning)
-- [&#x1f4c2;Promotion](subgroups/promotion)
-- [&#x1f4c2;Tooling](subgroups/tooling)
+- [&#x1f4c2;Education](subgroups/education/)  
+- [&#x1f4c2;FAQ](subgroups/FAQ/)  
+- [&#x1f4c2;Leaflet](subgroups/leaflet/)  
+- [&#x1f4c2;License Information Exchange](subgroups/licensing/)  
+- [&#x1f4c2;Planning](subgroups/planning/)  
+- [&#x1f4c2;Promotion](subgroups/promotion/)  
+- [&#x1f4c2;Tooling](subgroups/tooling/)  
 
 ---
 
 ## Outcomes / 成果物
 
-- [&#x1f4c2;Outcomes / 成果物](outcomes)
+- [&#x1f4c2;Outcomes / 成果物](outcomes/)  
 
 ---
 
@@ -84,7 +84,7 @@ We have four mail lists. To sign up for each mail list, send a message to follow
 [&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
 - Tooling SWG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
-[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
+[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)  
 
 ## メーリングリスト
 
@@ -107,7 +107,7 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 
 ## Slack
 
-- [&#x1F4AC; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)
+- [&#x1F4AC; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)  
 
 ---
 
