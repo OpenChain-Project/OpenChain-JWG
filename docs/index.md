@@ -2,31 +2,19 @@
 
 ## Upcoming Events
 
-- ~~Feb.18 (TUE) 2020, 14:00-17:30 JST~~
-  - ~~OpenChain Japan WG 13th Meeting~~
-  - ~~Venue: DeNA (Shibuya, Tokyo, Japan)~~  
-    ~~[&#x1f30f;Map](https://dena.com/intl/contact#contact-map)~~
-  - ~~[&#x1f4dd;Annoucement & How to Register](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)~~  
-  - **<span style="color: red;">Cancelled. Please check [OpenChain-JWG ML](https://lists.openchainproject.org/g/japan-wg)</span>**.  
-
 - Feb.28 (FRI) 2020, 0930-12:00 JST
   - Planning SWG Meeting
-  - Venue: Fujitsu Shiodome Headquarters 24F Room10 (Tokyo, Japan)  
-    [&#x1f30f;Map](https://www.fujitsu.com/global/about/corporate/locations/worldlocation/japan/about-headquarters.html)
+  - ~~Venue: Fujitsu Shiodome Headquarters 24F Room10 (Tokyo, Japan)~~  
+    ~~[&#x1f30f;Map](https://www.fujitsu.com/global/about/corporate/locations/worldlocation/japan/about-headquarters.html)~~
+  - **<span style="color: red;">Held Online only. Please check [JWG-planning ML](https://lists.openchainproject.org/g/japan-sg-planning)</span>**.
 
 ## 今後のイベント
 
-- ~~2020/2/18 (火) 14:00-17:30~~
-  - ~~第13回 OpenChain Japan WG 会合~~
-  - ~~会場：DeNA (渋谷)~~  
-    ~~[&#x1f30f;Map](https://dena.com/intl/contact#contact-map)~~
-  - ~~[&#x1f4dd;開催案内＆申し込み方法](https://wiki.linuxfoundation.org/_media/openchain/openchainjapanwg_13th_announce.pdf)~~
-  - **<span style="color: red;">中止となりました。[OpenChain-JWG ML](https://lists.openchainproject.org/g/japan-wg) をご確認ください。</span>**  
-
 - 2020/2/28 (金) 09:30-12:00
   - Planning SWG 会合
-  - 会場：富士通 汐留本社24階 応接室10  
-    [&#x1f30f;Map](https://www.fujitsu.com/global/about/corporate/locations/worldlocation/japan/about-headquarters.html)
+  - ~~会場：富士通 汐留本社24階 応接室10~~  
+    ~~[&#x1f30f;Map](https://www.fujitsu.com/global/about/corporate/locations/worldlocation/japan/about-headquarters.html)~~
+  - **<span style="color: red;">Onlineのみの開催となりました。[JWG-planning ML](https://lists.openchainproject.org/g/japan-wg) をご確認ください。</span>**  
 
 ---
 
