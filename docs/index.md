@@ -1,20 +1,20 @@
 # OpenChain Japan Work Group (JWG)
 
-## Upcoming Events
+## Upcoming Events / 今後のイベント
 
-- Feb.28 (FRI) 2020, 0930-12:00 JST
-  - Planning SWG Meeting
-  - ~~Venue: Fujitsu Shiodome Headquarters 24F Room10 (Tokyo, Japan)~~  
-    ~~[&#x1f30f;Map](https://www.fujitsu.com/global/about/corporate/locations/worldlocation/japan/about-headquarters.html)~~
-  - **<span style="color: red;">Held Online only. Please check [JWG-planning ML](https://lists.openchainproject.org/g/japan-sg-planning)</span>**.
+### SubGroup Meetings / サブグループ会合  
 
-## 今後のイベント
+{% include_relative subgroups/FAQ/upcoming-events.md %}  
+{% include_relative subgroups/education/upcoming-events.md %}  
+{% include_relative subgroups/leaflet/upcoming-events.md %}  
+{% include_relative subgroups/licensing/upcoming-events.md %}  
+{% include_relative subgroups/planning/upcoming-events.md %}  
+{% include_relative subgroups/promotion/upcoming-events.md %}  
+{% include_relative subgroups/tooling/upcoming-events.md %}
 
-- 2020/2/28 (金) 09:30-12:00
-  - Planning SWG 会合
-  - ~~会場：富士通 汐留本社24階 応接室10~~  
-    ~~[&#x1f30f;Map](https://www.fujitsu.com/global/about/corporate/locations/worldlocation/japan/about-headquarters.html)~~
-  - **<span style="color: red;">Onlineのみの開催となりました。[JWG-planning ML](https://lists.openchainproject.org/g/japan-wg) をご確認ください。</span>**  
+### AllMember Meetings / 全体会合  
+
+{% include_relative upcoming-events.md %}  
 
 ---
 
@@ -39,7 +39,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ---
 
-## Meetings / 全体会合
+## Meetings Minutes / 全体会合記録
 
 - [&#x1f4c2;Meeting Minutes / 会合記録](meetings/)  ```ToBeCommitted```  
 
