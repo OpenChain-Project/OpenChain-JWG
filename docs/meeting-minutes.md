@@ -1,3 +1,7 @@
+<div style="text-align: right;">
+<a href="/Onboarding-JWG/">Back / 戻る</a>
+</div>
+
 ## 全体会合の記録
 
 - **第1回会合** 2017年12月27日(水) 15:00-17:00  
