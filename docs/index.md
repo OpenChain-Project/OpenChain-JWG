@@ -1,6 +1,10 @@
-## &#x1f4c5; Upcoming Events / 今後のイベント
+<div style="text-align: right;">
+<a href="index.md">日(Japanese)</a> / <a href="index_en.md">英(English)</a>
+</div>
 
-### SubGroup Meetings / サブグループ会合  
+## &#x1f4c5; 今後のイベント
+
+### サブグループ会合  
 
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
 {% include_relative subgroups/education/upcoming-events.md %}  
@@ -10,24 +14,15 @@
 {% include_relative subgroups/promotion/upcoming-events.md %}  
 {% include_relative subgroups/tooling/upcoming-events.md %}
 
-### AllMember Meetings / 全体会合  
+### 全体会合  
 
 {% include_relative upcoming-events.md %}  
 
 ---
 
-## About Japan Work Group
-
-This is the Website for the OpenChain Japan Work Group (JWG).  
-This pages provide information about OpenChain-JWG in Japanese language.
-
-- The OpenChain project website:  
-[&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
-
 ## Japan Work Groupについて
 
-OpenChain Japan Work Group (JWG) の Website です。  
-日本語でOpenChain Projectに関わる情報を発信します。
+OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Projectに関わる情報を発信します。
 
 - OpenChainプロジェクトのウエブサイト  
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
@@ -37,13 +32,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ---
 
-## Meetings Minutes / 全体会合記録
-
-- [&#x1f4c2;Meeting Minutes / 会合記録](meetings/)  ```ToBeCommitted```  
-
----
-
-## Subgroup Acts / サブグループ活動
+## サブグループ活動
 
 - [&#x1f4c2;Education](subgroups/education/)  
 - [&#x1f4c2;FAQ](subgroups/FAQ/)  
@@ -55,34 +44,24 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ---
 
-## Outcomes / 成果物
+## 全体会合記録
 
-- [&#x1f4c2;Outcomes / 成果物](outcomes.md)  
-
----
-
-## Photos / 写真
-
-- [&#x1f4f7; Photos / 写真](https://lists.openchainproject.org/g/japan-wg/album?id=241538)  
+- [&#x1f4c2; 会合記録](meetings/)  ```ToBeCommitted```  
 
 ---
 
-## Mail Lists
 
-We have four mail lists. To sign up for each mail list, send a message to following addresses.
+## OpenChain JWGの成果物
 
-- OpenChain Japan WG ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
-[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
-- Licensing SWG ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
-[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
-- Planning SWG ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-sg-planning](https://lists.openchainproject.org/g/japan-sg-planning)  
-[&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
-- Tooling SWG ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
-[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)  
+- [&#x1f4c2; 成果物一覧](outcomes.md)  
+
+---
+
+## 写真
+
+- [&#x1f4f7; 写真](https://lists.openchainproject.org/g/japan-wg/album?id=241538)  
+
+---
 
 ## メーリングリスト
 
@@ -105,20 +84,10 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 
 ## Slack
 
+OpenChain Japan WG内の議論は主にSlack上で行われています。  
 - [&#x1F4AC; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)  
 
 ---
-
-## License
-
-1. License for contribution and report to Japan WG
-   - a report from a member to Japan WG :  
-   licensed under CC-BY-ND-4.0
-   - other a report presented by a member only at a meeting :  
-   owner defines license
-2. contribution to Japan WG
-   - contribution or collaborative works by Japan WG :  
-   licensed under CC0-1.0
 
 ## ライセンス
 
