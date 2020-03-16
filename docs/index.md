@@ -1,4 +1,4 @@
-## Upcoming Events / 今後のイベント
+## &#x1f4c5; Upcoming Events / 今後のイベント
 
 ### SubGroup Meetings / サブグループ会合  
 
