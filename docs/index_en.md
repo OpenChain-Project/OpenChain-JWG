@@ -1,5 +1,5 @@
 <div style="text-align: right;">
-<a href="index.md">日(Japanese)</a> / <a href="index_en.md">英(English)</a>
+<a href="index.html">日(Japanese)</a> / <a href="index_en.html">英(English)</a>
 </div>
 
 ## &#x1f4c5; Upcoming Events
