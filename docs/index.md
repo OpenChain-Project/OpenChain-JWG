@@ -45,14 +45,14 @@ OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Proj
 
 ## 全体会合記録
 
-- [&#x1f4c2; 会合記録](meetings-minutes.md)  ```ToBeCommitted```  
+- [&#x1f4c2; 会合記録](meetings-minutes.html)  
 
 ---
 
 
 ## OpenChain JWGの成果物
 
-- [&#x1f4c2; 成果物一覧](outcomes.md)  
+- [&#x1f4c2; 成果物一覧](outcomes.html)  
 
 ---
 
