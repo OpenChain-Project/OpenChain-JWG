@@ -27,8 +27,7 @@ OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Proj
 - OpenChainプロジェクトのウエブサイト  
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
 
-- Japan WGの簡単な説明資料 (brief explanation about OpenChain-JWG)  
-[&#x1F4D6;日本語のみ(only in Japanese language)](https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md)
+- [&#x1F4D6; Japan WGの簡単な説明資料](https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md)  
 
 ---
 
@@ -70,13 +69,13 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 - OpenChain Japan WG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
 [&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
-- ライセンス情報 SWG ML  
+- ライセンス情報 SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
 [&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
-- プランニング SWG ML  
+- プランニング SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-planning](https://lists.openchainproject.org/g/japan-sg-planning)  
 [&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
-- ツーリング SWG ML  
+- ツーリング SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
 [&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
 
