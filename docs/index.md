@@ -45,7 +45,7 @@ OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Proj
 
 ## 全体会合記録
 
-- [&#x1f4c2; 会合記録](meetings-minutes.html)  
+- [&#x1f4c2; 会合記録](meeting-minutes.html)  
 
 ---
 
