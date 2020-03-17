@@ -44,7 +44,7 @@ This pages provide information about OpenChain-JWG in Japanese language.
 
 ## All Member Meetings
 
-- [&#x1f4c2;Meeting Minutes](meetings-minutes_en.html)  
+- [&#x1f4c2;Meeting Minutes](meeting-minutes_en.html)  
 
 ---
 
