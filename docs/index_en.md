@@ -1,5 +1,5 @@
-<div style="text-align: right;">
-<a href="index.html">日(Japanese)</a> / <a href="index_en.html">英(English)</a>
+<div style="text-align: right; position: -webkit-sticky; position: sticky; top: 10px;">
+  <a href="index.html">日(Japanese)</a> / <a href="index_en.html">英(English)</a>
 </div>
 
 ## &#x1f4c5; Upcoming Events
@@ -42,9 +42,9 @@ This pages provide information about OpenChain-JWG in Japanese language.
 
 ---
 
-## Meetings Minutes
+## All Member Meetings
 
-- [&#x1f4c2;Meeting Minutes](meetings/)  ```ToBeCommitted```  
+- [&#x1f4c2;Meeting Minutes](meetings-minutes_en.html)  
 
 ---
 

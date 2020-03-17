@@ -1,5 +1,5 @@
-<div style="text-align: right;">
-<a href="/Onboarding-JWG/">Back / 戻る</a>
+<div style="text-align: right; position: -webkit-sticky; position: sticky; top: 10px;">
+  <a href="/Onboarding-JWG/index.html">Back / 戻る</a>
 </div>
 
 ## 全体会合の記録
@@ -84,3 +84,7 @@
 [&#x1f4da; OSS Review ToolKit by Thomas Steenbergen]() ```ToBeCommitted```  
 [&#x1f4da; From Protex to FOSSology by Han JiHo]() ```ToBeCommitted```  
 [&#x1f4da; Exploiting openchain self-certification for moving company internally by Tom Osaki]() ```ToBeCommitted```  
+
+- **第13回会合** 2020年2月18日(火)  
+場所: DeNA (渋谷)  
+**NOTE**: COVID-19の影響により、残念ながら中止になりました。  
