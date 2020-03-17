@@ -1,5 +1,5 @@
 <div style="text-align: right; position: -webkit-sticky; position: sticky; top: 10px;">
-  <a href="/Onboarding-JWG/index.html">Back / 戻る</a>
+  <a href="/Onboarding-JWG/index_en.html">Back / 戻る</a>
 </div>
 
 ## All Member Meetings
