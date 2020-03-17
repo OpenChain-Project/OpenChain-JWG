@@ -51,7 +51,7 @@ This pages provide information about OpenChain-JWG in Japanese language.
 
 ## Outcomes
 
-- [&#x1f4c2;Outcomes](outcomes.md)  
+- [&#x1f4c2;Outcomes](outcomes_en.md)  
 
 ---
 
