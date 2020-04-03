@@ -1,3 +1,2 @@
-- Apr.23(THU) 2020,  
-  Venue: [Socionext Inc., Kyoto](https://www.socionext.com/jp/corporate/global-network.html)  
-  **<span style="color: red;">under consideration / 開催可否など検討中</span>**  
+- Apr.23(THU) 2020, 1:00pm - 3:30pm (tentative)  
+  Venue: [Zoom by Socionext Inc.]() 参加方法は後日  
