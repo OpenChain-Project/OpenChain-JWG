@@ -30,7 +30,7 @@ gitflowなど様々な方法論がありますが、慣れてない方も多い�
 ## 今後のイベント / Upcoming Eventsの更新について
 
 - docs/upcoming-events.md  
-- subgroups/{FAQ,education,leaflet,licensing,planning,promotion,tooling}/upcoming-events.md  
+- docs/subgroups/{FAQ,education,leaflet,licensing,planning,promotion,tooling}/upcoming-events.md  
 
 上記のファイル内に、何か記載するとトップページの今後のイベントに追加されますので、イベント日時等が決まり次第、更新していってください。なお、**GFM markdownとして正しくないと、正常に表示されない**のでご注意ください。  
 例: リスト(箇条書き)は、改行する(最後に2個のスペースを入れる)こと  
