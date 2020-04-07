@@ -24,6 +24,7 @@ Shinsuke Kato / 加藤 慎介
 Yoshitake Kobayashi / 小林 良岳  
 Takashi Ninjouji / 忍頂寺 隆  
 Ayumi Watanabe / 渡邊 歩  
+Mitsutoshi Yamada　/　山田 光利
 
 ---
 
