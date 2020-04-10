@@ -1,7 +1,7 @@
 # Leaflet to Supplier Subgroup / サプライチェーンリーフレットサブグループ
 
 <div style="text-align: right;">
-<a href="/Onboarding-JWG/">Back / 戻る</a>
+<a href="/OpenChain-JWG/">Back / 戻る</a>
 </div>
 
 ## Purpose / 目的
