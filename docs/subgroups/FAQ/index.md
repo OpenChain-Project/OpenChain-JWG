@@ -23,6 +23,7 @@ Kiyoshi Owada / 大和田 清志
 Kazuyoshi Katagiri / 片桐 和宣  
 Tomoki Kawamura / 川村 知生  
 Manami Koshino / 越野 愛美  
+Kobori Megumi / 小堀 恵  
 Naomichi Shima / 島 直道  
 Yasuhiro Shinkai / 新貝 安浩  
 Toru Taima / 當麻 徹  
