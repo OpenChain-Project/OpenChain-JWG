@@ -20,6 +20,7 @@ Teruaki Itoh / 伊藤 輝昭
 Kiyoshi Owada / 大和田 清志  
 Shisuke Kato / 加藤 慎介  
 Yuichi Kusakabe / 日下部 雄一  
+Naomichi Shima / 島 直道  
 
 ---
 
