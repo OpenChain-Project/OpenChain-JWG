@@ -71,7 +71,7 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 [&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
 - FAQ SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-faq](https://lists.openchainproject.org/g/japan-sg-faq)  
-[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
+[&#x2709; japan-sg-faq+subscribe@lists.openchainproject.org](mailto:japan-sg-faq+subscribe@lists.openchainproject.org)  
 - ライセンス情報 SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
 [&#x2709; japan-sg-faq+subscribe@lists.openchainproject.org](mailto:japan-sg-faq+subscribe@lists.openchainproject.org)  
