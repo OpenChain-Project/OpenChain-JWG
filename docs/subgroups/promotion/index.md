@@ -22,7 +22,7 @@ Tomo Oku / おくとも
 Tadayuki Osaki / 大崎 雅之  
 Shinsuke Kato / 加藤 慎介  
 Yoshitake Kobayashi / 小林 良岳  
-Naomichi Shima / 島 直道
+Naomichi Shima / 島 直道  
 Takashi Ninjouji / 忍頂寺 毅  
 Ayumi Watanabe / 渡邊 歩  
 Mitsutoshi Yamada / 山田 光利
