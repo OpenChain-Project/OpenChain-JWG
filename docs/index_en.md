@@ -68,6 +68,9 @@ We have four mail lists. To sign up for each mail list, send a message to follow
 - OpenChain Japan WG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
 [&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
+- FAQ SG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-faq](https://lists.openchainproject.org/g/japan-sg-faq)  
+[&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
 - Licensing SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
 [&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
