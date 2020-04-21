@@ -9,7 +9,7 @@
 Implement the following in open source compliance using OSS tools for OSS management:
 1. Build workflows according to organization     
 1. Automation
-1. Improve the quality of workflows and compliance  
+1. Improve the quality of tools, workflows and compliance  
 
 
 OSS管理運用のためのOSSを利用して、
