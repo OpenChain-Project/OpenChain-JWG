@@ -6,32 +6,48 @@
 
 ## Purpose / 目的
 
-Perform the following activities in Japanese:  
+Implement the following in open source compliance using OSS tools for OSS management:
+1. Build workflows according to organization     
+1. Automation
+1. Improve the quality of workflows and compliance  
 
-1. Summarize usage and knowledge of some OSS related tools.  
-1. Providing a place to study and discuss about tools:  
-   - Hands-On Workshop  
-   - Introduce how to use the tool  
-   - held a seminar about the tool  
+
+OSS管理運用のためのOSSを利用して、
+Open Source Compliance において次を実現する。
+1. 組織に応じたワークフローの構築  
+1. 省力化 (オートメーション)  
+1. 質の向上  
+
+
+## Activity / 活動内容
+
+Perform the following in Japanese:  
+1. Summarize and publish usage and knowledge of some OSS related tools  
+   - Collaborate with other global communities  
+1. Providing a place to study and discuss about tools  
+   - introduce tools, and held a seminar or Hands-On Workshop   
 1. Information distribution and tool mapping  
+   - Find and resolve issues to create compliance workflows using tools and SBOM     
 1. Promotion to expand members who support this activities  
+   - Presentation in other communities and publish contents in GitHub etc  
+
 
 日本語中心で下記の活動を行う。
-1. ツール情報をまとめる  
+1. ツール情報をまとめる / 発信する  
+   - Global コミュニティと連携して  
 1. 実際に使いながら勉強や議論をしていく場の提供  
-   - Hands on開催  
-   - ツール紹介開催  
-   - ツール関連のセミナー開催  
-   Compass等で案内  
-1. 情報流通とツールマッピング  
+   - ツール紹介、セミナーやハンズオンの開催など  
+1. 情報流通とツールのマッピング  
+   - ワークフロー実現のために課題を洗い出し、他と連携して改善  
 1. 活動に賛同するメンバ拡大のためのプロモーション  
+   - OpenChain以外での発表、GitHubやその他メディアの活用  
 
 ---
 
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Takashi NINJOUJI / 忍頂寺　毅
+Takashi NINJOUJI / 忍頂寺 毅 (2020.04-present)
 
 - Members / メンバー  
 Tomo DOTE / 土手 朋  
@@ -43,7 +59,7 @@ Takuya KODA / 幸田 拓耶
 Kouki HAMA / 濵 功樹  
 Akira Tanaka / 田中 明良  
 Tomofumi Shimada / 島田 智文  
-Yoshitake KOBAYSHI / 小林 良岳  
+Yoshitake KOBAYSHI / 小林 良岳 (Lead: 2019.03-2020.03)  
    ```and more!``` 
 
 ---
