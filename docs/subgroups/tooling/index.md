@@ -48,6 +48,7 @@ Perform the following in Japanese:
 
 - Team Lead / チームリード  
 Takashi Ninjouji / 忍頂寺 毅 (2020.04-present)
+Yoshitake Kobayashi / 小林 良岳 (Lead: 2019.03-2020.03)  
 
 - Members / メンバー  
 Tomo Dote / 土手 朋  
@@ -59,7 +60,7 @@ Takuya Koda / 幸田 拓耶
 Kouki Hama / 濵 功樹  
 Akira Tanaka / 田中 明良  
 Tomofumi Shimada / 島田 智文  
-Yoshitake Kobayashi / 小林 良岳 (Lead: 2019.03-2020.03)  
+
    ```and more!``` 
 
 ---
