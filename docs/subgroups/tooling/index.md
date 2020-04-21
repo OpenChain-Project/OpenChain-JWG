@@ -34,9 +34,9 @@ Perform the following activities in Japanese:
 Takashi NINJOUJI / 忍頂寺　毅
 
 - Members / メンバー  
-Norio KOBOTA / 小保田 規生
-Kouki HAMA / 濵　功樹
-Yoshitake KOBAYSHI / 小林 良岳 
+Norio KOBOTA / 小保田 規生  
+Kouki HAMA / 濵　功樹  
+Yoshitake KOBAYSHI / 小林 良岳  
    ```and more!``` 
 
 ---
