@@ -47,19 +47,19 @@ Perform the following in Japanese:
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Takashi NINJOUJI / 忍頂寺 毅 (2020.04-present)
+Takashi Ninjouji / 忍頂寺 毅 (2020.04-present)
 
 - Members / メンバー  
-Tomo DOTE / 土手 朋  
-Norio KOBOTA / 小保田 規生  
-Hiroyuki FUKUCHI / 福地 弘行  
-Toshiya NAGOYA / 名児耶 敏也  
+Tomo Dote / 土手 朋  
+Norio Kobota / 小保田 規生  
+Hiroyuki Fukuchi / 福地 弘行  
+Toshiya Nagoya / 名児耶 敏也  
 Zhang Lei / 張 磊  
-Takuya KODA / 幸田 拓耶  
-Kouki HAMA / 濵 功樹  
+Takuya Koda / 幸田 拓耶  
+Kouki Hama / 濵 功樹  
 Akira Tanaka / 田中 明良  
 Tomofumi Shimada / 島田 智文  
-Yoshitake KOBAYSHI / 小林 良岳 (Lead: 2019.03-2020.03)  
+Yoshitake Kobayashi / 小林 良岳 (Lead: 2019.03-2020.03)  
    ```and more!``` 
 
 ---
