@@ -47,7 +47,7 @@ Perform the following in Japanese:
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Takashi Ninjouji / 忍頂寺 毅 (2020.04-present)
+Takashi Ninjouji / 忍頂寺 毅 (2020.04-present)  
 Yoshitake Kobayashi / 小林 良岳 (Lead: 2019.03-2020.03)  
 
 - Members / メンバー  
