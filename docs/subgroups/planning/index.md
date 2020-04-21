@@ -29,7 +29,7 @@ Satoru Koizumi / 小泉 悟
 Norio Kobota / 小保田 規生  
 Shinsuke Kato / 加藤 慎介  
 Naomichi Shima / 島 直道  
-Takashi Ninjouji / 忍頂寺 隆  
+Takashi Ninjouji / 忍頂寺 毅  
 Katsuyuki Yamamoto / 山本 勝之  
 Taishi Yoneshima / 米嶋 大志  
 Ayumi Watanabe / 渡邊 歩  
