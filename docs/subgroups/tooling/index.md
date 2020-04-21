@@ -31,10 +31,13 @@ Perform the following activities in Japanese:
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Yoshitake Kobayashi / 小林 良岳  
+Takashi NINJOUJI / 忍頂寺　毅
 
 - Members / メンバー  
-   ```ToBeFilled``` 
+Norio KOBOTA / 小保田 規生
+Kouki HAMA / 濵　功樹
+Yoshitake KOBAYSHI / 小林 良岳 
+   ```and more!``` 
 
 ---
 
