@@ -32,6 +32,7 @@ Yasuhiro Shinkai / 新貝 安浩
 Toru Taima / 當麻 徹  
 Toshihiro Tanaka / 田中 俊宏  
 Shinichi Tanigawa / 谷川 真一  
+yuki tsutsumi / 堤 祐樹  
 Hideyuki Nanashima / 七島 偉之  
 Takashi Ninjouji / 忍頂寺 毅  
 Norihiko Mizuyama / 水山 範彦  
