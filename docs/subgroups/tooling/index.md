@@ -51,6 +51,7 @@ Takashi Ninjouji / 忍頂寺 毅 (2020.04-present)
 Yoshitake Kobayashi / 小林 良岳 (2019.03-2020.03)  
 
 - Members / メンバー  
+Shunsuke Tokumoto / 徳本 俊介  
 Ayumi Watanabe/渡邊 歩  
 Tomo Dote / 土手 朋  
 Norio Kobota / 小保田 規生  
