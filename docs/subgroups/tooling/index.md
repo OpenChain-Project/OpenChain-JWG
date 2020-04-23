@@ -60,6 +60,7 @@ Toshiya Nagoya / 名児耶 敏也
 Zhang Lei / 張 磊  
 Takuya Koda / 幸田 拓耶  
 Kouki Hama / 濵 功樹  
+Yasutaka Shirai / 白井 保隆  
 Akira Tanaka / 田中 明良  
 Tomofumi Shimada / 島田 智文  
 
