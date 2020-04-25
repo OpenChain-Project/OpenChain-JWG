@@ -61,7 +61,7 @@
   * Translations: https://www.openchainproject.org/translations
 
 * Japan WG:
-  * Wiki: https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group
-  * ML: openchain-japan-wg@lists.linuxfoundation.org
-  * GitHub: https://github.com/OpenChain-Project/Onboarding-JWG
+  * Wiki: https://github.com/OpenChain-Project/OpenChain-JWG
+  * ML: japan-wg@lists.openchainproject.org
+  * GitHub: https://github.com/OpenChain-Project/OpenChain-JWG
 
