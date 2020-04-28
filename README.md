@@ -1,4 +1,4 @@
-# Onboarding-JWG
+# OpenChain-JWG
 
 ## This repository provides the outcomes of the [OpenChain Japan work group](https://github.com/OpenChain-Project/Japan-WG-General).
 
