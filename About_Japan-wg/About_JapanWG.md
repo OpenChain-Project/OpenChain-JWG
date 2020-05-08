@@ -55,9 +55,8 @@
 ## 関連情報
 * OpenChain project:
   * Website: https://www.openchainproject.org/
-  * Wiki: https://wiki.linuxfoundation.org/openchain/start
   * GitHub: https://github.com/OpenChain-Project
-  * ML: openchain@lists.linuxfoundation.org
+  * ML: main@lists.openchainproject.org
   * Translations: https://www.openchainproject.org/translations
 
 * Japan WG:
