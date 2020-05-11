@@ -88,3 +88,13 @@
 - **第13回会合** 2020年2月18日(火)  
 場所: DeNA (渋谷)  
 **NOTE**: COVID-19の影響により、残念ながら中止になりました。  
+
+- **第14回会合** 2019年4月23日(木)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4dd; 議事メモ (日本語)]() ```ToBeCommitted```  
+[&#x1f3a5; 録画](https://youtu.be/fFi-c8FQbuQ)  
+[&#x1f4da; Promotion Subgroup](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200423/PromotionSWG_OpenChainProject.pptx)  
+[&#x1f4da; FAQ Subgroup](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200423/FAQ%E4%BD%9C%E6%88%90SWG_OpenChainJapanWG.pptx)  
+[&#x1f4da; Education Subgroup]() ```ToBeCommitted```  
+[&#x1f4da; LicenseInfo Subgroup]() ```ToBeCommitted```  
+[&#x1f4da; Tooling Subgroup]() ```ToBeCommitted```  
