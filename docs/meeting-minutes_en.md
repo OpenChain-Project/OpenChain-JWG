@@ -76,3 +76,13 @@ Venue: NEC (Tamachi, Tokyo)
 
 - **The 13th meeting was cancelled** due to the situation of COVID-19. Initially, it was scheduled for Feb.18, 2020.  
 Venue: DeNA (Shibuya, Tokyo)  
+
+
+- **The 14th meeting** was held virtual on Apr. 23, 2020.
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://youtu.be/fFi-c8FQbuQ)  
+[&#x1f4da; Promotion Subgroup](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200423/PromotionSWG_OpenChainProject.pptx)  
+[&#x1f4da; FAQ Subgroup](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200423/FAQ%E4%BD%9C%E6%88%90SWG_OpenChainJapanWG.pptx)  
+[&#x1f4da; Education Subgroup]() ```ToBeCommitted```  
+[&#x1f4da; LicenseInfo Subgroup]() ```ToBeCommitted```  
+[&#x1f4da; Tooling Subgroup]() ```ToBeCommitted```  
