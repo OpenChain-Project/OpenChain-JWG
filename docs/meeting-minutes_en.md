@@ -78,7 +78,7 @@ Venue: NEC (Tamachi, Tokyo)
 Venue: DeNA (Shibuya, Tokyo)  
 
 
-- **The 14th meeting** was held virtual on Apr. 23, 2020.
+- **The 14th meeting / The 1st Online meeting** was held virtual on Apr. 23, 2020.
 Venue: Socionext Inc. (Zoom)  
 [&#x1f3a5; Youtube](https://youtu.be/fFi-c8FQbuQ)  
 [&#x1f4da; Promotion Subgroup](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200423/PromotionSWG_OpenChainProject.pptx)  
