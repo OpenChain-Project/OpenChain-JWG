@@ -38,6 +38,7 @@ Takashi Ninjouji / 忍頂寺 毅
 Norihiko Mizuyama / 水山 範彦  
 Shinobu Yamamoto / 山本 忍  
 Masato Yoshii / 吉井 雅人  
+Taishi Yoneshima  / 米嶋 大志  
 Ayumi Watanabe / 渡邊 歩  
 Michael Schoenecker / マイケル・ショーネカー  
 
