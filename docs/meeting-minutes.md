@@ -69,7 +69,7 @@
 場所: [デンソーテン (兵庫県神戸市)](https://www.denso-ten.com/jp/company/profile/map/)  
 [&#x1f4da; Japan WG紹介資料](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20181120/openchain_jwg_activities_short_20181120.pdf)  
 
-- **第6回会合** 2018年10月31日(水)  　
+- **第6回会合** 2018年10月31日(水)  
 場所: [東芝 (神奈川県川崎市幸区)](https://www.toshiba.co.jp/about/location/index_j.htm#KAWASAKI)  
 [&#x1f4dd; 議事メモ (日本語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20181031/openchainjwg_6-minutes_jp.pdf)  
 [&#x1f4da; Planning SG報告資料 (日本語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20181031/planningsg_20181031_j.pdf)  
