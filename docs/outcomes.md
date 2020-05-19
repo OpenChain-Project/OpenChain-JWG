@@ -6,15 +6,13 @@
 
 ### ケーススタディ
 
-```ToBeCommitted```  
-
-- [&#x1f4da; OSSコンプライアンス推進の組織・体制について各社の事例 (日本語・英語)]()  
-- [&#x1f4da; OSSコンプライアンス推進の教育・啓発について各社の事例 (日本語・英語)]()  
-- [&#x1f4da; OSSコンプライアンス推進の活動拡大の各社の事例 (日本語・英語)]()  
-- [&#x1f4da; ビジネスフロー 車業界 (日本語)](),  
-[&#x1f4da; ビジネスフロー IT業界 (日本語)](),  
-[&#x1f4da; ビジネスフロー CE業界 + ビジネスフローモデル (日本語)]()  
-- [&#x1f4da; 教育事例の分析(日本語)]()  
+- [&#x1f4da; OSSコンプライアンス推進の組織・体制について各社の事例 (日本語・英語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/OSS_Organization/OpenChainJWG_Organization_LT_20180419(JPEN)r3.pptx)  
+- [&#x1f4da; OSSコンプライアンス推進の教育・啓発について各社の事例 (日本語・英語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/Training/openchainjwg_education_lt_20180613.pdf)  
+- [&#x1f4da; OSSコンプライアンス推進の活動拡大の各社の事例 (日本語・英語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/Training/openchainjwg_activity-stepup_lt_20191218_jpen_.pdf)  
+- [&#x1f4da; ビジネスフロー 車業界 (日本語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/BusinessFlow/BusinessFlow-Automotive.pdf),  
+[&#x1f4da; ビジネスフロー IT業界 (日本語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/BusinessFlow/BusinessFlow-IT.pptx),  
+[&#x1f4da; ビジネスフロー CE業界 + ビジネスフローモデル (日本語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/BusinessFlow/BusinessFlow-CE.pptx)  
+- [&#x1f4da; 教育事例の分析(日本語)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CaseStudy/BusinessFlow/analisys-of-training-of-4companies_english_-20190228-v0.xlsx)  
 
 ---
 
@@ -22,7 +20,7 @@
 
 SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum license information to exchange between comapnies.)
 
-- [&#x1f4da; SPDX Lite Overview]()    ```ToBeCommitted```  
+- [&#x1f4da; SPDX Lite Overview](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)  
 - [&#x1f4c2; proposal of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/Proposal)  
 - [&#x1f4c2; sample of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-Lite-sample)  
 - [&#x1f4c2; (sample for reference) Actual SPDX file](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-file)  
@@ -31,7 +29,6 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### FAQ
 
-```ToBeCommitted```
 - [&#x1f4c2; OSSライセンス関連でよくある誤解](https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material/FAQ)  
 
 ---
@@ -44,16 +41,14 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### OSSコンプライアンスパンフレット
 
-```ToBeCommitted```  
-- [&#x1f4da; OSSコンプライアンスパンフレット]()  
+- [&#x1f4da; OSSコンプライアンスパンフレット](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/promotion/outcomes/oss_compliance_pamphlet_openchain_jpwg.pdf)  
 
 ---
 
 ### Japan WG leaflet / Japan WG リーフレット
 
-```ToBeCommitted```  
-- [&#x1f4da; A4 片面 20180615版(日本語 / Only in Japanese)]()  
-- [&#x1f4da; A4 両面 20180615版(日本語 / Only in Japanese)]()  
+- [&#x1f4da; A4 片面 20180615版(日本語 / Only in Japanese)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Leaflet/One-Page_Version/review/a_openchain_leaflet_onepage.pptx)  
+- [&#x1f4da; A4 両面 20180615版(日本語 / Only in Japanese)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Leaflet/Two-Page_Version/review/b_openchain_leaflet_twopage.pptx)  
 
 ---
 

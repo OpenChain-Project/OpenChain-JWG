@@ -18,7 +18,7 @@
 
 SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum license information to exchange between comapnies.)
 
-- [&#x1f4da; SPDX Lite Overview]()    ```ToBeCommitted```  
+- [&#x1f4da; SPDX Lite Overview](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)  
 - [&#x1f4c2; proposal of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/Proposal)  
 - [&#x1f4c2; sample of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-Lite-sample)  
 - [&#x1f4c2; (sample for reference)Actual SPDX file](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-file)  
@@ -27,7 +27,6 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### FAQ
 
-```ToBeCommitted```
 - [&#x1f4c2; Misunderstandings of OSS licenses](https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material/FAQ)  
 
 ---
