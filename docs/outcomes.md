@@ -33,7 +33,7 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ---
 
-### General Public Guide / 一般公衆ガイド
+### オープンソースソフトウェア ライセンス順守に関する一般公衆ガイド
 
 - [&#x1f4c2; Supplier Leaflet](https://github.com/OpenChain-Project/curriculum/tree/master/supplier-leaflet)  
 
@@ -46,6 +46,8 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 ---
 
 ### Japan WG leaflet / Japan WG リーフレット
+
+**MLへの参加方法などが変わっていますので、ご注意ください**  
 
 - [&#x1f4da; A4 片面 20180615版(日本語 / Only in Japanese)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Leaflet/One-Page_Version/review/a_openchain_leaflet_onepage.pptx)  
 - [&#x1f4da; A4 両面 20180615版(日本語 / Only in Japanese)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Leaflet/Two-Page_Version/review/b_openchain_leaflet_twopage.pptx)  
@@ -67,7 +69,7 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 - [&#x1f4da; "The Auto Industry Implementation of “Open Source Software Supply Chain Management (OSSSCM)”" by Masato Endo](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/auto_industry_implementation_of_open_source_software_supply_chain_management_ossscm_final.pdf)  
 
-#### &#x1f4c5; Open Source Conference Osaka 2018,  
+#### &#x1f4c5; Open Source Conference Osaka 2018  
 
 - [&#x1f4da; "オープンソースコンプライアンスを遵守しよう"(日本語) by Tomo Dote](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/complianceonsupplychainoscosaka.key.pdf)  
 - [&#x1f4da; "ライセンス意識調査"(日本語) by Tomo Dote](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/kof2018-ishiki-chosa.key.pdf)  
