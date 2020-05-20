@@ -54,44 +54,43 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### Slides at the events / イベントでの発表資料
 
-```ToBeCommitted```  
 #### &#x1f4c5; Open Source Summit Japan / Automotive Linux Summit 2018, June
 
-- [&#x1f4da; OpenChain session "Complex made Simple"(English) by Shane Coughlan]()  
-- [&#x1f4da; Keynote(English) by Masato Endo]()  
+- [&#x1f4da; OpenChain session "Complex made Simple"(English) by Shane Coughlan](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/openchain-complex-made-simple-version-2-japanese.pdf)  
+- [&#x1f4da; Keynote(English) by Masato Endo](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/als2018_toyota_final_sent.pdf)  
 
 #### &#x1f4c5; Workshop by Open Culture Foundation Taiwan 2018,August
 
-- [&#x1f4da; "Introduction of OpenChain project Japan Work Group"(English) by Shinsuke Kato and Hiroyuki Fukuchi]()  
+- [&#x1f4da; "Introduction of OpenChain project Japan Work Group"(English) by Shinsuke Kato and Hiroyuki Fukuchi](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/OpenChain_JWG_Activities_20180806_r03.pdf)  
 
 #### &#x1f4c5; Open Compliance Summit 2018, December
 
-- [&#x1f4da; "The Auto Industry Implementation of “Open Source Software Supply Chain Management (OSSSCM)”" by Masato Endo]()  
+- [&#x1f4da; "The Auto Industry Implementation of “Open Source Software Supply Chain Management (OSSSCM)”" by Masato Endo](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/auto_industry_implementation_of_open_source_software_supply_chain_management_ossscm_final.pdf)  
 
-#### &#x1f4c5; Open Source Conference Osaka 2018,
+#### &#x1f4c5; Open Source Conference Osaka 2018,  
 
-- [&#x1f4da; "オープンソースコンプライアンスを遵守しよう"(日本語) by Tomo Dote]()  
-- [&#x1f4da; "ライセンス意識調査"(日本語) by Tomo Dote]()  
+- [&#x1f4da; "オープンソースコンプライアンスを遵守しよう"(日本語) by Tomo Dote](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/complianceonsupplychainoscosaka.key.pdf)  
+- [&#x1f4da; "ライセンス意識調査"(日本語) by Tomo Dote](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/kof2018-ishiki-chosa.key.pdf)  
 
 #### &#x1f4c5; Embedded Linux Cross Forum #8 2019, February
 
-- [&#x1f4da; "OpenChain project Japan Work Groupの紹介"(日本語) by Hiroyuki Fukuchi]()  
+- [&#x1f4da; "OpenChain project Japan Work Groupの紹介"(日本語) by Hiroyuki Fukuchi](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/OpenChain_JWG_Activities_CC0_20190205.pdf)  
 
 #### &#x1f4c5; Open Source Software Seminar 2019, March
 
-- [&#x1f4da; "OSSコンプライアンスにおける企業間の連携活動 (OpenChain プロジェクト)(日本語) by Shinsuke Kato]()  
+- [&#x1f4da; "OSSコンプライアンスにおける企業間の連携活動 (OpenChain プロジェクト)(日本語) by Shinsuke Kato](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/oss%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B_openchain_20190301.pdf)  
 
 #### &#x1f4c5; Open Source License Laboratory event 2019, March
 
-- [&#x1f4da; "OLL分科会と深堀り勉強会ご紹介"(日本語) by Yoshiko Ohuchi]()  
+- [&#x1f4da; "OLL分科会と深堀り勉強会ご紹介"(日本語) by Yoshiko Ohuchi](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/oll%E5%88%86%E7%A7%91%E4%BC%9A%E3%81%A8%E6%B7%B1%E5%A0%80%E3%82%8A%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%94%E7%B4%B9%E4%BB%8B20190319.pdf)  
 
 #### &#x1f4c5; Open Source Leadership Summit 2019, March
 
-- [&#x1f4da; "Using OpenChain For Practical Open Source Software Supply Chain Management (OSSSCM)" by Shane Coughlan and Masato Endo]()  
+- [&#x1f4da; "Using OpenChain For Practical Open Source Software Supply Chain Management (OSSSCM)" by Shane Coughlan and Masato Endo](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/using_openchain_for_practical_open_source_software_supply_chain_management_ossscm_.pdf)  
 
 #### &#x1f4c5; OIN Asian Legal Network round table 2019, March
 
-- [&#x1f4da; "The tools of governance - Program Office and Collaboration between companies"(English) by Hiroyuki Fukuchi and Norio Kobota]()  
+- [&#x1f4da; "The tools of governance - Program Office and Collaboration between companies"(English) by Hiroyuki Fukuchi and Norio Kobota](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Presentations/openchain-aln-20190322-rev2.pdf)  
 
 ---
 
