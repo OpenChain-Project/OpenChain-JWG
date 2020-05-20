@@ -39,7 +39,7 @@ Fumiko Ito / 伊藤 文子
 
 ## Outcomes / 成果物
 
-- [&#x1f4c2; SPDX Lite Overview]()    ```ToBeCommitted```  
+- [&#x1f4c2; SPDX Lite Overview](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)  
 - [&#x1f4c2; proposal of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/Proposal)  
 - [&#x1f4c2; Guideline of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/Guideline)  
 - [&#x1f4c2; sample of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-Lite-sample)  
@@ -49,4 +49,4 @@ Fumiko Ito / 伊藤 文子
 
 ## Meeting memo
 
-- [&#x1f4c2; meeting memo]() ```ToBeCommitted```  
+- [&#x1f4c2; meeting memo](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/licensing/meeting-minutes)  
