@@ -79,4 +79,4 @@ Tomofumi Shimada / 島田 智文
 
 ## Meeting memo
 
-- [&#x1f4c2; meeting memo and materials]() ```ToBeCommitted```  
+- [&#x1f4c2; meeting memo and materials](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/tooling) ```全体会合やTooling-SG会合の資料を閲覧できます```  
