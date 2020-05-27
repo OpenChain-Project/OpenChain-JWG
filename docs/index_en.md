@@ -8,9 +8,6 @@
 
 {% include_relative upcoming-events.md %}  
 
-<details>
-  <summary>click to expand Subgroup meetings</summary>
-
 ### SubGroup Meetings  
 
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
@@ -20,8 +17,6 @@
 {% include_relative subgroups/planning/upcoming-events.md %}  
 {% include_relative subgroups/promotion/upcoming-events.md %}  
 {% include_relative subgroups/tooling/upcoming-events.md %}  
-
-</details>
 
 ---
 
