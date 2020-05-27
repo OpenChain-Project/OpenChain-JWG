@@ -9,11 +9,9 @@
 {% include_relative upcoming-events.md %}  
 
 <details>
-  <summary>
-    click to expand sg meetings 
-    
+  <summary>click to expand Subgroup meetings</summary>
+
 ### SubGroup Meetings  
-  </summary>
 
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
 {% include_relative subgroups/education/upcoming-events.md %}  
