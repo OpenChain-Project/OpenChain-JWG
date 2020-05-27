@@ -4,6 +4,10 @@
 
 ## &#x1f4c5; Upcoming Events
 
+### AllMember Meetings  
+
+{% include_relative upcoming-events.md %}  
+
 ### SubGroup Meetings  
 
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
@@ -13,10 +17,6 @@
 {% include_relative subgroups/planning/upcoming-events.md %}  
 {% include_relative subgroups/promotion/upcoming-events.md %}  
 {% include_relative subgroups/tooling/upcoming-events.md %}
-
-### AllMember Meetings  
-
-{% include_relative upcoming-events.md %}  
 
 ---
 
