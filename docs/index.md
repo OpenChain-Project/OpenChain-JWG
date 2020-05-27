@@ -4,6 +4,10 @@
 
 ## &#x1f4c5; 今後のイベント
 
+### 全体会合  
+
+{% include_relative upcoming-events.md %}  
+
 ### サブグループ会合  
 
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
@@ -13,10 +17,6 @@
 {% include_relative subgroups/planning/upcoming-events.md %}  
 {% include_relative subgroups/promotion/upcoming-events.md %}  
 {% include_relative subgroups/tooling/upcoming-events.md %}
-
-### 全体会合  
-
-{% include_relative upcoming-events.md %}  
 
 ---
 
