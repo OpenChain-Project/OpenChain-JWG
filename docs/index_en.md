@@ -19,7 +19,8 @@
 {% include_relative subgroups/licensing/upcoming-events.md %}  
 {% include_relative subgroups/planning/upcoming-events.md %}  
 {% include_relative subgroups/promotion/upcoming-events.md %}  
-{% include_relative subgroups/tooling/upcoming-events.md %}
+{% include_relative subgroups/tooling/upcoming-events.md %}  
+
 </details>
 
 ---
