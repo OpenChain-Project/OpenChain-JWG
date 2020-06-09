@@ -49,4 +49,4 @@ Fumiko Ito / 伊藤 文子
 
 ## Meeting memo
 
-- [&#x1f4c2; meeting memo](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/licensing/meeting-minutes)  
+- [&#x1f4c2; meeting memo](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/licensing/meetings)  
