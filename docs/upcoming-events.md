@@ -1,5 +1,5 @@
 #### The 15th meeting / The 2nd Virtual meeting
-- Date and Time: **June 18th(Thu), 2020. 2:00pm - 3:30pm (JST)**  
+- Date and Time: **June 18th(Thu), 2020. 2:00pm - 3:30pm (JST) (1:45pm opening the venue)**  
 - Venue: [Online - Zoom](https://socionext.zoom.us/j/99975267803?pwd=R0xzc3VnR1ZyMWpySnZpTDFsNFpUZz09)  
    <img src="https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20200618/qr-zoom-20200618.png" width="128px">  
 
@@ -9,6 +9,7 @@
    
    | Time / 時間 | Presentation / 発表 |  
    |:--|:--|  
+   | 13:45 | Opening the venue / 開場 |  
    | 14:00 - 14:10 | Opening / 開会のあいさつ |  
    | 14:10 - 14:25 | Introduction to OpenChain Japan WG / Japan WGの紹介 |  
    | 14:25 - 14:45 | Introduction to Lightning Talk activity / ライトニングトーク（ケーススタディ）活動の紹介 |  
