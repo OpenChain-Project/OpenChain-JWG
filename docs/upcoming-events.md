@@ -2,6 +2,7 @@
 - Date and Time: **June 18th(Thu), 2020. 2:00pm - 3:30pm (JST)**  
 - Venue: [Online - Zoom](https://socionext.zoom.us/j/99975267803?pwd=R0xzc3VnR1ZyMWpySnZpTDFsNFpUZz09)  
 <img src="../Meeting-Materials/All-Member-Meeting/20200618/qr-zoom-20200618.png" width="128px">  
+
 - Agenda  
 
    | Time / 時間 | Presentation / 発表 |  
