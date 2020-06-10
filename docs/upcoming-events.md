@@ -5,6 +5,7 @@
 
 - Agenda  
 
+   The schedule may be earlier or later depending on the situation.  
    | Time / 時間 | Presentation / 発表 |  
    |:--|:--|  
    | 14:00 - 14:10 | Opening / 開会のあいさつ |  
