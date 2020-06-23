@@ -19,6 +19,7 @@ Yoshiko Ouchi (Fujitsu) / 大内 佳子 (富士通)
 Teppei Asaba / 浅羽 鉄平  
 Shuichi Awaji / 淡路 修一  
 Haruki Iguchi / 井口 治樹   
+Junko Ichino / 市野 純子  
 Teruaki Itoh / 伊藤 輝昭  
 Masato Endo / 遠藤 雅人  
 Kiyoshi Owada / 大和田 清志  
