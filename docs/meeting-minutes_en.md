@@ -4,6 +4,10 @@
 
 ## All Member Meetings
 
+- **The 15th meeting / The 2nd Online meeting** was held virtual on June. 18, 2020.  
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/featured/2020/06/19/openchain-japan-work-group-15th-meeting-recording)  
+
 - **The 14th meeting / The 1st Online meeting** was held virtual on Apr. 23, 2020.  
 Venue: Socionext Inc. (Zoom)  
 [&#x1f3a5; Youtube](https://youtu.be/fFi-c8FQbuQ)  
