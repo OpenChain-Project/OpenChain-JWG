@@ -4,6 +4,10 @@
 
 ## 全体会合の記録
 
+- **第15回会合/第2回オンライン会合** 2020年6月18日(木)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/featured/2020/06/19/openchain-japan-work-group-15th-meeting-recording)  
+
 - **第14回会合/第1回オンライン会合** 2020年4月23日(木)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
 [&#x1f4dd; 議事メモ (日本語)]() ```ToBeCommitted```  
