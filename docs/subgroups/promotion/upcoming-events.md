@@ -1,9 +1,6 @@
 ### Promotion Subgroup
 
-- meeting  
-  次回未定/調整中  
-
-- Survey is in progress!  
+- Survey    
   - 日本語/Japanese  
 **[OSSコンプライアンスのアンケート](https://openchain-project.github.io/OpenChain-JWG/subgroups/promotion/survey-20200618)**  
   - 英語/English  
