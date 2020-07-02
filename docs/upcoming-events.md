@@ -1,21 +1,5 @@
-#### The 15th meeting / The 2nd Virtual meeting
-- Date and Time: **June 18th(Thu), 2020. 2:00pm - 3:30pm (JST) (1:45pm opening the venue)**  
-- Venue: [Online - Zoom](https://socionext.zoom.us/j/99975267803?pwd=R0xzc3VnR1ZyMWpySnZpTDFsNFpUZz09)  
-   <img src="https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20200618/qr-zoom-20200618.png" width="128px">  
+#### The 15th meeting / The 2nd Virtual meeting finished successfully.  
 
-- Agenda  
-
-   The schedule may be earlier or later depending on the situation.  
-   
-   | Time / 時間 | Presentation / 発表 |  
-   |:--|:--|  
-   | 13:45 | Opening the venue / 開場 |  
-   | 14:00 - 14:10 | Opening / 開会のあいさつ |  
-   | 14:10 - 14:40 | Introduction to LFJ Translation Activity / Linux Foundation Japanによる翻訳活動紹介 |  
-   | 14:40 - 14:55 | Introduction to OpenChain Japan WG / Japan WGの紹介 |  
-   | 14:55 - 15:00 | break / 休憩 |  
-   | 15:00 - 15:20 | Introduction to Lightning Talk activity / ライトニングトーク（ケーススタディ）活動の紹介 |  
-   | 15:20 - 15:25 | [Notice: OSS compliance survey / お知らせ：OSSコンプライアンスのアンケート](https://openchain-project.github.io/OpenChain-JWG/subgroups/promotion/survey-20200618) |  
-   | 15:25 - 15:30 | Closing / 閉会のあいさつ |  
+Thank you for participating! See you next time.  
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
