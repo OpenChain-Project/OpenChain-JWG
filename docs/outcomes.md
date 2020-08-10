@@ -41,7 +41,8 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### OSSコンプライアンスパンフレット
 
-- [&#x1f4da; OSSコンプライアンスパンフレット](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/promotion/outcomes/oss_compliance_pamphlet_openchain_jpwg.pdf)  
+- [&#x1f4da; OSSコンプライアンスパンフレット 日本語](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/promotion/outcomes/oss_compliance_pamphlet_openchain_jpwg.pdf)  
+- [&#x1f4da; OSSコンプライアンスパンフレット 英語](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/promotion/outcomes/oss_compliance_pamphlet_openchain_jpwg_english.pdf)  
 
 ---
 
