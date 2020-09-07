@@ -25,6 +25,7 @@ Masato Endo / 遠藤 雅人
 Kiyoshi Owada / 大和田 清志  
 Kazuyoshi Katagiri / 片桐 和宣  
 Tomoki Kawamura / 川村 知生  
+jiang.jin / 江 瑾  
 Manami Koshino / 越野 愛美  
 Megumi Kobori / 小堀 恵  
 Hidenori Shishido / 宍戸 秀徳   
