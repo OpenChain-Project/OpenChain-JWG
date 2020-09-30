@@ -82,6 +82,14 @@ Perform the following in Japanese:
 
 ---
 
+## Online / オンライン
+
+- [Slack#10_tooling-sg](https://openchain-japanwg.slack.com/archives/CGHP86Y4T) (主に連絡・周知など)
+- [Slack#10_tooling-sg-random](https://openchain-japanwg.slack.com/archives/C013BE3TTFG) 
+
+
+---
+
 
 ## Members / メンバー
 
