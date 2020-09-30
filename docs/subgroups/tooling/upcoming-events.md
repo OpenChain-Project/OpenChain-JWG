@@ -1,6 +1,7 @@
 ### [Tooling Subgroup](https://openchain-project.github.io/OpenChain-JWG/subgroups/tooling/)
 
-次回月例会の発表枠はまだ空いてます。発表希望の方は運営にご連絡ください！
+次回月例会の発表枠はまだ空いてます。  
+発表希望の方は運営にご連絡ください！
 
 - 月例会　　: 第4火曜日 16:00-17:00 (次回: 10/27 ※OSS+ELC 2020 Europe があるため変更の可能性アリ)
 - カジュアル: 第2火曜日 16:00-17:00 (次回: 10/13)  
