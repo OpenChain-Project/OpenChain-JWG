@@ -2,7 +2,7 @@
 
 Date and Time: 2020年10月15日(木) 14:00-15:00 /  October 15, 2020 at 2pm-3pm JST  
 Venue: Zoom  
- [https://socionext.zoom.us/j/99975267803?pwd=M25XMnJLaWlYRi9hWkxESVFleWp5UT09](https://socionext.zoom.us/j/99975267803?pwd=M25XMnJLaWlYRi9hWkxESVFleWp5UT09)  
+  Please check the OpenChain-japan mail list or Slack for the meeting ID and the password.   
 Schedule:  
 ```
 14:00 – 14:05  Opening
