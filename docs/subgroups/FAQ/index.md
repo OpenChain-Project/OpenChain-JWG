@@ -30,7 +30,6 @@ Manami Koshino / 越野 愛美
 Megumi Kobori / 小堀 恵  
 Hidenori Shishido / 宍戸 秀徳   
 Naomichi Shima / 島 直道  
-Yasuhiro Shinkai / 新貝 安浩  
 Toru Taima / 當麻 徹  
 Toshihiro Tanaka / 田中 俊宏  
 Shinichi Tanigawa / 谷川 真一  

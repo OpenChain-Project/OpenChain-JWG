@@ -88,6 +88,9 @@ We have four mail lists. To sign up for each mail list, send a message to follow
 We are discussing on following Slack:  
 - [&#x1F4AC; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)  
 
+Please join with the following link:  
+[Join OpenChain Japan WG Slack](https://join.slack.com/t/openchain-japanwg/shared_invite/zt-ijsyy1z4-NQj9Fty9BSNLL3d1YyNkfQ)  
+
 ---
 
 ## License

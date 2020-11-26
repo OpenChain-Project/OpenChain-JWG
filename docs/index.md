@@ -89,6 +89,9 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
 OpenChain Japan WG内の議論は主にSlack上で行われています。  
 - [&#x1F4AC; https://openchain-japanwg.slack.com/](https://openchain-japanwg.slack.com/)  
 
+以下のリンクからご参加ください。  
+[OpenChain Japan WG Slackに参加する](https://join.slack.com/t/openchain-japanwg/shared_invite/zt-ijsyy1z4-NQj9Fty9BSNLL3d1YyNkfQ)  
+
 ---
 
 ## ライセンス
