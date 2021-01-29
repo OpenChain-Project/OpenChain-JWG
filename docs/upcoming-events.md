@@ -1,6 +1,6 @@
 #### The 17th meeting / The 5th Virtual meeting
 
-We are planning the 5th meeting
+We are planning the next meeting
 
 Date and Time: T.B.D.  
 Venue: Zoom  
