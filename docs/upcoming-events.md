@@ -2,7 +2,7 @@
 
 We are planning the 5th meeting
 
-Date and Time: T.B.D.
+Date and Time: T.B.D.  
 Venue: Zoom  
   Please check the OpenChain-japan mail list or Slack for the meeting ID and the password.   
 Schedule:  
