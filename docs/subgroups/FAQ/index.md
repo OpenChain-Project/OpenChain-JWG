@@ -22,6 +22,7 @@ Haruki Iguchi / 井口 治樹
 Junko Ichino / 市野 純子  
 Teruaki Itoh / 伊藤 輝昭  
 Masato Endo / 遠藤 雅人  
+junichi oura / 大浦 純一  
 Kiyoshi Owada / 大和田 清志  
 Kazuyoshi Katagiri / 片桐 和宣  
 Tomoki Kawamura / 川村 知生  
