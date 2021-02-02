@@ -114,6 +114,7 @@ Kouki Hama ([@KoukiHama](https://github.com/KoukiHama)) / 濵 功樹
 Yasutaka Shirai / 白井 保隆  
 Akira Tanaka / 田中 明良  
 Tomofumi Shimada / 島田 智文  
+Naomichi Shima / 島 直道  
 
    ```and more!``` 
 
