@@ -1,0 +1,43 @@
+打ち合わせ議事録
+日時：　2020年8月17日（月）　18:00-19:00
+参加者：伊藤、遠藤、加藤、小泉、小保田、田中（美）、浅羽、當麻
+議事録担当：福地
+議題１：SPDX 3.0
+議題１.１：前回SPDX asia pacific meetingの報告：
+　8月11日SPDX Asia Pacific meeting
+　参加者:Kate Stewart, Steve Winslow, 伊藤、遠藤、浅羽、小保田、福地
+　Usage profile議論
+　　・SPDXはサプライチェーンの上流から下流へ渡すことを前提としている。
+　　Usage profileが意図しているユースケースは説明して理解してくれた。特にKate は理解している。
+　　SPDXとの整合性を取りながら提案内容の改善が必要。
+　　・SPDXにはライセンスの解釈は入れない。
+　　Compatibility という用語は不可。やりたいことを別の表現で伝える必要がある。
+　　https://spdx.github.io/spdx-spec/1-rationale/#15-what-is-not-covered-in-the-specification
+　　・prerequisiteは既に何かの概念で利用されており、誤解を与える。
+　　適当な用語に修正が必要。
+　SPDX 3.0の検討状況説明
+　　・SPDX LiteはAnnexに仮置きされている。
+　　このやり方でSPDX Liteをbase profile やlicensing profile の部分集合として定義するのが良さそう。
+　その他
+　　・Automotive profile の議論
+　　Thomasと議論予定であることをKateと共有。
+議論１．２　対応方法：
+　SPDX General MTGで説明するのはどうか。
+　　SPDX Liteの時は、Gerenal MTGで概要を説明した。
+　提案方法の検討
+　　そもそも、サプライヤー側でパッケージを検査する時に得られる情報のみをSPDXで扱うという制約がある
+　　この制約にどう対応するかが気になっている。
+　　SPDXで扱うデータの制約は、SPDX 2.2辺りから追加されている。
+　　SPDX IdentifierのようにAppendixに利用法を記載するのはどうか
+　　　下流から上流へ流れる情報は、Appendixで参考として記載するとか。
+　　ライセンスコンプライアンスに絞らないで、脆弱性やFunctional Safetyなどを含めた包括的な概念にしたい
+　　　例：脆弱性の観点でこのバージョン以降を利用する、とか。
+議論１．３　SPDX Lite対応
+　内容や対応方法など福地が確認する
+議題２：Automotive WG meeting
+　　HEREのThomasが、SPDXの上記制約をどう考えているのか確認したい。
+　　どういう作戦か確認
+　　遠藤さんが活動の紹介する
+　　そのあと、伊藤さんがPRの状況などを説明する
+次回予定：　2020年8月24日(月)14:00-15:00
+議事録予定：　加藤（パナソニック）
