@@ -1,0 +1,31 @@
+--------------------------------------------------
+■OpenChain Japan WG License Info SWG
+日時 ：2020/11/09(火) 14-15時
+場所 ：Teams会議
+参加者：(敬称略・順不同)
+	伊藤、小泉、安倍、田中、渡辺、忍頂寺、加藤
+記載者：加藤(kato.shinsuke@jp.panasonic.com)
+-------------------------------------------------
+■SPDX 3.0に向けた提案方法の議論
+Kateさんの表についてFixさせる必要あり．
+https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/edit#heading=h.x8df7ykvzy8o
+・ExpectedUpdateSchedule or NextReleaseSchedule のところ
+　「ValidUntil」で，日付ではなくイベントを記載するのでもありだろうか？
+　　例：ValidUntil Desgin Review
+　あと，コミュニティ側の未来のイベントに合わせた書き方もできそう
+　　例：ValidUntil Next CVE Update
+・External Doc.
+　External SPDX Doc が「何であるか？」を書いた方が良いかも
+●SPDX Meeting (11/10(火) 10:00～(JST) に向けて
+・ExpectedUpdateSchedule or NextReleaseSchedule のところ
+　ValidUntil で まだ 迷っている．ValidUntil xxx のように日付以外で書くのは良い点もありそう
+・External Doc.
+　External SPDX Doc が「何であるか？」を例示する
+詳細は下記のDoc内での伊藤さんのコメント部分を参照．またDoc内の2ページ目にExampleを追記
+https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/edit#heading=h.x8df7ykvzy8o
+-------------------------------------------------
+■次回
+11/25(水) 17:00-18:00 (議事担当：小泉さん) @KOIZUMI Satoru
+-------------------------------------------------
+以上。
+-------------------------------------------------

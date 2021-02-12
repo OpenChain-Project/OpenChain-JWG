@@ -1,0 +1,44 @@
+# License-Info SG 2021/01/12, 17:00-18:00
+## 参加者
+Ito, Yoshiyuki
+Ambai, Masaki
+Deguchi, Akihiro
+Fukuchi, Hiroyuki
+Kato, Shinsuke
+Koizumi, Satoru
+Taima, Toru
+Takahashi, Kentaro (Watanabeさんの後任)
+Tanaka, Miyu
+Ushiki, Tatsuhiko
+Kobota, Norio (記:前半)
+Ninjouji, Takashi (記:後半)
+## 次回SPDX Asia Teleconf. に向けて
+1/19 10:00-11:00 (JST) OpenChain bi-weekly Seminar  
+1/19 11:00-12:00 (JST) SPDX Asia-Pacific Teleconf.  
+https://openchain-japanwg.slack.com/archives/CGDAB378R/p1610439387153900  
+```
+Yoshiyuki Ito  17:16
+次回、Asia-Pacific Tel-Confは、Pedigree, Provenanceについて、その後の進捗、詳細について知りたい、というところから、議論を開始することになりそう
+```  
+こちらからの提案など  
+External Document Refにローカルなファイル参照を記載しても良いか、議論をMLに投げる?  
+→ Watanabeさん素案に対する Ito さんコメントを反映した watanabeさん改案をレビュー
+　　改案の要点
+　　- Contoract Information をSPDXで扱うようにしたい旨を明確化
+　　- ライセンスの解釈を含むものではない旨を明確化
+　　- 当該Usage Profile の有効期限を設ける旨を明確化
+　　その他
+　　- 投稿の構成として、照会事項を冒頭に配する
+　　- External Document Ref が SPDXの相互参照のに留まらず、汎用的に利用可能となればそれでもOK
+→ 誰が投稿するか
+　　License-Info WG では OEMから投稿の方が良いのではないか、という意見
+　　→ Takahashiさんに対応可否を検討頂く
+→ いつ投稿するか
+　　ASIA Pacific Telecon までには投稿したい　　
+## DBOM/SBOMについて
+Kate達と議論するためには、これらを学習する必要があるのでは?
+→ NTIAで議論されているものなどの資料
+-------------------------------------------------
+## 次回会合
+2021年1月26日 (火) 17:00-18:00 (議事担当：Taimaさん)
+------------------------------------------------- 
