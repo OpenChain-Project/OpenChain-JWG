@@ -1,0 +1,36 @@
+--------------------------------------------------
+■OpenChain Japan WG License Info SWG
+日時  ：2020/12/14(月) 15-16時
+場所  ：Teams会議
+参加者：(敬称略・順不同)
+	伊藤、出口、當麻、田中、渡辺、忍頂寺、小泉、小保田、安倍
+記載者：安倍
+-------------------------------------------------
+■Agenda
+・OSSJの情報共有
+・SPDX Asia Pacific Tel-conf.に向けた議論
+■OSSJの情報共有
+OSS+ALS JPのKateさんのセッション
+・SPDX 2.2のISO化
+  PAS transposition processの段階
+・SPDXの新しいフォーマット
+  .yaml .json .xmlの3種類
+・SPDX 3.0
+  それぞれのProfileの説明の中にUsage Profileもある
+  PedigreeとProvenanceについて
+  - Pedigree：開発からリリースまで
+  - Provenance：upstream/supplierからdownstream/consumerまで
+■SPDX Asia Pacific Tel-conf.に向けた議論
+・Spdx-tech宛のMLで、SPDXでの契約情報について議論する
+  →トヨタさんで案文とMLへ送信を試す
+  →案文はSlackで議論中
+・Usage Profileの見直し
+  - Kateさんのセッション内で指摘がある以下の部分を議論してどうか
+   「Under discussion: references to other contracts asociated with use of this software」
+  - 他にも追記や提案できる方を募集中
+  https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/Proposal/usage-profile.md
+  https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/edit#
+-------------------------------------------------
+■次回
+1/12(火) 17:00-18:00 (議事担当：小保田さん)
+-------------------------------------------------
