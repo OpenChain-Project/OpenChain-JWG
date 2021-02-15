@@ -15,7 +15,7 @@
 - Team Lead / チームリード  
 Yoshiko Ouchi (Fujitsu) / 大内 佳子 (富士通)  
 
-- Members / メンバー  
+- Members / メンバー（五十音順）  
 Teppei Asaba / 浅羽 鉄平  
 Shuichi Awaji / 淡路 修一  
 Haruki Iguchi / 井口 治樹   
@@ -24,6 +24,7 @@ Teruaki Itoh / 伊藤 輝昭
 Masato Endo / 遠藤 雅人  
 junichi oura / 大浦 純一  
 Kiyoshi Owada / 大和田 清志  
+Takumi Ozaki / 尾崎 巧
 Kazuyoshi Katagiri / 片桐 和宣  
 Tomoki Kawamura / 川村 知生  
 jiang.jin / 江 瑾  
