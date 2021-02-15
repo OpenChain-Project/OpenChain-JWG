@@ -1,0 +1,48 @@
+slack #10_license-info-sgより転載
+https://openchain-japanwg.slack.com/files/UDCGE1C92/FRZRY1ZB7/license______swg-20191223.md?origin_team=TDD41N1DL&origin_channel=CGMGAN7K9
+_____________
+
+# OpenChain Japan ライセンス情報 Sub Working Group
+
+## SPDX-3.0 discussionについて
+
+- 資料は共有済
+  https://openchain-japanwg.slack.com/archives/CGDAB378R/p1576807264001100
+- SPDX 2.2 or 3.0でISO化予定
+- 2.1~2.2の違い
+  - SPDX Liteが入った。
+  - 新しいfieldを入れた(ex. ExternalReference)
+  - ファイルフォーマットが追加された。
+    xml, json, yaml
+- 3.0について
+  William: Githubの人が主に説明
+  - 作る理由
+  現状、OSSのライセンスコンプライアンスのみに必要な情報が入っていた。
+  → 一般化したSBOMにしたい、と考えている。
+  様々な情報を入れていくと、SBOMが肥大化するので、そこを上手く纏めたい
+  - どのように?
+  プロファイルという概念を導入する
+    - Base
+      SPDX-Liteと同一なのか、そうでないのか、未定。
+      Kate達もSWIDを議論している人たちと相談している。(SPDX-Liteがほぼ満たしていた)
+    - Base, Licensing, Security, Export Control, Pedigree, Provenance, Privacy
+      上記が今考えられているプロファイル。組み合わせて管理していく。
+      Pedigree: 誰が何を使って生成したか、の情報
+      Security: CPEは、v2.2からExternalReferenceとしてTagがある。ただし、ツールが生成しようとしなかったのか、そもそもCPEがassignされていないのか、を判断するために、NONE/NOASSERTIONをいれるのかは、今後issueを立てて、PRを送る。
+    - スナップショットでしかないので、SPDX生成時点での脆弱性情報等を都度生成する必要がある。
+
+## CHAOSS について
+
+https://github.com/chaoss/metrics
+
+## ガイドラインについて
+
+ガイドラインを@ambaiさんが修正されている。2章移行、変更。
+→ PR送ってもらう。
+
+## その他
+
+SPDX-Liteの最新仕様を送ってもらいたいと、複数名から問い合わせを受けた。
+→ SPDXオリジナルRepoのURLを伝える。
+
+## EOF

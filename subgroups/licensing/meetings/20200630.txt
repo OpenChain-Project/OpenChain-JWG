@@ -1,0 +1,49 @@
+slack #10_license-info-sgより転載
+https://openchain-japanwg.slack.com/files/U013MV7PCA0/F016HRWNYBW/openchain_________2020630.txt?origin_team=TDD41N1DL&origin_channel=CGDAB378R
+
+______________________
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2020/06/30(火) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略)
+　伊藤，福地, 小保田，浅羽、當麻, 牛木，安倍, 小泉, 遠藤，田中
+
+記載者：田中
+--------------------------------------------------
+
+
+■SPDX 3.0の提案
+⇒SMCのステータスを検討
+https://openchain-japanwg.slack.com/archives/CGDAB378R/p1593503103188400
+
+＜JWGからの提案内容SCM　profileの検討＞
+チーム内での認識合わせを実施。
+遠藤さんの素案に基づいて、伊藤さんがSPDXの書式に合わせたものを作成
+⇒今後はGITやSlackを使って検討を進める
+
+
+・Product information ( Product name, product number, etc. )、
+  対象製品名・製品コード等、テキストデータ
+→Final Product informationとすることを検討？
+　*Tier2→Tier1→OEMとレポートする際、
+　 Tier2はTier1にとって製品名がが何なのかを明確にする
+
+・Compatible license with final product or not、
+　パッケージが最終製品が互換性があるか否か
+→ライセンスに特定して良いかは議論の余地有
+　*パテント、セキュリティの脆弱性の面も懸念
+
+
+■SPDX LiteとSPDXv3.0　Base profileの比較
+・未定義のものが多く詳細比較不可
+⇒LiteとBaseは考え方が異なるため両立可能？
+　*Reviewの際に意見を言う必要有⇒JWGとしての意見をまとめる
+
+
+-----------------
+
+■次回会合日程
+7/13(月) 17:00～18:00 (議事担当：小保田さん)
+
+-------------------
