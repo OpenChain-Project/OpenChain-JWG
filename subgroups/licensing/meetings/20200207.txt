@@ -1,0 +1,58 @@
+slack #10_license-info-sgより転載
+
+___________________
+
+日時：2020年2月7日(金) 15:00- 17:00
+場所：富士通 (富士通マーケティング 品川オフィス)
+要旨
+## 次回　
+- 2/28, 15:00-17:00 (候補：トヨタ(水道橋))
+　議事録：遠藤さん
+　* 追って、遠藤さんから周知が出る
+　　水道橋で会議室が確保できない場合は、15:30 - (品川) として富士通様に検討頂く
+- 予定するトピック
+  -- 2020年度の方針をどうするか
+  -- 実務に沿った論点とガイドを整備していきたい
+## 伊藤さんからの共有
+　- ELISA
+　Functional Safety について検証済みとしたのは誰か、という情報を SPDX3.0 に盛り込むよう提案することが決まった。
+  ELISAにSPDXはまだ実務に入ってくる状況ではないが、備えは必要。
+  使う人、保証する人、をSPDXに含む情報として明確にする必要がある、というところか。
+  - Copyleft Conference
+  マイルドな話もあれば、そうではない様相も見られた。
+  Permissive なライセンスの勢いが増していることを警戒する声があった。
+　Game関連のOSSという文脈での意見だったようだが、Permissiveはわかりやすい/伝えやすいが、Copyleftは難し、など。
+  最近のライセンス動向の話題としては、Ethical Open Source License など。
+  政治運動のツールとしてライセンスを利用したい、などの声もある。
+  ただ、Public Morality との関係も考慮する必要があり、主張できても、強制(enforcement)には歯止めがかかるのではないか。
+  GPLv3 の次といった議論はとくに見られなかった。
+  - FOSDEM
+  Copyleft Con. でも話題になったが、API は Copywritable だが Copyleftを主張するのは違うだろうという話題など。
+ ## SPDX をどう普及させるか
+ - SPDX Lite は、サプライチェーンでのSBOM管理運用のきっかけである。
+   初心者向けに、渡す人：どう扱うか、受け取る人：どう使うか、をきちんと情報提供する必要がありそう。
+   Tier1 に適切にメリットを理解できるようにしたい。
+   今後のガイドラインの整備としては、そうした情報を盛り込むようにしていく。
+   → 伊藤さんが Operation (運用) ガイドラインの書きかけがある。みんなで協力して作り上げていくべき。(1)
+ ## パッケージ単位でのライセンス情報の扱い
+ - PermissiveよりもCopyleft、Proprietary など管理すべき重要項目を抜き出したいとする実務需要がある。
+   したがって、Package内は原則Compatible な構成になることは承知されているとしても、
+   厳密な管理が必要となる場合、ソースコード全体を提供するはずなので、そちらで原本のライセンスを確認することになりそう。
+ ## Guidelines の置き場所、どう参照して貰うか  
+ - 現状、OpenChain の GitHub においている。
+   完成後、どこから参照して貰うようにすればよいか。英語版の用意も必要。
+   SPDX Project に提供して、2.2, 3.0 などの仕様やドキュメント策定の材料として提供できるとよいのではないか。
+ - wiki が Close になるので、他のSWGも含めて、Japan-WGとして情報発信方法の整理が必要。
+ ## 第13回の活動報告のトピック
+ - SPDX 3.0 のコメント募集について
+  -- 組込や自動車業界からのコメント
+  -- ユースケース募集中
+ - Guideline がほぼ固まった。Operation Guide にも着手。
+ ## Issues & Updates （2）
+ -- テンプレートに追記。Section番号は仕様書に依る。
+ -- テンプレートに追記。二つのシートがあり、一方はSPDX Lite相当ファイル毎、もう一方はパッケージ毎である。
+(1)
+https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/Guideline/Operations-On-SupplyChain-Guideline(JP).md
+(2)
+https://github.com/OpenChain-Project/Japan-WG-General/commits/master/License-Info-Exchange/Guideline/License-Info-Guideline(JP).md
+以上
