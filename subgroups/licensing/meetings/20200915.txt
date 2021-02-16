@@ -1,0 +1,65 @@
+--------------------------------------------------
+■OpenChain Japan WG License Info SG
+日時  ：2020/09/15(火) 17-18時
+場所  ：Teams会議
+参加者：(敬称略・順不同)
+	伊藤、出口、安倍、浅羽、小泉、田中、渡辺、當麻、加藤、福地
+記載者：忍頂寺
+-------------------------------------------------
+1. SPDX ASIA 電話会議 概要
+2. Usage Profile の今後の進め方
+3. その他: promotion-sgが実施したアンケート調査について
+1. SPDX ASIA Teleconference (9/18) 概要
+- 日本からUsage Profileについて説明した。
+-- 次の3点を入れている。
+--- ExpirationInfo : 有効期限
+--- TargetProductInfo: SPDXドキュメントが対象とする製品の特定
+--- License Conpatibility：PackageVerificationCodeの活用を想定
+-- 日本側で継続検討することとした持ち帰った
+--- 日本側で議論をまとめ、改めてSPDX TechやLegalに提案する。
+---- SPDX Teach で 3.0 に向けた議論が進行中のため、次回ASIA電話会議を待たずにアクションが取れるとよさそう。
+-- 質疑
+--- SPDX-WGからの指摘1: ExpirationInfoの対象が、SPDXドキュメントかPackageかを明確にすべき
+---- これに対して、Usage Profile はSupplyerがOEMへの下流へのサジェスチョンとして流すことを想定。そのため、SPDXドキュメントに対するExpirationとなる。
+--- SPDX-WGからの指摘2: -- Usage Profileの対象が、最終製品か検証かを明確にすべき
+---- SPDX-WGからは、VerificationのためのHash値との解説があった。
+----- これを受けてPackageVerificationCodeの利用方針は見直す必要がある。
+---- SPDX-WGからは、Package からプロパティとして、別枠の箱を設けてはとの提案があった。
+---- 以上の点を踏まえて、Japan-WG (License Info SG) で再考の必要性がある。
+- 3T SBOM の動向について
+-- SPDX-WGから、CISQとの検討状況の共有があった。
+--- SPDX-WGがSPDX3.0、CISが3T SBOMをそれぞれ策定しようとしており、双方の仕様を Side by Side で比較検討中とのこと。現状、双方とも、仕様を統合するような意図はない。
+--- SPDX-WGからは、Usage Profileの検討はSPDX3.0向けとして進めてよいとの指摘あり。
+--- 参考資料
+---- https://docs.google.com/presentation/d/1dvGeCAbOUSD5qFQ6mt1WsnBEZvatnonYpKGdAQCIWZg/edit#slide=id.g8fb5872921_0_5
+---- https://wiki.spdx.org/view/Technical_Team/Minutes/2020-09-08
+2. Usage Profile の今後の進め方
+- Pull Request "Initial description of "Proposal of Useage Profile for SPDX 3.0 #468"
+-- https://github.com/spdx/spdx-spec/pull/468
+-- SPDX 全体の位置づけを明確にして、理解を得る必要があありそう
+--- SPDXの最新のモデル図に基づいて議論したいが、それ自体も策定中という状況。
+--- Thomas も新規プロファイルを提案しようとしている。
+---- 新規モデルの追加という点では、連携できないか探ることにする。
+---- 彼の提案にセキュリティ情報の確認期限という論点があるが、内容までの連携はなさそう。
+- Tear1 や OEM事業者における、Use Profile の意向を明確にする
+-- 自動車業界としては必要との認識で提案するものという事情は変わらない。
+--- 先の Automotive Working Group 電話会議を通じて一定の理解が得られているならば、より具体的な運用例を示して議論を進める必要がある。
+---- その時にLicense-Info SGから提示した資料をユースケースの議論の下地にして、実際の利用形態上、好ましい記載レベルなどを明確にしていく。
+---- Thomas に彼自身の進捗を聞いてみて、それも参考にさせてもらう。
+--- 関連して、SPDX LegalからLegal Interpretationは扱えないとの指摘については、
+Liecnse Compatibility のどういった点においてのことか判然としていないのではないか。
+---- SPDX ASIA 電話会議には、SPDX Leagal からも参加して貰っている。その機会を踏まえて整理をしていくのがよさそう。
+- issues:"Code Rule applied" tag for Functional Safety #465"
+-- https://github.com/spdx/spdx-spec/issues/465
+-- Community で Functional Safety を進める上で、Coding Rule の必要性を説明する必要がありそう。
+-- AGL側の背景はISO26262との関連ではなくQMの方にある。MISRA-C対応でなくてもQMに持って行きたい、というのが意図にあるのかなど、不明なところがある。AGLでは、最終的には事業者任せになるとはいえ指針が欲しい、といった議論があった。
+--- AGLのIC EGでの議論が参考になるかも。Health of the community の項目など。
+---- https://confluence.automotivelinux.org/display/IC/Architectural+criteria+of+the+reusing+existing+OSS
+--- AGLにおけるFunctional Safetyの議論動向は適宜確認が必要である。
+3. その他: promotion-sgが実施したアンケート調査について
+- 回答者にはエクゼクティブサマリが届いている。
+- 内容について省略
+- 次回
+-- 9/29 (火) 16:00-17:00,
+   議事担当：當麻
+以上 

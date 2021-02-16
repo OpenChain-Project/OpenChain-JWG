@@ -55,13 +55,12 @@
 ## 関連情報
 * OpenChain project:
   * Website: https://www.openchainproject.org/
-  * Wiki: https://wiki.linuxfoundation.org/openchain/start
   * GitHub: https://github.com/OpenChain-Project
-  * ML: openchain@lists.linuxfoundation.org
+  * ML: main@lists.openchainproject.org
   * Translations: https://www.openchainproject.org/translations
 
 * Japan WG:
-  * Wiki: https://wiki.linuxfoundation.org/openchain/openchain-japanese-working-group
-  * ML: openchain-japan-wg@lists.linuxfoundation.org
-  * GitHub: https://github.com/OpenChain-Project/Onboarding-JWG
+  * Wiki: https://github.com/OpenChain-Project/OpenChain-JWG
+  * ML: japan-wg@lists.openchainproject.org
+  * GitHub: https://github.com/OpenChain-Project/OpenChain-JWG
 

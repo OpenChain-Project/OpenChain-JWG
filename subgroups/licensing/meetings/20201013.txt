@@ -1,0 +1,32 @@
+--------------------------------------------------
+■OpenChain Japan WG License Info SWG
+日時  ：2020/10/13(火) 15-16時
+場所  ：Teams会議
+参加者：(敬称略・順不同)
+	伊藤、小泉、田中、牛木、當麻、出口、加藤、小保田、渡辺、忍頂寺、安倍
+記載者：安倍
+-------------------------------------------------
+■Agenda
+SPDX 3.0に向けた提案方法の議論
+前回継続で、全体の構造に対して、Usage Profileをどう位置付けるか、
+Kateさん作成の概要テーブルの更新、pull requestの再発行方針など
+■SPDX ASIA Teleconference
+・「UsageProfile-20201013a.pptx」を説明した。
+ - 製品情報などを外部のドキュメントを参照して機械的に取得するようにする
+ - Expirationを別の言葉に変更
+   “Next Release Schedule” or “Expected Update Schedule”
+ - SPDXファイル群を管理するための提案
+・Kateさんから下記のドキュメントの紹介
+このドキュメントを使って、他の会議でUsage Profileを紹介する予定
+ - SPDX 3.0 - Document Structure
+ https://docs.google.com/document/d/19pAxCjXER5c_tdAjIIqK2Ipz5AvirH81GQuG5CsP8wk/mobilebasic
+ - SPDX 3.0 - Usage Profile
+ https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/mobilebasic
+■Kateさん作成の概要テーブル(SPDX 3.0 - Usage Profile)の更新
+各フィールドについて議論しながら更新
+ - まだ不明確なところもあるため、記載できるところまで書いて
+   Kateさんの反応を確認する
+-------------------------------------------------
+■次回
+10/28(水) 17:00-18:00 (議事担当：田中さん)
+-------------------------------------------------
