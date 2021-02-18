@@ -1,8 +1,8 @@
 <div style="text-align: right;">
-<a href="index.html">Back / –ß‚é</a>
+<a href="index.html">Back / æˆ»ã‚‹</a>
 </div>
 
-## Outcomes / ¬‰Ê•¨
+## Outcomes / æˆæœç‰©
 
 - [&#x1f4c2; SPDX Lite Overview](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)
 - [&#x1f4c2; Specification of SPDX Lite](https://spdx.github.io/spdx-spec/appendix-VIII-SPDX-Lite/)
