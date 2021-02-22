@@ -41,7 +41,7 @@ Fumiko Ito / 伊藤 文子
 
 - [&#x1f4c2; Guideline for License Information Exchange](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Guideline)
 - [&#x1f4c2; SPDX Lite](SPDX_Lite.html)
-- [&#x1f4c2; other](___.html)
+- [&#x1f4c2; Usage Profile of SPDX](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/UsageProfile)
 
 ---
 
