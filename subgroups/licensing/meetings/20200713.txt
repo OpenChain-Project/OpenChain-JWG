@@ -1,0 +1,50 @@
+# OpenChain Japan WG Licensing-info SWG
+​
+日時: 2020/07/13 17:00-18:00
+場所: Teams Online meeting
+参加者:(敬称略)
+阿部、福地、加藤、遠藤、忍頂寺、小泉、田中、浅羽、伊藤、大内、當麻、小保田(記)
+​
+## - SPDX 3.0の提案について
+​
+提案文書は以下。
+<https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/Proposal/Proposal-of-X-usecase-profile.md>
+​
+※ 2020/07/13時点でgithubの調子が悪いため、幾つか反映されていないものがある
+​
+### Functional Safety
+​
+- Who obtained certification
+- Information of authentication
+​
+> AGL Instrument Cluster Expert Groupから、機能安全(Quality Management Levelの検証状況)について、SPDXに取り入れることが出来ないか、という提案を受けている
+​
+- Contribution Ruleがあるか
+- Coding Rule and/or Style Guideがあるか
+  Coding Ruleが記載されたドキュメントを表すURLを記載する?など詳細はこれからとして、提案してみるのは良さそう。
+​
+### Clarification of who contributed to the community
+​
+以下、コミュニティの健全性に関しては?
+​
+・ Who contributed to the community in the Supply Chain
+・ The evidences of the contribution
+​
+→ Tagにしづらい
+​
+### 最終製品に含められないライセンスで許諾されているOSSの取り扱いについて
+​
+```Usecase Profile``` : なんかよい名前無いか、継続検討
+RFQをちゃんと満たしているかのチェックに使いたい。
+例えば、開発中は利用していてもいいが...というのをどのような表現でTagにするのか。説明をうまく行わないと伝わらない。
+​
+### 明日のSPDX AP Telcon
+​
+伊藤さんメイン、遅れた場合は参加者でサポート
+Usecase Profileについて説明(検討中ということ含めて)、AGL IC-EGは資料作って(文章だけで良い)相談する。
+※ IC-EGからのインプットの補足として、浅羽さんの資料を共有していただく(OSSの採用プロセス→英語版が欲しい:)
+​
+## - 次回日程、議事録担当
+​
+2020/07/29(水) 11:00-12:00
+議事録: 遠藤さん

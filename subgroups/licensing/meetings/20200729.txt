@@ -1,0 +1,16 @@
+日時：2020/07/29　11:00-12:00@Teams
+参加者：伊藤さん、小泉さん、加藤さん、安倍さん、御子柴さん、小保田さん、笹谷さん、田中さん、牛木さん、福地さん、遠藤
+
+・Here ThomasがSPDXのAutomotive Profileを検討中⇒Automotive WGで意見交換MTGをやろう！
+8/17-19の夕方でThomasに打診、日程決まったらAutomotive WG MLに流す、Shane、Kateにも連絡（遠藤）
+
+・SPDX3.0
+①Functional Safetyに対してCording Rule（Certification Profileに入る？）の取り扱いの議論
+-Cording Rule⇒入れることについては、いまのところsgとして意義はなし
+-Issue Listに登録完了
+-AGL AMMにヤンシモンが静的解析ツールについて言及し、それを入れようという話があった⇒Cording Ruleと別建て？
+ 明日浅羽さんに確認頂く
+②Usage Profileについて
+-prerequisiteの表現ってどう？⇒Shaneにメールで確認し返信待ち
+
+次回8/17 PM5:00-
