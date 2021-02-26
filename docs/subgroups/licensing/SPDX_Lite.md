@@ -23,8 +23,9 @@ SPDX LiteはSPDXの部分集合として定義されています。SPDX 2.2か�
 
 - [&#x1f4c2; Guideline](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Guideline)
 
-## Samples/例
+## Templates & Samples/雛型と例
 
+- [&#x1f4c2; samples](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/template)
 - [&#x1f4c2; samples](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/sample)
 
 
