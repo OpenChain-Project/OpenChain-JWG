@@ -8,14 +8,14 @@
 
 ## Overview/概要
 
-- [Overview (English)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)/[概要（日本語）](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/SPDX-Lite-overview-JP.pptx)
-- [もう一つの概要（日本語）](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/SPDXLite.pptx)
+- [&#x1F4D6; Overview (English)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)/[&#x1F4D6; 概要（日本語）](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/SPDX-Lite-overview-JP.pptx)
+- [&#x1F4D6; もう一つの概要（日本語）](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/SPDXLite.pptx)
 
 ## Specification/仕様
 
 SPDX LiteはSPDXの部分集合として定義されています。SPDX 2.2からは、そのAppendixとしてSPDX本体の仕様に取り込まれました。
 
-- [Specification](https://spdx.github.io/spdx-spec/appendix-VIII-SPDX-Lite/)
+- [&#x1f310; Specification](https://spdx.github.io/spdx-spec/appendix-VIII-SPDX-Lite/)
 
 ## Guideline/ガイドライン
 
@@ -31,5 +31,5 @@ SPDX LiteはSPDXの部分集合として定義されています。SPDX 2.2か�
 
 ## Reference/参考資料
 
-- [&#x1f4c2; proposal of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/Proposal-of-SPDX-Lite.md)
+- [&#x1F4D6; proposal of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/Proposal-of-SPDX-Lite.md)
 - [&#x1f4c2; (sample for reference)Actual SPDX file](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Reference/spdx-rcar_h3.tar.bz2)
