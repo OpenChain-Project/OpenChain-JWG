@@ -1,6 +1,6 @@
 # OpenChain-JWG
 
-## This repository provides the outcomes of the [OpenChain Japan work group](https://github.com/OpenChain-Project/Japan-WG-General).
+## This repository provides the outcomes of the [OpenChain Japan work group](https://openchain-project.github.io/OpenChain-JWG/index_en.html).
 
  We'll share the outcomes in this repository and here's a current list.
 
@@ -38,7 +38,7 @@ or
 ---
 ---
 
-## このリポジトリでは[OpenChain Japan Work Group](https://github.com/OpenChain-Project/Japan-WG-General)の成果物を提供します
+## このリポジトリでは[OpenChain Japan Work Group](https://openchain-project.github.io/OpenChain-JWG/index.html)の成果物を提供します
 
 作業成果物をこのリポジトリで管理しています。現状では以下のような資料があります。
 
