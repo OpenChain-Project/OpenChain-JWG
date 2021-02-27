@@ -399,7 +399,7 @@ SPDXライセンス リストに掲載されていないライセンスの場合
 
 #### Microsoft ExcelによるSPDX Lite記入テンプレート
 SPDX LiteをMicrosoft Excelで手書き記入する場合のテンプレート
-https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-Lite-sample/SPDXLite-Template.xlsx
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/template/SPDXLite-Template.xlsx
 
 
 このテンプレートに記載されている「SPDX Section no.」は、本guidelineで「corresponding SPDX section no.」と記載されているSPDX仕様書上のsection番号に対応しています。
@@ -409,15 +409,15 @@ https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-E
 (* )概ね、記載変更の必要がないため、別個のシートとして独立したテンプレートにしています。
 
 #### OSS単独の構成
-例)SPDX tools https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/SPDXtools-SPDXLite.txt
+例)SPDX tools https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/sample/SPDX-tools-spdxlite.txt
 
 #### 受託開発の納品物でOSSを利用している構成
 受託開発の納品物で複数のOSSを利用している場合の記載例
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/spreadsheet_sample2/SPDX-Lite-sample.xlsx
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/sample/SPDX-Lite-sample.xlsx
 
 #### その他の記載例
 複数のOSSが含まれるパッケージなどの記載例を、以下に収納しています(* )。
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample
+https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/sample
 
 (* )これらの事例を収めたシートは、一部、議論途上もしくは古い仕様案で記載されたものがあります。準拠すべきフォーマットについては、最新版のテンプレートをご利用ください。
 
@@ -432,8 +432,7 @@ https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-E
 ![SupplyChain](./SupplyChain-en.png)
 
 4社のSPDX-Liteファイル
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/spreadsheet_sample3
+https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/sample/sample_in_supply_chain
 
 4社の納品物のOSS情報を1ファイルに纏めたファイル
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/spreadsheet_sample3/spdx_lite_sample_all.xlsx
-
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/sample/sample_in_supply_chain/spdx_lite_sample_all.xlsx

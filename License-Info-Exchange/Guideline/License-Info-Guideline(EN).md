@@ -371,7 +371,7 @@ When you shuld define your own License Identifier, please describe as unique ide
 ### SPDX Lite Template in a Microsoft Excel format
 SPDX Lite templates in a Microsoft Excel format: 
 
-https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-Lite-sample/SPDXLite-Template.xlsx
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/template/SPDXLite-Template.xlsx
 
 In this sample, "SPDX Section no." is "corresponding SPDX section no." in this guideline. 
 
@@ -383,15 +383,16 @@ This template gives two sheets. The first one is a sheet for Package layer field
 
 Example)SPDX tools 
 
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/SPDXtools-SPDXLite.txt
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/sample/SPDX-tools-spdxlite.txt
 
 ### An example in the case where a supplier uses OSSs
 An example in the case where a supplier uses OSSs
 
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/spreadsheet_sample2/SPDX-Lite-sample_20190920.xlsx
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/sample/SPDX-Lite-sample.xlsx
 
 ### Another example
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample
+
+https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/sample
 
 
 ### An example of an embedded system 
@@ -405,11 +406,8 @@ An example that there are four suppliers in the supply chain, and SPDX Lite file
 
 SPDX-Lite file
 
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/spreadsheet_sample3
+https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/sample/sample_in_supply_chain
 
 The combined file from four compaines' OSS information.
 
-https://github.com/OpenChain-Project/Japan-WG-General/blob/master/License-Info-Exchange/SPDX-Lite-sample/spreadsheet_sample3/spdx_lite_sample_all.xlsx
-
-
-
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/sample/sample_in_supply_chain/spdx_lite_sample_all.xlsx
