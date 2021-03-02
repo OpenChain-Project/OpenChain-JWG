@@ -32,4 +32,4 @@ SPDX LiteはSPDXの部分集合として定義されています。SPDX 2.2か�
 ## Reference/参考資料
 
 - [&#x1F4D6; proposal of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/Proposal-of-SPDX-Lite.md)
-- [&#x1f4c2; (sample for reference)Actual SPDX file](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Reference/spdx-rcar_h3.tar.bz2)
+- [&#x1F5C3; (sample for reference)Actual SPDX file](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Reference/spdx-rcar_h3.tar.bz2)
