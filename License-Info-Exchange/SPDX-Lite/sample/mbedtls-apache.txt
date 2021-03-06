@@ -15,7 +15,7 @@ PackageDownloadLocation: https://tls.mbed.org/download
 FilesAnalyzed: false
 PackageHomePage: https://tls.mbed.org/
 PackageLicenseConcluded: Apache-2.0
-PackageLicenseInfoFromFiles: Apache-2.0
+# PackageLicenseInfoFromFiles: Apache-2.0
 PackageLicenseDeclared: (Apache-2.0 OR GPL-2.0-only)
 PackageLicenseComments: <text>
 The mbed TLS is available as open source under the Apache 2.0 license or the GPL 2.0 license. You can select the apache-2.0 on downloading it. This is released under Apache-2.0. 
@@ -23,4 +23,7 @@ The mbed TLS is available as open source under the Apache 2.0 license or the GPL
 PackageCopyrightText: <text>Copyright (C) 2015-2018, Arm Limited (or its affiliates), All Rights Reserved</text>
 PackageComment: <text>
 The package is only downloaded. We've never changed it yet.
+ ModificationRecord: NO
+ CompileOptions: -
+ LinkMethodology: -
 </text>
