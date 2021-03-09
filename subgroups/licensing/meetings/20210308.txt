@@ -1,0 +1,33 @@
+【打ち合わせメモ】
+日時：　2021年3月8日(月)17:00-18:00
+参加者：伊藤、當麻、小泉、出口、鷲森、小保田、福地（議事録担当）
+
+（１）License Info SGのGitHub上データ整理
+小泉さんが作業
+全体会合で、SPDX Liteの成果について説明したいので、GitHub上でSPDX Liteを説明するページを整理した
+OpenChain-JWGに全てのデータを集約した
+小泉さんが主導的に整理を進めている
+何か変更があれば、GitHubを直接修正してもらってもよい
+SPDX Liteのサンプルを差し替えした
+整理は一段落したと思う
+改善提案があれば、もらいたい
+Usage Profileの提案も、OpenChain-JWGに移動した
+Guidelineについては、SPDX仕様の章番号との整合について確認が必要かも
+A.I.
+SPDX Lite overviewの資料のSPDX仕様と章番号を確認する
+
+（２）Asia pacific TelConferenceに向けて
+Tag/Profileを記述するためのテンプレートが作成されている
+Eternal ReferenceのCategoryはまだ議論されていない
+Linking profileでもExternal Referenceを使って依存関係を記述したい
+Usage profileとLinking profileを協調して議論していきたい
+SPDXのMeeting Minutesを紹介
+Asia Pacific Teleconfの議事録が作成されるようになった
+Playbook
+Supplier視点とUser視点の2種類のドキュメントがある
+Suppilerの定義として、Software Supplierが記載されているが、Hardware Supplierから受け取ることも考慮した方が良いかも知れない
+もう少し読み進めて、提案をしたい
+
+次回予定
+日時　　3月23日(火)　17:00-18:00
+議事録　當麻
