@@ -1,0 +1,29 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: mbedtls-2.16.2
+DocumentNamespace: http://spdx.org/spdxdocs/mbedtls-2.16.2-d92dab8c-6849-42f7-b4ef-843092878b27
+Creator: Person: Tomo Dote(fu7mu4@gmail.com)
+Creator: Organization: OpenChainProject ()
+Created: 2019-01-25T01:01:01Z
+
+PackageName: mbedtls
+SPDXID: SPDXRef-1
+PackageVersion:	2.16.2
+PackageFileName: mbedtls-2.16.2-apache.tgz
+PackageDownloadLocation: https://tls.mbed.org/download
+FilesAnalyzed: false
+PackageHomePage: https://tls.mbed.org/
+PackageLicenseConcluded: Apache-2.0
+# PackageLicenseInfoFromFiles: Apache-2.0
+PackageLicenseDeclared: (Apache-2.0 OR GPL-2.0-only)
+PackageLicenseComments: <text>
+The mbed TLS is available as open source under the Apache 2.0 license or the GPL 2.0 license. You can select the apache-2.0 on downloading it. This is released under Apache-2.0. 
+</text>
+PackageCopyrightText: <text>Copyright (C) 2015-2018, Arm Limited (or its affiliates), All Rights Reserved</text>
+PackageComment: <text>
+The package is only downloaded. We've never changed it yet.
+ ModificationRecord: NO
+ CompileOptions: -
+ LinkMethodology: -
+</text>

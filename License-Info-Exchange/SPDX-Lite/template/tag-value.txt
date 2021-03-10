@@ -1,0 +1,29 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: 
+DocumentName: 
+DocumentNamespace: 
+Creator: Person: 
+Created: 2021-02-26T12:34:56Z
+
+PackageName: 
+SPDXID: 
+PackageVersion: 
+PackageFileName: 
+PackageDownloadLocation: 
+FilesAnalyzed: false
+PackageHomePage: 
+PackageLicenseConcluded: 
+PackageLicenseDeclared: 
+PackageLicenseComments: <text></text>
+PackageCopyrightText: <text></text>
+PackageComment: <text>
+ ModificationRecord: 
+ CompileOptions: 
+ LinkMethodology: 
+</text>
+
+LicenseID: 
+ExtractedText: <text></text>
+LicenseName: 
+LicenseComment: <text></text>

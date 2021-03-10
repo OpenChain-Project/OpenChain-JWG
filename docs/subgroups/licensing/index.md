@@ -39,12 +39,9 @@ Fumiko Ito / 伊藤 文子
 
 ## Outcomes / 成果物
 
-- [&#x1f4c2; SPDX Lite Overview](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)
-- [&#x1f4c2; Specification of SPDX Lite](https://spdx.github.io/spdx-spec/appendix-VIII-SPDX-Lite/)
-- [&#x1f4c2; Guideline of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Guideline)
-- [&#x1f4c2; sample of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite-sample)
-- [&#x1f4c2; proposal of SPDX Lite](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/Proposal)
-- [&#x1f4c2; (sample for reference)Actual SPDX file](https://github.com/OpenChain-Project/Japan-WG-General/tree/master/License-Info-Exchange/SPDX-file)
+- [&#x1f4c2; Guideline for License Information Exchange](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Guideline)
+- [SPDX Lite](SPDX_Lite.html)
+- [&#x1f4c2; Usage Profile of SPDX](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/UsageProfile)
 
 ---
 
