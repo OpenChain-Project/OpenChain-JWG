@@ -1,0 +1,47 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/04/08(木) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、小保田、小泉、當麻、忍頂寺(記)
+--------------------------------------------------
+(1) Playbook輪講の件　
+　(a)  DRAFT PLAYBOOK for Software Consumers: SBOM Acquisition, Management and Use
+　【輪講用コピー】
+　https://docs.google.com/document/d/1Mv3gwLg-oG_dXbI3K6_NmjyJJ6j4i776Xg9BdjP9p7s/edit
+　【オリジナル】
+　https://docs.google.com/document/d/1Ae0l1MDS8m1on58e8mdVIA9NujzPD0k5j352VlDZr9I/edit
+　(b) Playbook: Software Suppliers SBOM Production
+　【輪講用コピー】
+　https://docs.google.com/document/d/11FoYNULwXxYgqhDNejsy6BBxHO61J4C-YugknPQEwxk/edit#heading=h.f8m46qez6n7k
+　【オリジナル】
+　https://docs.google.com/document/d/16FwpPX3P0Pd1D82Dp2VmpRnaMWUA-wvfXbL7AIXDthM/edit?ts=5ff75ca4#heading=h.f8m46qez6n7k
+　
+　進め方
+　　輪講用コピーに対して、パラグラフ毎に、要点又はキーワードを1行コメントでつける。
+　　次回、Suppliers SBOM Production を対象にする。
+　割り当て
+　　伊藤：冒頭から、"Automated Workflows: Production of SBOMs as a Build Artifact" まで
+　　小保田："Containers - export of SBOMS from a containerization process" 及び "Time of Generation for an SBOM not created at build time" まで
+　　忍頂寺："Deliverable: What’s in the Box" から最後まで
+　
+　WIPのドキュメントであるが、和訳を作成して LicenseInfo-SGの成果物として提供してもよいのでは、という意見があった。今後、議論する余地あり。
+　
+　
+(2) SPDX 3.0 仕様検討状況について
+　議論動向の把握が難しい印象。
+　KateさんにProfile間の連携その他の状況を尋ねることにする。
+　- Base Profile で定義された項目の拡張についてなど。
+　- Valid Until のように、他のProfileでの利用の取り扱いなど。
+(3) 来週の ASIX Pacific Telco にむけて
+　当SGからの提案は、次のまま。Templateの入力は課題として残る。
+　Valid Until については、もう少し検討が必要な印象がある。
+　　https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/edit#
+　
+-----------------
+■次回会合日程
+4/20 (火) 17:00-18:00 (議事担当：小泉さん)
+予定：輪講等
+-----------------
+以上．
+-------------------------------------------------- 
