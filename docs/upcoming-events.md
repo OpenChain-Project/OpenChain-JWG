@@ -3,7 +3,7 @@
 We are planning the next meeting
 
 Date and Time:  
-2021年5月26日(水) 15:00-16:00 /  May 26, 2021 at 2:00pm-5:30pm JST
+2021年5月26日(水) 14:00-16:00 /  May 26, 2021 at 2:00pm-4:00pm JST
   General Public Meeting
 
 2021年5月21日(金) 20:30-21:30 /  May 21, 2021 at 8:30pm-9:30pm JST
