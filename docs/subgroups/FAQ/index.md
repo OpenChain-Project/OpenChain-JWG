@@ -40,6 +40,7 @@ Akihiro Deguchi / 出口 朗大
 Hideyuki Nanashima / 七島 偉之  
 Takashi Ninjouji / 忍頂寺 毅  
 Norihiko Mizuyama / 水山 範彦  
+Youhei Morita / 森田 洋平  
 Shinobu Yamamoto / 山本 忍  
 Masato Yoshii / 吉井 雅人  
 Taishi Yoneshima  / 米嶋 大志  
