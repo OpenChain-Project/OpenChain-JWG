@@ -1,6 +1,6 @@
 ### FAQ Subgroup
 
- - 日時: 2021年6月9日 (水) 15:00-17:30    
+ - 日時: 2021年7月7日 (水) 15:00-17:30    
  - 場所: Zoomによるオンライン会議    
  Subgroupへの参加を希望する人は、[メーリングリスト](https://lists.openchainproject.org/g/japan-sg-faq)にてご連絡ください。
   
