@@ -32,7 +32,7 @@ Manami Koshino / 越野 愛美
 Megumi Kobori / 小堀 恵  
 Hidenori Shishido / 宍戸 秀徳   
 Naomichi Shima / 島 直道  
-Toru Taima / 當麻 徹
+Toru Taima / 當麻 徹  
 Kozo Tao / 田尾 幸三  
 Sayaka Takemoto / 竹本 明花  
 Toshihiro Tanaka / 田中 俊宏  
