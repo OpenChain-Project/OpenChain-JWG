@@ -17,6 +17,7 @@ Yoshiko Ouchi (Fujitsu) / 大内 佳子 (富士通)
 
 - Members / メンバー（五十音順）  
 Teppei Asaba / 浅羽 鉄平  
+Yuusuke Ashizuka / 芦塚 雄介  
 Shuichi Awaji / 淡路 修一  
 Haruki Iguchi / 井口 治樹   
 Junko Ichino / 市野 純子  
