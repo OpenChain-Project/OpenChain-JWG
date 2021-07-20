@@ -36,10 +36,8 @@ Toru Taima / 當麻 徹
 Kozo Tao / 田尾 幸三  
 Sayaka Takemoto / 竹本 明花  
 Toshihiro Tanaka / 田中 俊宏  
-Shinichi Tanigawa / 谷川 真一  
 yuki tsutsumi / 堤 祐樹  
 Akihiro Deguchi / 出口 朗大  
-Hideyuki Nanashima / 七島 偉之  
 Takashi Ninjouji / 忍頂寺 毅  
 Norihiko Mizuyama / 水山 範彦  
 Youhei Morita / 森田 洋平  
@@ -47,7 +45,6 @@ Shinobu Yamamoto / 山本 忍
 Masato Yoshii / 吉井 雅人  
 Taishi Yoneshima  / 米嶋 大志  
 Ayumi Watanabe / 渡邊 歩  
-Michael Schoenecker / マイケル・ショーネカー  
 
 ---
 
