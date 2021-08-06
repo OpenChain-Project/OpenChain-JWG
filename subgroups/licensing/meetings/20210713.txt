@@ -1,0 +1,57 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/07/13 (火) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、浅羽、伊藤(有一)、當麻、小泉、徳本、大崎
+記載者：忍頂寺
+--------------------------------------------------
+■Agenda
+- ASIA Pacific Telco (7/13) の共有
+- Playbookの輪講。當麻さんご担当の部分
+- SPDX Community側の議事録の確認
+- その他情報共有
+■ ASIA Pacific Telco (7/13) の共有
+- Plugfest #2
+　日本からはJP/CERT からの参加者があったので、連携するのはよさそう
+　　Kateさんから当該参加者につないでくれる
+　日本で実施する場合は、KateさんやJoshuaさんがサポートしてくれる
+　　Tooling-SGにて検討中
+- SPDX 3 　
+　SPDX v3-template がある。仕様提案がある場合にはその形式に沿うこと。
+　SPDX の ISO/IEC で RPFががそろそろ公開されそう。
+■Playbookの輪講。當麻さんご担当の部分
+　輪講の対象：
+　　PLAYBOOK for Software Consumers: SBOM Acquisition, Management and Use
+　　https://docs.google.com/document/d/1Ae0l1MDS8m1on58e8mdVIA9NujzPD0k5j352VlDZr9I
+　輪講用コメントの記載先：
+　　https://docs.google.com/document/d/1Mv3gwLg-oG_dXbI3K6_NmjyJJ6j4i776Xg9BdjP9p7s
+　今回は次から：
+　　Chain of Custody and Software Types (管理の連鎖とソフトウェアの種類)
+　次回は次から：
+　　Third Party Processes and Platforms (担当：小泉さん)
+　　
+　主な話題
+　　Chain of Custody and Software Types について
+　　　第3段落にある ”a top-level manifest” の manifest は、OCI (Open Container
+　　　Initiative) による OCI Image Manifest Specification を指すのかどうか。
+　　　確認が必要。
+　　　第4段落にある "OWASP's Software Component Verification Standard：SCVS"
+　　　は、改めて内容確認をしておくのが良さそう。　
+　　Transitive Dependency Resolution について
+　　　”transitive” については、文脈から、依存が連鎖していくこと、
+　　　すなわち、間接的な依存を示唆するものと解釈するのが良さそう。
+　　
+■ SPDX Community側の議事録の確認
+- https://spdx.swinslow.net/p/spdx-minutes
+- 先のEOに基づく文書としてNTIAが発行する次を見ておきたい
+　The Minimum Elements For a Software Bill of Materials (SBOM)
+　https://www.ntia.doc.gov/report/2021/minimum-elements-software-bill-materials-sbom
+■その他情報共有
+- FTC 伊藤(有一) さんの初参加。
+-----------------
+■次回会合日程
+7/27(火) 17:00-18:00 (議事担当：大崎さん)
+議事履歴：忍頂寺(7/13) ← 忍頂寺(6/22) ← 當麻(6/08) ← 福地(5/25) ← 加藤(5/12) ← 小泉(4/20) ← 忍頂寺(4/8) ← 當麻(3/23) ← 福地(3/8) ← 加藤(2/25) ← 小保田(2/8) ← 當麻(1/26) ← 忍頂寺(1/12)
+-----------------
+以上．
