@@ -31,6 +31,7 @@ Tomoki Kawamura / 川村 知生
 jiang.jin / 江 瑾  
 Manami Koshino / 越野 愛美  
 Megumi Kobori / 小堀 恵  
+Ken Sakurada / 櫻田 健  
 Hidenori Shishido / 宍戸 秀徳   
 Naomichi Shima / 島 直道  
 Toru Taima / 當麻 徹  
