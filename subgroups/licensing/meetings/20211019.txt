@@ -1,0 +1,68 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/10/19 (火) 17:00-18:00
+場所  ：Teams
+参加者：(敬称略・順不同)
+        伊藤(義)、福地、加藤、當間、小泉、忍頂寺、伊藤(有)
+記載者：伊藤(有)
+--------------------------------------------------
+
+■Agenda
+- 全体会合でのSPDXの説明について
+- ASIA Pacific Tel confの共有
+- Usage Profileについて
+- 定例会の運用について
+- The Miniimum Elements For a Software Bill of Materials (SBOM)の輪講
+
+Promotion Work Gropuの翻訳活動について
+
+
+●全体会合でのSPDXの説明について
+・ISO採択に関して説明をしてほしいとの依頼があった
+・ユースケースを交えてSPDXの説明を
+・時期は早いと良いが、準備次第。年明けくらいを目安にやれると嬉しい
+→ 次のミーティングで議論する
+
+●ASIA Pacific Tel confの共有
+・SPDX Podcastについて
+   - 配信環境の見直し中。Kateさんからは配信指定のであればアクションしてほしいと言われている。
+     その際はJoshuaさんに連絡してほしいとのこと。
+   - シナリオについては視聴者側の視点で便利になることなどの情報を追加しても良いのではないか。(福知さん)
+     SPDX Liteはビジネスユースケースから由来しているのでそこをアピールする？車のIndustryでも耐えられる等
+     → どこかで時間を取って議論をしたい。
+
+●Usage Profileについて
+　まとめ切れていない状況。
+　→ 問題点をまとめてTech Team meetingにヘルプを求める方向で進める。
+
+
+●定例会の運用について
+・現状、伊藤(義)さんに負荷がかかりすぎているので、運用体制を見直してみるのはいかがでしょうか？(福知さん)
+
+  - 複数人で分担でもよいのでサブリーダーを置いたらいかがでしょうか。
+  - ミーティングの曜日や時間を変えてみても良い(小保田さんも入れるように)。
+
+●The Miniimum Elements For a Software Bill of Materials (SBOM)の輪講
+輪講対象：
+https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf
+
+DeepLで翻訳したファイル
+https://docs.google.com/document/d/1swf9zPu24uELVWED0OEEqfGfhHWYJVpvtAbHxWTdeQI/edit
+
+→IV. Minimum Elements - Distribution and Deliveryまで完了
+
+[輪講の分担]
+P.10のAutomation Support ～ 4章の終わりまで(P.13) (担当：加藤さん)
+P.13の5章 ～ P.16のVulnerabilities and SBOM の前まで (担当：當麻さん)
+P.16のVulnerabilities and SBOM ～ 5章の終わりまで(P.19の6章の前まで) (担当：未定)
+P.19の6章 ～ P.22終わりまで (担当：未定)
+P.23 ～ 終わりまで(P.28の終わりまで) (担当：未定)
+
+●次回日程
+11/2(火) 16:00-17:00(議事担当：忍頂寺さん)
+
+★開催時間変更していますのでご注意下さい
+
+議事履歴：伊藤(有)(10/19) ← 小泉(10/5) ← 當麻(9/21) ← 加藤(9/7) ← 伊藤(有)(8/24) ← 忍頂寺(7/13) ← 忍頂寺(6/22) ← 當麻(6/08) ← 福地(5/25) ← 加藤(5/12) ← 小泉(4/20) ← 忍頂寺(4/8) ← 當麻(3/23) ← 福地(3/8) ← 加藤(2/25) ← 小保田(2/8) ← 當麻(1/26) ← 忍頂寺(1/12)
+
+以上
