@@ -6,6 +6,7 @@
 
 ## Purpose / 目的
 
+- We are working to create and publish FAQs about OSS licenses for engineers who are not familiar with copyrights and OSS licenses.  
 - 著作権やOSSライセンスにあまり詳しくない技術者向けに、OSSライセンスに関するFAQを作成して公開しています。
 
 ---
