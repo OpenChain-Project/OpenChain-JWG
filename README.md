@@ -46,7 +46,7 @@ OpenChain Japan WG内では、共通の関心を持つ人たちが集まりサ�
 ## 参加方法
 ### メーリングリスト
 
-OpenChain Japan WGには4つのメーリングリストがあります。各メーリングリストに参加するには、それぞれ下記のアドレスにメールを送信してください。機械的に処理されますので本文の内容は不要です。
+OpenChain Japan WGには5つのメーリングリストがあります。各メーリングリストに参加するには、それぞれ下記のアドレスにメールを送信してください。FAQ SGを除いて機械的に処理されますので本文の内容は不要です。FAQ SGのメーリングリストに参加するには、メーリングリスト宛に参加を希望する旨を記載したメールを送ってください。
 
 - OpenChain Japan WG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
