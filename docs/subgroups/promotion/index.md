@@ -6,7 +6,8 @@
 
 ## Purpose / 目的
 
-```ToBeFilled```
+- For raising awareness of  OSS compliance and open source itself, we are working to create and publish documents and conduct enlightenment activities with media, governments, industry and academia.
+- OSSコンプライアンスやOSSそのものの重要性の認知を拡大するための資料の作成やメディア・政府・産業界・学術界などと連携した啓発活動を行っています
 
 ---
 
