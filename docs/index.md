@@ -27,7 +27,7 @@ OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Proj
 - OpenChainプロジェクトのウエブサイト  
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
 
-- [&#x1F4D6; Japan WGの簡単な説明資料](https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md)  
+- [&#x1F4D6; Japan WGの簡単な説明資料](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/About_Japan-wg/About_JapanWG.md)
 
 ---
 
