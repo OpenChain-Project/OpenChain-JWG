@@ -12,12 +12,12 @@ OpenChain Japan Work Group（以降Japan WG）は、OpenChain Projectの活動�
 
 ## OpenChain Japan Work Groupについて
 * OpenChain Japan WGは、日本・アジアを中心に、OSSライセンス遵守やOSS利用に関する課題解決を目指しています
-* 規約等については、OpenChain Japan WGとして個別に設けておらず、OpenChain Projectの規約等に従います（本文書に書かれた内容以外に特に注意する事項はありません）また、[The Linux Foundationの行動規範](https://www.linuxfoundation.jp/code-of-conduct/)に従います。
+* 規約等については、OpenChain Japan WGとして個別に設けておらず、OpenChain Projectの規約等に従います（本文書に書かれた内容以外に特に注意する事項はありません）。また、[The Linux Foundationの行動規範](https://www.linuxfoundation.jp/code-of-conduct/)に従います。
 * OpenChain Projectの規約等については、Project General Managerである[Shane Coughlan](<mailto:coughlan@linux.com>)に問い合わせてください
 
 ## OpenChain Japan WGの主な活動
 * OSSライセンス遵守やOSS利用に関して、メンバーが抱える課題を議論し、解決案を提案していきます（国内会合、ML等）
-* OpenChain Project主催の国際会議、電話会議、ML等へ参加し、Japan WG活動で得られた成果や意見をOpenChain Projectへ発信しています
+* OpenChain Project主催の国際会議、電話会議、ML等へ参加し、OpenChain Japan WG活動で得られた成果や意見をOpenChain Projectへ発信しています
 * 日本を中心拠点として活動を行っています
 * サプライチェーンで重要なパートナーであるアジア各国（中国、台湾、韓国等）との連携を図ります
 
