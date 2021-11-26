@@ -24,7 +24,7 @@ OpenChain Japan Work Group（以降Japan WG）は、OpenChain Projectの活動�
 ## サブグループ (SG)
 OpenChain Japan WG内では、共通の関心を持つ人たちが集まりサブグループを作って活動しています。現在以下の7つのサブグループがあります。
 - Planning SG
-	- 全体の活動プランの議論と、全体会合の準備を検討します
+	- Japan WG全体の活動プランの議論と、全体会合の準備を検討します
 - FAQ SG
 	- 著作権やOSSライセンスにあまり詳しくない技術者向けに、OSSライセンスに関するFAQを作成して公開しています
 - サプライチェーンリーフレット SG
