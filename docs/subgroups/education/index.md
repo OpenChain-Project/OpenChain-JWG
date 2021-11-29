@@ -6,7 +6,7 @@
 
 ## Purpose / 目的
 
-```ToBeFilled```
+ソフトウェア開発者向け教育資料(コンプライアンスプログラム・バージョン)を作成しました。今後、ソフトウェア開発ベンダー(ODM:Original Design Manufacturing)向けの教育資料を作成予定です
 
 ---
 
