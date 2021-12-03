@@ -29,7 +29,7 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### FAQ
 
-- [&#x1f4c2; OSSライセンス関連でよくある誤解](https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material/FAQ)  
+- [&#x1f4c2; OSSライセンス関連でよくある誤解](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/Education_Material/FAQ)
 
 ---
 

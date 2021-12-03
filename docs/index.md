@@ -27,7 +27,7 @@ OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Proj
 - OpenChainプロジェクトのウエブサイト  
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
 
-- [&#x1F4D6; Japan WGの簡単な説明資料](https://github.com/OpenChain-Project/Onboarding-JWG/blob/master/About_Japan-wg/About_JapanWG.md)  
+- [&#x1F4D6; Japan WGの簡単な説明資料](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/About_Japan-wg/About_JapanWG.md)
 
 ---
 
@@ -64,7 +64,7 @@ OpenChain Japan Work Group (JWG) の Website です。日本語でOpenChain Proj
 
 ## メーリングリスト
 
-OpenChain Japan WGには4つのメーリングリストがあります。各メーリングリストに参加するには、それぞれ下記のアドレスにメールを送信してください。機械的に処理されますので本文の内容は不要です。
+OpenChain Japan WGには5つのメーリングリストがあります。各メーリングリストに参加するには、それぞれ下記のアドレスにメールを送信してください。FAQ SG以外は機械的に処理されますので本文の内容は不要です。FAQ SGのメーリングリストに参加するには、メーリングリスト宛に参加を希望する旨を記載したメールを送ってください。
 
 - OpenChain Japan WG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
