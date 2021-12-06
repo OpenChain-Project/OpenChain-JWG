@@ -3,6 +3,7 @@ The licenses for the materials here can be divided into the following three type
 - CC0-1.0
 - CC-BY-ND-4.0
 - others
+
 They are divided as follows depending on how the materials were created.
 
 ## Created in collaboration with OpenChain JWG participants
@@ -17,6 +18,7 @@ CC0-1.0 (same operation as OpenChain Project)
 - CC0-1.0
 - CC-BY-ND-4.0
 - その他
+
 資料がどのように作成されたかにより以下のように分かれます。
 
 ## OpenChain JWGの参加者が協力して作成したもの
