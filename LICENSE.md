@@ -1,20 +1,27 @@
-# License for contribution and report to OpenChain 
+# License information
+The licenses for the materials here can be divided into the following three types.
+--CC0-1.0
+--CC-BY-ND-4.0
+- others
+They are divided as follows depending on how the materials were created.
 
-## report
-* 1-1. a report from a member to Japan WG : licensed under CC-BY-ND-4.0
+## Created in collaboration with OpenChain JWG participants
+CC0-1.0 (same operation as OpenChain Project)
 
-* 1-2. other
-  a report presented by a member only at a meeting : owner defines license
+## Provided by each company / member
+- Created for OpenChain / OpenChain JWG: CC-BY-ND 4.0
+- Created independently of OpenChain / OpenChain JWG: Specified in document
 
-## contribution to Japan WG
-* contribution or collaborative works by Japan WG : licensed under CC0-1.0
+# ライセンス情報
+ここにある資料のライセンスは以下の3つに分けられます。
+- CC0-1.0
+- CC-BY-ND-4.0
+- その他
+資料がどのように作成されたかにより以下のように分かれます。
 
-## 1.　OpenChainプロジェクトへの報告（Report）については以下に従う
-* 1-1.　各社が自社の活動紹介として個別にJapan WG向けに作成したもの　CC-BY-ND 4.0
+## OpenChain JWGの参加者がが協力して作成したもの
+CC0-1.0（OpenChain Projectと同じ運用）
 
-* 1-2. その他資料
-     OpenChain Japan WGでの活動とは関係なく作成したものを各社が会合等で紹介する場合は、著作権法の通り、各社がライセンス条件を定めて下さい
-     配布を許諾する場合は、ライセンス条件を明記して提供して下さい
-
-## 2.　プロジェクトへの貢献（Contribution）については以下に従う
-* 2-1. Japan WGの参加者が協力して作成したもの　　CC0-1.0（OpenChain Projectと同じ運用）
+## 各社/各メンバーが提供したもの
+- OpenChain/OpenChain JWG向けに作成されたもの: CC-BY-ND 4.0
+- OpenChain/OpenChain JWGとは無関係に作成されたもの: 資料に明記
