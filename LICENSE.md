@@ -19,7 +19,7 @@ CC0-1.0 (same operation as OpenChain Project)
 - その他
 資料がどのように作成されたかにより以下のように分かれます。
 
-## OpenChain JWGの参加者がが協力して作成したもの
+## OpenChain JWGの参加者が協力して作成したもの
 CC0-1.0（OpenChain Projectと同じ運用）
 
 ## 各社/各メンバーが提供したもの
