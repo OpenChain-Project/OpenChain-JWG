@@ -1,7 +1,7 @@
 # License information
 The licenses for the materials here can be divided into the following three types.
---CC0-1.0
---CC-BY-ND-4.0
+- CC0-1.0
+- CC-BY-ND-4.0
 - others
 They are divided as follows depending on how the materials were created.
 
