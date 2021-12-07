@@ -5,6 +5,6 @@
 * How-To-Start-GitHub
 	* GitHubの使い方
 * GitHubPages
-	* Github Pages(https://openchain-project.github.io/OpenChain-JWG/)の運用について
+	* [OpenChain-JWGのGithub Pages](https://openchain-project.github.io/OpenChain-JWG/)の運用について
 * ML-admin
 	* ML管理者用メモ
