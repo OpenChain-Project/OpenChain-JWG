@@ -77,11 +77,11 @@
 
 * Web上での作業
   * GitHubの適当なリモートリポジトリへ移動
-    * 以下はOpenChain-Project/Onboarding-JWGを例にとって説明（https://github.com/OpenChain-Project/Onboarding-JWG）
+    * 以下はOpenChain-Project/OpenChain-JWGを例にとって説明（https://github.com/OpenChain-Project/OpenChain-JWG）
   * README.mdをクリック
     * REAME.mdの内容が表示される
       * “md”はMarkdownフォーマット: READMEやLICENSEなどGitHub上のテキストファイルはmdフォーマットで記述されることが多い
-  * Onboarding-JWG/Leaflet/One-Page_Version/review/へ移動（https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Leaflet/One-Page_Version/review）
+  * OpenChain-JWG/Leaflet/One-Page_Version/review/へ移動（https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/Leaflet/One-Page_Version/review）
   * a_openchain_leaflet_20180615.pptxをクリック
   * Downloadをクリック
   * ファイルがPCにDownloadされる
