@@ -1,6 +1,6 @@
 # SPDX Lite雛形
 
-- [SPDXLite-Template.xlsx](SPDXLite-Template.xltx)
+- [SPDXLite-Template.xltx](SPDXLite-Template.xltx)
   - スプレッドシートの形式での雛型です。Excelのテンプレートファイルになっています。
 - [SPDXLite-Template.ots](SPDXLite-Template.ots)
   - スプレッドシートの形式での雛型です。LibreOffice向けのテンプレートです。
