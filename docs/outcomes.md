@@ -35,7 +35,7 @@ SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum lic
 
 ### オープンソースソフトウェア ライセンス順守に関する一般公衆ガイド
 
-- [&#x1f4c2; Supplier Leaflet](https://github.com/OpenChain-Project/curriculum/tree/master/supplier-leaflet)  
+- [&#x1f4c2; Supplier Leaflet](https://github.com/OpenChain-Project/Reference-Material/tree/master/Suppliers/Leaflet/Official/2.1)  
 
 ---
 
