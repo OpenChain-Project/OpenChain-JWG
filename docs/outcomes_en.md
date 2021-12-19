@@ -15,7 +15,7 @@
 
 ### SPDX Lite
 
-The license information exchange SG has decided on a format that allows easy exchange of necessary information between companies. That is SPDX Lite. See [SPDX Lite page](subgroups/licensesing/SPDX_Lite.html) for more information.
+The license information exchange SG has decided on a format that allows easy exchange of necessary information between companies. That is SPDX Lite. See [SPDX Lite page](subgroups/licensing/SPDX_Lite.html) for more information.
 
 ---
 
