@@ -18,7 +18,7 @@
 
 ### SPDX Lite
 
-ライセンス情報サブグループ]では企業間で必要な情報を簡便にやり取りできる書式を決めました。それがSPDX Liteです。詳しくは[SPDX Liteのページ](subgroups/licensing/SPDX_Lite.html)を参照してください。
+ライセンス情報サブグループでは企業間で必要な情報を簡便にやり取りできる書式を決めました。それがSPDX Liteです。詳しくは[SPDX Liteのページ](subgroups/licensing/SPDX_Lite.html)を参照してください。
 
 ---
 
