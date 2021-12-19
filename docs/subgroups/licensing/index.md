@@ -8,7 +8,7 @@
 
 License information exchange Subgroup discusses the guideline for exchanging license info. between organizations and SPDX Lite.
 
-ライセンス情報サブグループでは、組織間のライセンス情報授受に関してのガイドラインやSPDX Liteといった仕様を検討しています。  
+ライセンス情報サブグループでは、組織間のライセンス情報授受に関してのガイドラインやSPDX Liteの作成をしてきました。現在は、SBOMなど、組織間のライセンス情報・ソフトウェアパッケージ情報の授受に関するガイドラインやSPDXへの仕様提案などを、動向を調査しながら議論しています。
 
 ---
 
