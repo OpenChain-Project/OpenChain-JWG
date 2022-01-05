@@ -2,8 +2,8 @@
 
 ## an example of Github Pages
 
-Onboarding-JWG has already created the Github Pages, please see the following website for example.  
-[https://OpenChain-Project.github.io/Onboarding-JWG/](https://OpenChain-Project.github.io/Onboarding-JWG/)  
+OpenChain-JWG has already created the Github Pages, please see the following website for example.  
+[https://OpenChain-Project.github.io/OpenChain-JWG/](https://OpenChain-Project.github.io/OpenChain-JWG/)
 
 ## How to migrate from wiki to Github Pages
 

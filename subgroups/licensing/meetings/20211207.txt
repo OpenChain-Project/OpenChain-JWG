@@ -1,0 +1,29 @@
+# LicenseInfo Sg 2021/12/07 17:30-18:30
+- Asia Telconの報告  
+  https://spdx.swinslow.net/p/spdx-minutes  
+  SPDX仕様書の翻訳についてをSPDX WGに共有  
+  → https://openchain-japanwg.slack.com/archives/CDBUA8WTF/p1638152684078600  
+  2月くらいに翻訳完了したいという要望はあるが、まだ未定。  
+  詳細はまだ完全に未定。今回の翻訳についてはJIS相当の正式なドキュメントにするつもりはないはず。JIS化などは別途議論。  
+- Advent Calendar  
+  SPDX WGに関係する記事に関しては、KateさんとJoshuaさんのメッセージは貰った(もらえる予定)なので問題なし。  
+  12/7の週がSBOM Weekとなっており、LicenseInfoに関係する話題が多くあります。  
+- SPDX Podcast  
+  現状、11名参加表明。別途、初回の録音日や内容について議論する打ち合わせを開催する予定です。  
+  https://qiita.com/nori0428/private/9038091d361b4057bc90  
+  新たに参加したい方はお気軽にご連絡ください。  
+- SPDX Liteについて  
+  SPDX Liteをv3.0にどのように組み込んでいくのか、構造を考えないといけない。  
+  欧州側のツールで使われていたりもするので、そのあたりとコラボレーションするのが良いのかも。  
+  ExternalReferenceに関してAddして欲しいというPRが来ている。  
+  https://github.com/spdx/spdx-spec/pull/609  
+- Open Compliance Summit  
+  定員が近いので早めに登録ください。  
+- Usage Profile  
+  本家のPRには、Licensing, Vulnerability, Linkageの3プロファイルが存在。Linkageと同じ形式で記載してはどうか。  
+  サンプルを作っていただける方が殆どいない。次回のWG(2週後を予定)までにサンプルを作成できる方をslackで募集。(伊藤さんが既にPOST済)  
+- 輪講について  
+  https://docs.google.com/document/d/1swf9zPu24uELVWED0OEEqfGfhHWYJVpvtAbHxWTdeQI/edit  
+  今日は担当欠席の為、次回。
+- 次回日程  
+  12/21(火) 16:00-18:00 Tooling + LicenseInfo 開催
