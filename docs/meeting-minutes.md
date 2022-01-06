@@ -3,6 +3,21 @@
 </div>
 
 ## 全体会合の記録
+- **第21回会合/第8回オンライン会合** 2021年10月20日(水)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/11/02/jp-wg-21)  
+
+- **第20回会合/第7回オンライン会合** 2021年7月29日(木)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/08/03/japan-wg-20)  
+
+- **第19回会合/第6回オンライン会合** 2021年5月26日(水)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/07/15/japan-work-group-19)  
+
+- **第18回会合/第5回オンライン会合** 2021年3月17日(水)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/featured/2021/03/26/openchain-japan-wg-18)  
 
 - **第17回会合/第4回オンライン会合** 2020年12月16日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
