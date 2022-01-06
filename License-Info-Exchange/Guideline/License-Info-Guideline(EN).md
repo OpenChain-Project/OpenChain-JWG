@@ -369,11 +369,11 @@ When you shuld define your own License Identifier, please describe as unique ide
 ## 4. Some samples of a license information file
 
 ### SPDX Lite Template in a Microsoft Excel format
-SPDX Lite templates in a Microsoft Excel format: 
+an SPDX Lite template in a Microsoft Excel format: 
 
-https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/template/SPDXLite-Template.xlsx
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/template/SPDXLite-Template.xltx
 
-In this sample, "SPDX Section no." is "corresponding SPDX section no." in this guideline. 
+In this template, "SPDX Section no." is "corresponding SPDX section no." in this guideline. 
 
 This template gives two sheets. The first one is a sheet for Package layer fields, and the second one is a sheet for File layer fields(* ).
 

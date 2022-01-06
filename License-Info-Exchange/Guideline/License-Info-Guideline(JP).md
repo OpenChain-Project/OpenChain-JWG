@@ -399,7 +399,7 @@ SPDXライセンス リストに掲載されていないライセンスの場合
 
 #### Microsoft ExcelによるSPDX Lite記入テンプレート
 SPDX LiteをMicrosoft Excelで手書き記入する場合のテンプレート
-https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/template/SPDXLite-Template.xlsx
+https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/SPDX-Lite/template/SPDXLite-Template.xltx
 
 
 このテンプレートに記載されている「SPDX Section no.」は、本guidelineで「corresponding SPDX section no.」と記載されているSPDX仕様書上のsection番号に対応しています。
