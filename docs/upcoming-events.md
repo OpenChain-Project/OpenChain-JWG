@@ -7,7 +7,7 @@
 
 - 場所(Venue)：Zoom
   - https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
-  Meeting ID: 99975267803 / パスワード: ]>guXS~6  
+  - Meeting ID: 99975267803 / パスワード: ]>guXS~6
 
 今回は録画はしませんので、ぜひ当日参加してください。（録画されない分、深～い話が聴けるかも！？）
 

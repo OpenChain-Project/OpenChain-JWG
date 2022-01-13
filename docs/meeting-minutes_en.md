@@ -5,7 +5,7 @@
 ## All Member Meetings
 - **The 21st meeting / The 8th Online meeting** was held virtual on October. 20, 2021.  
 Venue: Socionext Inc. (Zoom)  
-[&#x1f3a5; Youtube](https://www.openchainproject.org/news/2021/11/02/jp-wg-21)  )  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/news/2021/11/02/jp-wg-21)   
 
 - **The 20th meeting / The 7th Online meeting** was held virtual on July. 29, 2021.  
 Venue: Socionext Inc. (Zoom)  
