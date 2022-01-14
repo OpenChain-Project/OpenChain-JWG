@@ -32,6 +32,7 @@
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/JapanWG-VirtualMtg-Agenda-20201015.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/featured/2020/10/15/openchain-japan-work-group-16th-meeting)  
 [&#x1f4da; About ISO Standardization of OpenChain & SPDX](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/OpenChain-ISO-20201015.pptx)  
+[&#x1f4da; OpenChain仕様解説](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/OpenChain%E4%BB%95%E6%A7%98%E8%A7%A3%E8%AA%AC.pdf)/[&#x1f4da; OpenChain仕様書詳細解説](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/OpenChain%E4%BB%95%E6%A7%98%E6%9B%B8%E8%A9%B3%E7%B4%B0%E8%A7%A3%E8%AA%AC.pdf)  
 [&#x1f4dd; 参加者アンケート結果](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/questionaire_20201015.pptx)  
 
 - **第15回会合/第2回オンライン会合** 2020年6月18日(木)  
