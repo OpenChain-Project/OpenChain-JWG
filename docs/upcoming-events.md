@@ -9,6 +9,8 @@
   - https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
   - Meeting ID: 99975267803 / パスワード: ]>guXS~6
 
+詳細は[こちら](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20220121/JapanWG-VirtualMtg-Agenda-20220121.pdf)/[Agenda](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20220121/JapanWG-VirtualMtg-Agenda-20220121.pdf)
+
 今回は録画はしませんので、ぜひ当日参加してください。（録画されない分、深～い話が聴けるかも！？）
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
