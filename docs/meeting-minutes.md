@@ -17,7 +17,18 @@
 
 - **第18回会合/第5回オンライン会合** 2021年3月17日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/JapanWG-VirtualMtg-Agenda-20210317a.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/featured/2021/03/26/openchain-japan-wg-18)  
+[&#x1f4da; Keynote](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/Keynote%20Message_20210317.pptx)  
+[&#x1f4da; OpenChain Japan WGについて](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-202103.pptx)  
+Japan WG成果物紹介
+  - [&#x1f4da; FAQ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/FAQ_SG_20210317_CC0.pptx)
+  - [&#x1f4da; 教育](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/OpenChain_JapanWG_EducationSG_20210317.pptx)
+  - [&#x1f4da; リーフレット](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/Leaflet_SG_20210317_CC0.pptx)
+  - [&#x1f4da; ツーリング](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/Tooling_SG_20210317_CC0.pptx)
+  - [&#x1f4da; ライセンス情報](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/License-Info_SG_20210317_CC0.pptx)
+  - [&#x1f4da; プロモーション](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/PromotionSWG.pptx)
+  - [&#x1f4da; ライトニングトーク](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210317/OpenChainJWG_20210317_LF%E7%B4%B9%E4%BB%8B.pptx)
 
 - **第17回会合/第4回オンライン会合** 2020年12月16日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
