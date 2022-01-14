@@ -21,15 +21,26 @@
 
 - **第17回会合/第4回オンライン会合** 2020年12月16日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201216/JapanWG-VirtualMtg-Agenda-20201216.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/featured/2021/01/20/openchain-japan-work-group-17-virtual-4-full-recording)  
+[&#x1f4da; About OpenChain & Japan WG](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201216/OpenChain-JWG-introduction-20201216-rev-1.6.pptx)  
+[&#x1f4da; OSS license training based on OpenChain](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201216/Training-OSS-compl-process-jp-42.pptx)  
+[&#x1f4dd; 参加者アンケート結果](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201216/questionaire_20201216.pptx)  
 
 - **第16回会合/第3回オンライン会合** 2020年10月15日(木)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/JapanWG-VirtualMtg-Agenda-20201015.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/featured/2020/10/15/openchain-japan-work-group-16th-meeting)  
+[&#x1f4da; About ISO Standardization of OpenChain & SPDX](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/OpenChain-ISO-20201015.pptx)  
+[&#x1f4dd; 参加者アンケート結果](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20201015/questionaire_20201015.pptx)  
 
 - **第15回会合/第2回オンライン会合** 2020年6月18日(木)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200618/JapanWG-VirtualMtg-Agenda-20200618.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/featured/2020/06/19/openchain-japan-work-group-15th-meeting-recording)  
+[&#x1f4da; Linux Foundation Japanによる翻訳活動紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200618/Community%E7%BF%BB%E8%A8%B3_OC_Meetup.pptx)  
+[&#x1f4da; ライトニングトーク（ケーススタディ）活動の紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200618/OpenChain_LT%E7%B4%B9%E4%BB%8B_20200618.pptx)  
+[&#x1f4da; OSSコンプライアンスのアンケート](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20200618/%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BOSS%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%E6%A5%AD%E5%8B%99%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BBver2.0.pptx)  
 
 - **第14回会合/第1回オンライン会合** 2020年4月23日(木)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
