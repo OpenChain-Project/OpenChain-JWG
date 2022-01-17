@@ -5,15 +5,24 @@
 ## 全体会合の記録
 - **第21回会合/第8回オンライン会合** 2021年10月20日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20211020/JapanWG-VirtualMtg-Agenda-20211020.pdf)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/11/02/jp-wg-21)  
+[&#x1f4dd; 参加者アンケート結果](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20211020/AttendeeQuestionnaire_20211020.pptx)  
 
 - **第20回会合/第7回オンライン会合** 2021年7月29日(木)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
-[&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/08/03/japan-wg-20)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210729/JapanWG-VirtualMtg-Agenda-20210729.pptx)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/08/03/japan-wg-20)
+[&#x1f4da; Keynote](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210729/JP-WG-20-Keynote.pdf)  
+[&#x1f4da; OpenChain Japan WGについて](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210729/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-202107_rev2.pptx)  
+[&#x1f4da; Lightning Talk:  各社の状況：OSSに関するポリシー編](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210729/OpenChainJWG_20210729_LT_wiki.pdf)  
 
 - **第19回会合/第6回オンライン会合** 2021年5月26日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210526/JapanWG-VirtualMtg-Agenda-20210526-rev3.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/news/2021/07/15/japan-work-group-19)  
+[&#x1f4da; OpenChain Japan WGについて](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210526/OpenChain_JWG-202105-rc.pptx)  
+[&#x1f4da; 事例紹介：NECグループへ実施したOSS必須教育とそのフィードバック](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20210526/OSS_Required_Training_for_NEC_Group_and_Its_Feedback_0526.pdf)  
 
 - **第18回会合/第5回オンライン会合** 2021年3月17日(水)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
