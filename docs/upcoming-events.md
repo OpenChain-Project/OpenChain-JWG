@@ -1,16 +1,9 @@
-#### The 22nd meeting / The 9th Virtual meeting
+#### The 23rd meeting / The 10th Virtual meeting
 
-次の全体会合が決まりました。 / We are planning the next General Public Meeting:
+第22回会合/第9回オンライン会合に参加くださった皆さん、ありがとうございました。/Thank you for your joining the 22nd meeting / the 9th Virtual meeting.  
 
-- 日時 / Date and Time:
-  - 2022年1月21日(金)15:00-16:00 /  January 21, 2022 at 3pm-4pm JST
+次回は春頃になるでしょうか。お楽しみに！/
+We are planning the next meeting in 2022 spring.  Stay tuned!
 
-- 場所(Venue)：Zoom
-  - https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
-  - Meeting ID: 99975267803 / パスワード: ]>guXS~6
-
-詳細は[こちら](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20220121/JapanWG-VirtualMtg-Agenda-20220121.pdf)/[Agenda](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20220121/JapanWG-VirtualMtg-Agenda-20220121.pdf)
-
-今回は録画はしませんので、ぜひ当日参加してください。（録画されない分、深～い話が聴けるかも！？）
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
