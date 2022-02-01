@@ -1,0 +1,45 @@
+License Info Subgroup議事録
+
+日時：　2022年1月11日(火)16:00-18:00
+参加者：伊藤（義）、忍頂寺、當麻、小泉、森下、伊藤（有）、福地（議事録）
+
+議論内容：
+
+・独占禁止法順守
+●License Info Subgroup
+・SPDX Asia Pacificテレカン情報共有
+　Podcastの件
+　　KateからJoshuaに連絡してもらう
+　Usage Profile
+　　ターゲットを変更した
+　　2月初めに欲しいというリクエスト
+　SPDX 3.0 Punch Listの紹介
+　　残項目リスト
+　CyclonDXとの意見交換
+　　フィードバックがあった
+　DocFest
+　　SPDX Document plugfestが1月27日に開催される
+　　参加申し込みは1月21日
+　　SPDX作成＆レビューが参加条件
+　FOSDEM開催
+　　SBOMでDevRoomを設けた
+　　2月6日（日）10:00-18:00（EU Time）
+　　　東芝濱さんが発表　SW360機能拡張
+　　　https://fosdem.org/2022/
+　　Kateの発表のプレビュー
+　　　Usage Profileについても触れていた
+　　NTIAでのSBOM検討がCISAリードに移った。
+　SPDX To OSVの話題(Open Source Vulnerability)
+　　https://github.com/goneall/spdx-to-osv
+・Usage Profile
+　　前回打ち合わせの資料を説明
+　　コメントを募集中
+・SPDX Liteに関するSlackでの議論　小泉さん
+　　PackageLicenseIncludedとPackageLicenseConcludedが異なる場合の問題提起
+　　継続してSlackにて議論継続
+・輪講
+　　當麻さん担当部分
+　　Cloud based software and Software as a Service
+　　SBOM Integrity and Authenticity
+　　次の箇所：p.16から5章の終わり（2ページ分）
+　　富士通　伊藤有一さん
