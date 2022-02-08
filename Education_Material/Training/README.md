@@ -6,18 +6,10 @@ OpenChain Japan WG 教育SGでは、「OSS教育資料(コンプライアンス�
 - [](OpenChain_JapanWG_教育Sub-WG_20200423.pptx)
 - [](Training-OSS-compl-process-jp-42.pptx)
 
+# Educational and training materials
 
-# Misunderstandings of OSS licenses
+OpenChain Japan WG Education SG has created "OSS Education Materials (Compliance Program Version)". These educational material were created to be useful as materials for composing educational contents in a form that conforms to the OpenChain specifications when each company conducts internal education on OSS compliance (for the first time). They are released under the [Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode) license, so feel free to modify and use them. (In fact, some chapters are expected to be filled in according to the actual situation of each company.)
+We try to make it as error-free as possible, but all the materials here are not guaranteed (pointing out any errors or typos are welcome, though). Also, please be aware that reading the materials here does not guarantee compliance with the OpenChain specifications or acquisition of its certification.
 
-Here you can find the FAQ document "Common Misunderstandings about OSS Licensing" created by the FAQ SG of OpenChain Japan WG. Currently, both English and Japanese versions are available.
- 
-This document is a compilation of common misconceptions based on internet articles and seminar questions. The content is intended for beginners and is general in nature that may be common to all companies. It also covers licenses that do not conform to the Open Source Definition (OSD) published by the Open Source Initiative (OSI).  
-If you have any comments on the contents of this FAQ, we would appreciate your participation in this subgroup.  
-This document is released under the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) License.  
-Please be aware that the author and the provider of this document are not responsible for the contents of this document.  
- 
-Published by: OpenChain Japan WG (FAQ Subgroup)  
-Cooperation : [Open Source License Laboratory](https://www.osll.jp/)  
-
-- [&#x1F4D6; Misunderstandings_of_OSS_licenses (English)](Misunderstandings_of_OSS_licenses_CC0.pptx)
-- [&#x1F4D6; Misunderstandings_of_OSS_licenses (Japanese)](OSSライセンス関連でよくある誤解_CC0.pptx)
+-[] (OpenChain_JapanWG_Education Sub-WG_20200423.pptx)
+-[] (Training-OSS-compl-process-jp-42.pptx) 
