@@ -33,4 +33,6 @@ Mitsutoshi Yamada / 山田 光利
 ## Outcomes / 成果物
 
 - [&#x1f4c2; Importance of promotional activities / Promotion SWGについて]() ```To Be Committed```  
+- [&#x1f4c2; Advent Calendar 2021](https://qiita.com/advent-calendar/2021/openchainjapanswg)
+- [&#x1f4c2; Advent Calendar 2020](https://qiita.com/advent-calendar/2020/openchainjapanswg)
 - [&#x1f4c2; Advent Calendar 2019](https://qiita.com/advent-calendar/2019/openchainjapanswg)
