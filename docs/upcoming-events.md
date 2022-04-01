@@ -12,6 +12,6 @@ OpenChain業界調査
 
 - 次のURLにアクセスし、ご回答ください。
 -- https://forms.gle/A2qdawgY9h7CWr3q8
--- ![アンケートURL](アンケートQR.png)
+-- ![アンケートURL](questionnaireQR.png)
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
