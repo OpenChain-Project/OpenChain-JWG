@@ -1,0 +1,48 @@
+License Info Subgroup議事録
+日時：　2022年3月8日(火)16:00-18:00
+参加者：伊藤（義）、忍頂寺、當麻、大崎、伊藤（有）、福地、安倍、小保田、遠藤、小泉（議事録）（敬称略）
+議論内容：
+・独占禁止法順守
+●Tooling SG
+・SPDXの2.3に脆弱性情報/VEXを入れる議論が始まっている（小保田）
+ ML(spdx-defects)を見ておいた方が良いかもしれない
+ OpenSSFの方にも動きがある
+・ScanOSSのwhite paperの紹介（福地）
+ https://scanoss.com/pdf/ScanOSS_Whitepaper_StandardizingOpenSourceInventorying_2021.pdf
+ Open SBOMと呼ぶものでSBOMを管理しており、SPDXとCycloneDXの両方に対応できるらしい
+ スペイン マドリードのソフトウェア企業
+●License Info SG
+・SPDX Asia Pacificテレカン情報共有
+- SPDX LiteへのPackege Supplier Fieldの追加（福地）
+-- 2.2.2に対してPRを出して、Kateからapproveはされた
+-- Signed-off-byを求められたので対応した
+- 「SPDX Liteに列挙されている項目はすべてmandatory」
+-- 以前のSG内での合意とは異なるが、これがSPDXとしての考えで、それに従う
+- Usage Profileの進捗状況（伊藤（義））
+-- https://openchain-japanwg.slack.com/files/UGF2X86EL/F0331FJQZEW/background_of_proposal_of_usageprofile_cc0__2_.pptx?origin_team=TDD41N1DL&origin_channel=CGDAB378R を提示
+-- 以下の2つをどう両立させるかで悩んでいる
+--- SPDXに書かれる内容はソースコード等から解析的に導出可能なものであるべき
+---- たとえばライセンスの解釈は入れるべきではない
+--- 一方、Usage Profileの最初の意図としては「契約書にある内容をSPDXをさせたい」
+--- これが難しいのは、Joshua、Kateも理解している
+--- scopeの中に入れる形で対応できるのではないかと思っている（福地）
+-- 以下の２つが宿題になる（福地）
+--- Kateより「元々あるfieldで対応できるものはなるべく増やさないで」と言われている
+	-> 考える★全員
+--- 次回のテレカンに備えて伊藤さんのアイディアを資料に反映してほしい
+	-> 資料更新★伊藤（義）
+・SBOMとVEXの話（小保田）
+(Tooling SGの一番目の話題としても一部出たもの）
+- 脆弱性情報に対応する話は当初SPDX 3.0で対応のはずだったが、2.3で対応と前倒しされた
+- ML spdx-defectsで議論されている
+- techとは別の会議が行なわれているが、議事録はまだない。いずれ出てくるとは思われる
+・輪講
+担当: 伊藤（有）
+-Legacy Software and Binary Analysis（レガシーソフトウェアとバイナリ分析）
+-Flexibility vs Uniformity in Implementation（実装における柔軟性と均一性）
+次回は VI. Future SBOM Work から
+担当: 當麻
+（VII. Conclusionの担当は小保田）
+・次回日程
+  4/12(火) 16:00-18:00 Tooling + LicenseInfo 開催
+  議事録担当 小保田
