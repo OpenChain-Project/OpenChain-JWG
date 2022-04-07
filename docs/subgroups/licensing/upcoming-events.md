@@ -1,4 +1,4 @@
-### Licensing Subgroup
+### License Info Subgroup
 
-- 日時: 2021年12月7日(火)　17:30-18:30 （いつもと時間が異なりますので注意！！！）
+- 日時: 2022年4月12日(火)　16:00-18:00| (Toolingと合同)
 - 場所: オンラインで開催 MailList, Slackで別途連絡します  
