@@ -8,12 +8,13 @@
   - [https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09](https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09)
   - Meeting ID: 99975267803 / パスワード: ]>guXS~6
 
-OpenChain業界調査というアンケートを事前に行ないます。全体会合では、このアンケートの結果を紹介し、それに基づいて参加者の皆さんと感想や意見の交換をしたいと考えています。という事情ですのでぜひ下記のアンケートにご協力ください。（アンケートでは明示的に回答いただいた情報のみ収集、利用します。メールアドレス等の回答者の情報は収集されません。）
+OpenChain業界調査というアンケートを事前に行ないます。全体会合では、このアンケートの結果を紹介し、それに基づいて参加者の皆さんと感想や意見の交換をしたいと考えています。という事情ですので、ぜひ以下のアンケートにご協力ください。（アンケートでは明示的に回答いただいた情報のみ収集、利用します。メールアドレス等の回答者の情報は収集されません。）
 
-#### OpenChain業界調査
+#### OpenChain業界調査（アンケート）
 
 次のURLにアクセスし、ご回答ください。
 - [https://forms.gle/A2qdawgY9h7CWr3q8](https://forms.gle/A2qdawgY9h7CWr3q8)
-- ![アンケートURL](questionnaireQR.png)
+- ![アンケートURL](questionnaireQR.png)こちらのQRコードからもアンケートのサイトに行けます
+。
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
