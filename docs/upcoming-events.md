@@ -1,14 +1,8 @@
-#### The 23rd meeting / The 10th Virtual meeting
+#### The 24th meeting / The 11th Virtual meeting
 
-次の全体会合が決まりました。 / We are planning the next General Public Meeting:
+第23回全体会合／第10回オンラインは4/20に無事開催されました。参加してくださった皆さん、ありがとうございました。
 
-- 日時 / Date and Time:
-  - 2022年4月20日(水)15:00-16:00 /  April 20, 2022 at 3pm-4pm JST
-- 場所(Venue)：Zoom
-  - [https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09](https://socionext.zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09)
-  - Meeting ID: 99975267803 / パスワード: ]>guXS~6
-
-OpenChain業界調査というアンケートを事前に行ないます。全体会合では、このアンケートの結果を紹介し、それに基づいて参加者の皆さんと感想や意見の交換をしたいと考えています。という事情ですので、ぜひ以下のアンケートにご協力ください。（アンケートでは明示的に回答いただいた情報のみ収集、利用します。メールアドレス等の回答者の情報は収集されません。）
+会合で結果を紹介したOpenChain業界調査というアンケートですが、実はまだ回答を募集しております。「まだ回答していないよ」という方は、ぜひ以下のアンケートにご協力ください。（アンケートでは明示的に回答いただいた情報のみ収集、利用します。メールアドレス等の回答者の情報は収集されません。）
 
 #### OpenChain業界調査（アンケート）
 
