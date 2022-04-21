@@ -11,6 +11,6 @@
 - ![アンケートURL](questionnaireQR.png)こちらのQRコードからもアンケートのサイトに行けます
 。
 
-次回の全体会合は夏頃になるでしょうか。お楽しみに！ / We are planning the next meeting inthis summer.  Stay tuned!
+次回の全体会合は夏頃になるでしょうか。お楽しみに！ / We are planning the next meeting in this summer.  Stay tuned!
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
