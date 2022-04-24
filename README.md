@@ -1,9 +1,9 @@
 # OpenChain Project Japan Work Group(JWG)
 
-OpenChain Japan Work Group（以降Japan WG）は、OpenChain Projectの活動の一つです。そのため、まずOpenChain Projectについて説明します。
+OpenChain Japan Work Group（以降Japan WG）は、[OpenChain Project](https://www.openchainproject.org/)の活動の一つです。そのため、まずOpenChain Projectについて説明します。
 
 ## OpenChain Projectについて
-* OpenChain Projectは、 Linux FoundationがホストするオープンなProjectで、Open Source Software(以下OSS)ライセンス遵守の促進活動を通じて、サプライチェーン（組織間）における信頼構築を目指しています
+* OpenChain Projectは、 [Linux Foundation](https://www.linuxfoundation.jp/)がホストするオープンなProjectで、Open Source Software(以下OSS)ライセンス遵守の促進活動を通じて、サプライチェーン（組織間）における信頼構築を目指しています
 * OSSライセンス遵守に関する仕様、カリキュラム、自己認証プログラムを提供しています
 * OpenChain Projectでは、プラチナメンバーと一般メンバーが定義されています
 * プラチナメンバーは、有償で、OpenChain Projectのボード会議に参加できます
@@ -23,19 +23,19 @@ OpenChain Japan Work Group（以降Japan WG）は、OpenChain Projectの活動�
 
 ## サブグループ (SG)
 OpenChain Japan WG内では、共通の関心を持つ人たちが集まりサブグループを作って活動しています。現在以下の7つのサブグループがあります。
-- Planning SG
+- [Planning SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/planning/)
 	- Japan WG全体の活動プランの議論と、全体会合の準備を検討します
-- FAQ SG
+- [FAQ SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/FAQ/)
 	- 著作権やOSSライセンスにあまり詳しくない技術者向けに、OSSライセンスに関するFAQを作成して公開しています
-- サプライチェーンリーフレット SG
+- [サプライチェーンリーフレット SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/leaflet/)
 	- 「オープンソースソフトウェアライセンス遵守に関する一般公衆ガイド」という冊子を作成しました
-- 教育資料 SG
+- [教育資料 SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/education/)
 	- ソフトウェア開発者向け教育資料(コンプライアンスプログラム・バージョン)を作成しました。今後、ソフトウェア開発ベンダー(ODM:Original Design Manufacturing)向けの教育資料を作成予定です
-- ライセンス情報 SG
+- [ライセンス情報 SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/licensing/)
 	- 組織間のライセンス情報授受に関してのガイドラインやSPDX Liteの作成をしてきました。現在は、SBOMなど、組織間のライセンス情報・ソフトウェアパッケージ情報の授受に関するガイドラインやSPDXへの仕様提案などを、動向を調査しながら議論しています
-- プロモーション SG
+- [プロモーション SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/promotion/)
 	- OSSコンプライアンスやOSSそのものの重要性の認知を拡大するための資料の作成やメディア・政府・産業界・学術界などと連携した啓発活動を行っています
-- Tooling SG
+- [Tooling SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/tooling/)
 	- OSS管理運用のためのOSSを利用して、 Open Source Compliance において以下の項目の実現を目指します
 		- 組織に応じたワークフローの構築
 		- 省力化 (オートメーション)
