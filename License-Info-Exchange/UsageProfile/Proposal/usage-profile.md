@@ -175,13 +175,13 @@ EXAMPLE 2 RDF: Property `spdx:packageReleseDate` in class `spdx:UsageScope`
 ```
 
 
-## N.5 Package Build Date field
+## N.5 Package Built Date field
 
 ### N.5.1 Description
 
-This field provides a place for recording build date of the package 
+This field provides a place for recording built date of the package 
 
-Table NN — Metadata for the package build date
+Table NN — Metadata for the package built date
 
 | Attribute | Value |
 | --------- | ----- |
@@ -192,22 +192,22 @@ Table NN — Metadata for the package build date
 
 ### N.5.2 Intent
 
-Description of the build date of the package for strict identification of the prerequisite assumptions of usage scope by the package supplyer.
+Description of the built date of the package for strict identification of the prerequisite assumptions of usage scope by the package supplyer.
 It's recoreded from build system tools or date field of the package file.
 
 ### N.5.3 Examples
 
-EXAMPLE 1 Tag: `PackageBuildDate:`
+EXAMPLE 1 Tag: `PackageBuiltDate:`
 
 ```text
-PackageBuildDate: 2010-01-29T18:30:22Z
+PackageBuiltDate: 2010-01-29T18:30:22Z
 ```
 
-EXAMPLE 2 RDF: Property `spdx:packageBuildDate` in class `spdx:UsageScope`
+EXAMPLE 2 RDF: Property `spdx:packageBuiltDate` in class `spdx:UsageScope`
 
 ```text
 <UsageScope rdf:about="...">
-    <packageBuildDate> 2010-01-29T18:30:22Z </packageBuildDate>
+    <packageBuiltDate> 2010-01-29T18:30:22Z </packageBuiltDate>
 </UsageScope>
 ```
 
@@ -215,7 +215,7 @@ EXAMPLE 2 RDF: Property `spdx:packageBuildDate` in class `spdx:UsageScope`
 
 ### N.6.1 Description
 
-Identify expiration condition of the usage profile desciriptions which declared by supplyer of the package.
+Identify expiration condition of the usage profile desciriptions or so called "end of life" of the package itself which declared by supplyer of the package.
 For example, to specify "usage scope" descriptions under specific period and/or specific conditions such as "This SPDX descriptions are valid until next delivery of newer SPDX descriptions". 
 
 Table NN — Metadata for the valid until field
