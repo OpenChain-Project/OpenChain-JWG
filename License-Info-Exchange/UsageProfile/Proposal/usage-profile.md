@@ -84,7 +84,7 @@ EXAMPLE 2 RDF: Property `rdfs:comment` in class `spdx:UsageScope`
          <rdfs:comment> A_specific_binary_verNNN is compiled and velified as production level quality</rdfs:comment>
 </UsageScope>
 ```
-```
+
 
 ## N.3 UsageScope SPDX identifier field <a name="N.3"></a>
 
