@@ -1,41 +1,35 @@
-# N Usage Profile section
+# 31 Usage Profile section
 
-## N.1 Usage Scope field <a name="N.1"></a>
+## 31.1 Usage Scope field <a name="31.1"></a>
 
-### N.1.1 Description
+### 31.1.1 Description
 
-While required license conditions or any requirements for software packages are changed dynamically, such as in each development phase transition or in the final product shipment to the public, software package supplier need to tell its consumers detail conditions to be obey.
-Especially in the large scale development which operated via multi layer software supply chain through upstream to downstream, community to industrial company, license conditions must be carried through upstream side to downstream side along with the software package through such multi layer supply chain.
+Software packages are sometimes generated with specific Build conditions based on package supplier's license conditions and intended usage in addition to original software source code. In those cases, it prefer to package supplier clearly state into the SPDX document that the intended usage of the package as envisioned when setting the Build conditions by the package supplier.
+In other cases, some specific licenses out of dual or multiple licenses of original software source code may be applied to the package according to the Build conditions. Or, the inspection conditions for packages may also have to be clearly stated for each package.
 
-On the other hand, each software package are used as in consumer's own will and purpose under the license condition. Even though the software package supplier able to notice detail usage and condition just their own prerequisite assumption.
-
-With this field, software package supplier able to describe detail license conditions or any requirements to use software package along with its prerequisite assumptions of the detail descriptions. And also it's able to focus those information in the SPDX for specific usage of specific downstream consumer with mention the prerequisite product and the expiration date. 
+With this "Usage Scope" field, the intended usage and license conditions assumed by the package supplier are appended to the generated package in a manner that supplements those conditions contained in the source code.
 
 
-Table NN — Metadata for the usage scope field
+Table 31.1 — Metadata for the usage scope field
 
 | Attribute | Value |
 | --------- | ----- |
 | Required | No |
 | Cardinality | 0..* |
-| Format | ["DocumentRef-"[idstring]":"]SPDXID \<single line of text\> \| `NONE` \| `NOASSERTION`<br>where "DocumentRef-"`[idstring]`":" is an optional reference to an external SPDX document as described in [6.6](document-creation-information.md#6.6)<br>where `SPDXID` is a string containing letters, numbers, `.` and/or `-`. as described in [6.3](document-creation-information.md#6.3), [7.2](package-information.md#7.2), [8.2](file-information.md#8.2).<br>where `<single line of text>` is .<br>where `NONE` can be used to explicitly indicate there are NO other "usage scope".<br>where `NOASSERTION` can be used to explicitly indicate it is not clear if there are "usage scope" that may apply or not. |
+| Format | ["DocumentRef-"[idstring]":"]SPDXID \<single line of text\> \| `NONE` \| `NOASSERTION`<br>where "DocumentRef-"`[idstring]`":" is an optional reference to an external SPDX document as described in [6.6](document-creation-information.md#6.6)<br>where `SPDXID` is a string containing letters, numbers, `.` and/or `-`. to designate SPDX document/package/file as described in [6.3](document-creation-information.md#6.3), [7.2](package-information.md#7.2), [8.2](file-information.md#8.2).<br>where `<single line of text>` is the intended usage and license conditions assumed by the package supplier.<br>where `NONE` can be used to explicitly indicate there are NO other "usage scope".<br>where `NOASSERTION` can be used to explicitly indicate it is not clear if there are "usage scope" that may apply or not. |
 
 <br>
 
-### N.1.2 Intent
+### 31.1.2 Intent
 
-To describe detail license conditions or any requirements to use software package along with its prerequisite assumptions of the detail descriptions from the package supplyer.
+To describe detail intended usage and/or license conditions assumed by the package supplier in a manner that supplements those conditions contained in the software.
 
-### N.1.3 Examples
+### 31.1.3 Examples
 
 EXAMPLE 1 Tag: `UsageScope:`
 
 ```text
 UsageScope: SPDXRef-a_specific_binary_verNNN: shipped for consumer product/ medical system / automotive system
-```
-
-```text
-UsageScopeComment: A_specific_binary_verNNN is compiled and velified as production level quality
 ```
 
 EXAMPLE 2 RDF: Property `spdx:UsageScope` in any `spdx:SpdxDocument`, `spdx:Package` or `spdx:File`
@@ -52,11 +46,13 @@ EXAMPLE 2 RDF: Property `spdx:UsageScope` in any `spdx:SpdxDocument`, `spdx:Pack
 
 ```
 
-## N.2 Usage Scope Comment field <a name="N.2"></a>
+## 31.2 Usage Scope Comment field <a name="31.2"></a>
 
-### N.2.1 Description
+### 31.2.1 Description
 
-Table NN — Metadata for the usage scope comment field
+This field provides a place for the SPDX document creator to record any general comments about the "usage scope".
+
+Table 31.2 — Metadata for the usage scope comment field
 
 | Attribute | Value |
 | --------- | ----- |
@@ -65,15 +61,16 @@ Table NN — Metadata for the usage scope comment field
 | Format | Free form text that may span multiple lines, refers only to the immediately preceding usagescope.  |
 
 
-### N.2.2 Intent
+### 31.2.2 Intent
 
 To describe prerequisite assumptions of usage scope by the package supplyer.
 
-### N.2.3 Examples
+### 31.2.3 Examples
 
 EXAMPLE 1 Tag: `UsageScopeComment:`
 
 ```text
+UsageScope: SPDXRef-a_specific_binary_verNNN: shipped for consumer product/ medical system / automotive system
 UsageScopeComment: A_specific_binary_verNNN is compiled and velified as production level quality
 ```
 
@@ -86,13 +83,13 @@ EXAMPLE 2 RDF: Property `rdfs:comment` in class `spdx:UsageScope`
 ```
 
 
-## N.3 UsageScope SPDX identifier field <a name="N.3"></a>
+## 31.3 UsageScope SPDX identifier field <a name="31.3"></a>
 
-### N.3.1 Description
+### 31.3.1 Description
 
 Uniquely identify any element in an SPDX document which may be referenced by other elements. These may be referenced internally and externally with the addition of the SPDX document identifier. The metadata for the SPDX identifier field is shown in Table NN.
 
-**Table NN — Metadata for the UsageScope SPDX identifier field**
+**Table 31.3 — Metadata for the UsageScope SPDX identifier field**
 
 | Attribute | Value |
 | --------- | ----- |
@@ -100,11 +97,11 @@ Uniquely identify any element in an SPDX document which may be referenced by oth
 | Cardinality | 1..1 |
 | Format | "SPDXRef-"`[idstring]` <br> where `[idstring]` is a unique string containing letters, numbers, `.`, and/or `-`. |
 
-### N.3.2 Intent
+### 31.3.2 Intent
 
 There may be several usecase of the same package within an SPDX document. Each element needs to be able to be referred to uniquely so that relationships between elements can be clearly articulated.
 
-### N.3.3 Examples
+### 31.3.3 Examples
 
 EXAMPLE 1 Tag: `UsageScopeSPDXID:`
 
@@ -139,13 +136,13 @@ Using document URI:
 </UsageScope>
 ```
 
-## N.4 Package Release Date field 
+## 31.4 Package Release Date field <a name="31.4"></a>
 
-### M.4.1 Description
+### 31.4.1 Description
 
 This field provides a place for recording package release date
 
-Table NN — Metadata for the package release date
+Table 31.4 — Metadata for the package release date
 
 | Attribute | Value |
 | --------- | ----- |
@@ -154,11 +151,11 @@ Table NN — Metadata for the package release date
 | Format | `YYYY-MM-DDThh:mm:ssZ`<br>where:<br><ul><li>`YYYY` is year</li><li>`MM` is month with leading zero</li><li>`DD` is day with leading zero</li><li>`T` is delimiter for time</li><li>`hh` is hours with leading zero in 24 hour time</li><li>`mm` is minutes with leading zero</li><li>`ss` is seconds with leading zero</li><li>`Z` is universal time indicator</li></ul> |
 
 
-### N.4.2 Intent
+### 31.4.2 Intent
 
 Description of the package release date for strict identification of the prerequisite assumptions of usage scope by the package supplyer.
 
-### N.4.3 Examples
+### 31.4.3 Examples
 
 EXAMPLE 1 Tag: `PackageReleaseDate:`
 
@@ -175,13 +172,13 @@ EXAMPLE 2 RDF: Property `spdx:packageReleseDate` in class `spdx:UsageScope`
 ```
 
 
-## N.5 Package Built Date field
+## 31.5 Package Built Date field <a name="31.5"></a>
 
-### N.5.1 Description
+### 31.5.1 Description
 
 This field provides a place for recording built date of the package 
 
-Table NN — Metadata for the package built date
+Table 31.5 — Metadata for the package built date
 
 | Attribute | Value |
 | --------- | ----- |
@@ -190,12 +187,12 @@ Table NN — Metadata for the package built date
 | Format | `YYYY-MM-DDThh:mm:ssZ`<br>where:<br><ul><li>`YYYY` is year</li><li>`MM` is month with leading zero</li><li>`DD` is day with leading zero</li><li>`T` is delimiter for time</li><li>`hh` is hours with leading zero in 24 hour time</li><li>`mm` is minutes with leading zero</li><li>`ss` is seconds with leading zero</li><li>`Z` is universal time indicator</li></ul> |
 
 
-### N.5.2 Intent
+### 31.5.2 Intent
 
 Description of the built date of the package for strict identification of the prerequisite assumptions of usage scope by the package supplyer.
 It's recoreded from build system tools or date field of the package file.
 
-### N.5.3 Examples
+### 31.5.3 Examples
 
 EXAMPLE 1 Tag: `PackageBuiltDate:`
 
@@ -212,13 +209,13 @@ EXAMPLE 2 RDF: Property `spdx:packageBuiltDate` in class `spdx:UsageScope`
 ```
 
 
-## N.6 Valid Until Date field 
+## 31.6 Valid Until Date field <a name="31.6"></a>
 
-### M.6.1 Description
+### 31.6.1 Description
 
 Identify expiration date of designated "usage scope" descriptions which declared by supplyer of the package. 
 
-Table NN — Metadata for the valid until date
+Table 31.6 — Metadata for the valid until date
 
 | Attribute | Value |
 | --------- | ----- |
@@ -227,11 +224,11 @@ Table NN — Metadata for the valid until date
 | Format | `YYYY-MM-DDThh:mm:ssZ`<br>where:<br><ul><li>`YYYY` is year</li><li>`MM` is month with leading zero</li><li>`DD` is day with leading zero</li><li>`T` is delimiter for time</li><li>`hh` is hours with leading zero in 24 hour time</li><li>`mm` is minutes with leading zero</li><li>`ss` is seconds with leading zero</li><li>`Z` is universal time indicator</li></ul> |
 
 
-### N.6.2 Intent
+### 31.6.2 Intent
 
 Description of the expiration date for specific usage scope.
 
-### N.6.3 Examples
+### 31.6.3 Examples
 
 EXAMPLE 1 Tag: `ValidUntilDate:`
 
@@ -247,15 +244,15 @@ EXAMPLE 2 RDF: Property `spdx:validUntilDate` in class `spdx:UsageScope`
 </UsageScope>
 ```
 
-## N.7 Valid Until Event field
+## 31.7 Valid Until Event field <a name="31.7"></a>
 
-### N.7.1 Description
+### 31.7.1 Description
 
 Identify expiration condition of the usage profile desciriptions or so called "end of life" of the package itself which declared by supplyer of the package.
 For example, to specify expilation conditions of "usage scope" descriptions such as "These SPDX descriptions are valid until next delivery of newer SPDX descriptions". 
 In case, there are two or more "valid until" descriptions exist, designated "usage scope" description is expired when it meets an any condition defined in each "valid until" descriptions.
 
-Table NN — Metadata for the valid until event field
+Table 31.7 — Metadata for the valid until event field
 
 | Attribute | Value |
 | --------- | ----- |
@@ -264,11 +261,11 @@ Table NN — Metadata for the valid until event field
 | Format | Free form text that may span multiple lines, refers only to the immediately preceding "usage scope".  |
 
 
-### N.7.2 Intent
+### 31.7.2 Intent
 
 To the place for descibing conditions / events which affects to validity of usage scope descriptions.
 
-### N.7.3 Examples
+### 31.7.3 Examples
 
 EXAMPLE 1 Tag: `ValidUntilEvent:`
 
@@ -287,13 +284,13 @@ EXAMPLE 2 RDF: Property `rdfs:comment` in class `spdx:validUntilEvent` of `spdx:
 </UsageScope>
 ```
 
-## N.8 ValidUntil SPDX identifier field <a name="N.8"></a>
+## 31.8 ValidUntil SPDX identifier field <a name="31.8"></a>
 
-### N.8.1 Description
+### 31.8.1 Description
 
 Uniquely identify any element in an SPDX document which may be referenced by other elements. These may be referenced internally and externally with the addition of the SPDX document identifier. The metadata for the validUntil SPDX identifier field is shown in Table NN.
 
-**Table NN — Metadata for the validUntil SPDX identifier field**
+**Table 31.8 — Metadata for the validUntil SPDX identifier field**
 
 | Attribute | Value |
 | --------- | ----- |
@@ -301,11 +298,11 @@ Uniquely identify any element in an SPDX document which may be referenced by oth
 | Cardinality | 0..1 |
 | Format | "SPDXRef-"`[idstring]` <br> where `[idstring]` is a unique string containing letters, numbers, `.`, and/or `-`. |
 
-### N.8.2 Intent
+### 31.8.2 Intent
 
 There may be several expiration date designated by a ValidUntilDate field or expiration conditions by ValidUntilEvent fields of the "usage scope" within an SPDX document. Each element needs to be able to be referred to uniquely so that relationships between elements can be clearly articulated.
 
-### N.8.3 Examples
+### 31.8.3 Examples
 
 EXAMPLE 1 Tag: `ValidUntilSPDXID:`
 
