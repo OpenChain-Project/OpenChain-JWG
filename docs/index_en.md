@@ -32,6 +32,8 @@ This pages provide information about OpenChain-JWG in Japanese language.
 
 ## Subgroup Acts
 
+People with common interests gather to form subgroups in OpenChain JWG.
+
 - [&#x1f4c2;Education](subgroups/education/)  
 - [&#x1f4c2;FAQ](subgroups/FAQ/)  
 - [&#x1f4c2;Leaflet](subgroups/leaflet/)  
