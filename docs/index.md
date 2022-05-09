@@ -31,6 +31,8 @@ OpenChain Japan Work Group (JWG)は[OpenChain Project](http://openchainproject.o
 
 ## サブグループ活動
 
+OpenChain JWG内では、共通の関心を持つ人たちが集まりサブグループを作って活動しています。
+
 - [&#x1f4c2;Education](subgroups/education/)  
 - [&#x1f4c2;FAQ](subgroups/FAQ/)  
 - [&#x1f4c2;Leaflet](subgroups/leaflet/)  
