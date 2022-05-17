@@ -22,8 +22,8 @@
 
 ## About OpenChain Japan Work Group
 
-This is the Website for the OpenChain Japan Work Group (JWG) is one of the regional activities of [OpenChain Project](http://openchainproject.org/)
-This pages provide information about OpenChain in Japanese language.
+The OpenChain Japan Work Group (JWG) is one of the regional activities of [OpenChain Project](http://openchainproject.org/)
+This pages provide information about OpenChain and OpenChain JWG in Japanese language.
 
 - The OpenChain project website:  
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
