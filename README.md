@@ -4,7 +4,7 @@ OpenChain Japan Work Group（以降Japan WG）は、[OpenChain Project](https://
 
 ## OpenChain Projectについて
 * OpenChain Projectは、 [Linux Foundation](https://www.linuxfoundation.jp/)がホストするオープンなProjectで、Open Source Software(以下OSS)ライセンス遵守の促進活動を通じて、サプライチェーン（組織間）における信頼構築を目指しています
-* OSSライセンス遵守に関する仕様、カリキュラム、自己認証プログラムを提供しています
+* OSSライセンス遵守に関する[仕様](https://github.com/OpenChain-Project/Specification/tree/master/Official/ja/2.1)、カリキュラム、[自己認証プログラム](https://certification.openchainproject.org/?locale=ja)を提供しています
 * OpenChain Projectでは、プラチナメンバーと一般メンバーが定義されています
 * プラチナメンバーは、有償で、OpenChain Projectのボード会議に参加できます
 * 一般メンバーは、誰でも自由に無償で活動に参加できます
