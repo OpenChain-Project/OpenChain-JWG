@@ -62,3 +62,6 @@
 
 ---
 ---
+
+---
+[次（企業におけるOSS利用：OSS配布）へ](OSS_Distribution.md)
