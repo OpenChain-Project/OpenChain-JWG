@@ -35,14 +35,8 @@
 
 
 ## 提供物、成果物の扱い
-ライセンスは以下とします
-* 共同成果物
-  * Japan WGの参加者が協力して作成したもの　　CC0-1.0
-* 報告（Report）
-  * 各社が自社の活動紹介として個別にJapan WG向けに作成したもの　CC-BY-ND 4.0
-* その他資料
-  * OpenChain Japan WGでの活動とは関係なく作成したものを各社が会合等で紹介する場合は、著作権法の通り、各社がライセンス条件を定めて下さい
-  * 配布を許諾する場合は、ライセンス条件を明記して提供して下さい
+
+[GitHubのLICENSE](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/LICENSE.md)を参照してください。
 
 
 ## 守秘義務
@@ -58,14 +52,5 @@
 * ツール（githubやslack等）について、セキュリティ等の保証はなく、情報漏洩が発 生したとしても、運営者やJapanWGのメンバーは一切の責任を負いません。
 
 ## 関連情報
-* OpenChain project:
-  * Website: https://www.openchainproject.org/
-  * GitHub: https://github.com/OpenChain-Project
-  * ML: main@lists.openchainproject.org
-  * Translations: https://www.openchainproject.org/translations
 
-* Japan WG:
-  * Wiki: https://github.com/OpenChain-Project/OpenChain-JWG
-  * ML: japan-wg@lists.openchainproject.org
-  * GitHub: https://github.com/OpenChain-Project/OpenChain-JWG
-
+[GitHubのREADME](https://github.com/OpenChain-Project/OpenChain-JWG#%E9%96%A2%E9%80%A3%E6%83%85%E5%A0%B1)を参照してください。
