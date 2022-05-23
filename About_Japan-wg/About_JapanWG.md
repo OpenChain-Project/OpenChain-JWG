@@ -36,7 +36,9 @@
 
 ## 提供物、成果物の扱い
 
-[GitHubのLICENSE](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/LICENSE.md)を参照してください。
+このサイトで提供されている資料を利用する場合には[GitHubのLICENSE](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/LICENSE.md)を参照してください。
+
+Japan WGに成果物を提供する場合には[GitHubのCONTRIBUTING](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/CONTRIBUTING.md)を参照してください。
 
 
 ## 守秘義務
