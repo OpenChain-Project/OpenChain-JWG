@@ -25,7 +25,7 @@
 OpenChain Japan Work Group (JWG)は[OpenChain Project](http://openchainproject.org/)の各国・各地域でのコミュニティ活動の一つです。このサイトでは日本語でOpenChain Projectに関わる情報を発信しています。
 
 
-- [&#x1F4D6; Japan WGの簡単な説明資料](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/About_Japan-wg/About_JapanWG.md)
+- [&#x1F4D6; Japan WGの簡単な説明](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/self-intro.md)
 
 ---
 
