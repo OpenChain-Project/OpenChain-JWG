@@ -18,12 +18,13 @@ FOSSology (https://www.fossology.org/) には、
 1. FOSSologyのビルドとインストール
 1.  インストール後の設定
 1. Post-installスクリプトの実行
-1. FOSSologyスケジューラの起動
+1. システムの起動時に自動的に起動させる設定
+1. エラーへの対処
 
 ## 1. テスト環境
 
 ### 1.1 テスト環境
-この文書に記載の内容は、以下の環境で動作テストした。
+この文書に記載の内容は、以下の条件で動作テストした。
 
 
 |Item|Description|
@@ -135,7 +136,7 @@ $ sudo ln -s /usr/local/etc/fossology/conf/src-install-apache-example.conf 000-d
 ```
 $ sudo apache2ctl configtest
 ```
-を実行して、"Syntax OK" が出力されることを確認する。ここで、AH00558やAH00671のエラーが出る場合の対処については、この文書の最後の章に対応を記載する。
+を実行して、"Syntax OK" が出力されることを確認する。ここで、AH00558やAH00671のエラーが出る場合の対処については後述する。
 ```
 $ sudo apache2ctl graceful
 ```
@@ -170,33 +171,34 @@ $ sudo systemctl enable fossology
 
 ## 8. エラーへの対処
 
-### 8.1 apache2ctl configtest の AH00558 への対処
+### 8.1 apache2ctl configtest の AH00558
 
 $ sudo apache2ctl configtest を実行した際に、
+```
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
-
-が出力される場合には、/etc/apache2/conf-available に fqdn.conf を作成して、以下の内容を記述する。
+```
+が出力される場合には、/etc/apache2/conf-available に fqdn.conf を作成して、以下の内容を記述する。(hogehoge のところには、そのサーバのホスト名を記述する)
 
 ```
-$ sudo vi /etc/apache2/conf-available/fqdn.conf
 ServerName hogehoge
 ```
-(hogehoge のところには、そのサーバのホスト名を記述する)
+
 次に、以下のコマンドを実行する。
 ```
 $ sudo a2enconf fqdn
 $ sudo service apache2 restart
 ```
 
-### 8.2 apache2ctl configtest の AH00671 への対処
+### 8.2 apache2ctl configtest の AH00671
 
+```
 AH00671: The Alias directive in /etc/apache2/sites-enabled/fossology.conf at line 3 will probably never match because it overlaps an earlier Alias.
-
-この warning が出る理由は、000-default.conf と fossology.conf の両方に同じ行
+```
+この warning が出る理由は、000-default.conf と fossology.conf の両方に同じ記述
 ```
 Alias /repo /usr/local/share/fossology/www/ui
 ```
-があるためであると思われたが、そのどちらか一方を削除すれば、その warning が出なくなる一方、FOSSologyが起動しなくなるので、この warning は無視しておけば良いと思われる。
+があるためであると思われるが、そのどちらか一方を削除すると、この warning は出なくなる一方、FOSSologyが起動しなくなる。この warning は無視してよさそうである。
 
 ---
 OpenChain Japan WG - This document is licensed under Creative Commons CC0 1.0 Universal.
