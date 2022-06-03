@@ -45,6 +45,23 @@ OSPOゾーンOSPOゾーンでは、この取り組みやその内容(活動、�
 
 グッド・ガバナンス・イニシアティブには、以下のような素晴らしい人々が貢献している。
 
+* Frédéric Aatz (Microsoft France)
+* Boris Baldassari (Castalia Solutions, Eclipse Foundation)
+* Philippe Bareille (Ville de Paris)
+* Gaël Blondelle (Eclipse Foundation)
+* Vicky Brasseur (Wipro)
+* Philippe Carré (Nokia)
+* Pierre-Yves Gibello (OW2)
+* Michael Jaeger (Siemens)
+* Max Mehl (Free Software Foundation Europe)
+* Hervé Pacault (Orange)
+* Stefano Pampaloni (RIOS)
+* Christian Paterson (OpenUp)
+* Simon Phipps (Meshed Insights)
+* Silvério Santos (Orange Business Services)
+* Cédric Thomas, our master of ceremony (OW2)
+* Nicolas Toussaint (Orange Business Services)
+
 ## ライセンス
 
 本作品は、Creative Commons Attribution 4.0 International license (CC-BY 4.0)の下でライセンスされています。[LINK1]クリエイティブ・コモンズ・ウェブサイトより:
