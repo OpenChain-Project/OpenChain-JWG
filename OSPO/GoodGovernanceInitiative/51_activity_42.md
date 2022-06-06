@@ -56,4 +56,5 @@ GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissue
 - アジャイル、DevOps、オープンソースの**開発手法とベストプラクティス**。
 
 関連アクティビティ:
+
 • [(文化目標) 人事視点](https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/28)
