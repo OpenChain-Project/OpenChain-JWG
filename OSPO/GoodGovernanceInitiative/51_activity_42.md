@@ -51,9 +51,9 @@ GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissue
 * オープン・ソース・スキルに関する記事:[5つのオープン・ソース・スキルを活用してゲームと履歴書を向上](https://sourceforge.net/blog/5-open-source-skills-game-resume/)
 
 このアクティビティには、次のような技術リソースとスキルを含めることができます。
-* **一般的な言語**(Java、PHP、Perl、Pythonなど)。
-* **オープンソースのフレームワーク**(Spring、AngularJS、Symfony)とテストツール。
-* アジャイル、DevOps、オープンソースの**開発手法とベストプラクティス**。
+- **一般的な言語**(Java、PHP、Perl、Pythonなど)。
+- **オープンソースのフレームワーク**(Spring、AngularJS、Symfony)とテストツール。
+- アジャイル、DevOps、オープンソースの**開発手法とベストプラクティス**。
 
 関連アクティビティ:
 • [(文化目標) 人事視点](https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/28)
