@@ -58,7 +58,7 @@ OSSソフトウェアの脆弱性を管理することは、組織内のシス�
 * Googleの新しいイニシアチブ、[open source Vulnerabilities](https://osv.dev/)もチェックしてみてください。
 * OWASPワーキンググループは、商用とオープンソースの両方の世界から、脆弱性スキャナーのリストを[彼らのウェブサイト](https://owasp.org/www-community/Vulnerability_Scanning_Tools)に公開しています。
 * J. WilliamsとA.Dabirsiaghi。2012年の安全でない図書館の不幸な現実。
-* [オープンソース依存関係における脆弱性の検出、評価、緩和]](https://link.springer.com/article/10.1007/s10664-020-09830-x)、Serena Elisa Ponta、Henrik Plate&Antonino Sabetta、Empirical Software Engineering volume 25、ページ3175-3215 (2020) 。
+* [オープンソース依存関係における脆弱性の検出、評価、緩和](https://link.springer.com/article/10.1007/s10664-020-09830-x)、Serena Elisa Ponta、Henrik Plate&Antonino Sabetta、Empirical Software Engineering volume 25、ページ3175-3215 (2020) 。
 * [オープンソース・ソフトウェアの脆弱性に対する修正の手動キュレーションデータセット](https://arxiv.org/abs/1902.02595)、Serena E.Ponta、Henrik Plate、Antonino Sabetta、Michele Bezzi、Cedric Dangremont。また、[前述のデータセットを実装するための、開発中のツールキット](https://sap.github.io/project-kb/)もあります。
 
 [^heartbleed]: https://fr.wikipedia.org/wiki/Heartbleed
