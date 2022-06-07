@@ -46,8 +46,8 @@ OSSソフトウェアの脆弱性を管理することは、組織内のシス�
 ### ツール
 
 * GitHubツール
-  - GitHubは、プラットフォームでホストされているコードをセキュリティで保護するためのガイドラインとツールを提供します。詳細については、GitHub docsを参照してください。
-  - GitHubは、依存関係の脆弱性を自動的に特定するDependabotを提供している。
+  - GitHubは、プラットフォームでホストされているコードをセキュリティで保護するためのガイドラインとツールを提供します。詳細については、[GitHub docs](https://docs.github.com/en/github/administering-a-repository/about-securing-your-repository)を参照してください。
+  - GitHubは、依存関係の脆弱性を自動的に特定する[Dependabot](https://docs.github.com/en/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies)を提供している。
 * [Eclipse Steady](https://eclipse.github.io/steady/)は無料のオープンソースツールで、JavaやPythonのプロジェクトの脆弱性を分析し、開発者が脆弱性を緩和できるように支援する。
 * [OWASP dependency-check](https://owasp.org/www-project-dependency-check/): オープンソースの脆弱性スキャナー。
 * [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort): は、オープンソースのオーケストレータであり、設定された脆弱性データサービスから、使用されている依存関係に関するセキュリティアドバイザリを収集することができる。
