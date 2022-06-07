@@ -37,3 +37,22 @@ GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Assues
 * [Fossa](https://github.com/fossas/fossa-cli): 高速でポータブルで信頼性の高い依存性分析。ライセンスおよび脆弱性スキャンをサポートします。言語にとらわれない;は、20以上のビルドシステムと統合します。
 * [Software 360](https://projects.eclipse.org/projects/technology.sw360)。
 * [Eclipse Dash license tool](https://github.com/eclipse/dash-licenses): ライセンス・ツール依存関係のリストを取得し、[ClearlyDefined](https://clearlydefined.io)にライセンスをチェックするよう要求します。
+
+
+### 推奨事項
+
+* 法的リスクを軽減するために、依存関係とIP要件に関する定期的な監査を実施します。
+* 理想的には、問題(新しい依存関係、ライセンスの非互換性)をできるだけ早く特定して修正できるように、継続的インテグレーションプロセスに依存関係管理を統合します。
+* 依存関係に関連する脆弱性を追跡し、ユーザーと開発者に情報を提供します。
+* 不正なライセンスに関連するリスクについて人々に知らせる。
+* プロジェクトのコードベースにライセンスチェックを設定するための簡単なソリューションを提案します。
+* その重要性を伝え、プロジェクトがCIシステムに追加できるように支援します。
+* 依存関係に関連するリスクの表示可能なKPIを設定します。
+
+### リソース
+
+* 既存の[OSSライセンス準拠ツール](https://oss-compliance-tooling.org/Tooling-Landscape/OSS-Based-licence-Compliance-Tools/)グループページ。
+* [FOSSologyプロジェクト](https://www.linuxfoundation.org/wp-content/uploads/lfcorp/files/lf_foss_compliance_fossology.pdf) :はじめに。FOSSologyプロジェクト。Linux FoundationによるFOSSologyとFOSS準拠の最新の入門書。
+*  [Free and Open Source Software licence Compliance: Tools for Software Composition Analysis](https://www.computer.org/csdl/magazine/co/2020/10/09206429/1npxG2VFQSk)、Philippe Ombredanne、nexB Inc。
+* [ソフトウェアの持続可能性成熟度モデル](http://oss-watch.ac.uk/resources/ssmm)。
+* [CHAOS](https://chaoss.community/): Community Health Analytics Open Source Software。
