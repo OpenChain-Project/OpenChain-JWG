@@ -67,6 +67,6 @@ GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissue
 
 ### リソース
 * [CHAOSSコミュニティ](https://chaoss.community/)には、オープンソース指標に関する参考資料や資料が豊富に用意されています。
-* OW 2市場準備レベル方法論の[プロジェクト属性](https://www.ow2.org/view/MRL/Stage2-ProjectAttributes)のメトリックを確認してください。
+* OW 2市場準備レベル[方法論](https://www.ow2.org/view/MRL/Overview)の[プロジェクト属性](https://www.ow2.org/view/MRL/Stage2-ProjectAttributes)のメトリックを確認してください。
 * Liz Laffan氏による[A New Way of Measuring Openness:The Open Governance Index](https://timreview.ca/article/512)は、オープンソースプロジェクトにおけるオープン性に関する興味深い書籍である。
 * [Governance Indicators:A User's Guide](https://www.un.org/ruleoflaw/files/Governance%20Indicators_A%20Users%20Guide.pdf) ガバナンス指標に関する国連のガイド。民主主義や腐敗、国家の透明性にも適用されるが、統治に適用される測定の基本と指標は一読に値する。
