@@ -37,7 +37,7 @@ GGIリソースセンターとGitLabアクティビティに貢献するには�
 
 ## 連絡先
 
-OW 2 Good Governance Initiativeに連絡するには、<http://mail.ow 2.org/wws/subscribe/ossgovernance>のメーリングリストに投稿することをお勧めします。
+OW 2 Good Governance Initiativeに連絡するには、<http://mail.ow2.org/wws/subscribe/ossgovernance>のメーリングリストに投稿することをお勧めします。
 
 行政に関するお問い合わせは、GGIイニシアチブのウェブサイト https://www.ow2.org/view/About/Management_Office からどうぞ。
 
