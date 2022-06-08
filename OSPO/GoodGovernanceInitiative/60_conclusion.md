@@ -41,6 +41,6 @@ OW 2 Good Governance Initiativeに連絡するには、<http://mail.ow2.org/wws/
 
 行政に関するお問い合わせは、GGIイニシアチブのウェブサイト https://www.ow2.org/view/About/Management_Office からどうぞ。
 
-# 付録:カスタム活動スコアカードテンプレート
+# 付録: カスタム活動スコアカードテンプレート
 
 カスタマイズされたアクティビティスコアカードテンプレートの最新バージョンは、OW 2の[Good Governance Initiative GitLab](https://gitlab.ow2.org/ggi/ggi)の`リソース`セクションで入手できます。
