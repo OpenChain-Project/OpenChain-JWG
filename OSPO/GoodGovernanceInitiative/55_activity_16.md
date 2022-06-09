@@ -47,6 +47,6 @@ GitLabの問題へのリンク: <https://gitlab.ow2.Org/ggi/ggi-castalia/-/issue
 ### リソース
 
 * [オープンガバナンスのチェックリストと参考文献](https://opengovernance.dev/)。
-* [L'open source comme enjeu de souveraineté numérique, by Cédric Thomas, OW2 CEO, Workshop at Orange Labs, Paris, January 28, 2020](https://www.ow2.org/download/OSS_Governance/Level_5/2001-OSSetSouveraineteNumerique-RC3.pdf) (french only).
+* [L'open source comme enjeu de souveraineté numérique, by Cédric Thomas, OW2 CEO, Workshop at Orange Labs, Paris, January 28, 2020](https://www.ow2.org/download/OSS_Governance/Level_5/2001-OSSetSouveraineteNumerique-RC3.pdf) (フランス語のみ)。
 * [Linux Foundationによる、企業内でオープンソースを管理するための一連のガイド](https://todogroup.org/guides/)。
 * [A fine example of open source strategy document, by the LF Energy group](https://www.lfenergy.org/wp-content/uploads/sites/67/2019/07/Open-Source-Strategy-V1.0.pdf)
