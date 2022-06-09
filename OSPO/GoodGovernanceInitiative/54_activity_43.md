@@ -39,5 +39,5 @@ GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissue
 
 ### リソース
 
-- [オープンソースソフトウェア調達の決定要因](http://oss-watch.ac.uk/resources/procurement-infopack): 新しいものではありませんが、英国のOSS-watchの同僚には非常によく読まれています。[スライド](http://oss-watch.ac.uk/files/procurement.odp)を確認してくださいスライド。
+- [オープンソースソフトウェア調達の決定要因](http://oss-watch.ac.uk/resources/procurement-infopack): 新しいものではありませんが、英国のOSS-watchの同僚には非常によく読まれています。[スライド](http://oss-watch.ac.uk/files/procurement.odp)を確認してください。
 - [5 Open Source Procurement Best Practices](https://anchore.com/blog/5-open-source-procurement-best-practices/): オープンソース調達に関する最新の記事と有益なヒント。
