@@ -43,4 +43,4 @@ GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissue
 
 ### リソース
 
-* Linux Foundationのこの役に立つページオープンソースコミュニティに参加する理由と方法をご覧ください。
+* Linux Foundationのこの[役に立つページ](https://www.linuxfoundation.org/tools/participating-in-open-source-communities/)オープンソースコミュニティに参加する理由と方法をご覧ください。
