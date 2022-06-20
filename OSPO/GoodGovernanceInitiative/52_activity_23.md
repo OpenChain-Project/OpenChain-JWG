@@ -1,6 +1,6 @@
 ## ソフトウェアの依存関係の管理
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Assues/23>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/23>。
 
 ### 説明
 

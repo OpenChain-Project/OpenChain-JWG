@@ -1,6 +1,6 @@
 ## 主要指標の管理
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissues/24>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/24>。
 
 ### 説明
 
