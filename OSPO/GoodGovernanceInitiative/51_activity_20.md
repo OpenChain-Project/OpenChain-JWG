@@ -1,6 +1,6 @@
 ## オープンソースのエンタープライズソフトウェア
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissues/20>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/20>。
 
 ### 説明
 

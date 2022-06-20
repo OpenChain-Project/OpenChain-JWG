@@ -1,6 +1,6 @@
 ## 人事の視点
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissues/28>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/28>。
 
 ### 説明
 

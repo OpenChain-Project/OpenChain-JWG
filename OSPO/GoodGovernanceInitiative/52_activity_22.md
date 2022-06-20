@@ -1,6 +1,6 @@
 ## ソフトウェアの脆弱性を管理する
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Assues/22>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/22>。
 
 ### 説明
 

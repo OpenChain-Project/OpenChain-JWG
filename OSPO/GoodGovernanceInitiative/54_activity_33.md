@@ -1,6 +1,6 @@
 ## オープンソースベンダーと協力する
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissues/33>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/33>。
 
 ### 説明
 

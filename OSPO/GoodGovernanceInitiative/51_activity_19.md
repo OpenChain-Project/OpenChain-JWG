@@ -1,6 +1,6 @@
 ## オープンソースの監督
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Zissues/19>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/19>。
 
 ### 説明
 

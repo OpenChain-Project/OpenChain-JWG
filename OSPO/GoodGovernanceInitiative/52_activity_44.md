@@ -1,6 +1,6 @@
 ## コードレビューの実行
 
-GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-Assues/44>。
+GitLabの問題へのリンク: <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/44>。
 
 ### 説明
 
