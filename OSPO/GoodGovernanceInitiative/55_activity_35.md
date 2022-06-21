@@ -1,0 +1,49 @@
+## オープンソースとデジタル主権
+
+GitLabの問題へのリンク:  <https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/35>。
+
+### 説明
+
+デジタル主権とは、
+
+> 「個人や組織がデジタル世界で自らの役割を独立して、意図的に、そして安全に遂行する能力と機会。」
+> &mdash; Competence Centre for Public IT, Germany
+
+事業を適切に運営するためには、企業は他のパートナー、サービス、製品、ツールに依存する必要があります。これらの依存関係の結びつきと制約を見直すことで、組織は外部要因への依存を評価し、制御することができ、その結果、自律性と回復力が向上する。
+
+例として、ベンダーロックインは、組織のプロセスと付加価値を妨げる可能性のある依存性の強い要因であるため、回避する必要があります。オープンソースは、このロックから抜け出す方法の1つです。オープンソースはデジタル主権において重要な役割を果たしており、ソリューション、プロバイダー、インテグレーターの選択の幅を広げ、ITロードマップの管理を強化している。
+
+デジタル主権は信頼の問題ではないことに注意する必要があります。パートナーやプロバイダーを信頼する必要がありますが、強制的な契約や負担ではなく、相互の同意と承認に基づいている場合は、関係がさらに向上します。
+
+デジタル主権が強化されたことには、次のような利点がある。
+* 組織が制約なしに自ら選択できる能力を向上させる。
+* 外部の関係者や要因に関する企業の回復力を向上させる。
+* パートナーやサービスプロバイダとの交渉における立場を改善する。
+
+### オポチュニティの評価
+
+* ソリューションから離れることの難しさ/コストの高さ?
+* ソリューションプロバイダーは、サービスに不要な条件を課すことができますか(ライセンスの変更、契約の更新など)。
+* 我々に選択肢がないという理由だけで、ソリューションプロバイダーは一方的に価格を上げることができるのでしょうか。
+
+### 進捗評価
+
+次の**検証ポイント**は、このアクティビティの進捗状況を示しています。
+- [ ] 組織の提供者とパートナーに対する重要な依存関係の評価がある。
+- [ ] これらの識別された依存関係のバックアップ計画があります。
+- [ ] 新しいソリューションが調査されるとき、デジタル主権のための規定要件があります。
+
+### 推奨事項
+
+* サービスプロバイダーとサードパーティのエンティティからの主要な依存関係リスクを特定します。
+* 重要なサービスに代わるオープンソースの選択肢のリストを維持する。
+* エンティティ内で使用される新しいツールとサービスを選択するときに、デジタル主権の必要性を示す要件を追加します。
+
+
+### リソース
+
+* [A Primer on Digital Sovereignty & Open Source: part I](https://www.opensourcerers.org/2021/08/09/a-promer-on-digital-sovereignty/)および[A Primer on Digital Sovereignty & Open Source: part II](https://www.opensourcerers.org/2021/08/16/a-primer-on-digital-sovereignty-open-source/), from the Open-Sourcerers website.
+* superuser.openstack.orgの[The Role of Open Source in Digital Sovereignty](https://superuser.openstack.org/articles/the-role-of-open-source-in-digital-sovereignty-openinfra-live-recap/)に関する優れた記事。以下に抜粋します。
+  > デジタル主権は21世紀、特に欧州にとって重要な関心事である。オープンソースは、誰もが必要な技術にアクセスできるようにするだけでなく、それらのソリューションが成功するために必要なガバナンスの透明性と相互運用性を提供することによって、デジタル主権を実現する上で大きな役割を果たします。
+* The European Union's takeデジタル主権、 from the [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor): Open Source,デジタル主権と相互運用性:ベルリン宣言より。
+* [デジタル主権のためのオープンソース](https://www.unicef.org/innovation/stories/open-source-digital-sovereignty)に関するユニセフの立場。
