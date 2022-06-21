@@ -42,8 +42,8 @@ GitLabの問題へのリンク:  <https://gitlab.ow2.org/ggi/ggi-castalia/-/issu
 
 ### リソース
 
-* [A Primer on Digital Sovereignty & Open Source: part I](https://www.opensourcerers.org/2021/08/09/a-promer-on-digital-sovereignty/)および[A Primer on Digital Sovereignty & Open Source: part II](https://www.opensourcerers.org/2021/08/16/a-primer-on-digital-sovereignty-open-source/), from the Open-Sourcerers website.
+* [A Primer on Digital Sovereignty & Open Source: part I](https://www.opensourcerers.org/2021/08/09/a-promer-on-digital-sovereignty/)および[A Primer on Digital Sovereignty & Open Source: part II](https://www.opensourcerers.org/2021/08/16/a-primer-on-digital-sovereignty-open-source/)、Open-Sourcerersウェブサイトより。
 * superuser.openstack.orgの[The Role of Open Source in Digital Sovereignty](https://superuser.openstack.org/articles/the-role-of-open-source-in-digital-sovereignty-openinfra-live-recap/)に関する優れた記事。以下に抜粋します。
   > デジタル主権は21世紀、特に欧州にとって重要な関心事である。オープンソースは、誰もが必要な技術にアクセスできるようにするだけでなく、それらのソリューションが成功するために必要なガバナンスの透明性と相互運用性を提供することによって、デジタル主権を実現する上で大きな役割を果たします。
-* The European Union's takeデジタル主権、 from the [Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor): Open Source,デジタル主権と相互運用性:ベルリン宣言より。
+* デジタル主権についてのEUの見解、[Open Source Observatory (OSOR)](https://joinup.ec.europa.eu/collection/open-source-observatory-osor): Open Source,デジタル主権と相互運用性: ベルリン宣言より。
 * [デジタル主権のためのオープンソース](https://www.unicef.org/innovation/stories/open-source-digital-sovereignty)に関するユニセフの立場。
