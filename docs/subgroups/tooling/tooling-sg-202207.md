@@ -2,6 +2,8 @@
 
 #### Linux系Vtuber の熊ヶ谷 リナ さんから、Sigstore や Syft などのツールと、それに関連してSBOM管理などについて、「触って」みての感想やコメントなどを紹介して頂きます！
 
+Tooling-SG会合は同日16時から開始予定です。どなたでも参加でき、出入りも自由です。Micrsoft Teams 会議で開催します。会議参加用のURLは"[こちら](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBhZjNlMzUtMWRkMS00OWExLWFmNjYtY2I4ZDE3MWViYTQz%40thread.v2/0?context=%7b%22Tid%22%3a%22f109924e-fb71-4ba0-b2cc-65dcdf6fbe4f%22%2c%22Oid%22%3a%226e92610a-523f-49a3-925c-c6210f4e6818%22%7d)" をクリックするか "[QRコード](qrcode_tooling-sg-202207.png)" をご利用ください。
+
 <iframe width="500" height="281" src="https://www.youtube.com/embed/QfcIG82wyT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 参考：[@lina_kumagaya](https://qiita.com/lina_kumagaya)  
