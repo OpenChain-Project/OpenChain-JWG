@@ -1,0 +1,38 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/06/22(火) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、當麻、小泉、大崎、加藤
+記載者：忍頂寺
+--------------------------------------------------
+■Agenda
+- SPDX Community側の議事録の確認
+- Playbookの輪講。當麻さんご担当の部分
+- その他情報共有
+■SPDX Community側の議事録の確認
+https://spdx.swinslow.net/p/spdx-minutes
+　ASIA Apacific Telco (6/15)
+　　Kateさんは、移動中で不参加だった。
+　　SPDX の ISO/IEC がそろそろ公開されそう。
+　　Joshua さん
+　　　彼のPodcast での 啓蒙にあたり、Shane がゲストで参加予定。
+　　　SPDX Tech での議論の共有
+■Playbookの輪講。當麻さんご担当の部分
+輪講の対象：
+　PLAYBOOK for Software Consumers: SBOM Acquisition, Management and Use
+　https://docs.google.com/document/d/1Ae0l1MDS8m1on58e8mdVIA9NujzPD0k5j352VlDZr9I
+輪講用コメントの記載先：
+　https://docs.google.com/document/d/1Mv3gwLg-oG_dXbI3K6_NmjyJJ6j4i776Xg9BdjP9p7s
+今回は次から：
+　SBOM Ingestion and Parsing (SBOMの取り込みと解析) から。
+次回は次から：
+　Chain of Custody and Software Types (管理の連鎖とソフトウェアの種類)
+■その他情報共有
+- 福地さん提案を受けて、Plugfest Trial を検討中。
+　福地さんからメーリングリストに案内が流れているのでご確認ください。
+-----------------
+■次回会合日程
+7/13(火) 17:00-18:00 (議事担当：忍頂寺)
+-----------------
+以上．

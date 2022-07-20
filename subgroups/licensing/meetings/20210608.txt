@@ -1,0 +1,56 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/06/08(火) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、小保田、小泉、忍頂寺、加藤、	浅羽
+	大和田、大崎
+記載者：當麻
+--------------------------------------------------
+■Agenda
+Playbookの輪講。加藤さんご担当の部分
+SPDX 3.0に向けた提案方法の議論(Pull Req.に向けた議論)
+次回のSPDX Asia Pacific Tel-conf.への提案議論
+■Playbookの輪講。加藤さんご担当の部分
+SBOMとは何か、使い方についてまとめられた資料を
+簡単に日本語訳して共有する
+ソフトウェアコンシューマ：ソフトウェアの最終取得者、使用者
+MSPはどう理解すればよいのか。
+　サプライサイドのPlaybookには出てこなかった。
+　MSP 【Managed Service Provider】 マネージドサービスプロバイダ
+　 MSPとは、顧客の利用するコンピュータやネットワークなどの
+　 ITシステムの運用や監視、保守などを行い、利用可能な状態に
+　 維持するサービスを提供する事業者のこと。
+　SaaSと一緒で、ソフトウェアは使うけど渡しはしない
+　
+　複数のエンドポイントを持つソフトウェアシステム　とは何？
+　　補足説明がないからわからない
+　SBOMを完全なものにするならば、ダウンロードするパッケージの依存関係まで
+　完全に記述しなければならないと書いてある。
+　　　yoctoのレシピ丸ごとになりかねない。
+最後の3Pの担当は小泉さん
+Third Party Processes and Platforms　以降
+輪講の対象：
+PLAYBOOK for Software Consumers: SBOM Acquisition, Management and Use
+https://docs.google.com/document/d/1Ae0l1MDS8m1on58e8mdVIA9NujzPD0k5j352VlDZr9I
+輪講用コメントの記載先：
+https://docs.google.com/document/d/1Mv3gwLg-oG_dXbI3K6_NmjyJJ6j4i776Xg9BdjP9p7s
+次の輪講のネタは募集をかけます
+ネタがあればよろしくお願いします。
+■SPDX 3.0に向けたUsage Profileに関する議論
+Usage Profileの関連図を既存のもの(Licensing Profile)を
+利用して作成することを考えている
+協力者募集中です。
+github.com/OpenChain-Project/OpenChain-JWG/blob/master/License-Info-Exchange/UsageProfile/Proposal/profile-usage.md
+■SPDX Community側の議事録の確認
+我々が推したい契約書の話はまだ通っていない
+直接乗り込まないとダメか？
+■忍頂寺さんから
+SPDXをSW360で扱えるようにした方がよいのではないかという
+議論に今後なるかもしれません。
+-----------------
+■次回会合日程
+6/22(火) 17:00-18:00 (議事担当：忍頂寺さん)
+-----------------
+以上．
+--------------------------------------------------

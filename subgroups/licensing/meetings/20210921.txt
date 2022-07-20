@@ -1,0 +1,78 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/09/21(火) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、小保田、小泉、忍頂寺、加藤、浅羽、伊藤(有)
+
+記載者：當麻
+--------------------------------------------------
+■Agenda
+前回のSPDX Asia Pacific Tel-Conf.の議論内容
+輪講「The Minimum Elements For a Software Bill of Materials」の続き
+SPDX 3.0に向けた提案方法の議論(Pull Req.に向けた議論)
+SPDX Podcastの件について経緯などのご案内
+次回のSPDXAsia Pacific Tel-conf.への提言内容、などの議論を行います。
+
+■前回のSPDX Asia Pacific Tel-Conf.の議論内容
+VMwareのニーシャさんがSPDXの活動から抜ける
+　単純に忙しいからだそうです
+ライセンスリストが3.14になった
+
+ISO化に伴いガバナンスが強化され
+Contributionする場合は組織の承認を受け、申請を行う必要がある
+
+SPDXのPodcastを始めるらしい
+　Speaker は複数名でもOK
+　決まったら KateさんとJoshuaさんにメール
+　来週内に返事があると良い (そこから日程調整)
+　まず何人くらい参加するのか？
+　
+　SPDX-Liteについて話す（制定経緯、Modification RecordなどLite固有の話とか)
+　質疑応答形式で応答する人
+　JWG側でストーリー、構成を考えて録画したものを送るというのも手
+　今週中にラフなストーリーを送れると良い
+　小保田さんが絵コンテを作成してくださる
+　伊藤・忍頂寺・浅羽・小保田さん
+　トヨタからどなたか、お願いしたいです。（渡辺さん、遠藤さん、
+　　どなたかSPDX0Lite制定当時の経緯に限らず、お話してくださいませんか？）
+
+　忍頂寺さんが連絡窓口になってくださいます
+
+SPDX Doc festにて
+Naming identificationが論点になったが結論は出なかった。
+議論を継続するそうです。
+
+
+DocFestでの議論状況、と、SW UniqueIDの関連
+micro-SBOMという議論は必要という話が、出ている。
+　巨大なSPDXではなく、ある粒度でまとめてはどうか、の議論があった
+CONCLUDED_LICENSEの認識は、共通か？要確認ではありそう。
+FILE_ANALYZEDのコンセンサス
+
+https://spdx.swinslow.net/p/spdx-minutes
+
+
+SPDXに反映されなかった富士通さんのコメント
+“Fujitsu supports SPDX evolution and the movement to an international standard that provides a common SBOM basis for software exploitation for companies throughout the supply chain. We have long provided multilateral support for SPDX, especially thorough activities in Yocto and SPDX-Lite. From 2016, we have been joining maintainers of meta-spdxscanner, enabling SPDX functionality for the Yocto Project. We also jointly developed SPDX-Lite specifications with other Japanese companies. We believe that the future expansion of SPDX will benefit companies and users across various industries,” says Kenji Kaneshige, Deputy Head of Infrastructure System Business Unit, Storage / Software.
+
+
+■輪講「The Minimum Elements For a Software Bill of Materials」の続き
+P.8のData Fields（伊藤さんの残り)から
+P.10の加藤さん担当部分　P.11 Practices and Processの前の節まで
+
+　＊参考文献のリンクに、いつアクセスしたのかを書いておくと親切
+　　時間が経つとURLリンク切れになる可能性があるため
+
+https://ntia.gov/files/ntia/publications/sbom_minimum_elements_report.pdf
+https://docs.google.com/document/d/1swf9zPu24uELVWED0OEEqfGfhHWYJVpvtAbHxWTdeQI/edit
+
+
+-----------------
+■次回会合日程
+10/5(火) 17:00-18:00 (議事担当：小泉さん)
+-----------------
+以上．
+--------------------------------------------------
+
+

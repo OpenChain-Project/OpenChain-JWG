@@ -1,0 +1,52 @@
+--------------------------------------------------
+■OpenChain Japan WG License Info SWG
+日時 ：2021/05/11(火) 17-18時
+場所 ：Teams会議
+参加者：(敬称略・順不同)
+	伊藤、小泉、當麻、忍頂寺、福地(途中から)、浅羽(途中から)、加藤
+記載者：加藤(kato.shinsuke@jp.panasonic.com)
+-------------------------------------------------
+■■■SPDX Asia Meeting関係
+★まとめ★
+　* Pull Req を出す必要あり
+　　(以前に出したPull Reqは一旦取り下げた状態なので、改めて出す必要がある)
+　* ダイヤグラム自体が仕様を表すことになる
+　　ここに「箱」としては入れ込んでおく必要あり
+・Reference
+　https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/edit?
+■以下，メモなど
+・Relationships，どうする？
+　Jashuaさんは肯定的な反応
+　具体的なところはもう少し詰める必要はありそう
+・Usage Profile
+　Pull Req をそろそろ出してほしい、という要望あり
+　以前に出したPull Reqは一旦取り下げた状態なので、改めて出す必要がある
+　SPDXのダイヤグラムの中に入れていく必要もある
+　(箱を入れ込んでおく必要あり。「ダイヤグラム自体も仕様」という扱いの様子)
+・Google Summer of Code
+　誰かメンターできないか？の話あり
+　おそらくShaneからOpenChainのMLに案内があるはず．
+　(まずはShaneさんからの正規ルートありき．で，当SGとしては様子見)
+・Security Profile
+　議論は進んでいる。ただ、Usage Profileと同じような議論がありそう。
+　(同じ議論になる部分については同時にしたい意向はありそう)
+・SPDXのタイムラインは？
+　議論はしている様子
+　このままISO化が進むと2.2系になりそう．となると 3.0系との関係は？
+　「ISO」と「業界標準」をうまく使い分けていく考えなのかもしれない
+■SBOM輪講
+今回は忍頂寺さんより概要説明・共有・FreeQA等
+https://docs.google.com/document/d/11FoYNULwXxYgqhDNejsy6BBxHO61J4C-YugknPQEwxk/
+* Deliverable
+* External Services
+* Other SBOM considerations
+* IP/Confidentiality of SBOMS
+* Validation of SBOMs
+-------------------------------------------------
+■■■次回
+5/25(火) 17:00-18:00
+議事担当：福地(AsIs)/Sub忍頂寺
+議事履歴：加藤(5/12) ← 小泉(4/20) ← 忍頂寺(4/8) ← 當麻(3/23) ← 福地(3/8) ← 加藤(2/25) ← 小保田(2/8) ← 當麻(1/26) ← 忍頂寺(1/12)
+-------------------------------------------------
+以上。
+-------------------------------------------------

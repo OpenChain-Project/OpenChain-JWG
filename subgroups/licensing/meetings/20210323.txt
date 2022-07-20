@@ -1,0 +1,61 @@
+--------------------------------------------------
+■OpenChain Japan WG License-info SWG
+日時  ：2021/03/23(火) 17:00-18:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、小保田、小泉、忍頂寺、加藤、鷲森
+	
+記載者：當麻
+--------------------------------------------------
+■Agenda
+SPDX 3.0に向けた提案方法の議論
+先日のSPDX Asia Pacific Tel-conf.からのフィードバック共有
+今後の返答策の議論
+■SPDX 3.0に向けた提案方法の議論
+■先日のSPDX Asia Pacific Tel-conf.からのフィードバック共有
+TargetProductInfoとして補助的にプロダクト名、プロダクトの
+バージョンを記載するためのタグを検討している、という話をした。
+　SBOMの議論状況を追いかけなければならないという話で閉じた
+Relationshipsへの追加要望があるか、と問われている。
+そちらについては、現状明確な回答が出来ていません
+Nishaさんからは、パッケージの引き渡し方法（upload/download方法とか）
+も含めた記述にしなければならないのでは？　というコメントが出ている。
+最終製品に含まれない要素に関する記述が必要な例として、
+knativeをnishaさんが言及されました。
+TargetProductInfoもそうですが、ソフトウェアのidentifyに関する
+議論動向について、忍頂寺さんから質問が出ています。
+Kateさんからは、CPE, PURL, SWHIDs, SWID_Tags under discussions.
+という例が言及されています。
+Linux Foundation のSpring Member Summit
+会議はyoutubeで見ることができるので見た方がよい
+LF Spring Member meeting
+https://www.youtube.com/watch?v=DrRJXi5aGuI&t=19s
+ソフトウェアパッケージの作成者、配布者に署名を付けるのが最近の流行り。
+sigstore(LFのプロジェクト)はだれが署名を行っているかをOpenに
+見られるようにするプロジェクトを立ち上げている。
+ ->Let's Encryptのソフトウェア版のようなもの。
+OpenSSFはまだ活発には動いていないようだ。
+Tech MTG 3/16
+https://github.com/spdx/meetings/blob/master/tech/2021-03-16.md
+External Reference& Annotationについて
+　複雑になる。シンプルにしたいとの意見あり
+　
+legal MTG本日のMTGで
+External map ,External Reference ,Class vs Propertyに関してNishaさんが話をする
+■やっておいた方がよいこと
+　SBOM関連の学習・整合に向けて、PlayBookについてもちまわり輪講形式で
+　勉強会を定例の中で行うのは如何でしょうか？
+　Usage ProfileのSub tabの拡充
+　それ以外に整合しておいた方が良いことはないか？
+■SBOMの課題
+コンポーネントの情報としてパッケージ名、バージョン表記が揺れる
+商用ツールはDBを参照して特定するが、それでも揺れる。
+■Toolong SWGでのSPDX,SPDX Liteの紹介について
+　第四火曜日に発表枠を設けている
+　5月もしくは6月
+　説明概要、発表者などの議論を行う
+-----------------
+■次回会合日程
+4/6(火) 17:00-18:00 (議事担当：忍頂寺さん)
+-----------------
+以上．

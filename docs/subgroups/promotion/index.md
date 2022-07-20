@@ -6,7 +6,8 @@
 
 ## Purpose / 目的
 
-```ToBeFilled```
+- For raising awareness of  OSS compliance and open source itself, we are working to create and publish documents and conduct enlightenment activities with media, governments, industry and academia.
+- OSSコンプライアンスやOSSそのものの重要性の認知を拡大するための資料の作成やメディア・政府・産業界・学術界などと連携した啓発活動を行っています
 
 ---
 
@@ -32,4 +33,6 @@ Mitsutoshi Yamada / 山田 光利
 ## Outcomes / 成果物
 
 - [&#x1f4c2; Importance of promotional activities / Promotion SWGについて]() ```To Be Committed```  
+- [&#x1f4c2; Advent Calendar 2021](https://qiita.com/advent-calendar/2021/openchainjapanswg)
+- [&#x1f4c2; Advent Calendar 2020](https://qiita.com/advent-calendar/2020/openchainjapanswg)
 - [&#x1f4c2; Advent Calendar 2019](https://qiita.com/advent-calendar/2019/openchainjapanswg)

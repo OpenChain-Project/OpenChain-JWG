@@ -18,24 +18,19 @@
 
 ### SPDX Lite
 
-SPDX Lite (Japan work group is thinking a new proposal of SPDX Lite, minimum license information to exchange between comapnies.)
-
-- [&#x1f4da; SPDX Lite Overview](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/licensing/outcomes/spdx-lite-overview-20190829.pdf)  
-- [&#x1f4c2; proposal of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/Proposal-of-SPDX-Lite.md)
-- [&#x1f4c2; sample of SPDX Lite](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/SPDX-Lite/sample)
-- [&#x1f4c2; (sample for reference) Actual SPDX file](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Reference/spdx-rcar_h3.tar.bz2)
+ライセンス情報サブグループでは企業間で必要な情報を簡便にやり取りできる書式を決めました。それがSPDX Liteです。詳しくは[SPDX Liteのページ](subgroups/licensing/SPDX_Lite.html)を参照してください。
 
 ---
 
 ### FAQ
 
-- [&#x1f4c2; OSSライセンス関連でよくある誤解](https://github.com/OpenChain-Project/Onboarding-JWG/tree/master/Education_Material/FAQ)  
+- [&#x1f4c2; OSSライセンス関連でよくある誤解](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/Education_Material/FAQ)
 
 ---
 
 ### オープンソースソフトウェア ライセンス順守に関する一般公衆ガイド
 
-- [&#x1f4c2; Supplier Leaflet](https://github.com/OpenChain-Project/curriculum/tree/master/supplier-leaflet)  
+- [&#x1f4c2; Supplier Leaflet](https://github.com/OpenChain-Project/Reference-Material/tree/master/Suppliers/Leaflet/Official/2.1)  
 
 ---
 

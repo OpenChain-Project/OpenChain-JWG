@@ -6,7 +6,7 @@
 
 ## Purpose / 目的
 
-```ToBeFilled```
+ソフトウェア開発者向け教育資料(コンプライアンスプログラム・バージョン)を作成しました。今後、ソフトウェア開発ベンダー(ODM:Original Design Manufacturing)向けの教育資料を作成予定です
 
 ---
 
@@ -16,9 +16,14 @@
 Yoshitaka Iwata / 岩田 吉隆  
 
 - Members / メンバー  
+Yoshiko Ohuchi / 大内 佳子  
+Shisuke Kato / 加藤 慎介  
 Satoru Koizumi / 小泉 悟  
-Yuji Nomura / 野村 祐治  
+Akihiro Deguchi / 出口 朗大  
+Takashi Ninjouji / 忍頂寺 毅  
 Hiroyuki Fukuchi / 福地 弘行  
+Hirotaka Motai / 茂田井 寛隆  
+Taishi Yoneshima / 米嶋 大志  
 
 ---
 

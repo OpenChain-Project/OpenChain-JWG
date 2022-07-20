@@ -57,8 +57,11 @@
 
 ## 多くの企業は自動化ツールと人手によるレビューを併用している
 
-## 無償で、自由に利用できるソースコード スキャン ツールの1つのよい例としてThe Linux Foundation でホストしたプロジェクトである、FOSSologyがある：https://www.fossology.org 
+## 無償で、自由に利用できるソースコード スキャン ツールの1つのよい例としてThe Linux Foundation でホストしたプロジェクトである、FOSSologyがある： https://www.fossology.org
 
 
 ---
 ---
+
+---
+[次（企業におけるOSS利用：OSS配布）へ](OSS_Distribution.md)

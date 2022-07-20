@@ -1,0 +1,55 @@
+--------------------------------------------------
+■OpenChain Japan WG License Info SWG
+日時 ：2021/04/20(木) 17:00-18:00
+場所 ：Teams会議
+参加者：(敬称略・順不同)
+	伊藤、當麻、浜、小泉、小保田（途中まで）、加藤（途中から）
+記載者：小泉
+-------------------------------------------------
+■SDPX Asia Pacific Telecon(4/13)のおさらい
+https://github.com/spdx/meetings/blob/master/asia/2021-04-12.md
+- Tech MTGの方にインプットはしてくれた
+- 「用語としてVulnerabilitiesやDefectsよりはSecurityの方が良いのではないか」という意見が出ている
+- NTIA SBOM Plugfest(4/9)の紹介
+■SDPX MTGの議事録の確認
+- usage profileに影響のある議論があったか確認
+-- Legal
+--- ライセンスの話のみで関係なさそう
+-- Tech
+--- https://github.com/spdx/meetings/blob/master/tech/2021-04-13.md
+---  Asia Pacificでの話が日本からと言う形で一文言及されている
+--- NTIA SBOM Plugfest(4/9)はこちらでも紹介されている
+---  Usage Profile - Future Agenda Topicsに書かれている
+----  ネタを準備して参加することをそろそろ考える必要がある
+■Slackからの話題
+https://openchain-japanwg.slack.com/archives/CGDAB378R/p1618837154048200
+- ORTのSlackでSPDX Liteが言及されている
+-- ORTではExcelシートを出力できるが、「その形式をSPDX Liteに寄せたい」と言っている
+- 手書きでスプレッドシートならSPDX Lite一択、というのはSPDX Liteの強みではないか
+■輪講 - Playbook: Software Suppliers SBOM Production
+https://docs.google.com/document/d/11FoYNULwXxYgqhDNejsy6BBxHO61J4C-YugknPQEwxk/
+- SBOMの例の部分など、書きかけと思われる部分がある。まだ議論中ということか。
+- タイトルに「自動化とそうでないものの比較」とあったが、今回見たのは自動化を薦める話だけだった。実際の比較は以降で出てくると思われる。
+- 以下の用語が出てきているのが気になった。暗号化や監査は今後も気にしていく。
+-- 署名
+-- 改竄耐性
+-- 暗号化
+-- 監査
+- Framing documentに関連してサプライヤー向けの文書でマッピングの話が出てきているのが良く分からない
+-- Framing documentのリンク先（NTIA）の文書をしっかり読む必要があるか
+- Functional workflowの部分は良く分からない。書きかけか。
+- 結論としては「SBOMは怖くない」「自動でできるよ」というところか。
+■SPDX Asia Pacific Meeting に向けて
+- Relationshipについて何か言及しておくべき
+-- 以前から何か要望はないか尋ねられている
+-- とにかく書いてみた。議論の叩き台になることを希望。
+--- https://docs.google.com/document/d/1gvcU3Qgs5IH_SbVoeYLt1PSwuTgEX3RTr6CEcUQ6hXc/edit?usp=sharing
+-------------------------------------------------
+■次回
+5/11(火) 17:00-18:00 議事担当：加藤さん
+- Asia Pacificテレカンの振り返りと今後に向けて
+- Tech MTGへの提案について議論
+- 輪講（続き）
+-------------------------------------------------
+以上。
+-------------------------------------------------

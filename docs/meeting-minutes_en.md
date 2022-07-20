@@ -3,6 +3,25 @@
 </div>
 
 ## All Member Meetings
+- **The 22nd meeting / The 9th Online meeting** was held virtual on January. 21, 2022.  
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/news/2022/02/04/japan-wg-22-2)(introduction only)   
+
+- **The 21st meeting / The 8th Online meeting** was held virtual on October. 20, 2021.  
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/news/2021/11/02/jp-wg-21)   
+
+- **The 20th meeting / The 7th Online meeting** was held virtual on July. 29, 2021.  
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/news/2021/08/03/japan-wg-20)  
+
+- **The 19th meeting / The 6th Online meeting** was held virtual on May. 26, 2021.  
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/news/2021/07/15/japan-work-group-19)  
+
+- **The 18th meeting / The 5th Online meeting** was held virtual on March. 17, 2021.  
+Venue: Socionext Inc. (Zoom)  
+[&#x1f3a5; Youtube](https://www.openchainproject.org/featured/2021/03/26/openchain-japan-wg-18)  
 
 - **The 17th meeting / The 4th Online meeting** was held virtual on December. 16, 2020.  
 Venue: Socionext Inc. (Zoom)  

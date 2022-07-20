@@ -20,10 +20,10 @@
 
 ---
 
-## About Japan Work Group
+## About OpenChain Japan Work Group
 
-This is the Website for the OpenChain Japan Work Group (JWG).  
-This pages provide information about OpenChain-JWG in Japanese language.
+The OpenChain Japan Work Group (JWG) is one of the regional activities of [OpenChain Project](http://openchainproject.org/)
+This pages provide information about OpenChain and OpenChain JWG in Japanese language.
 
 - The OpenChain project website:  
 [&#x1f310; http://openchainproject.org/](http://openchainproject.org/)
@@ -31,6 +31,8 @@ This pages provide information about OpenChain-JWG in Japanese language.
 ---
 
 ## Subgroup Acts
+
+People with common interests gather to form subgroups in OpenChain JWG.
 
 - [&#x1f4c2;Education](subgroups/education/)  
 - [&#x1f4c2;FAQ](subgroups/FAQ/)  
@@ -43,6 +45,7 @@ This pages provide information about OpenChain-JWG in Japanese language.
 ---
 
 ## All Member Meetings
+A wide range of open source compliance meetings that anyone can attend (but most speeches will be made in Japanese), and are held almost regularly (approximately once every 2-3 months). We mainly give presentations, QA, discussions, etc. in the form of seminars. The theme to be taken up and the format are examined and planned by the Planning subgroup each time.
 
 - [&#x1f4c2;Meeting Minutes](meeting-minutes_en.html)  
 
