@@ -20,5 +20,7 @@ OpenChain Japan WG 教育SGでは、下記の２つの教育資料を作成し�
 
 # Educational and training materials
 
-OpenChain Japan WG Education SG has created "OSS Education Materials (Compliance Program Version)". These educational material were created to be useful as materials for composing educational contents in a form that conforms to the OpenChain specifications when each company conducts internal education on OSS compliance (for the first time). They are released under the [Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode) license, so feel free to modify and use them. (In fact, some chapters are expected to be filled in according to the actual situation of each company.)
+OpenChain Japan WG Education SG has created the following education materials.  
+1. OSS Education Materials (Compliance Program Version)  
+These educational material were created to be useful as materials for composing educational contents in a form that conforms to the OpenChain specifications when each company conducts internal education on OSS compliance (for the first time). They are released under the [Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode) license, so feel free to modify and use them. (In fact, some chapters are expected to be filled in according to the actual situation of each company.)
 We try to make it as error-free as possible, but all the materials here are not guaranteed (pointing out any errors or typos are welcome, though). Also, please be aware that reading the materials here does not guarantee compliance with the OpenChain specifications or acquisition of its certification.
