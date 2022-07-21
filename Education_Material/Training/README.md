@@ -16,7 +16,7 @@ OpenChain Japan WG 教育SGでは、下記の２つの教育資料を作成し�
 この教育資料は、各企業がOSSを利用する上での教育を行なう際に、OSSに関する基礎（著作権法、ライセンス、他）の教育コンテンツを構成するための材料として役に立つことを目指して作成されています。(この教育資料は、ソフトウェア開発委託先向けに限定されるものではないので、タイトルは見直し中です。)１．と同じくこの教育資料も[Creative Commons CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/legalcode)ライセンスの下でリリースされています。
 又、できる限り誤りがないように作成はしていますが、ここにある資料はすべて無保証です（とは言っても誤りの指摘等は大歓迎です）。
 
-- [ソフトウェア開発委託先向け教育資料(pptxファイル版)](Training-OSS-compl-process-jp-42.pptx)
+- [ソフトウェア開発委託先向け教育資料(pptxファイル版)](ソフトウェア開発委託先向け教育資料-jp-v1.2.pptx)
 
 # Educational and training materials
 
