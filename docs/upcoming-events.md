@@ -1,9 +1,16 @@
 #### The 24th meeting / The 11th Virtual meeting
 
-第23回全体会合／第10回オンラインは4/20に無事開催されました。参加してくださった皆さん、ありがとうございました。/ Thank you for your joining the 23rd meeting / the 10th Virtual meeting.
+- 日時 / Date and Time:
+  - 2022年7月20日(水)15:00-16:00 /  April 20, 2022 at 3pm-4pm JST
+- 場所(Venue)：Zoom
+  - https://zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
+  - Meeting ID: 99975267803 / パスワード: ]>guXS~6
 
-会合で紹介した「OpenChain業界調査」というアンケートですが、5/1で締め切りました。協力してくださった皆様、ありがとうございました。現在集計作業中です。集計がまとまり次第、こちらで結果を報告します。
+今回は、サイバートラストさんがOSPO（Open Source Program Office）を立ち上げられた背景について語ってくださいます。
 
-次回の全体会合は夏頃になるでしょうか。お楽しみに！ / We are planning the next meeting in this summer.  Stay tuned!
+参考：
+サイバートラスト株式会社  
+サイバートラスト、オープンソース プログラム オフィス（OSPO）を設立  
+https://www.cybertrust.co.jp/pressrelease/2022/0623-ospo.html  
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
