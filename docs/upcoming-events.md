@@ -1,9 +1,9 @@
 #### The 24th meeting / The 11th Virtual meeting
 
 - 日時 / Date and Time:
-  - 2022年7月20日(水)15:00-16:00 /  April 20, 2022 at 3pm-4pm JST
+  - 2022年7月29日(金)15:00-16:00 /  July 29, 2022 at 3pm-4pm JST
 - 場所(Venue)：Zoom
-  - https://zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
+  - [https://zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09](https://zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09)
   - Meeting ID: 99975267803 / パスワード: ]>guXS~6
 
 今回は、サイバートラストさんがOSPO（Open Source Program Office）を立ち上げられた背景について語ってくださいます。
