@@ -1,0 +1,54 @@
+9月はスキップ。次回は10/11
+
+
+Date: 2022/08/09, 17:00-18:00
+参加者：伊藤（義）、小保田、浅羽、信田、小泉、當麻、忍頂寺（議事録）（敬称略）
+
+## Agenda
+1. SPDX AsiaPacific Telcon情報
+2. V2.3 draft
+3. Slackの利用について
+4. 次回： 9/13 議事録担当
+
+
+## SPDX AsiaPacific Telcon情報
+
+次が話題になった：
+- 2.3 のリリース間近
+- 3.0 のコアモデル
+- Usage Profile
+
+議事録
+https://spdx.swinslow.net/p/spdx-tech-minutes
+
+## V2.3 draft
+
+https://spdx.github.io/spdx-spec/v2.3-RC1/
+
+LicenseInfo-SGとしての主な論点
+- SPDX Lite で追加
+  -- 7.5 Package supplier field
+  -- 7.21 External Reference field
+- Package Information で追加
+  -- 7.25 Release Date, 7.26 Built Date, 7.27 Valid Until Date
+  -- パッケージとして単一的に適用される値としての扱いになる。
+- その他の論点
+  -- 7.24 Primary Package Purpose field
+  -- Annex D SPDX license expressions (Normative)
+    SPDX License expression の扱いは、手書きで SPDX Lite を作成するときに課題がありそうか。
+    表記ゆれがある場合など。ただ、そうした表記ゆれの許容をv2.3仕様に明確化を要求するまでではないか。
+  -- "Required" としているのに、"Mandatory field" という表現がある。それは整合しているのか？
+　　 大丈夫？という問いかけ、忍頂寺からメーリングリストに投稿する。→ 指摘不要とする。4.3 Alternate notation for some conformance requirements のcardinality の記載例から、Required と Cardinality の記載からMandatory の該非を判断をしうると言う意と解釈できるため。
+
+## Slack について
+
+  重要な情報があれば、GitHubに置くようにする。
+  Slack上でのデータは特にケアしない。
+
+
+## 次回
+  10/11 (火) 16:00-18:00 Tooling + LicenseInfo 開催
+  議事録担当 當麻
+  SPDX 3.0に向けた議論は Slackにて。
+  Usage Profile について、Fuctional Safety や AI との整合性や扱いなども検討したい。
+// EOF （編集済み） 
