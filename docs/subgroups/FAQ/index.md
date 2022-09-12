@@ -25,6 +25,7 @@ Junko Ichino / 市野 純子
 Teruaki Itoh / 伊藤 輝昭  
 Masato Endo / 遠藤 雅人  
 junichi oura / 大浦 純一  
+tamae oyagi / 大八木 珠恵  
 Kiyoshi Owada / 大和田 清志  
 Takumi Ozaki / 尾崎 巧  
 Kazuyoshi Katagiri / 片桐 和宣  
