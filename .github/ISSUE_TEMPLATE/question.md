@@ -3,7 +3,7 @@ name: Question
 about: 'Question submissions '
 title: "[Question]"
 labels: question
-assignees: ''
+assignees: shanecoughlan
 
 ---
 
