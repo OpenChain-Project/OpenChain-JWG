@@ -3,6 +3,12 @@
 </div>
 
 ## 全体会合の記録
+- **第25回会合/第12回オンライン会合** 2022年10月31日(月)  
+場所: ソシオネクスト (Zoomによるオンライン会合)  
+[&#x1f4da; 議事進行スライド]（ちょっと待ってね）
+[&#x1f3a5; 録画]（ちょっと待ってね）
+[&#x1f4da; OpenChain Japan WGについて]（ちょっと待ってね）
+
 - **第24回会合/第11回オンライン会合** 2022年7月29日(金)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20220729/JapanWG-VirtualMtg-Agenda-20220729_rev1.pdf)  

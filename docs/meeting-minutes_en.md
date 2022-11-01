@@ -3,6 +3,12 @@
 </div>
 
 ## All Member Meetings
+- **The 24th meeting / The 11th Online meeting** was held virtual on July. 29, 2022.  
+Venue: Socionext Inc. (Zoom)  
+
+- **The 23nd meeting / The 10th Online meeting** was held virtual on April. 20, 2022.  
+Venue: Socionext Inc. (Zoom)  
+
 - **The 22nd meeting / The 9th Online meeting** was held virtual on January. 21, 2022.  
 Venue: Socionext Inc. (Zoom)  
 [&#x1f3a5; Youtube](https://www.openchainproject.org/news/2022/02/04/japan-wg-22-2)(introduction only)   
