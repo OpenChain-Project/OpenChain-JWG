@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 25th meeting / The 12th Online meeting** was held virtual on October. 31, 2022.  
+Venue: Socionext Inc. (Zoom)  
+
 - **The 24th meeting / The 11th Online meeting** was held virtual on July. 29, 2022.  
 Venue: Socionext Inc. (Zoom)  
 
