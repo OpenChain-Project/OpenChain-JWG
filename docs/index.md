@@ -10,13 +10,13 @@
 
 ### サブグループ会合  
 
+{% include_relative subgroups/tooling/upcoming-events.md %}  
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
 {% include_relative subgroups/education/upcoming-events.md %}  
 {% include_relative subgroups/leaflet/upcoming-events.md %}  
-{% include_relative subgroups/licensing/upcoming-events.md %}  
 {% include_relative subgroups/planning/upcoming-events.md %}  
 {% include_relative subgroups/promotion/upcoming-events.md %}  
-{% include_relative subgroups/tooling/upcoming-events.md %}
+{% include_relative subgroups/licensing/upcoming-events.md %}  
 
 ---
 
@@ -33,13 +33,13 @@ OpenChain Japan Work Group (JWG)は[OpenChain Project](http://openchainproject.o
 
 OpenChain JWG内では、共通の関心を持つ人たちが集まりサブグループを作って活動しています。
 
+- [&#x1f4c2;Automation (former Tooling)](subgroups/tooling/)  
 - [&#x1f4c2;Education](subgroups/education/)  
 - [&#x1f4c2;FAQ](subgroups/FAQ/)  
 - [&#x1f4c2;Leaflet](subgroups/leaflet/)  
-- [&#x1f4c2;License Information Exchange](subgroups/licensing/)  
 - [&#x1f4c2;Planning](subgroups/planning/)  
 - [&#x1f4c2;Promotion](subgroups/promotion/)  
-- [&#x1f4c2;Tooling](subgroups/tooling/)  
+- [&#x1f4c2;SBOM (former License Information Exchange)](subgroups/licensing/)  
 
 ---
 
@@ -74,13 +74,13 @@ OpenChain Japan WGには5つのメーリングリストがあります。各メ�
 - FAQ SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-faq](https://lists.openchainproject.org/g/japan-sg-faq)  
 [&#x2709; japan-sg-faq@lists.openchainproject.org](mailto:japan-sg-faq@lists.openchainproject.org)  
-- ライセンス情報 SG ML  
+- SBOM SG（旧 ライセンス情報 SG） ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
 [&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
 - プランニング SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-planning](https://lists.openchainproject.org/g/japan-sg-planning)  
 [&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
-- ツーリング SG ML  
+- オートメーション SG（旧 ツーリング SG） ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
 [&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
 

@@ -4,9 +4,9 @@
 <a href="/OpenChain-JWG/">Back / 戻る</a>
 </div>
 
-*We have changed our subgroup's name from License information exchange Subgroup.*
+*We have changed our subgroup's name from "License information exchange Subgroup".*
 
-*ライセンス情報サブグループから改名しました。*
+*「ライセンス情報サブグループ」から改名しました。*
 
 ## Purpose / 目的
 
