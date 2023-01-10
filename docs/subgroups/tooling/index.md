@@ -1,8 +1,12 @@
-# Tooling Subgroup / Toolingサブグループ
+# Automation Subgroup / オートメーションサブグループ
 
 <div style="text-align: right;">
 <a href="/OpenChain-JWG/">Back / 戻る</a>
 </div>
+
+*We have changed our subgroup's name from Tooling Subgroup.*
+
+*Toolingサブグループから改名しました。*
 
 ## Purpose / 目的
 
@@ -74,8 +78,8 @@ Perform the following in Japanese:
 
 ## Online / オンライン
 
-- [Slack#10_tooling-sg](https://openchain-japanwg.slack.com/archives/CGHP86Y4T) (主に連絡・周知など)
-- [Slack#10_tooling-sg-random](https://openchain-japanwg.slack.com/archives/C013BE3TTFG) 
+- [Slack#10_automation-sg](https://openchain-japanwg.slack.com/archives/CGHP86Y4T) (主に連絡・周知など)
+- [Slack#10_automation-sg-random](https://openchain-japanwg.slack.com/archives/C013BE3TTFG)
 
 
 ---
