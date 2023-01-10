@@ -1,14 +1,18 @@
-# License information exchange Subgroup / ライセンス情報サブグループ
+# SBOM Subgroup / SBOMサブグループ
 
 <div style="text-align: right;">
 <a href="/OpenChain-JWG/">Back / 戻る</a>
 </div>
 
+*We have changed our subgroup's name from License information exchange Subgroup.*
+
+*ライセンス情報サブグループから改名しました。*
+
 ## Purpose / 目的
 
-License information exchange Subgroup discusses the guideline for exchanging license info. between organizations and SPDX Lite.
+SBOM Subgroup discusses the guideline for exchanging license info. between organizations and SPDX Lite.
 
-ライセンス情報サブグループでは、組織間のライセンス情報授受に関してのガイドラインやSPDX Liteの作成をしてきました。現在は、SBOMなど、組織間のライセンス情報・ソフトウェアパッケージ情報の授受に関するガイドラインやSPDXへの仕様提案などを、動向を調査しながら議論しています。
+SBOMサブグループでは、組織間のライセンス情報授受に関してのガイドラインやSPDX Liteの作成をしてきました。現在は、SBOMなど、組織間のライセンス情報・ソフトウェアパッケージ情報の授受に関するガイドラインやSPDXへの仕様提案などを、動向を調査しながら議論しています。
 
 ---
 
@@ -41,10 +45,10 @@ Fumiko Ito / 伊藤 文子
 
 - [&#x1f4c2; Guideline for License Information Exchange](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/Guideline)
 - [SPDX Lite](SPDX_Lite.html)
-- [&#x1f4c2; Usage Profile of SPDX](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/License-Info-Exchange/UsageProfile)
+- [&#x1f4c2; Usage Profile of SPDX](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/sbom-sg/outcomes/UsageProfile)
 
 ---
 
 ## Meeting memo
 
-- [&#x1f4c2; meeting memo](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/licensing/meetings)
+- [&#x1f4c2; meeting memo](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/sbom-sg/meetings)

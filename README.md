@@ -31,11 +31,11 @@ OpenChain Japan WG内では、共通の関心を持つ人たちが集まりサ�
 	- 「オープンソースソフトウェアライセンス遵守に関する一般公衆ガイド」という冊子を作成しました
 - [教育資料 SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/education/)
 	- ソフトウェア開発者向け教育資料(コンプライアンスプログラム・バージョン)を作成しました。今後、ソフトウェア開発ベンダー(ODM:Original Design Manufacturing)向けの教育資料を作成予定です
-- [ライセンス情報 SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/licensing/)
+- [SBOM SG（旧称 ライセンス情報 SG）](https://openchain-project.github.io/OpenChain-JWG/subgroups/licensing/)
 	- 組織間のライセンス情報授受に関してのガイドラインやSPDX Liteの作成をしてきました。現在は、SBOMなど、組織間のライセンス情報・ソフトウェアパッケージ情報の授受に関するガイドラインやSPDXへの仕様提案などを、動向を調査しながら議論しています
 - [プロモーション SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/promotion/)
 	- OSSコンプライアンスやOSSそのものの重要性の認知を拡大するための資料の作成やメディア・政府・産業界・学術界などと連携した啓発活動を行っています
-- [Tooling SG](https://openchain-project.github.io/OpenChain-JWG/subgroups/tooling/)
+- [オートメーション SG（旧称 Tooling SG）](https://openchain-project.github.io/OpenChain-JWG/subgroups/tooling/)
 	- OSS管理運用のためのOSSを利用して、 Open Source Compliance において以下の項目の実現を目指します
 		- 組織に応じたワークフローの構築
 		- 省力化 (オートメーション)
