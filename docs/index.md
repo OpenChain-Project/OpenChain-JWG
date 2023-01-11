@@ -71,18 +71,18 @@ OpenChain Japan WGには5つのメーリングリストがあります。各メ�
 - OpenChain Japan WG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-wg](https://lists.openchainproject.org/g/japan-wg)  
 [&#x2709; japan-wg+subscribe@lists.openchainproject.org](mailto:japan-wg+subscribe@lists.openchainproject.org)  
+- オートメーション SG（旧 ツーリング SG） ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-automation](https://lists.openchainproject.org/g/japan-sg-automation)  
+[&#x2709; japan-sg-automation+subscribe@lists.openchainproject.org](mailto:japan-sg-automation+subscribe@lists.openchainproject.org)  
 - FAQ SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-faq](https://lists.openchainproject.org/g/japan-sg-faq)  
 [&#x2709; japan-sg-faq@lists.openchainproject.org](mailto:japan-sg-faq@lists.openchainproject.org)  
-- SBOM SG（旧 ライセンス情報 SG） ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-sg-licensing](https://lists.openchainproject.org/g/japan-sg-licensing)  
-[&#x2709; japan-sg-licensing+subscribe@lists.openchainproject.org](mailto:japan-sg-licensing+subscribe@lists.openchainproject.org)  
 - プランニング SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-planning](https://lists.openchainproject.org/g/japan-sg-planning)  
 [&#x2709; japan-sg-planning+subscribe@lists.openchainproject.org](mailto:japan-sg-planning+subscribe@lists.openchainproject.org)
-- オートメーション SG（旧 ツーリング SG） ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-sg-tooling](https://lists.openchainproject.org/g/japan-sg-tooling)  
-[&#x2709; japan-sg-tooling+subscribe@lists.openchainproject.org](mailto:japan-sg-tooling+subscribe@lists.openchainproject.org)
+- SBOM SG（旧 ライセンス情報 SG） ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-sbom](https://lists.openchainproject.org/g/japan-sg-sbom)  
+[&#x2709; japan-sg-sbom+subscribe@lists.openchainproject.org](mailto:japan-sg-sbom+subscribe@lists.openchainproject.org)  
 
 ---
 
