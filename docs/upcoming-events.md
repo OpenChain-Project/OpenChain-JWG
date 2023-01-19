@@ -6,7 +6,7 @@
   - リアル会場(real)：日立大森ビル
   - オンライン会場(online)：https://zoom.us/j/4377592799
 
-- 東芝さんの事例紹介2件と日立ソリューションズさんのOSSツール紹介1件を企画しています。/ - We are planning two case studies from Toshiba and an OSS tool introduction from Hitachi Solutions.
+- 東芝さんの事例紹介2件と日立ソリューションズさんのOSSツール紹介1件を企画しています。/ We are planning two case studies from Toshiba and an OSS tool introduction from Hitachi Solutions.
 
 初の試みとして、リアル会場での参加とオンライン参加の両方できるように企画しています。
 リアル会場の収容人員は、20-30人程度を予定しています。
