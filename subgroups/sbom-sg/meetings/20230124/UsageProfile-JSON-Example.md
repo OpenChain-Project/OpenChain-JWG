@@ -2,8 +2,9 @@
 
 ## minimum  
 
-- Ref: https://github.com/spdx/spdx-examples/blob/master/example9/spdx/appbomination.spdx.json
+- Ref: https://github.com/spdx/spdx-examples/blob/master/example9/spdx/appbomination.spdx.json  
 
+```
 {
     ...,
     "packages": [ {
@@ -66,3 +67,4 @@
         ...
 }]
 }
+```
