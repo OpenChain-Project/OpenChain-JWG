@@ -1,0 +1,107 @@
+参加者
+Hama, Asaba, Fukuchi, Kobota, Ninjouji, Tomita, Ito, Kato, Koizumi,.
+
+議事録　（浜）；
+
+Usage　Profile
+伊藤さんのJson形式の記載のサンプルから
+＊GitHubの例を持ってきてUsage Profile 追加
+＊ファイル単位でUsage Profile 書いたもの
+＊親と子双方向書くかどうかは議論
+＊VaildUtilのところに各RelationShipのところにクロージャを複数書く
+＊ただし、それらをANDとしてつないで書くかは議論の余地あり
+＊＊　ANDで書くとしたら　“”の中に　ANDを書く方法も考えられる
+＊GitHubのサンプルJsonでRelationShipの書き方を確認
+
+小保田さんアイデア
+SPDX（Json）はパッケージ一覧の仕組み
+＊＊パッケージ単位でDescriptionが書かれている
+＊＊他のElementにならい、Usagesの中 element にUsage Scopeを記載
+＊＊この場合Build Profileの書き方が要検討等
+
+議論
+＊Relationship と Usage　は趣旨が違うので、Usageの内容を入れていいのか？
+＊Relationshipはなんでもかけそうだが、コンポーネント関係のためではないのか？
+＊＊仕様を見ると“OTHER“のようなものあるのでいろいろ書ける？
+＊＊↑よりUsage間の関係もかける？
+＊＊↑しかしSPDXコミュニティでもコンセンサスあるか微妙
+＊＊メ－リングリストに投げてみる（忍頂寺さん）
+
+＃Slack内補足
+「先日のadhocで話題になった Relationsip について少し検討しました。
+少なくとも v2.3仕様に照らして考えると、json出力におけるRelationships オブジェクトの中でコンポーネント間の依存関係以外の関係性も扱うことは許容されています。
+そのため、当方の混在に関する懸念を一旦は取り下げさせてください。
+https://github.com/spdx/spdx-spec/blob/master/schemas/spdx-schema.json一方で、改めて気になったのは relationshipType "DESCRIBES" です。
+v2.3仕様では SPDX ドキュメントが扱うソフトウェアコンポーネントとの関係性を示すのに用いるようです。
+そうすると Usage Profile の対象とするコンポーネントの指定に用いるのは、意味合いが異なりそうです。
+spdxコミュニティには "DESCRIBES" の用法が限定的なのかを確認しますか？ 
+
+質問する際は次の旨を添えようと考えています：
+ Usage Profile が示す関係性は「必ずしもソフトウェアコンポーネント間の構成関係を示すのではない」として、spdxデータで誤った処理がされない記述にすることも留意している
+
+」
+
+＃質問：
+
+
+＊VaildUntilの記載
+＊＊複数あったとき、どのように表記するか？
+＊＊「AND」「OR」などの演算子的なものを利用して書けないか？
+＊＊ライセンスのところに「AND」「OR」記載があるが、順不同のルールがある程度
+＊＊「WITH」入る？
+＊VaildUntilDateのところは、UsageProfileにVaildUntilがあると、Usageの方が優先される?
+＊Usage Conditionみたいなのを書いて (そこで[AND][OR][WITH]などを定義
+
+確認
+＊SPDXとしてUsageProfile間の関係性を書くことを許容するか（メーリス確認）
+＊書くとしたら、正確に記述できるか？
+＊RelationShipでは[AND][OR]などは書けない
+
+コメント
+＊日付の上書きメソッドはSBOMとして適切か
+＊複雑化しすぎてないか？
+＊Usage Profileを書いた人が誰なのかをどのように記載するか
+＊External-refで契約書を参照させて、そこでデータを一貫性を保証するのはどうか？
+＊＊↑は契約書を結んだ会社間でしか見れないので、下流の人が確認できない
+
+メーリスでの質問
+
+Hello SPDX community,
+
+I have a question on Relationship and RelationshipType also.
+Is "RelationshipType" DESCRIBES limited to describing relationships between SPDX documents and software packages?
+
+Here is some background on the question;
+
+In consideration that a Usage Profile informs the terms of use of deliverables from a supplier downstream, the issue is how to express the relationship between a profile and software packages. 
+
+Here, if the 3.0 model Relationship follows the v2.3 specification, using DESCRIBES looks to have less impact. However, DESCRIBES is defined to indicate the relationship between an SPDX Document and software packages it covers [1], and an SPDX Document has only one as itself [2]. In that case, a profile should be configured as its SPDX Document as its own. Also, CONTAINS is better used only for evaluating the relationship between software packages for machine readability, so it is unsuitable for expressing the relationship between a profile and software packages.
+
+If the answer to the question is YES, we should find another way.
+
+Considering to evaluate the relationship between SPDX elements only with "relationshipType" concisely and to indicate the relationship between a profile and software packages clearly, we may introduce a new identifier for a profile and a new "RelationshipType" to show the relationship between a profile and software packages.
+
+The following is just my opinion.
+
+New SPDX identifier field
+  Profile SPDX identifier field 
+  Format: "SPDXRef-PROFILE-"[idstring] 
+Example: 
+  SPDXID: SPDXRef-PROFILE-USAGE-1
+
+New RelationshipType
+  RelationshipType: COVERS
+Example: 
+  "relationships": [
+    {
+      "relationshipType": "COVERS",
+      "relatedSpdxElement": "SPDXRef-PROFILE-USAGE-1",
+      "spdxElementId": "SPDXRef-1"
+    }
+　],
+
+Any comments are really welcome!
+
+
+[1] https://spdx.github.io/spdx-spec/v2.3/relationships-between-SPDX-elements/
+[2] https://spdx.github.io/spdx-spec/v2.3/document-creation-information/#63-spdx-identifier-field
