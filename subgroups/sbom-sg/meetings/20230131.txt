@@ -1,0 +1,73 @@
+-------------------
+日時：2023/01/31(火) 16:00-17:00
+場所：オンライン
+参加者：(敬称略，順不同)
+浅羽、福地、浜、井口、小保田、忍頂寺、信田、小泉、伊藤、渡邊、當間、加藤
+記載者：加藤
+-------------------
+■まとめ
+・ソフトウェア管理⼿法等検討タスクフォースとの協力について
+　コンタクトする前に、どういうものが作れるのか？を検討してからにする
+　2023年3月には，ここから何かしらのドキュメントリリースもあると思うので、それを参照して検討してから
+・課題
+　1：Relationshipの記載方法
+　2：UsageProfile内の条件を、UsageProfile間の関係でどうやって書いていくか？
+(ここを解決しないと実質的な提案までもっていけない)
+・その他
+　https://github.com/spdx/meetings
+https://github.com/spdx/spdx-3-model/pull/75
+　どのProfileがあって，それがどこで議論されているのか？ を GitHubに記載しておく必要がある
+-------------------
+■メモ
+・経済産業省のリリース資料より
+サイバー・フィジカル・セキュリティ確保に向けた ソフトウェア管理⼿法等検討タスクフォース の検討の⽅向性
+https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_bunyaodan/software/pdf/008_03_00.pdf
+SBOMに関係するガイドを作っていきましょう、というのがある。第7回でその話が出た
+ノウハウ集、活用モデルガイダンス、商流でどうするか？を網羅したドキュメントを作ろうとしている
+ガイド作成について協力できるのであれば協力していくといいかもしれない
+(会議出席者や関係者にコンタクトを取っていってもいいかもしれない)
+(今日の会議参加者からの経由でコンタクトはできそう)
+コンタクトする前に、どういうものが作れるのか？を検討してからにする
+2023年3月には，ここから何かしらのドキュメントリリースもあると思う
+それを参照して検討してからにしましょう
+-------------------
+UsageProfileについて
+{
+   "SPDXID": "SPDXRef-Profile-Usage-01",      // * "SPDXRef-PROFILE-"[idstring]
+   "UsageScope": "契約条件1",                  // new
+   "UsageScopeComment": "<text>次回リリースまでには削除します</text>",            // new
+   // "PackageBuildCondition": "-O -gDEBUG ...", // build profile
+   // PackageTestCondition => 品質などを説明するコメント
+   "PackageTestCondition": "製品品質ではありません",
+   // core or software Profileとは違って、契約条件が何時まで有効か、ということを表す
+   // その為、Tag名は少し変える必要がある。UsageValidUntilDate
+   "ValidUntilDate": "2023-01-15T00:00:00Z",
+   // ValidUntilEvent => 外部Security情報が更新されるまで、などといった記述をしたい
+   "ValidUntilEvent": "Event_String_XXX",     // new
+}
+UsageProfile 最小構成
+{
+   // * "SPDXRef-PROFILE-"[idstring]
+   "SPDXID": "SPDXRef-Profile-Usage-01",
+   "UsageScopeSupplier": ["Person: Jane Doe (jane.doe@example.com)", "Organization: ExampleSupplier"],
+   "UsageScopeComment": "<text>次回リリースまでには削除します</text>",            // new
+   // core or software Profileとは違って、契約条件が何時まで有効か、ということを表す
+   // その為、Tag名は少し変える必要がある。UsageValidUntilDate
+   "ValidUntilDate": "2023-01-15T00:00:00Z", // Date か Eventのどちらかが記載される
+   // ValidUntilEvent => 外部Security情報が更新されるまで、などといった記述をしたい
+   "ValidUntilEvent": "Event_String_XXX",
+},
+{
+   "SPDXID": "SPDXRef-Profile-Usage-02",
+   "UsageScopeSupplier": ["Person: Jane Doe (jane.doe@example.com)", "Organization: ExampleSupplier"],
+   "UsageScopeComment": "<text>次回リリースまでには削除します</text>",            // new
+   "ValidUntilDate": "2023-01-15T00:00:00Z",
+   "ValidUntilEvent": "Event_String_XXX",
+}
+1. Usage-01 [ValidUntilDate OR ValidUntilEvent]
+2. Usage-01のValidUntilDate AND Usage-02のValidUntilDate
+  Usage-01のUntilEventDateが2023/01/01, Usage-02のUntilEventDateが2024/01/01だった場合、ANDを取ると、2023/01/01まで有効、となる。
+3. Usage-01 AND Usage-02
+  1. UsageScopeCommentは両方有効です。
+  2. ValidUntilの考え方は、2を踏襲する or Usage-01とUsage-02で独立?
++ Relationshipが記載出来れば、要件を満たす。
