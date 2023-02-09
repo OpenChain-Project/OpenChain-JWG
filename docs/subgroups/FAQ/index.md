@@ -24,6 +24,7 @@ Haruki Iguchi / 井口 治樹
 Junko Ichino / 市野 純子  
 Teruaki Itoh / 伊藤 輝昭  
 Masato Endo / 遠藤 雅人  
+Yoshiko Ouchi / 大内 佳子   
 junichi oura / 大浦 純一  
 tamae oyagi / 大八木 珠恵  
 Kiyoshi Owada / 大和田 清志  
@@ -37,6 +38,7 @@ Hidenori Shishido / 宍戸 秀徳
 Naomichi Shima / 島 直道  
 Toru Taima / 當麻 徹  
 Kozo Tao / 田尾 幸三  
+Nobuhisa Takabayashi / 高林信久
 Sayaka Takemoto / 竹本 明花  
 Toshihiro Tanaka / 田中 俊宏  
 yuki tsutsumi / 堤 祐樹  
