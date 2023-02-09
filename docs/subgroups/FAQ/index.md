@@ -38,7 +38,7 @@ Hidenori Shishido / 宍戸 秀徳
 Naomichi Shima / 島 直道  
 Toru Taima / 當麻 徹  
 Kozo Tao / 田尾 幸三  
-Nobuhisa Takabayashi / 高林信久
+Nobuhisa Takabayashi / 高林信久  
 Sayaka Takemoto / 竹本 明花  
 Toshihiro Tanaka / 田中 俊宏  
 yuki tsutsumi / 堤 祐樹  
