@@ -14,7 +14,7 @@
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Yoshiko Ouchi (Fujitsu) / 大内 佳子 (富士通)  
+Naomichi Shima (NEC Solution Innovators) / 島 直道 (NECソリューションイノベータ)    
 
 - Members / メンバー（五十音順）  
 Teppei Asaba / 浅羽 鉄平  
