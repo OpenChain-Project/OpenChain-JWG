@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 26th meeting / The 1st Hybrid meeting** was held on February. 9, 2023  
+Venue: Hitachi Solutions, Ltd. (Omori, Tokyo) and Zoom  
+
 - **The 25th meeting / The 12th Online meeting** was held virtual on October. 31, 2022.  
 Venue: Socionext Inc. (Zoom)  
 
