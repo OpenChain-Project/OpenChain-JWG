@@ -4,11 +4,10 @@
 
 ## 全体会合の記録
 - **第26回会合/第1回ハイブリッド会合** 2023年2月9日(木)  
-場所: 日立 (大森) または Zoom
-[&#x1f4da; 議事進行スライド]  
+場所: 日立 (大森) または Zoom  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/JapanWG-AllMemMtg-Agenda-20230209_rev1.0.pdf)  
 [&#x1f3a5; 録画]  
-[&#x1f4da; OpenChain Japan WGについて]  
-
+[&#x1f4da; OpenChain Japan WGについて](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-20230209.pptx)  
 
 - **第25回会合/第12回オンライン会合** 2022年10月31日(月)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
