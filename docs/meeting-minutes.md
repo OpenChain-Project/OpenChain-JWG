@@ -8,6 +8,8 @@
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/JapanWG-AllMemMtg-Agenda-20230209_rev1.0.pdf)  
 [&#x1f3a5; 録画]  
 [&#x1f4da; OpenChain Japan WGについて](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-20230209.pptx)  
+[&#x1f4da; 日立ソリューションズのOSS への取り組み](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/%E6%97%A5%E7%AB%8B%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%99%E3%81%AEOSS%E3%81%B8%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF.pdf)  
+[&#x1f4da; OSS紹介 : SPDX 用拡張機能 on VSCode - Editor for SBOM](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/Editor%20for%20SBOM%E3%81%AE%E3%81%93%E3%82%99%E7%B4%B9%E4%BB%8B.pdf)  
 [&#x1f4da; オープンソースコンプライアンスのためのプロセスマネジメント標準 ISO/IEC 5230 の適合に向けて](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/20230209_Tarui_Ninjouji_Toshiba_CaseStudy_ISOIEC5230.pdf)  
 [&#x1f4da; OSSライセンスコンプライアンスを遵守するためのOSS教育の整備と全社展開](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/20230209_Koyama_Toshiba_CaseStudy_OSSTraining.pdf)  
 
