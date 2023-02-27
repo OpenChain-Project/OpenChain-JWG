@@ -8,6 +8,8 @@
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/JapanWG-AllMemMtg-Agenda-20230209_rev1.0.pdf)  
 [&#x1f3a5; 録画]  
 [&#x1f4da; OpenChain Japan WGについて](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-20230209.pptx)  
+[&#x1f4da; オープンソースコンプライアンスのためのプロセスマネジメント標準 ISO/IEC 5230 の適合に向けて](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/20230209_Tarui_Ninjouji_Toshiba_CaseStudy_ISOIEC5230.pdf)  
+[&#x1f4da; OSSライセンスコンプライアンスを遵守するためのOSS教育の整備と全社展開](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/20230209_Koyama_Toshiba_CaseStudy_OSSTraining.pdf)  
 
 - **第25回会合/第12回オンライン会合** 2022年10月31日(月)  
 場所: ソシオネクスト (Zoomによるオンライン会合)  
