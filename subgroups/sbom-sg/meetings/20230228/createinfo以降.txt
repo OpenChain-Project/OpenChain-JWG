@@ -1,0 +1,56 @@
+
+
+creationInfo以降
+
+// ここから追加
+// elementに含まれるsubclassが続く
+
+	//新設
+	"verifiedUsing" : { //type: IntegrityMethod
+		//"IntegrityMethod" : { // これは書く必要ないのかな？
+			"comment": ""
+		//	}
+	},
+	
+	//v2.3では7.21　Package Informationの External reference field
+	"externalReferences" : { // SubclassOf: none
+		"externalReferenceType" : "", // v3.0で表現が変更されている
+					//altDownloadLocation: TODOdescription
+					//altWebPage: TODOdescription
+					//other: TODOdescription
+					//securityAdvisory: TODOdescription
+					//securityFix: TODOdescription
+					//securityOther: TODOdescription
+		"locator" : "anyURI", // v2.3と同じ
+		"contentType" : "", // type: MediaType // v2.3ではtypeという名前だった
+		"comment" : "string" //新
+	},
+
+
+	//v2.3では7.21 Package Informationの External reference fieldに含まれていたものが独立
+	"externalIdentifiers" : {
+		"externalIdentifierType" : "cpe22" ,
+					/*
+					cpe22: TODOdescription
+					cpe23: TODOdescription
+					email: TODOdescription
+					gitoid: TODOdescription
+					other: TODOdescription
+					pkgUrl: TODOdescription
+					swhid: TODOdescription
+					swid: TODOdescription
+					urlScheme: TODOdescription
+					*/
+	"identifier" : "string" , //新
+	"comment" : "string" // 0..1 //新
+	},
+	
+	"extensions" : {
+		//type: Extension
+		//name: extensionsとなっている
+		//自由記入欄なのか？
+	},
+	
+//ここまで
+
+
