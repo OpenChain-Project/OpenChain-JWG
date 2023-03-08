@@ -1,9 +1,13 @@
 #### The 27th meeting / The 2nd hybrid meeting
 
-第26回全体会合／第1回ハイブリッド会合は2/9に無事開催されました。参加してくださった皆さん、ありがとうございました。/ Thank you for your joining the 26th meeting / the 1st hybrid meeting.
+- 日時 / Date and Time:
+  - 2023年5月18日(木) 15:00-17:00 /  May 18, 2023 at 3:00pm-5:00pm JST
+- 場所(Venue): ハイブリッド形式（リアル会場＋オンライン参加）/ Hybrid (real + online)
+  - リアル会場(real)：NEC　玉川事業所（最寄り駅：武蔵小杉または向河原）
+  - オンライン会場(online)：未定
 
-初の試みとして、リアル会場での参加とオンライン参加の両方できるようにしましたが、大変好評だったと思います。/ As a first attempt, we made it possible to participate both at the real venue and online, and it seemed to be very well received.
+- 日本OSS推進フォーラム鳥瞰図WGの活動の紹介、SBOM SG、FAQ SGの活動の紹介などを予定しています。/ We plan to introduce the activities of the Japan OSS Promotion Forum Bird's Eye View WG, the activities of the SBOM SG and the FAQ SG, etc.
 
-次回の全体会合は新年度になってからになるでしょうか。お楽しみに！ / We are planning the next meeting in this spring.  Stay tuned!
+詳細が決まりましたら更新していきます。/ We will update when the details are decide. Stay tuned!
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
