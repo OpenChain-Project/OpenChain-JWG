@@ -1,0 +1,175 @@
+@startjson "json"
+{
+    "packages" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "SPDXID" : {
+            "type" : "string"
+          },
+          "annotations" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "annotationDate" : {
+                  "type" : "string"
+                },
+                "annotationType" : {
+                  "type" : "string",
+                  "enum" : [ "OTHER", "REVIEW" ]
+                },
+                "annotator" : {
+                  "type" : "string"
+                },
+                "comment" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "annotationDate", "annotationType", "annotator", "comment" ],
+              "additionalProperties" : false
+            }
+          },
+          "attributionTexts" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "builtDate" : {
+            "type" : "string"
+          },
+          "checksums" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "algorithm" : {
+                  "type" : "string",
+                  "enum" : [ "SHA1", "BLAKE3", "SHA3-384", "SHA256", "SHA384", "BLAKE2b-512", "BLAKE2b-256", "SHA3-512", "MD2", "ADLER32", "MD4", "SHA3-256", "BLAKE2b-384", "SHA512", "MD6", "MD5", "SHA224" ]
+                },
+                "checksumValue" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "algorithm", "checksumValue" ],
+              "additionalProperties" : false
+            }
+          },
+          "comment" : {
+            "type" : "string"
+          },
+          "copyrightText" : {
+            "type" : "string"
+          },
+          "description" : {
+            "type" : "string"
+          },
+          "downloadLocation" : {
+            "type" : "string"
+          },
+          "externalRefs" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "comment" : {
+                  "type" : "string"
+                },
+                "referenceCategory" : {
+                  "type" : "string",
+                  "enum" : [ "OTHER", "PERSISTENT-ID", "PERSISTENT_ID", "SECURITY", "PACKAGE-MANAGER", "PACKAGE_MANAGER" ]
+                },
+                "referenceLocator" : {
+                  "type" : "string"
+                },
+                "referenceType" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "referenceCategory", "referenceLocator", "referenceType" ],
+              "additionalProperties" : false
+            }
+          },
+          "filesAnalyzed" : {
+            "type" : "boolean"
+          },
+          "hasFiles" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "homepage" : {
+            "type" : "string"
+          },
+          "licenseComments" : {
+            "type" : "string"
+          },
+          "licenseConcluded" : {
+            "type" : "string"
+          },
+          "licenseDeclared" : {
+            "type" : "string"
+          },
+          "licenseInfoFromFiles" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "name" : {
+            "type" : "string"
+          },
+          "originator" : {
+            "type" : "string"
+          },
+          "packageFileName" : {
+            "type" : "string"
+          },
+          "packageVerificationCode" : {
+            "type" : "object",
+            "properties" : {
+              "packageVerificationCodeExcludedFiles" : {
+                "type" : "array",
+                "items" : {
+                  "type" : "string"
+                }
+              },
+              "packageVerificationCodeValue" : {
+                "type" : "string"
+              }
+            },
+            "required" : [ "packageVerificationCodeValue" ],
+            "additionalProperties" : false
+          },
+          "primaryPackagePurpose" : {
+            "type" : "string",
+            "enum" : [ "OTHER", "INSTALL", "ARCHIVE", "FIRMWARE", "APPLICATION", "FRAMEWORK", "LIBRARY", "CONTAINER", "SOURCE", "DEVICE", "OPERATING_SYSTEM", "FILE" ]
+          },
+          "releaseDate" : {
+            "type" : "string"
+          },
+          "sourceInfo" : {
+            "type" : "string"
+          },
+          "summary" : {
+            "type" : "string"
+          },
+          "supplier" : {
+            "type" : "string"
+          },
+          "validUntilDate" : {
+            "type" : "string"
+          },
+          "versionInfo" : {
+            "type" : "string"
+          }
+        },
+        "required" : [ "SPDXID", "downloadLocation", "name" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson

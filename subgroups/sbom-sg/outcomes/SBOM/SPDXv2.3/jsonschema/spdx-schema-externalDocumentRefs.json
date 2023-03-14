@@ -1,0 +1,34 @@
+@startjson "json"
+{
+    "externalDocumentRefs" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "checksum" : {
+            "type" : "object",
+            "properties" : {
+              "algorithm" : {
+                "type" : "string",
+                "enum" : [ "SHA1", "BLAKE3", "SHA3-384", "SHA256", "SHA384", "BLAKE2b-512", "BLAKE2b-256", "SHA3-512", "MD2", "ADLER32", "MD4", "SHA3-256", "BLAKE2b-384", "SHA512", "MD6", "MD5", "SHA224" ]
+              },
+              "checksumValue" : {
+                "type" : "string"
+              }
+            },
+            "required" : [ "algorithm", "checksumValue" ],
+            "additionalProperties" : false
+          },
+          "externalDocumentId" : {
+            "type" : "string"
+          },
+          "spdxDocument" : {
+            "type" : "string"
+          }
+        },
+        "required" : [ "checksum", "externalDocumentId", "spdxDocument" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson

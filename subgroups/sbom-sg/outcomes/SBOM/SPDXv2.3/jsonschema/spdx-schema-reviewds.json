@@ -1,0 +1,23 @@
+@startjson "json"
+{
+    "revieweds" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "comment" : {
+            "type" : "string"
+          },
+          "reviewDate" : {
+            "type" : "string"
+          },
+          "reviewer" : {
+            "type" : "string"
+          }
+        },
+        "required" : [ "reviewDate" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson

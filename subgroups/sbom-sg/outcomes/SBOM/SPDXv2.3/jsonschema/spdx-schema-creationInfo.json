@@ -1,0 +1,27 @@
+@startjson "json"
+{
+    "creationInfo" : {
+      "type" : "object",
+      "properties" : {
+        "comment" : {
+          "type" : "string"
+        },
+        "created" : {
+          "type" : "string"
+        },
+        "creators" : {
+          "minItems" : 1,
+          "type" : "array",
+          "items" : {
+            "type" : "string"
+          }
+        },
+        "licenseListVersion" : {
+          "type" : "string"
+        }
+      },
+      "required" : [ "created", "creators" ],
+      "additionalProperties" : false
+    }
+}
+@endjson

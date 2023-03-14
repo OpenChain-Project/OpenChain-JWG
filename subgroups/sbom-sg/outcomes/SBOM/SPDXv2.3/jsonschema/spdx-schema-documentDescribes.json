@@ -1,0 +1,10 @@
+@startjson "json"
+{
+    "documentDescribes" : {
+      "type" : "array",
+      "items" : {
+        "type" : "string"
+      }
+    }
+}
+@endjson

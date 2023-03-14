@@ -1,0 +1,27 @@
+@startjson "json"
+{
+    "annotations" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "annotationDate" : {
+            "type" : "string"
+          },
+          "annotationType" : {
+            "type" : "string",
+            "enum" : [ "OTHER", "REVIEW" ]
+          },
+          "annotator" : {
+            "type" : "string"
+          },
+          "comment" : {
+            "type" : "string"
+          }
+        },
+        "required" : [ "annotationDate", "annotationType", "annotator", "comment" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson

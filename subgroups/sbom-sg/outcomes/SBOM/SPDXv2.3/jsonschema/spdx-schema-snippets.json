@@ -1,0 +1,113 @@
+@startjson "json"
+{
+    "snippets" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "SPDXID" : {
+            "type" : "string"
+          },
+          "annotations" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "annotationDate" : {
+                  "type" : "string"
+                },
+                "annotationType" : {
+                  "type" : "string",
+                  "enum" : [ "OTHER", "REVIEW" ]
+                },
+                "annotator" : {
+                  "type" : "string"
+                },
+                "comment" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "annotationDate", "annotationType", "annotator", "comment" ],
+              "additionalProperties" : false
+            }
+          },
+          "attributionTexts" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "comment" : {
+            "type" : "string"
+          },
+          "copyrightText" : {
+            "type" : "string"
+          },
+          "licenseComments" : {
+            "type" : "string"
+          },
+          "licenseConcluded" : {
+            "type" : "string"
+          },
+          "licenseInfoInSnippets" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "name" : {
+            "type" : "string"
+          },
+          "ranges" : {
+            "minItems" : 1,
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "endPointer" : {
+                  "type" : "object",
+                  "properties" : {
+                    "reference" : {
+                      "type" : "string"
+                    },
+                    "offset" : {
+                      "type" : "integer"
+                    },
+                    "lineNumber" : {
+                      "type" : "integer"
+                    }
+                  },
+                  "required" : [ "reference" ],
+                  "additionalProperties" : false
+                },
+                "startPointer" : {
+                  "type" : "object",
+                  "properties" : {
+                    "reference" : {
+                      "type" : "string"
+                    },
+                    "offset" : {
+                      "type" : "integer"
+                    },
+                    "lineNumber" : {
+                      "type" : "integer"
+                    }
+                  },
+                  "required" : [ "reference" ],
+                  "additionalProperties" : false
+                }
+              },
+              "required" : [ "endPointer", "startPointer" ],
+              "additionalProperties" : false
+            }
+          },
+          "snippetFromFile" : {
+            "type" : "string"
+          }
+        },
+        "required" : [ "SPDXID", "name", "ranges", "snippetFromFile" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson

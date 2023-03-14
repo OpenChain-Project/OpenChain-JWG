@@ -1,0 +1,113 @@
+@startjson "json"
+{
+    "files" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "SPDXID" : {
+            "type" : "string"
+          },
+          "annotations" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "annotationDate" : {
+                  "type" : "string"
+                },
+                "annotationType" : {
+                  "type" : "string",
+                  "enum" : [ "OTHER", "REVIEW" ]
+                },
+                "annotator" : {
+                  "type" : "string"
+                },
+                "comment" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "annotationDate", "annotationType", "annotator", "comment" ],
+              "additionalProperties" : false
+            }
+          },
+          "artifactOfs" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object"
+            }
+          },
+          "attributionTexts" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "checksums" : {
+            "minItems" : 1,
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "algorithm" : {
+                  "type" : "string",
+                  "enum" : [ "SHA1", "BLAKE3", "SHA3-384", "SHA256", "SHA384", "BLAKE2b-512", "BLAKE2b-256", "SHA3-512", "MD2", "ADLER32", "MD4", "SHA3-256", "BLAKE2b-384", "SHA512", "MD6", "MD5", "SHA224" ]
+                },
+                "checksumValue" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "algorithm", "checksumValue" ],
+              "additionalProperties" : false
+            }
+          },
+          "comment" : {
+            "type" : "string"
+          },
+          "copyrightText" : {
+            "type" : "string"
+          },
+          "fileContributors" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "fileDependencies" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "fileName" : {
+            "type" : "string"
+          },
+          "fileTypes" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string",
+              "enum" : [ "OTHER", "DOCUMENTATION", "IMAGE", "VIDEO", "ARCHIVE", "SPDX", "APPLICATION", "SOURCE", "BINARY", "TEXT", "AUDIO" ]
+            }
+          },
+          "licenseComments" : {
+            "type" : "string"
+          },
+          "licenseConcluded" : {
+            "type" : "string"
+          },
+          "licenseInfoInFiles" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "noticeText" : {
+            "type" : "string"
+          }
+        },
+        "required" : [ "SPDXID", "checksums", "fileName" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson

@@ -1,0 +1,63 @@
+@startjson "json"
+{
+    "hasExtractedLicensingInfos" : {
+      "type" : "array",
+      "items" : {
+        "type" : "object",
+        "properties" : {
+          "comment" : {
+            "type" : "string"
+          },
+          "crossRefs" : {
+            "type" : "array",
+            "items" : {
+              "type" : "object",
+              "properties" : {
+                "isLive" : {
+                  "type" : "boolean"
+                },
+                "isValid" : {
+                  "type" : "boolean"
+                },
+                "isWayBackLink" : {
+                  "type" : "boolean"
+                },
+                "match" : {
+                  "type" : "string"
+                },
+                "order" : {
+                  "type" : "integer"
+                },
+                "timestamp" : {
+                  "type" : "string"
+                },
+                "url" : {
+                  "type" : "string"
+                }
+              },
+              "required" : [ "url" ],
+              "additionalProperties" : false
+            }
+          },
+          "extractedText" : {
+            "type" : "string"
+          },
+          "licenseId" : {
+            "type" : "string"
+          },
+          "name" : {
+            "type" : "string"
+          },
+          "seeAlsos" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          }
+        },
+        "required" : [ "extractedText", "licenseId" ],
+        "additionalProperties" : false
+      }
+    }
+}
+@endjson
