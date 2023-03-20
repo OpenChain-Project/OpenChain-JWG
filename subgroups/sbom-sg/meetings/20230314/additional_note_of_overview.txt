@@ -1,0 +1,24 @@
+SPDX 1.2 -> 2.0に関する変更点について、それぞれの仕様を少し詳しく確認してみたので、だらだら書いていきます。「（ないとは思っていたけど）確認したところやはりなかった」というものがほとんどなので過大な期待はしないでください。（あと、Relationshipはダークサイドだと分かったので触りません。導入当初からダークサイドであると思ってます）
+
+Q. 履歴みたいな情報はあるか。
+A. 少なくともまとまった形ではない。
+
+Q. 変更の意図みたいな情報はあるか。
+A. 少なくともまとまった形ではない。
+
+Q. Package Informationが複数許容されるようになったのは本当か。
+A. 2.0が複数のPackage Informationを許容しているのは事実
+（証拠）tag:value形式でのPackage Informationの記述方法の中で
+A new Package Information section (via Package Name) denotes the start of another package.
+という記述があるので。
+ただし、1.2に「Package Informationは1つしか認めない」みたいな明確な禁止はないので、解釈があいまいになる場合はあるものの1.2でも複数パッケージは書けてしまうような気がする。
+ちなみに「サブパッケージ（パッケージの中に含まれるパッケージ）」への言及は1.2にも2.0にもあるものの、サブパッケージをどう扱うかについては1.2にも2.0にも明示されていない。
+
+Q. Review Informationは（消えて）どうなったのか
+A. 厳密にはなくなったのではなく非推奨になっている。で、Review Informationの代わりにAnnotationを使うことになった。
+（証拠）  Review Informationの最初に以下のように書いてある
+The review information section is included for compatibility with SPDX 1.2, and is deprecated in SPDX 2.0. Any review information should use an Annotation (as described in Section 7) with an annotation type of annotationType_review.
+
+あと、In SPDX 2.0, it is not necessary to have a package wrapping a set of files.とあるので、よくツールがpackageを飛ばしてfileを出力することがありますが、 SPDX 2.0としては明示的に許しているんですね（感想）
+
+ちなみに皆さん大好きな動的リンク・静的リンクについては2.0からRelationshipで記述できました。DYNAMIC_LINK、STATIC_LINK。
