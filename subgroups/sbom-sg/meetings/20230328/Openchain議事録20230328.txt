@@ -1,0 +1,94 @@
+--------------------------------------------------
+■OpenChain Japan WG SBOM SWG
+日時  ：2023/03/28(火) 16:00-17:00
+場所  ：Teamsにて
+参加者：(敬称略・順不同)
+	伊藤、小保田、小泉、福地、鈴木、米嶋、浜、
+	加藤、信田、御子柴、吉川、浅羽
+
+記載者：當麻
+--------------------------------------------------
+■Asia Teleconの話題の共有
+3/21の会議について。情報はSlackにアップされています
+
+SPDX LiteとSPDX v3.0の対応課題について福地さんから共有
+
+伊藤さんの投稿
+福地さんからSPDX Liteに関する議題が出ています。
+Profileをまたがることについて、Steve WinslowからProfileは名前空間を
+またがることの衝突が問題で、SPDX Liteが解決できるなら問題ないのでは、
+という反応に聞き取れましたが。どうでしたかね
+２つ目の問題として、NTIA minimumへの対応でRelationshipが
+Mandatoryになるなど汎用SBOMを目指している項目で、
+SPDX Liteが目指すライセンス情報記述には要求度が低い点を福地さんが
+説明されています。KateからSPDX LiteをRelationShipを含む
+状態でツールで生成した場合に、SPDX Lite生成を行えるか、
+という点がコメントされています。また、記述を省く場合のNONEと
+NOASSERTIONの差異について見解が出されました"DESCRIBES & CONTAINS"
+についても検討して欲しいという話ですかね （編集済み）
+
+minimum relationshipにDESCRIBES fieldを入れてTOPが判るようにした方がよい
+以下の資料を参照してください
+https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/sbom-sg/meetings/20230328
+ここの、SPDX3-SPDXLite-20230314.pptx が今発表されてる資料ですね。
+
+
+
+小保田さんから、メーリングリストに出ている質疑項目が紹介されています。
+BMWからのSPDX Lite v2.3に関する質問が来ているが3.0との関連含め、
+どのように説明すべきか、という話。SPDX 2.3と3.0の差分について調べています、という話
+
+
+
+■Usage Profileについて
+
+小保田さんのdraw.ioの図説明
+https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/subgroups/sbom-sg/meetings/20230328
+
+4ページ目以降
+
+Q. Package URLに日本語を入れてもよいのか？
+A. URL encodingすれば良いのではないでしょうか
+
+Q. build optionのところはbuild profileをあてにしているのか？
+それがイマイチだった場合はどうするのか？
+A.
+build profileに関してはしっかり書かれているのでおそらく大丈夫。
+ただし分量が多いので必要な部分だけ簡易に書くこともあると思われる。
+build profileが必要な場合はツールで出力するものと考えている。
+
+
+複数の設定ファイル情報を書きたい場合はpackagesからfileに伸ばして、
+そこにUsage Profileとして記述すればよい
+
+循環参照などしているようなものは今のところはない
+
+
+Q.
+PRに構造図の説明をつけるかどうか？
+A.
+JSONなどのデータ構造だけだとわかりにくい。
+説明がないとわからないので、
+説明資料を英語化して付ける
+
+
+
+■その他
+毎週SBOM SGを開いているが、今後どうするか
+PRした後は月一にもどしますか？
+
+PR後に議論が必要ならAd hocで開催するのはあり(伊藤)
+
+次回から月一に戻します。
+
+
+Usage Profileなどへのコメントは随時SlackやMLに投稿してください。
+
+今後の議論について
+　SPDX v3.0の勉強は続けていきたいが、なにか輪講ネタなどはないか。
+　
+　次回までにSlack上で議論しましょう
+
+次回はSPDXの歴史をAutomationとの合同MTGで紹介
+
+
