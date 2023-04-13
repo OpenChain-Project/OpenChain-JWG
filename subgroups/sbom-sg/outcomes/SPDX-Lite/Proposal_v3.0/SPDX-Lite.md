@@ -30,28 +30,29 @@ The Other License information section (License Identifier, Extracted Text, Licen
 
 ## H.3 Table of SPDX Lite fields <a name="H.3"></a>
 
-| # | SPDX subclause | Field Name |
-|:-----:|:----:|:--------------------------|
-|L1.1  |6.1  | SPDX Version              |
-|L1.2  |6.2  | Data License              |
-|L1.3  |6.3  | SPDX Identifier           |
-|L1.4  |6.4	 | Document Name	           |
-|L1.5  |6.5	 | SPDX Document Namespace   |
-|L1.6  |6.8	 | Creator	                 |
-|L1.7  |6.9  | Created                   |
-|L2.1  |7.1	 | Package Name	             |
-|L2.2  |7.2	 | Package SPDX Identifier   |
-|L2.3  |7.3	 | Package Version           |
-|L2.4  |7.4	 | Package File Name         |
-|L2.5  |7.7	 | Package Download Location |
-|L2.6  |7.8	 | Files Analyzed            |
-|L2.7  |7.11 | Package Home Page         |
-|L2.8  |7.13 | Concluded License         |
-|L2.9  |7.15 | Declared License          |
-|L2.10 |7.16 | Comments on License       |
-|L2.11 |7.17 | Copyright Text            |
-|L2.12 |7.20 | Package Comment           |
-|L3.1  |10.1	 | License Identifier        |
-|L3.2  |10.2	 | Extracted Text            |
-|L3.3  |10.3	 | License Name              |
-|L3.4  |10.5	 | License Comment           |
+| # | SPDX(v3.0) subclause | SPDX(v2.3) subclause | Field Name |
+|:-----:|:----:|:----:|:--------------------------|
+|L1.1  |x.x  |6.1  | SPDX Version              |
+|L1.2  |x.x  |6.2  | Data License              |
+|L1.3  |x.x  |6.3  | SPDX Identifier           |
+|L1.4  |x.x  |6.4	 | Document Name	           |
+|L1.5  |x.x  |6.5	 | SPDX Document Namespace   |
+|L1.6  |x.x  |6.8	 | Creator	                 |
+|L1.7  |x.x  |6.9  | Created                   |
+|L2.1  |x.x  |7.1	 | Package Name	             |
+|L2.2  |x.x  |7.2	 | Package SPDX Identifier   |
+|L2.3  |x.x  |7.3	 | Package Version           |
+|L2.4  |x.x  |7.4	 | Package File Name         |
+|L2.5  |x.x  |7.7	 | Package Download Location |
+|L2.6  |x.x  |7.8	 | Files Analyzed            |
+|L2.7  |x.x  |7.11 | Package Home Page         |
+|L2.8  |x.x  |7.13 | Concluded License         |
+|L2.9  |x.x  |7.15 | Declared License          |
+|L2.10 |x.x  |7.16 | Comments on License       |
+|L2.11 |x.x  |7.17 | Copyright Text            |
+|L2.12 |x.x  |7.20 | Package Comment           |
+|L3.1  |x.x  |10.1	 | License Identifier        |
+|L3.2  |x.x  |10.2	 | Extracted Text            |
+|L3.3  |x.x  |10.3	 | License Name              |
+|L3.4  |x.x  |10.5	 | License Comment           |
+|Lx.x  |x.x  | 	     | Relationship           |
