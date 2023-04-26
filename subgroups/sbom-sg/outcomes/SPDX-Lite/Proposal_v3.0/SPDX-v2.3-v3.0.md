@@ -14,7 +14,7 @@
 |1.9  |   |  |6.9  | Created                   |
 |1.10 |   |  |6.10  | Creator Comment            |
 |1.11 |   |  |6.11  | Document Comment              |
-|:-----:|:----:|:----:|:----:|:--------------------------|
+|     |   |  |      |    |
 |2.1  | Core  |x.x  |7.1	 | Package Name	             |
 |2.2  | Core  |x.x  |7.2	 | Package SPDX Identifier   |
 |2.3  | Core  |x.x  |7.3	 | Package Version           |
@@ -41,7 +41,7 @@
 |2.25  |   | | 7.25 | Release Date         |
 |2.26  |   | | 7.26 | Build Date         |
 |2.27  |   | | 7.27 | Valid Until Date         |
-|:-----:|:----:|:----:|:----:|:--------------------------|
+|     |   |  |      |    |
 |3.1  |  |  | 8.1	 | File Name        |
 |3.2  |  |  | 8.2	 | File SPDX Identifier        |
 |3.3  |  |  | 8.3	 | File Type        |
@@ -58,7 +58,7 @@
 |3.14  |  |  | 8.14	 | File Contributor        |
 |3.15  |  |  | 8.15	 | File Attribution Text        |
 |3.16  |  |  | 8.16	 | File Dependencies (depreicated)        |
-|:-----:|:----:|:----:|:----:|:--------------------------|
+|     |   |  |      |    |
 |4.1  |  |  | 9.1	 | Snippet SPDX Identifier        |
 |4.2  |  |  | 9.2	 | Snippet From File SPDX Identifier        |
 |4.3  |  |  | 9.3	 | Snippet Byte Range        |
@@ -75,23 +75,23 @@
 |4.14  |  |  | 9.14	 | File Contributor        |
 |4.15  |  |  | 9.15	 | File Attribution Text        |
 |4.16  |  |  | 9.16	 | File Dependencies (depreicated)        |
-|:-----:|:----:|:----:|:----:|:--------------------------|
+|     |   |  |      |    |
 |5.1  | Software |x.x  |10.1	 | License Identifier        |
 |5.2  | Software |x.x  |10.2	 | Extracted Text            |
 |5.3  | Software |x.x  |10.3	 | License Name              |
 |5.4  |  |  |10.4	 | License Cross Reference           |
 |5.5  | Software |x.x  |10.5	 | License Comment           |
-|:-----:|:----:|:----:|:----:|:--------------------------|
+|     |   |  |      |    |
 |6.1  | Core |x.x  | 11.1	     | Relationship           |
 |6.2  |  |  | 11.2	     | Relationship Comment          |
-|:-----:|:----:|:----:|:----:|:--------------------------|
+|     |   |  |      |    |
 |7.1  |  |  | 12.1	     | Annotation           |
 |7.2  |  |  | 12.2	     | Annotation Date          |
 |7.3  |  |  | 12.3	     | Annotation Type          |
 |7.4  |  |  | 12.4	     | SPDX Identifier Reference          |
 |7.5  |  |  | 12.5	     | Annotation Comment          |
-|:-----:|:----:|:----:|:----:|:--------------------------|
-|8.1  |  |  | 13.1	     | Reviewer           |
-|8.2  |  |  | 13.2	     | Reviewer Date          |
-|8.3  |  |  | 13.3	     | Reviewer Comment          |
+|     |   |  |      |    |
+|8.1  |  |  | 13.1	     | Reviewer (depricated)          |
+|8.2  |  |  | 13.2	     | Reviewer Date (depricated)          |
+|8.3  |  |  | 13.3	     | Reviewer Comment (depricated)          |
 
