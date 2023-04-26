@@ -1,7 +1,7 @@
 # Comparison table between SPDX v2.3 and v3.0
 
 
-| # | SPDX(v3.0) profile | SPDX(v3.0) subclause | SPDX(v2.3) subclause | Field Name |
+| # | SPDX(v2.3) subclause | Field Name | SPDX(v3.0) profile | SPDX(v3.0) subclause |
 |:-----:|:----:|:----:|:----:|:--------------------------|
 |1.1  |6.1  | SPDX Version              |   |  |
 |1.2  |6.2  | Data License              |   |  |
