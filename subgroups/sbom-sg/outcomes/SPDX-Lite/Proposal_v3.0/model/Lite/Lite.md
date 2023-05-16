@@ -1,6 +1,6 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# Software
+# Lite
 
 ## Summary
 
@@ -8,7 +8,7 @@ Everything having to do with Lite.
 
 ## Description
 
-The Lite namespace defines concepts related to Lite artifacts.
+The Lite namespace defines concepts related to SPDX Lite.
 
 ## Metadata
 
