@@ -14,7 +14,7 @@ LiteRelationship
 
 ## Properties
 
-- LiteRelationship
-  - type: LiteRelationship
+- LiteRelationshipType
+  - type: LiteRelationshipType
   - minCount: 0
   - maxCount: 1
