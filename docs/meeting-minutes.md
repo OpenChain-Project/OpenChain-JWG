@@ -5,6 +5,16 @@
 ## 全体会合の記録
 - **第27回会合/第2回ハイブリッド会合** 2023年5月19日(木)  
 場所: NEC (向河原) または Zoom  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/JapanWG-AllMemMtg-Agenda-20230518_rev1.0.pptx)  
+[&#x1f3a5; 録画 ちょっと待ってね]()  
+[&#x1f4da; OpenChain 最新動向](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChain%20Japan%20Work%20Group%20-%20Meeting%2027.pdf)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-20230518d.pptx)  
+[&#x1f4da; OSS鳥瞰図と活動のご紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChainJWG-OSS%E9%B3%A5%E7%9E%B0%E5%9B%B3%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B_20230518.pptx)  
+[&#x1f4da; FAQ SGの紹介とご招待](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChainJWG-FAQ-SG%E7%B4%B9%E4%BB%8B_20230518.pptx)  
+[&#x1f4da; SBOM sg 紹介＋SPDX 最近の動向紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChainJWG-SBOM-sg%E7%B4%B9%E4%BB%8B-20230518.pptx)  
+
+[&#x1f4da; オープンソースコンプライアンスのためのプロセスマネジメント標準 ISO/IEC 5230 の適合に向けて](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/20230209_Tarui_Ninjouji_Toshiba_CaseStudy_ISOIEC5230.pdf)  
+[&#x1f4da; OSSライセンスコンプライアンスを遵守するためのOSS教育の整備と全社展開](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/20230209_Koyama_Toshiba_CaseStudy_OSSTraining.pdf)  
 
 
 - **第26回会合/第1回ハイブリッド会合** 2023年2月9日(木)  
