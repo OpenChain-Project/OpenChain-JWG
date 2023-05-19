@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 27th meeting / The 2nd Hybrid meeting** was held on May. 18, 2023  
+Venue: NEC (Mukaigawara, Tokyo) and Zoom  
+
 - **The 26th meeting / The 1st Hybrid meeting** was held on February. 9, 2023  
 Venue: Hitachi Solutions, Ltd. (Omori, Tokyo) and Zoom  
 
