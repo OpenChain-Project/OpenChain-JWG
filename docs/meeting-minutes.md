@@ -3,6 +3,10 @@
 </div>
 
 ## 全体会合の記録
+- **第27回会合/第2回ハイブリッド会合** 2023年5月19日(木)  
+場所: NEC (向河原) または Zoom  
+
+
 - **第26回会合/第1回ハイブリッド会合** 2023年2月9日(木)  
 場所: 日立 (大森) または Zoom  
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/raw/master/Meeting-Materials/All-Member-Meeting/20230209/JapanWG-AllMemMtg-Agenda-20230209_rev1.0.pdf)  
