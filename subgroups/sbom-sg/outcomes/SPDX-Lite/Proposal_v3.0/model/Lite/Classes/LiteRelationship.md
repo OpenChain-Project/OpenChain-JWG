@@ -1,6 +1,6 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# LiteRelationshipClass
+# LiteRelationship
 
 ## Description
 
@@ -8,7 +8,7 @@ LiteRelationship
 
 ## Metadata
 
-- name: LiteRelationshipClass
+- name: LiteRelationship
 - SubclassOf: /Core/LifecycleScopedRelationship
 - Instantiability: Concrete
 
