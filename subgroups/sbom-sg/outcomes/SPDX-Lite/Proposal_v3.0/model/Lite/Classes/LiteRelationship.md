@@ -8,12 +8,13 @@ LiteRelationship
 
 ## Metadata
 
-- name: LiteRelationship
+- name: LiteRelationshipType
 - SubclassOf: /Core/Relationship
 - Instantiability: Concrete
 
-## External properties restrictions
+## Properties
 
-- relationshipType
+- liteRelationshipType
+  - type: LiteRelationshipType
   - minCount: 0
   - maxCount: 1
