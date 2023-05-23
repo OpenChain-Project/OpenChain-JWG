@@ -9,12 +9,11 @@ LiteRelationship
 ## Metadata
 
 - name: LiteRelationship
-- SubclassOf: /Core/LifecycleScopedRelationship
+- SubclassOf: /Core/Relationship
 - Instantiability: Concrete
 
-## Properties
+## External properties restrictions
 
-- LiteRelationshipType
-  - type: LiteRelationshipType
+- relationshipType
   - minCount: 0
   - maxCount: 1
