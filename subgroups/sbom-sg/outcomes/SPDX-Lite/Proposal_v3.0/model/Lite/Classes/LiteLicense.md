@@ -23,12 +23,12 @@ LiteLicense contains the minimum part for license.
 
 ## External properties restrictions
 
-- /Licensing/License/licenseID  
+- /Licensing/License/licenseComment
+  - minCount: 1  
+- /Licensing/License/licenseId  
   - minCount: 1  
 - /Licensing/License/licenseName  
   - minCount: 1  
 - /Licensing/License/licenseText 
-  - minCount: 1  
-- /Licensing/License/licenseComment
   - minCount: 1  
 
