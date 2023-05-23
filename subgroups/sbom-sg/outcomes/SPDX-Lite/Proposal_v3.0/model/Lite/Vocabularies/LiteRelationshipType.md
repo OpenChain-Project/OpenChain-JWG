@@ -1,6 +1,6 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# liteRelationshipType
+# LiteRelationshipType
 
 ## Summary
 
@@ -16,7 +16,7 @@ between a Package and a File, between two Packages, or between one SPDXDocument 
 
 ## Metadata
 
-- name: liteRelationshipType
+- name: LiteRelationshipType
 
 ## Entries
 - contains: Every `to` Element is contained by the `from` Element
