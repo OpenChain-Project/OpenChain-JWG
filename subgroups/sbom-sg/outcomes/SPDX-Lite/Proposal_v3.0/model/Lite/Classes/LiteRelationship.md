@@ -8,7 +8,7 @@ LiteRelationship
 
 ## Metadata
 
-- name: LiteRelationshipType
+- name: LiteRelationship
 - SubclassOf: /Core/Relationship
 - Instantiability: Concrete
 
