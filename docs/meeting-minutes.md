@@ -6,8 +6,8 @@
 - **第27回会合/第2回ハイブリッド会合** 2023年5月19日(木)  
 場所: NEC (向河原) または Zoom  
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/JapanWG-AllMemMtg-Agenda-20230518_rev1.0.pptx)  
-[&#x1f3a5; 録画 ちょっと待ってね]()  
-[&#x1f4da; OpenChain 最新動向](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChain%20Japan%20Work%20Group%20-%20Meeting%2027.pdf)  
+[&#x1f3a5; 録画](https://www.openchainproject.org/news/2023/05/23/japan-wg-meeting-27)  
+[&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChain%20Japan%20Work%20Group%20-%20Meeting%2027.pdf)  
 [&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChain%20JWG%E7%B4%B9%E4%BB%8B-20230518f.pptx)  
 [&#x1f4da; OSS鳥瞰図と活動のご紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChainJWG-OSS%E9%B3%A5%E7%9E%B0%E5%9B%B3%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B_20230518.pptx)  
 [&#x1f4da; FAQ SGの紹介とご招待](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/OpenChainJWG-FAQ-SG%E7%B4%B9%E4%BB%8B_20230518.pptx)  
