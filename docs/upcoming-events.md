@@ -1,7 +1,14 @@
 #### The 28th meeting / The 3rd hybrid meeting
 
-第27回（第2回ハイブリッド）全体会合は2023年5月18日(木)に開催されました。参加してくださった皆さま、また、会場を提供してくださったNECの皆さま、ありがとうございました。/ The 27th (2nd Hybrid) All Member Meeting was held on May 18, 2023 (Thursday). We would like to thank everyone who participated and NEC for providing the venue.
+- 日時 / Date and Time:
+  - 2023年7月11日(火) 13:30-17:00 /  July 11, 2023 at 1:30pm-5:00pm JST
+- 場所(Venue): ハイブリッド形式（リアル会場＋オンライン参加）/ Hybrid (real + online)
+  - リアル会場(real):
+    - Ridgelinez TRANSFORMATION BASE CAMP(X Design Studio)
+    - 東京都千代田区丸の内二丁目6 番 1 号 丸の内パークビルディング 22F
+  - オンライン会場(online):
+    - https://zoom.us/j/99975267803?pwd=ekhxaHA3bVZUSVU5M0dVMkF2Z0pkQT09
+    - Meeting ID: 99975267803 / パスワード: ]>guXS~6
 
-次回は7－8月頃に開催する予定です。詳細が決まりましたらこの場でお知らせします。/ The next meeting will be held around July-August. We will inform you here when the details are decided.
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
