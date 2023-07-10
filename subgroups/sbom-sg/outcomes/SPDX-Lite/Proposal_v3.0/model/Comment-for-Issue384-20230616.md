@@ -6,7 +6,7 @@ We want to define as a profile a collection of minimum elements that meet the fo
 
 1. Use for open source license clearance  
 2. NTIA minimum elements for a SBOM compliant  
-3. Enable linking (or adding relationships) to elements used in security (defect) profiles  
+~~3. Enable linking (or adding relationships) to elements used in security (defect) profiles~~  
 
 ## Nessesary Classes  
 
