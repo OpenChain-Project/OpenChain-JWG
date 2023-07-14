@@ -3,6 +3,19 @@
 </div>
 
 ## 全体会合の記録
+- **第28回会合/第3回ハイブリッド会合** 2023年7月11日(火)  
+場所: Ridgelinez株式会社(東京丸の内) または Zoom  
+[&#x1f4da; 議事進行スライド - ちょっと待ってね]()  
+[&#x1f3a5; 録画 - ちょっと待ってね]()  
+[&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/japan-wg-28.pptx)  
+[&#x1f4da; OpenChain JWG紹介 - ちょっと待ってね]()  
+[&#x1f4da; OSSコミュニティ活動とOpenSSFの紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OSS%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E6%B4%BB%E5%8B%95%E3%81%A8OpenSSF%E3%81%AE%E7%B4%B9%E4%BB%8B.pdf)  
+[&#x1f4da; 新教育教材について - Japan WG 教育サブグループ(教育SG)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OpenChain_JPN_%E6%95%99%E8%82%B2SWG_20230711-V4.pdf)  
+[&#x1f4da; Introducing OpenChain Japan SBOM subgroup（ブレイクアウトセッション）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OpenChain-JWG-20230711-SBOMsg.pptx.pdf)  
+[&#x1f4da; SPDX Liteのの紹介（ブレイクアウトセッション）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OpenChainJWG-SPDXLite%E7%B4%B9%E4%BB%8B.pptx)  
+[&#x1f4da; ITmedia連載finale – 新連載トピックス検討（ブレイクアウトセッション）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/7%E6%9C%8811%E6%97%A5%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88_%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3_ITmedia.pptx)  
+[&#x1f4da; クロージング](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89_r2.pptx)  
+
 - **第27回会合/第2回ハイブリッド会合** 2023年5月19日(木)  
 場所: NEC (向河原) または Zoom  
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230518/JapanWG-AllMemMtg-Agenda-20230518_rev1.0.pptx)  
