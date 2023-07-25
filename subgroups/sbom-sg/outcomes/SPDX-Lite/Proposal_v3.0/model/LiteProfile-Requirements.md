@@ -12,7 +12,6 @@ We want to define as a profile a collection of mandatory elements that meet the 
 Classes we think is necessary based on the results of our research  
 
 - Package (<- SoftwareArtifact <- Artifact <- Element)  
-- License (<- ExtendableLicense(?) <- Element(?) )  
 - CustomLicense (<- License <- ExtendableLicense(?) <- Element(?) ) 
 - Relationship (<- Element)  
 
@@ -34,7 +33,7 @@ The following elements are what we want to use to identify OSS packages and thei
   * X  
 - /Software/Package/packageVersion  
   * X
-- /Software/Package/packageUrl  
+- /Software/Package/downloadLocation  
   * X  
 - /Software/Package/homePage  
   * X  
@@ -47,12 +46,6 @@ The following elements are what we want to use to identify OSS packages and thei
 
 The following elements are what we want to use to describe licenses that does not have SPDX short identifier.  
 
-- /Licensing/License/spdxId <- /Core/Element/spdxId  
-  * minCount:1 at Element class  
-- /Licensing/License/name  <- /Core/Element/name  
-  * X  
-- /Licensing/License/licenseText  
-  * minCount:1 at License class
 - /Licensing/CustomLicense/spdxId <- /Core/Element/spdxId  
   * minCount:1 at Element class  
 - /Licensing/CustomLicense/name  <- /Core/Element/name  
