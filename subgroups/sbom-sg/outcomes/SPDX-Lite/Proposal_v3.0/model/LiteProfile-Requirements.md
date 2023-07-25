@@ -50,6 +50,8 @@ The following elements are what we want to use to describe licenses that does no
   * minCount:1 at Element class  
 - /Licensing/CustomLicense/name  <- /Core/Element/name  
   * X  
+- /Licensing/CustomLicense/comment  <- /Core/Element/comment  
+  * X  
 - /Licensing/CustomLicense/licenseText <- /Licensing/License/licenseText  
   * minCount:1 at License class
   
