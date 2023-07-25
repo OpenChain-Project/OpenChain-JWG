@@ -2,14 +2,14 @@
 
 ## Our usage  
 
-We want to define as a profile a collection of mandatory elements that meet the following requirements:  
+We want to define a profile as a collection of required elements that meet the following requirements:  
 
 1. Able to use for open source license clearance  
 2. NTIA minimum elements for a SBOM compliant  
 
 ## Nessesary Classes  
 
-Classes we think is necessary based on the results of our research  
+Nessesary Classes we think:
 
 - Package (<- SoftwareArtifact <- Artifact <- Element)  
 - CustomLicense (<- License <- ExtendableLicense(?) <- Element(?) ) 
