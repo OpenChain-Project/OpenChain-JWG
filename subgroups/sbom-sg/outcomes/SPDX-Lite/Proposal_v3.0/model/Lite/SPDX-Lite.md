@@ -67,6 +67,6 @@ Not sure how to describe the following four points. We'd like to discuss with SP
 
 4. How should we handle the packageFileName in SPDX2.3 when we receive an archived file of an OSS package?  
 For example, if we receive ```nginx``` ```v1.25.1``` in the file ```nginx-1.25.1.tar.gz```, ```Package/name == nginx``` and ```Package/packageVersion === 1.25.1```. We have to to use Relationship with ```File``` to represent packageFileName.  
-** This topic appears to be discussed in [issue#83](https://github.com/spdx/spdx-3-model/issues/83).**  
+**This topic appears to be discussed in [issue#83](https://github.com/spdx/spdx-3-model/issues/83).**  
 
 ## EOF  
