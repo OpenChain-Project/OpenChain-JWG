@@ -56,7 +56,7 @@ OR
 
 ## Issues  
 
-Not sure how to describe the following three points. We'd like to discuss with SPDX community.  
+Not sure how to describe the following four points. We'd like to discuss with SPDX community.  
 
 1. Which class and element should be used to represent a license with or without an SPDX short ID?  
 **It seems to reconfigure Licensing classes in [issue#399](https://github.com/spdx/spdx-3-model/pull/399).**  
