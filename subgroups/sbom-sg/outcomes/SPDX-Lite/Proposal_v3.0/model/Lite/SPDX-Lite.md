@@ -54,17 +54,19 @@ The following elements are what we want to use to describe licenses that does no
 OR
 - /SimpleLicensing/AnyLicenseInfo ?
 
-## Questions  
+## Issues  
 
-We are not sure how to describe the following three points, so we'd like to ask SPDX community.  
+Not sure how to describe the following three points. We'd like to discuss with SPDX community.  
 
 1. Which class and element should be used to represent a license with or without an SPDX short ID?  
 **It seems to reconfigure Licensing classes in [issue#399](https://github.com/spdx/spdx-3-model/pull/399).**  
 
-2. How do we list the elements that need to be listed if they are present in the deliverable but not if they are not?  
-For example, if there is a CustomLicense, it should be listed but not if there is none.  
+2. Do we need to list external properties restriction at profile-level.md that already have minCount:1 specified?
 
-3. When we receive an archived file of an OSS package, how should the file name be represented?  
-For example, if we receive ```nginx``` ```v1.25.1``` in the file ```nginx-1.25.1.tar.gz```, ```Package/name == nginx``` and ```Package/packageVersion === 1.25.1```. So what classes and elements should be used in the file names passed in and how should they be associated with the package information?  
+3. How should we write ```CustomLicense``` information if we want it to be required if it exists and not required if it does not exist?  
+
+4. How should we handle the packageFileName in SPDX2.3 when we receive an archived file of an OSS package?  
+For example, if we receive ```nginx``` ```v1.25.1``` in the file ```nginx-1.25.1.tar.gz```, ```Package/name == nginx``` and ```Package/packageVersion === 1.25.1```. We have to to use Relationship with ```File``` to represent packageFileName.  
+** This topic appears to be discussed in [issue#83](https://github.com/spdx/spdx-3-model/issues/83).**  
 
 ## EOF  
