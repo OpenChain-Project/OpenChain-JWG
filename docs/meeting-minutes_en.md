@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 28th meeting / The 3rd Hybrid meeting** was held on July. 11, 2023  
+Venue: Ridgelinez (Marunouchi, Tokyo) and Zoom  
+
 - **The 27th meeting / The 2nd Hybrid meeting** was held on May. 18, 2023  
 Venue: NEC (Mukaigawara, Tokyo) and Zoom  
 
