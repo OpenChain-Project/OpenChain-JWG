@@ -5,7 +5,7 @@
 ## 全体会合の記録
 - **第28回会合/第3回ハイブリッド会合** 2023年7月11日(火)  
 場所: Ridgelinez株式会社(東京丸の内) または Zoom  
-[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/AMM230711_agenda/Meeting-Materials/All-Member-Meeting/20230711/20230711_OpenChain%20JapanWG-AllMemberMtg-Agenda.pptx)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/20230711_OpenChain%20JapanWG-AllMemberMtg-Agenda.pptx)  
 [&#x1f3a5; 録画](https://www.openchainproject.org/news/2023/07/26/japan-wg-28-2023-07-11)  
 [&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/japan-wg-28.pptx)  
 [&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20230711.pptx)  
