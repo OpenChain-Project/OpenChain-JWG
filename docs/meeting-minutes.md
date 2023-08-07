@@ -6,7 +6,7 @@
 - **第28回会合/第3回ハイブリッド会合** 2023年7月11日(火)  
 場所: Ridgelinez株式会社(東京丸の内) または Zoom  
 [&#x1f4da; 議事進行スライド - ちょっと待ってね]()  
-[&#x1f3a5; 録画 - ちょっと待ってね]()  
+[&#x1f3a5; 録画](https://www.openchainproject.org/news/2023/07/26/japan-wg-28-2023-07-11)  
 [&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/japan-wg-28.pptx)  
 [&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20230711.pptx)  
 [&#x1f4da; OSSコミュニティ活動とOpenSSFの紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/OSS%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E6%B4%BB%E5%8B%95%E3%81%A8OpenSSF%E3%81%AE%E7%B4%B9%E4%BB%8B.pdf)  
