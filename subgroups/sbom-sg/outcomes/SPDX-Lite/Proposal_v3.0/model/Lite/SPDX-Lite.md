@@ -30,6 +30,8 @@ OK
    - /Core/creationInfo  
      * minCount: 1 (Originally minCount: 1 in Element class)  
 
+---
+
 - /Software/SBOM/creationInfo <- /Core/Bom <- /Core/Bundle <- /Core/ElementCollection <- /Core/Element  
   * minCount: 1 (Originally minCount: 1 in Element class)  
 - /Software/Package/spdxId  <- /Software/SoftwareArtifact <- /Core/Artifact <- /Core/Element  
