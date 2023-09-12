@@ -17,6 +17,18 @@ The SPDX-Lite namespace defines concepts related to SPDX-Lite.
 
 ## External properties restrictions  
 
+NG
+- /Core/Element  
+  - /Core/ElementCollection  
+    - /Core/Bundle  
+      - /Core/Bom  
+        - /Software/SBOM/creationInfo  
+        * minCount: 1 (Originally minCount: 1 in Element class)  
+OK
+ - /Software/SBOM  
+   - /Core/creationInfo  
+     * minCount: 1 (Originally minCount: 1 in Element class)  
+
 - /Software/SBOM/creationInfo <- /Core/Bom <- /Core/Bundle <- /Core/ElementCollection <- /Core/Element  
   * minCount: 1 (Originally minCount: 1 in Element class)  
 - /Software/Package/spdxId  <- /Software/SoftwareArtifact <- /Core/Artifact <- /Core/Element  
