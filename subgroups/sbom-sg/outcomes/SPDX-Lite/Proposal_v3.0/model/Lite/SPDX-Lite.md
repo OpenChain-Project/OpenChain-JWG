@@ -23,7 +23,8 @@ NG
     - /Core/Bundle  
       - /Core/Bom  
         - /Software/SBOM/creationInfo  
-        * minCount: 1 (Originally minCount: 1 in Element class)  
+        * minCount: 1 (Originally minCount: 1 in Element class)
+        
 OK
  - /Software/SBOM  
    - /Core/creationInfo  
