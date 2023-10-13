@@ -3,6 +3,10 @@
 </div>
 
 ## 全体会合の記録
+- **第29回会合/第4回ハイブリッド会合** 2023年10月5日(木)  
+場所: 株式会社ソシオネクスト(京都 丹波口) または Zoom  
+
+
 - **第28回会合/第3回ハイブリッド会合** 2023年7月11日(火)  
 場所: Ridgelinez株式会社(東京丸の内) または Zoom  
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20230711/20230711_OpenChain%20JapanWG-AllMemberMtg-Agenda.pptx)  
