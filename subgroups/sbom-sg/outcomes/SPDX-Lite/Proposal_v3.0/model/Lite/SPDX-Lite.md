@@ -44,9 +44,9 @@ This is intended to include the following information as minimum information:
   - /Software/SoftwareArtifact/copyrightText  
     * minCount: 1  
 
-- Core/Relationship/relatoinshipType  
+- /Core/Relationship/relatoinshipType  
   * minCount: 1 (default)  
-- Core/Relationship/from  
+- /Core/Relationship/from  
   * minCount: 1 (default)  
 
 - /SimpleLicensing/LicenseExpression/licenseExpression  
