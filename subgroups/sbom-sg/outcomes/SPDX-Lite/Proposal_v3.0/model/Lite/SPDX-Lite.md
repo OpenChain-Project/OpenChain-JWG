@@ -1,70 +1,57 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# SPDX-Lite
+# Lite
 
 ## Summary
 
-Everything having to do with SPDX-Lite.
+The Lite Profile defines the minimum set of information required to comply with license compliance use cases that are primarily required when considering the software supply chain.  
 
-## Description
+## Description  
 
-The SPDX-Lite namespace defines concepts related to SPDX-Lite.
+The Lite profile namespace contains only the additional requirements to comply with the various compliance processes required when considering the software supply chain.  
+This is intended to include the following information as minimum information:  
+
+- Creation information of the SBOM  
+- Package information  
+- License information for the package  
+- Relationship  
 
 ## Metadata
 
-- id: https://rdf.spdx.org/v3/SPDX-Lite
-- name: SPDX-Lite
+- id: https://rdf.spdx.org/v3/Lite
+- name: Lite
 
 ## External properties restrictions  
 
-NG
-- /Core/Element  
-  - /Core/ElementCollection  
-    - /Core/Bundle  
-      - /Core/Bom  
-        - /Software/SBOM/creationInfo  
-        * minCount: 1 (Originally minCount: 1 in Element class)
-        
-OK
- - /Software/SBOM  
-   - /Core/creationInfo  
-     * minCount: 1 (Originally minCount: 1 in Element class)  
-
----
-
-- /Software/SBOM/creationInfo <- /Core/Bom <- /Core/Bundle <- /Core/ElementCollection <- /Core/Element  
-  * minCount: 1 (Originally minCount: 1 in Element class)  
-- /Software/Package/spdxId  <- /Software/SoftwareArtifact <- /Core/Artifact <- /Core/Element  
-  * minCount: 1 (Originally minCount: 1 in Element class)  
-- /Software/Package/name <- /Software/SoftwareArtifact <- /Core/Artifact <- /Core/Element  
-  * minCount: 1 (External properties restricted in Package class)  
-- /Software/Package/comment <- /Software/SoftwareArtifact <- /Core/Artifact <- /Core/Element  
-  * minCount: 1 (**if exists**)  
-- /Software/Package/creationInfo <- /Software/SoftwareArtifact <- /Core/Artifact <- /Core/Element  
-  * minCount: 1 (Originally minCount: 1 in Element class)  
-- /Software/Package/suppliedBy <- /Software/SoftwareArtifact <- /Core/Artifact  
-  * minCount: 1  
+- /Software/Sbom  
+  - /Core/Element/creationInfo  
+    * minCount: 1 (default)  
+- /Software/Package  
+  - /Core/Element/spdxId  
+    * minCount: 1 (default)  
+- /Software/Package  
+  - /Core/Element/name  
+    * minCount: 1 (default)  
+- /Software/Package
+  - /Core/Element/creationInfo  
+    * minCount: 1 (default)  
+- /Software/Package  
+  - /Core/Artifact/suppliedBy  
+    * minCount: 1  
 - /Software/Package/packageVersion  
   * minCount: 1  
-- /Software/Package/downloadLocation  
-  * minCount: 1  
-- /Software/Package/homePage  
-  * minCount: 1 (**if exists**)  
-- /Software/Package/copyrightText <- /Software/SoftwareArtifact  
-  * minCount: 1  
+- /Software/Package  
+  - /Software/SoftwareArtifact/copyrightText  
+    * minCount: 1  
 
-The following elements are used to represent relationships between software packages and to link between packages and licenses.
-
-- /Core/Relationship/relationshipType
-  * minCount: 1 (Originally minCount: 1 in Relationship class)  
-- /Core/Relationship/from  
-  * minCount: 1 (Originally minCount: 1 in Relationship class)  
-
-The following elements are used to describe package licenses.  
+- Core/Relationship/relatoinshipType  
+  * minCount: 1 (default)  
+- Core/Relationship/from  
+  * minCount: 1 (default)  
 
 - /SimpleLicensing/LicenseExpression/licenseExpression  
-  * minCount: 1 (Originally minCount: 1 in LicensingExpression class)  
+  * minCount: 1 (default)  
 - /SimpleLicensing/SimpleLicensingText/liecnseText  
-  * minCount: 1 (Originally minCount: 1 in SimpleLicensingText class)  
+  * minCount: 1 (default)  
 
 ## EOF  
