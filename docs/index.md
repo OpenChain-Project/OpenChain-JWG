@@ -75,7 +75,7 @@ OpenChain Japan WGには5つのメーリングリストがあります。各メ�
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-automation](https://lists.openchainproject.org/g/japan-sg-automation)  
 [&#x2709; japan-sg-automation+subscribe@lists.openchainproject.org](mailto:japan-sg-automation+subscribe@lists.openchainproject.org)  
 - 教育 SG ML  
-[&#x1f310; https://lists.openchainproject.org/g/japan-sg-education)  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-education]  
 [&#x2709; japan-sg-education+subscribe@lists.openchainproject.org](mailto:japan-sg-education+subscribe@lists.openchainproject.org)  
 - FAQ SG ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-faq](https://lists.openchainproject.org/g/japan-sg-faq)  
