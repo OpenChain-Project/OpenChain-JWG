@@ -5,7 +5,14 @@
 ## 全体会合の記録
 - **第29回会合/第4回ハイブリッド会合** 2023年10月5日(木)  
 場所: 株式会社ソシオネクスト(京都 丹波口) または Zoom  
-
+[&#x1f4da; 全体会合紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/OpenChainJapan%E7%AC%AC29%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88%E6%A1%88%E5%86%85.pdf)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/JapanWG-AllMemMtg-Agenda-20231005.pptx)  
+[&#x1f3a5; 録画 ちょっと待ってね]()  
+[&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/OpenChain%20Japan%20Work%20Group%202023-10-05.pptx)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20231005.pptx)  
+[&#x1f4da; 株式会社ソシオネクスト：取り組み紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/Socionext%E7%B4%B9%E4%BB%8B%20for%20OpenChain_20230929a.pdf)  
+[&#x1f4da; 「SBOM関連の文書と組織の関係図」](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/SBOM-related-doc-org-20231004-r1-action2.pdf)  
+[&#x1f4da; クロージング](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/%E7%AC%AC29%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88_%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89v2.pptx)  
 
 - **第28回会合/第3回ハイブリッド会合** 2023年7月11日(火)  
 場所: Ridgelinez株式会社(東京丸の内) または Zoom  
