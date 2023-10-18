@@ -1,0 +1,150 @@
+// Based on 
+// Lite Profile: https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/sbom-sg/outcomes/SPDX-Lite/Proposal_v3.0/model/Lite/SPDX-Lite.md  
+// examples: https://github.com/spdx/spdx-3-model/tree/main/serialization/json_ld/examples
+
+// example satisfying Lite profile
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "Agent", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#Agent",
+  "creationInfo": {
+    "type": "CreationInfo",
+      "specVersion": "3.0.0",
+      "created": "2022-12-01T00:00:00Z",
+      "createdBy": ["spdxId of Agent"], // Question: Issue#35: https://github.com/spdx/spdx-3-model/issues/35
+      "profile": ["core"], // Question: ambiguous. Should contain "software", "simpleLicensing" and "Lite"?
+      "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": "Norio Kobota", // Question: Can it be an array?
+},
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "Sbom", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#Sbom",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"], // Question: correct? Should it be expressed in a Relationship? 
+    "profile": ["core", "software"], // Question: ambiguous. Should contain "simpleLicensing" and "Lite"?
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "element": [ // Question: What should be written? All JSON nodes?
+    "https://some.namespace#Agent",
+    "https://spdx.dev/elements/3F26391C#spdx-spec-v2.3"
+  ],
+  "rootElement": [
+    "https://some.namespace#Package" // Question: What should be the rootElement? Sbom? Package? other?
+  ]
+},
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "Package", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#Package",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"],
+    "profile": ["core", "software"], // Question: ambiguous. Should contain "simpleLicensing" and "Lite"?
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": "packageName",
+  "comment": "packageComment if exists", // optional for Lite profile
+  "copyrightText": "copyright text",
+  "packageVersion": "12.2",
+  "downloadLocation": "https://download.com", // optional for Lite profile
+  "packageUrl": "https://some.purl", // optional * does not contain current Lite profile proposal
+  "homepage": "https://homepage.com", // optional for Lite profile
+  "externalReference": [ // optional * does not contain current Lite profile proposal. Question: What's the difference between this and Security Profile object?
+    {
+      "type": "ExternalReference",
+      "externalReferenceType": "securityFix",
+      "locator": ["https://support.com"]
+    }
+  ]
+},
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "SimpleLicensing", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#SimpleLicensing",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"],
+    "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "licenseExpression": "LGPL-2.1-only OR BSD-3-Clause"
+},
+{ // Question: How to relate "https://some.namespace#SimpleLicensing" if any operator(AND/OR) exsists?
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "SimpleLicensingText", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#SimpleLicensingText1",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"],
+    "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": "BSD-3-Clause", // optional * does not contain current Lite profile proposal. Question: What should be written? license name?
+  "licenseText": "... Should fill in full licenst Text of BSD-3-Clause?" // Question: Should fill in full licenst Text of the license?
+},
+{ // Question: How to relate "https://some.namespace#SimpleLicensing" if any operator(AND/OR) exsists?
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "SimpleLicensingText", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#SimpleLicensingText2",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"],
+    "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": "LGPL-2.1-only", // optional * does not contain current Lite profile proposal. Question: What should be written? license name?
+  "licenseText": "... Should fill in full licenst Text of LGPL-2.1-only?" // Question: Should fill in full licenst Text of the license?
+},
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "Relationship", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#relationship1",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"],
+    "profile": ["core"], // Question: ambiguous. Should contain "Lite" etc.? 
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "relationshipType": "contains", // Question: What is the relevant relationshipType?
+  "from": "https://some.namespace#SimpleLicensing", // Question: How to relate "https://some.namespace#SimpleLicensing" if any operator(AND/OR) exsists?
+  "to": [
+    "https://some.namespace#SimpleLicensingText1",
+    "https://some.namespace#SimpleLicensingText2"
+  ]
+},
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "Relationship", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#relationship1",
+  "creationInfo": {
+    "type": "CreationInfo",
+    "specVersion": "3.0.0",
+    "created": "2023-10-18T00:00:00Z",
+    "createdBy": ["https://some.namespace#Agent"],
+    "profile": ["core"], // Question: ambiguous. Should contain "Lite" etc.? 
+    "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "relationshipType": "declaredLicense",
+  "from": "https://some.namespace#Package",
+  "to": [
+    "https://some.namespace#SimpleLicensing"
+  ]
+}
+// Question: What should we do for creating relationship concluded License?
+
+// EOF
