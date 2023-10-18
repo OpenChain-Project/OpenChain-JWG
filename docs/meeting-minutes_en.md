@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 29th meeting / The 4th Hybrid meeting** was held on October. 5, 2023  
+Venue: Socionext Inc. (Tamba-guchi, Kyoto) and Zoom  
+
 - **The 28th meeting / The 3rd Hybrid meeting** was held on July. 11, 2023  
 Venue: Ridgelinez (Marunouchi, Tokyo) and Zoom  
 
