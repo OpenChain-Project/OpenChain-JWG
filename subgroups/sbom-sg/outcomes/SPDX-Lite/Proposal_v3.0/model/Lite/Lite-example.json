@@ -18,7 +18,7 @@
       "profile": ["core"], // Question: ambiguous. Should contain "software", "simpleLicensing" and "Lite"?
       "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
-  "name": "Norio Kobota", // Question: Can it be an array?
+  "name": "Norio Kobota <norio.kobota@sony.com>", // Question: Can we write email address here or must use "externalIdentifier"?
 },
 {
   "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
@@ -32,7 +32,7 @@
       "profile": ["core"], // Question: ambiguous. Should contain "software", "simpleLicensing" and "Lite"?
       "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
-  "name": "a company", // Question: Can it be an array?
+  "name": "a company",
 },
 {
   "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
