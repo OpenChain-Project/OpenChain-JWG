@@ -94,7 +94,7 @@
     "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
-  "name": "BSD-3-Clause", // optional * does not contain current Lite profile proposal. Question: What should be written? license name?
+  "name": "BSD-3-Clause", // optional * does not contain current Lite profile proposal. Question: What should be written? license identifier?
   "licenseText": "... Should fill in full licenst Text of BSD-3-Clause?" // Question: Should fill in full licenst Text of the license?
 },
 { // Question: How to relate "https://some.namespace#SimpleLicensing" if any operator(AND/OR) exsists?
@@ -109,7 +109,7 @@
     "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
-  "name": "LGPL-2.1-only", // optional * does not contain current Lite profile proposal. Question: What should be written? license name?
+  "name": "LGPL-2.1-only", // optional * does not contain current Lite profile proposal. Question: What should be written? license identifier?
   "licenseText": "... Should fill in full licenst Text of LGPL-2.1-only?" // Question: Should fill in full licenst Text of the license?
 },
 {
@@ -149,6 +149,6 @@
     "https://some.namespace#SimpleLicensing"
   ]
 }
-// Question: What should we do for creating relationship concluded License?
+// Question: What should we do for creating relationship for concluded License when we use AND/OR operator in SimpleLicensing?
 
 // EOF
