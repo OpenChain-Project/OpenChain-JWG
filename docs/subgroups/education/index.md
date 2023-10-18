@@ -13,17 +13,20 @@
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Yoshitaka Iwata / 岩田 吉隆  
+Satoru Koizumi / 小泉 悟  
 
 - Members / メンバー  
+Yoshitaka Iwata / 岩田 吉隆  
 Yoshiko Ohuchi / 大内 佳子  
 Shisuke Kato / 加藤 慎介  
-Satoru Koizumi / 小泉 悟  
 Akihiro Deguchi / 出口 朗大  
 Takashi Ninjouji / 忍頂寺 毅  
 Hiroyuki Fukuchi / 福地 弘行  
 Hirotaka Motai / 茂田井 寛隆  
 Taishi Yoneshima / 米嶋 大志  
+Hisako Seki /  
+Atsushi Inoue /  
+Tatsuya Saida / 齋田 達哉
 
 ---
 
