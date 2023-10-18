@@ -16,17 +16,17 @@
 Satoru Koizumi / 小泉 悟  
 
 - Members / メンバー  
-Yoshitaka Iwata / 岩田 吉隆  
-Yoshiko Ohuchi / 大内 佳子  
-Shisuke Kato / 加藤 慎介  
 Akihiro Deguchi / 出口 朗大  
-Takashi Ninjouji / 忍頂寺 毅  
 Hiroyuki Fukuchi / 福地 弘行  
+Atsushi Inoue / 井上 淳  
+Yoshitaka Iwata / 岩田 吉隆  
+Shisuke Kato / 加藤 慎介  
 Hirotaka Motai / 茂田井 寛隆  
-Taishi Yoneshima / 米嶋 大志  
-Hisako Seki /  
-Atsushi Inoue /  
+Takashi Ninjouji / 忍頂寺 毅  
+Yoshiko Ohuchi / 大内 佳子  
 Tatsuya Saida / 齋田 達哉
+Hisako Seki / 關 寿子  
+Taishi Yoneshima / 米嶋 大志  
 
 ---
 
