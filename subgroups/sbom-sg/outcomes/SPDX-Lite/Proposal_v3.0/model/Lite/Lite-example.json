@@ -9,7 +9,21 @@
 {
   "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
   "type": "Agent", // optional * does not contain current Lite profile proposal.
-  "spdxId": "https://some.namespace#Agent",
+  "spdxId": "https://some.namespace#Agent1",
+  "creationInfo": {
+    "type": "CreationInfo",
+      "specVersion": "3.0.0",
+      "created": "2023-10-18T00:00:00Z",
+      "createdBy": ["spdxId of Agent"], // Question: Issue#35: https://github.com/spdx/spdx-3-model/issues/35
+      "profile": ["core"], // Question: ambiguous. Should contain "software", "simpleLicensing" and "Lite"?
+      "dataLicense": "https://spdx.org/licenses/CC0-1.0"
+  },
+  "name": "Norio Kobota", // Question: Can it be an array?
+},
+{
+  "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
+  "type": "Agent", // optional * does not contain current Lite profile proposal.
+  "spdxId": "https://some.namespace#Agent2",
   "creationInfo": {
     "type": "CreationInfo",
       "specVersion": "3.0.0",
@@ -18,7 +32,7 @@
       "profile": ["core"], // Question: ambiguous. Should contain "software", "simpleLicensing" and "Lite"?
       "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
-  "name": "Norio Kobota", // Question: Can it be an array?
+  "name": "a company", // Question: Can it be an array?
 },
 {
   "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
@@ -28,12 +42,13 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"], // Question: correct? Should it be expressed in a Relationship? 
+    "createdBy": ["https://some.namespace#Agent1"], // Question: correct? Should it be expressed in a Relationship? 
     "profile": ["core", "software"], // Question: ambiguous. Should contain "simpleLicensing" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
   "element": [ // Question: What should be written? All JSON nodes?
-    "https://some.namespace#Agent",
+    "https://some.namespace#Agent1",
+    "https://some.namespace#Agent2",
     "https://some.namespace#Package",
     "https://some.namespace#SimpleLicensing",
     "https://some.namespace#SimpleLicensingText1",
@@ -53,7 +68,7 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"],
+    "createdBy": ["https://some.namespace#Agent2"],
     "profile": ["core", "software"], // Question: ambiguous. Should contain "simpleLicensing" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
@@ -61,6 +76,7 @@
   "comment": "packageComment if exists", // optional for Lite profile
   "copyrightText": "copyright text",
   "packageVersion": "12.2",
+  "suppliedBy": ["https://some.namespace#Agent2"],
   "downloadLocation": "https://download.com", // optional for Lite profile
   "packageUrl": "https://some.purl", // optional * does not contain current Lite profile proposal
   "homepage": "https://homepage.com", // optional for Lite profile
@@ -80,7 +96,7 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"],
+    "createdBy": ["https://some.namespace#Agent2"],
     "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
@@ -94,7 +110,7 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"],
+    "createdBy": ["https://some.namespace#Agent2"],
     "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
@@ -109,7 +125,7 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"],
+    "createdBy": ["https://some.namespace#Agent2"],
     "profile": ["core", "simpleLicensing"], // Question: ambiguous. Should contain "software" and "Lite"?
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
@@ -124,7 +140,7 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"],
+    "createdBy": ["https://some.namespace#Agent2"],
     "profile": ["core"], // Question: ambiguous. Should contain "Lite" etc.? 
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
@@ -143,7 +159,7 @@
     "type": "CreationInfo",
     "specVersion": "3.0.0",
     "created": "2023-10-18T00:00:00Z",
-    "createdBy": ["https://some.namespace#Agent"],
+    "createdBy": ["https://some.namespace#Agent2"],
     "profile": ["core"], // Question: ambiguous. Should contain "Lite" etc.? 
     "dataLicense": "https://spdx.org/licenses/CC0-1.0"
   },
