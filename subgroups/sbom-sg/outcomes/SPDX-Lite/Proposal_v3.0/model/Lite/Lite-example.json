@@ -134,7 +134,7 @@
 {
   "@context": "https://spdx.github.io/spdx-3-model/rdf/context.json",
   "type": "Relationship", // optional * does not contain current Lite profile proposal.
-  "spdxId": "https://some.namespace#relationship1",
+  "spdxId": "https://some.namespace#relationship2",
   "creationInfo": {
     "type": "CreationInfo",
     "specVersion": "3.0.0",
