@@ -38,7 +38,8 @@
     "https://some.namespace#SimpleLicensing",
     "https://some.namespace#SimpleLicensingText1",
     "https://some.namespace#SimpleLicensingText2",
-    "https://some.namespace#relationship1"
+    "https://some.namespace#relationship1",
+    "https://some.namespace#relationship2"
   ],
   "rootElement": [
     "https://some.namespace#Package" // Question: What should be the rootElement? Sbom? Package? other?
