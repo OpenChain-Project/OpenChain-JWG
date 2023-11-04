@@ -1,7 +1,7 @@
 // NOTE: This is not a Valid JSON
 
 // Based on 
-// Lite Profile: https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/sbom-sg/outcomes/SPDX-Lite/Proposal_v3.0/model/Lite/SPDX-Lite.md  
+// Lite Profile: https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/sbom-sg/outcomes/SPDX-Lite/Proposal_v3.0/model/Lite/Lite.md  
 // examples: https://github.com/spdx/spdx-3-model/tree/main/serialization/json_ld/examples
 
 // example satisfying Lite profile
