@@ -22,6 +22,15 @@
 
 ---
 
+### SBOM tool & 関連情報
+
+SBOM ToolとSBOM関連情報を集めています。
+ - [SBOM Tool](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/sbom-sg/outcomes/SBOM/SBOM_Tools_Document/SBOM_tools.md)
+ - [SBOM 関連情報](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/sbom-sg/outcomes/SBOM/SBOM_Tools_Document/SBOM_documents.md)
+
+
+---
+
 ### FAQ
 
 - [&#x1f4c2; OSSライセンス関連でよくある誤解](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/Education_Material/FAQ)
