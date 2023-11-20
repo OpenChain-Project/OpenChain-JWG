@@ -23,7 +23,5 @@
 |解説|OWASP CycloneDX関連|How are device SBOMs different from “user-managed” software SBOMs?|https://docs.google.com/document/d/1UHNRdNzhC5o4nvdkVwHwcsONi3qVgM0ABgbfhm8jpVY/edit|
 |解説|OWASP CycloneDX関連|The problem of forked components|https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit|
 |解説|Open VEX解説|Spooky Enhancements: Unveiling GUAC's OpenVEX Feature GUAC's OpenVEX Integration|https://www.kusari.dev/blog/spooky-enhancements-unveiling-guacs-openvex-feature|
-|Presentation| Vulnerability |From SBOMs to F-Bombs: Vulnerability Analysis, SCA Tools, and False Positives & Negatives| https://github.com/kwwall/presentations/blob/master/SBOMs_to_F-Bombs/kwwall-OWASP-2023-SBOMs_to_F-Bombs.pdf
- |
-
-
+|Presentation| Vulnerability |From SBOMs to F-Bombs: Vulnerability Analysis, SCA Tools, and False Positives & Negatives| https://github.com/kwwall/presentations/blob/master/SBOMs_to_F-Bombs/kwwall-OWASP-2023-SBOMs_to_F-Bombs.pdf |
+|解説| GraalVM|　「sbomを埋め込んだjavaのネイティブビルドバイナリを生成して取り出してみた」　| https://qiita.com/TomoDote/items/33a48529d9286e83e773|
