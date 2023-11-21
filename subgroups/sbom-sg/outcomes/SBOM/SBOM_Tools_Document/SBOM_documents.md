@@ -1,5 +1,7 @@
 |カテゴリ|日本語概要|英語概要|URL|
 |:------|:------|:------|:------|
+|ベストプラクティス| NSAからのベストプラクティス共有。SBOMとVEXを使用して、ソフトウェア利用のリスクをどう分析するか|　The National Security Agency (NSA), Office of the Director of National Intelligence (ODNI), the Cybersecurity and Infrastructure Security Agency (CISA), and industry partners have　| https://media.defense.gov/2023/Nov/09/2003338086/-1/-1/0/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.PDF|
+|解説| GraalVM 「sbomを埋め込んだjavaのネイティブビルドバイナリを生成して取り出してみた」|　　| https://qiita.com/TomoDote/items/33a48529d9286e83e773|
 |論文|SBOMによる3rdPartyソフトウェアパッケージ管理|Managing 3rd Party Software Components with Software Bill of Materials|https://www.finna.fi/Record/trepo.10024_148790|
 |論文|Debianパッケージに対する依存関係を含むSPDXファイルの自動生成ツール|a tool to automatically generate SPDX files including dependency descriptions for Debian packages|https://ken.ieice.org/ken/paper/20220730sCLt/|
 |論文|JavaのSBOM生成について|Challenges of Producing Software Bill Of Materials for Java|https://arxiv.org/abs/2303.11102|
@@ -24,4 +26,3 @@
 |解説|OWASP CycloneDX関連|The problem of forked components|https://docs.google.com/document/d/1DBeOJEFbdkdaJaaflMpqDy4NQdhSi70pJTX6YJkqS60/edit|
 |解説|Open VEX解説|Spooky Enhancements: Unveiling GUAC's OpenVEX Feature GUAC's OpenVEX Integration|https://www.kusari.dev/blog/spooky-enhancements-unveiling-guacs-openvex-feature|
 |Presentation| Vulnerability |From SBOMs to F-Bombs: Vulnerability Analysis, SCA Tools, and False Positives & Negatives| https://github.com/kwwall/presentations/blob/master/SBOMs_to_F-Bombs/kwwall-OWASP-2023-SBOMs_to_F-Bombs.pdf |
-|解説| GraalVM|　「sbomを埋め込んだjavaのネイティブビルドバイナリを生成して取り出してみた」　| https://qiita.com/TomoDote/items/33a48529d9286e83e773|
