@@ -31,7 +31,6 @@ the following has to hold:
 1. The mincount for /Core/Element/creationInfo is 1  
 1. The mincount for /Core/Artifact/suppliedBy is 1  
 1. The mincount for /Software/Package/packageVersion is 1  
-1. The mincount for /Software/Package/packageUrl is 1  
 1. The mincount for /Software/SoftwareArtifact/copyrightText is 1  
 
 1. for every `/Software/Package` there MUST exist exactly one `/Core/Relationship`
