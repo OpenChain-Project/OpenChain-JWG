@@ -1,5 +1,6 @@
 |カテゴリ|日本語概要|英語概要|URL|
 |:------|:------|:------|:------|
+|Technical Guideline| ドイツのCRA関連の技術ガイドライン | The Technical Guideline TR-03183: Cyber Resilience Requirements for Manufacturers and Products aims to provide manufacturers with advance access to the type of requirements that will be imposed on them by the future Cyber Resilience Act (CRA--Cyber Resilience Act) of the EU.| [https://media.defense.gov/2023/Nov/09/2003338086/-1/-1/0/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.PDF](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TR03183/BSI-TR-03183-2.pdf)|
 |ベストプラクティス| NSAからのベストプラクティス共有。SBOMとVEXを使用して、ソフトウェア利用のリスクをどう分析するか | NSA and ESF Partners Release Recommended Practices for Software Bill of Materials Consumption| https://media.defense.gov/2023/Nov/09/2003338086/-1/-1/0/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.PDF|
 |解説| GraalVM 「sbomを埋め込んだjavaのネイティブビルドバイナリを生成して取り出してみた」|　　| https://qiita.com/TomoDote/items/33a48529d9286e83e773|
 |論文|SBOMによる3rdPartyソフトウェアパッケージ管理|Managing 3rd Party Software Components with Software Bill of Materials|https://www.finna.fi/Record/trepo.10024_148790|
