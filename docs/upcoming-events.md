@@ -14,7 +14,7 @@
 5. 活動報告 Qiita Advent Calendarプロジェクトより
 
 **現地参加の方は、以下のリンクよりお申込みください。【申込締め切り：2月16日(金) 18:00】**  
-https://forms.office.com/pages/responsepage.aspx?id=JEbMcrQyq024CoVj5Vm9gsYcHJpNnldPpihTa52KrYVUQUVOOFJOS1ZYOUhRQkJLRklZOExTOElCMC4u  
+[https://forms.office.com/pages/responsepage.aspx?id=JEbMcrQyq024CoVj5Vm9gsYcHJpNnldPpihTa52KrYVUQUVOOFJOS1ZYOUhRQkJLRklZOExTOElCMC4u](https://forms.office.com/pages/responsepage.aspx?id=JEbMcrQyq024CoVj5Vm9gsYcHJpNnldPpihTa52KrYVUQUVOOFJOS1ZYOUhRQkJLRklZOExTOElCMC4u)  
 (定員40名のため早めに申し込みを締め切る可能性があります。ご了承ください。)
 
 
