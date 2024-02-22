@@ -6,6 +6,7 @@
   - リアル会場(real):
     - サイバートラスト @ 六本木
   - オンラインでも同時配信 / broadcast online at the same time
+    - https://zoom-lfx.platform.linuxfoundation.org/meeting/97400635609?password=1ff94859-9f7c-47fc-9fb3-7aa4b6594ed8
 
 1. オープニング
 2. 講演① 「SPDX membershipについて」
