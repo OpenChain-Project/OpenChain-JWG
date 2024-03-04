@@ -3,6 +3,15 @@
 </div>
 
 ## 全体会合の記録
+- **第30回会合/第5回ハイブリッド会合** 2024年2月28日(水)  
+場所: サイバートラスト(東京 六本木) または lfx Zoom  
+[&#x1f4da; 全体会合紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240228/OpenChainJapan%E7%AC%AC29%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88%E6%A1%88%E5%86%85.pdf)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240228/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20240228a.pptx)  
+[&#x1f4da; SPDX Membershipについて](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240228/)  
+[&#x1f4da; How we navigate an open source compliance and
+contribution in a semiconductor company](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240228/OpenChain_Japan_WG_30th_mtg_SSS_OSPO_presentation.pdf)  
+[&#x1f4da; QiitaAdvent Calendarプロジェクト～活動報告と勝手にアワード～](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240228/)  
+
 - **第29回会合/第4回ハイブリッド会合** 2023年10月5日(木)  
 場所: 株式会社ソシオネクスト(京都 丹波口) または Zoom  
 [&#x1f4da; 全体会合紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20231005/OpenChainJapan%E7%AC%AC29%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88%E6%A1%88%E5%86%85.pdf)  
