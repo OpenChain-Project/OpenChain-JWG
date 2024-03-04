@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 30th meeting / The 5th Hybrid meeting** was held on February. 28, 2024  
+Venue: Cybertrust Japan Co., Ltd. (Roppongi, Tokyo) and LFX Zoom  
+
 - **The 29th meeting / The 4th Hybrid meeting** was held on October. 5, 2023  
 Venue: Socionext Inc. (Tamba-guchi, Kyoto) and Zoom  
 
