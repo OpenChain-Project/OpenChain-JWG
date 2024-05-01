@@ -1,5 +1,7 @@
 |カテゴリ|日本語概要|英語概要|URL|
 |:------|:---------|:------------|:------|
+| SBOM Tool Catalog |　SBOM Everywhere (Website)　|　SBOM Everywhere　| https://sbom-catalog.openssf.org/　 | 
+| SBOM Tool Catalog |　SBOM Everywhere (GitHub)　|　SBOM Everywhere　| https://github.com/ossf/sbom-everywhere|
 | 経済産業省　手引書 |　「ソフトウェア管理に向けたSBOMの導入に関する手引Ver2.0（案）」　|　　|　https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_bunyaodan/software/012.html | 
 | SBOM仕様 |　CycloneDX 1.6リリース |　CycloneDX 1.6 release　|　https://cyclonedx.org/news/cyclonedx-v1.6-released/ | 
 |論文|　"Automating SBOM Generation with Zero-Shot Semantic Similarity" |　"Automating SBOM Generation with Zero-Shot Semantic Similarity" / We propose a different route, an automated method for generating SBOMs to prevent disastrous supply-chain attacks. Remaining on the topic of static code analysis, we interpret this problem as a semantic similarity task wherein a transformer model can be trained to relate a product name to corresponding version strings. Our test results are compelling, demonstrating the model's strong performance in the zero-shot classification task, further demonstrating the potential for use in a real-world cybersecurity context.　|　https://arxiv.org/abs/2403.08799 |
