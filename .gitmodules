@@ -1,0 +1,3 @@
+[submodule "subgroups/sbom-sg/outcomes/SBOM/Translation/SPDXv3.0/en"]
+	path = subgroups/sbom-sg/outcomes/SBOM/Translation/SPDXv3.0/en
+	url = https://github.com/spdx/spdx-spec
