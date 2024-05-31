@@ -1,6 +1,30 @@
 #### The 31st meeting / The 6th hybrid meeting
 
-サイバートラストさん@六本木で2月28日に開催された第30回全体会合は無事終了しました。直接会場に足を運んでくださった皆さま、オンラインで視聴してくださった皆さま、ありがとうございました。次回は5月か6月に、東京近郊での開催を予定しております。お楽しみに！/ The 30th All Member Meeting held on February 28 at Cybertrust @ Roppongi was a success. Thank you to everyone who came to the meeting in person and to those who watched online. The next meeting will be held in May or June in the Tokyo area. Please look forward to it!
+- 日時 / Date and Time:
+  - 2024年6月27日(水) 13:30-17:15 / June 27, 2024 13:30-17:15(JST)
+- 場所 / Location
+  - リアル会場(real):
+    - キオクシア株式会社本社(田町ステーションタワーS 10階)
+    - https://www.kioxia.com/ja-jp/about/about-us.html#anc02
+  - オンラインでも同時配信 / broadcast online at the same time
+    - https://zoom-lfx.platform.linuxfoundation.org/meeting/97763982708?password=b8af8519-8834-4c5f-a6a0-63fba44b8143
 
+1. オープニング
+2. メインセッション① - 日本企業におけるOSPOの事例 -
+3. メインセッション② - 会場参加者によるBOF -
+4. メインセッション③ - 他社はどうやってる？帰ってきたOSPOライトニングトーク -
+
+**現地参加の方は、以下のリンクよりお申込みください。**
+[https://web.cvent.com/event/c4786b38-36ab-46a6-ac0b-e047a2cb3e6e/summary?i=SSB2eBRsE0-KgPkudbjcSA&locale=en-US&tm=eLtNqxPy-6hjAlyuAifk_NjP68eol0KsS5ZmgMgBWUg&rp=A09A6F67-36B3-44E9-B809-99976BE76EB0](https://web.cvent.com/event/c4786b38-36ab-46a6-ac0b-e047a2cb3e6e/summary?i=SSB2eBRsE0-KgPkudbjcSA&locale=en-US&tm=eLtNqxPy-6hjAlyuAifk_NjP68eol0KsS5ZmgMgBWUg&rp=A09A6F67-36B3-44E9-B809-99976BE76EB0)
+
+#### The 32nd meeting / The 7th hybrid meeting
+
+私たちにしては珍しく次々回の予定まで決まっています。ダイキンさんは大阪の会社ですので、大阪での開催になるのは間違いありません。関西の会社にお勤めの皆さま、ぜひ現地に足を運んでください！
+
+- 日時 / Date and Time:
+  - 2024年10月17日(水) （時間は未定） / October 17, 2024
+- 場所 / Location
+  - リアル会場(real):
+    - ダイキン工業株式会社
 
 *`looking for past meeting logs?`* → [日本語/Japanese](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes.html), [英語/English](https://openchain-project.github.io/OpenChain-JWG/meeting-minutes_en.html)  
