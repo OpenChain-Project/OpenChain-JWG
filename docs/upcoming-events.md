@@ -1,21 +1,21 @@
 #### 今後のイベント予定 / Upcoming Events  
-|日時|イベント|場所|オンライン|備考|
-|:--|:--|:--|:--|:--|
-|2024/06/14|OSPOサブグループ　Local Meetup|なし|○||
-|2024/06/19|FAQサブグループ会合|なし|○||
+|日時|イベント|場所|オンライン|備考|　　
+|:--|:--|:--|:--|:--|　　
+|2024/06/14|OSPOサブグループ　Local Meetup|なし|○|　|　　
+|2024/06/19|FAQサブグループ会合|なし|○|　|　　
 |2024/06/27|**第３１回全体会合**|田町|○|[詳細](#the-31st-meeting--the-6th-hybrid-meeting)|  
-|2024/06/28|OSPOサブグループ Local Meetup　(Co-located Event)|田町|○| |  
+|2024/06/28|OSPOサブグループ Local Meetup　(Co-located Event)|田町|○|　|  
 |2024/10/17|**第３2回全体会合**|大阪|○|[詳細](#the-32nd-meeting--the-7th-hybrid-meeting)|  
-|2024/10/18|OSPOサブグループ Local Meetup, FAQサブグループ会合 (Co-located Event)|大阪|○| |  
+|2024/10/18|OSPOサブグループ Local Meetup, FAQサブグループ会合 (Co-located Event)|大阪|○|　|  
 
-|Day|Event|Venue|Online|Remarks|
-|:--|:--|:--|:--|:--|
-|2024/06/14|OSPO-sg Local Meetup|n/a|○||
-|2024/06/19|FAQ-sg Meeting|n/a|○||
+|Day|Event|Venue|Online|Remarks|　　
+|:--|:--|:--|:--|:--|　　
+|2024/06/14|OSPO-sg Local Meetup|n/a|○|　|　　
+|2024/06/19|FAQ-sg Meeting|n/a|○|　|　　
 |2024/06/27|**The 31st All Member Meeting**|Tokyo|○|[Detail](#the-31st-meeting--the-6th-hybrid-meeting)|  
-|2024/06/28|OSPO-sg Local Meetup (Co-located Event)|Tokyo|○| |  
+|2024/06/28|OSPO-sg Local Meetup (Co-located Event)|Tokyo|○|　|  
 |2024/10/17|**The 32nd All Member Meeting**|Osaka|○|[Detail](#the-32nd-meeting--the-7th-hybrid-meeting)|  
-|2024/10/18|OSPO-sg Local Meetup, FAQ-sg Meeting (Co-located Event)|Osaka|○| |  
+|2024/10/18|OSPO-sg Local Meetup, FAQ-sg Meeting (Co-located Event)|Osaka|○|　|  
 
 #### The 31st meeting / The 6th hybrid meeting
 
