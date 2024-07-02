@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 31st meeting / The 6th Hybrid meeting** was held on June. 27, 2024  
+Venue: KIOXIA (Tamachi, Tokyo) and LFX Zoom  
+
 - **The 30th meeting / The 5th Hybrid meeting** was held on February. 28, 2024  
 Venue: Cybertrust Japan Co., Ltd. (Roppongi, Tokyo) and LFX Zoom  
 
