@@ -4,7 +4,14 @@
 
 ## 全体会合の記録
 - **第31回会合/第6回ハイブリッド会合** 2024年6月27日(木)  
-場所: キオクシア(田町) または lfx Zoom  
+場所: キオクシア株式会社(東京 田町) または lfx Zoom  
+[&#x1f4da; 全体会合紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/OpenChainJapan%E7%AC%AC31%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88%E6%A1%88%E5%86%85.pdf)  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/%E7%AC%AC31%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88_%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pptx)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20240627.pptx)  
+[&#x1f4da; サイボウズのOSPO](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/%E3%82%B5%E3%82%A4%E3%83%9C%E3%82%A6%E3%82%BA%E3%81%AEOSPO.pdf)  
+[&#x1f4da; 現地で体験！オープンソースイベント参加のメリット (BOF)](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/%E7%AC%AC31%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88_%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E2%91%A1%E6%8A%95%E5%BD%B1%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pptx)  
+[&#x1f4da; Open Source Summit 参加のメリット](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/%E3%80%90%E5%85%AC%E9%96%8B%E3%80%91Open%20Source%20Summit%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6.pdf)  
+[&#x1f4f7; 写真/Photos](https://github.com/OpenChain-Project/OpenChain-JWG/tree/master/Meeting-Materials/All-Member-Meeting/20240619/photos)  
 
 - **第30回会合/第5回ハイブリッド会合** 2024年2月28日(水)  
 場所: サイバートラスト(東京 六本木) または lfx Zoom  
