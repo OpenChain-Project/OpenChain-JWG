@@ -3,6 +3,9 @@
 </div>
 
 ## 全体会合の記録
+- **第31回会合/第6回ハイブリッド会合** 2024年10月17日(木)  
+場所: ダイキン工業株式会社(大阪 梅田) または lfx Zoom  
+
 - **第31回会合/第6回ハイブリッド会合** 2024年6月27日(木)  
 場所: キオクシア株式会社(東京 田町) または lfx Zoom  
 [&#x1f4da; 全体会合紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20240619/OpenChainJapan%E7%AC%AC31%E5%9B%9E%E5%85%A8%E4%BD%93%E4%BC%9A%E5%90%88%E6%A1%88%E5%86%85.pdf)  
