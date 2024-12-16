@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 32nd meeting / The 6th Hybrid meeting** was held on October. 17, 2024  
+Venue: Daikin Insustries (Umeda, Osaka) and LFX Zoom  
+
 - **The 31st meeting / The 6th Hybrid meeting** was held on June. 27, 2024  
 Venue: KIOXIA (Tamachi, Tokyo) and LFX Zoom  
 
