@@ -10,6 +10,7 @@
 &#x1f3a5; 録画（ちょっと待ってね）  
 [&#x1f4da; 基調講演（OpenChain 最新動向）](https://openchainproject.org/news/2024/10/17/openchain-japan-community-day-2024-10-17-keynote-slides)  
 [&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/d95e14729bea1d905638df6bc695f651cf58a2a2/Meeting-Materials/All-Member-Meeting/20241017/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20241017.pptx)  
+[&#x1f4da; OpenChain自己認証事例紹介 -HondaのSDVについて-](https://github.com/OpenChain-Project/OpenChain-JWG/blob/1da5bf81fad58565077c40ae4e3c250d39b167e1/Meeting-Materials/All-Member-Meeting/20241017/241017_Honda_%E8%87%AA%E5%B7%B1%E8%AA%8D%E8%A8%BC%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B_fin.pdf)  
 [&#x1f4da; SBOM最新動向](https://github.com/OpenChain-Project/OpenChain-JWG/blob/d95e14729bea1d905638df6bc695f651cf58a2a2/Meeting-Materials/All-Member-Meeting/20241017/OpenChain-Japan-SBOM-sg-20241017.pdf)  
 
 - **第31回会合/第6回ハイブリッド会合** 2024年6月27日(木)  
