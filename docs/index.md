@@ -4,9 +4,11 @@
 
 ## &#x1f4c5; 今後のイベント
 
-### 全体会合  
-
 {% include_relative upcoming-events.md %}  
+
+### Community Day（全体会合）  
+
+{% include_relative upcoming-cds.md %}  
 
 ### サブグループ会合  
 
