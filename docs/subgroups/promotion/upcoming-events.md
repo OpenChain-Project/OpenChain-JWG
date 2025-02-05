@@ -7,6 +7,8 @@
 **[OSS compliance survey](https://openchain-project.github.io/OpenChain-JWG/subgroups/promotion/survey-20200618_en)**  
 - Article  
   - Both Japanese and English  
+**[Advent Calendar 2024](https://qiita.com/advent-calendar/2024/openchainjapanwg)**  
+**[Advent Calendar 2023](https://qiita.com/advent-calendar/2023/openchainjapanwg)**  
 **[Advent Calendar 2022](https://qiita.com/advent-calendar/2022/openchainjapanwg)**  
 **[Advent Calendar 2021](https://qiita.com/advent-calendar/2021/openchainjapanwg)**  
 **[Advent Calendar 2020](https://qiita.com/advent-calendar/2020/openchainjapanwg)**  
