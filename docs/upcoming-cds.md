@@ -4,10 +4,10 @@
 
 - 日時 / Date and Time:
   - 2025年3月3日(月) 午後 / Mar 3, 2025 afternoon(JST)
--- 場所 / Location
+- 場所 / Location
   - リアル会場(real):
     - トヨタ自動車 大手町オフィス(大手町ビル6F)
-    - https://www.toyota-tokyo.tech/access/
+    - [https://www.toyota-tokyo.tech/access/](https://www.toyota-tokyo.tech/access/)
   - オンラインでも配信予定 / broadcast online at the same time
 
 
