@@ -48,7 +48,7 @@ This chapter inherits the [2. Terms and definitions from OpenChain Telco SBOM Gu
 This chapter inherits the [3. Requirements from OpenChain Telco SBOM Guide Version 1.1](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md#3-requirements). It lays out the fundamental requirements that must be met.
 
 ### 5. SBOM Quality Assessment and Improvement Measures  
-This chapter systematically organizes specific check items and resolutions for assessing and improving SBOM quality, based on issues discussed within the OpenChain SBOM SG. This item will be added using the [Appendix 2. Template for Chapter 5 Items](#appendix-2-template-for-chapter-5-items) and finilised after the review.
+This chapter systematically organizes specific check items and resolutions for assessing and improving SBOM quality, based on issues discussed within the OpenChain SBOM SG. This item will be added using the [Appendix 2. Template for Chapter 5 Items](#appendix-2-template-for-chapter-5-items) and finalized after the review.
 
 > **Note: Current items are from discussions within the SBOM subgroup.**  
 > Duplicate challenges derived from these discussions have been merged.  
