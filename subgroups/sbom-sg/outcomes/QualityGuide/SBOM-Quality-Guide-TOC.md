@@ -43,7 +43,22 @@
 
 > 文言を適切に選んで記載する必要があり、少し悩むかも知れないので短いですが1名アサインさせてください。  
 
-担当: []
+> おそらく内容が全部でそろってから改変が必要、とりあえずのドラフトです。
+
+担当: [田中の]
+
+本文書 "SBOM Quality Guide" は、サプライチェーンの中での関係者の共通理解を形成するためのドキュメントです。SBOMの標準化、正確性、透明性、及び自動化の可能性を高めるための改善策を提示します。
+
+サプライチェーンの関係者がソフトウェア部品表（SBOM：Software Bill of Materials）を作成・提供・利用する場合に共通課題となる点について改善策を提案することにより、SBOM流通時の障壁を取り除くための助けとなります。
+
+本ガイドは、本ガイドに適合するエンティティに対して、OpenChain （OpenChain Specificationのどのバージョンでも）を採用することを要求するものではありませんが、OpenChainを採用することが大いに推奨されることに留意ください。(Comment:この文必要?)
+
+このガイドは、ソフトウェアパッケージ、コンテナ、SaaS、組込みソフトウェアなど、あらゆるSBOM生成及び運用における対象プロセスに適応することを前提に記述されています。本ガイドが参照するのは個々のSBOMであり、SBOMを提供するエンティティではありません。
+本ガイドに沿ったSBOMを「SBOM Quality Guide Compatible」と呼ぶことができます。
+
+本ガイドの要件に一致するSBOMをリリースすることは、同じソフトウェアのSBOMを別の方法または形式で配信することを妨げるものではありません。
+
+本ガイドは Creative Commons Attribution License 4.0 (CC-BY-4.0)の下にライセンスされています。(Comment:＞ライセンスはこれでいい?)
 
 ### 2. 用語と定義  
 [OpenChain Telco SBOM Guide Version 1.1の 2.用語と定義](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_JP.md#2-%E7%94%A8%E8%AA%9E%E3%81%A8%E5%AE%9A%E7%BE%A9) を継承する。  
