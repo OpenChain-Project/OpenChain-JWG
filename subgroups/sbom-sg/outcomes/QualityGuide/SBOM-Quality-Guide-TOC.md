@@ -52,7 +52,7 @@
 
 > 主にCDXの説明追加。他にも必要な単語やフレーズがあれば適宜追加ください。1名。  
 
-担当: []  
+担当: [富田]  
 
 ### 3. 基本要求事項  
 [OpenChain Telco SBOM Guide Version 1.1の 3.要求要件](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_JP.md#3-%E8%A6%81%E6%B1%82%E8%A6%81%E4%BB%B6) を継承する。
@@ -84,7 +84,7 @@
 > ```OpenChain SBOM Quality Guide v1.0``` とドキュメント名を修正して記載
 > 分量も少ないので他を担当している方でも重複して担当可能  
 
-担当: []
+担当: [富田]
 
 ### 5. SBOM品質評価と改善策  
 本章では、OpenChain SBOM SG 内の議論で提起された課題に基づいて、SBOMの質を評価および改善する具体的なチェック項目と解決策を体系的に整理し、ベストプラクティスとして記載する。  
