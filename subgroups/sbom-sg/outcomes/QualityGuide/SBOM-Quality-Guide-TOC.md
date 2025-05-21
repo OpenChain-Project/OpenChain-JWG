@@ -94,13 +94,14 @@
 担当: [], []  
 
 ### 4. 適合通知  
+<!--
 [OpenChain Telco SBOM Guide Version 1.1の 4. 適合通知](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_JP.md#4-%E9%81%A9%E5%90%88%E9%80%9A%E7%9F%A5) を継承。  
 
 > ```OpenChain SBOM Quality Guide v1.0``` とドキュメント名を修正して記載
 > 分量も少ないので他を担当している方でも重複して担当可能  
 
 担当: [富田]
-
+-->
 ### 5. SBOM品質評価と改善策  
 本章では、OpenChain SBOM SG 内の議論で提起された課題に基づいて、SBOMの質を評価および改善する具体的なチェック項目と解決策を体系的に整理し、ベストプラクティスとして記載する。  
 [5章の項目記載用テンプレート](#appendix-2-5章の項目記載用テンプレート) を用いて追加する。  
