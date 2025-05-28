@@ -27,8 +27,8 @@ Mailing list: https://lists.openchainproject.org/g/sbom
 6. [Guide Administration and Management](#6-guide-administration-and-management)
 7. [References and Related Documents](#7-references-and-related-documents)  
 
-Appendix-1. [SBOM Sample](#appendix-1-sbom-sample)
-Appendix-2. [Template for Documenting Each Best Practice at Chapter 5](#appendix-2-template-for-quality-evaluation-items-chapter-5)
+Appendix-1. [SBOM Sample](#appendix-1-sbom-sample)  
+Appendix-2. [Template for Documenting Each Best Practice at Chapter 5](#appendix-2-template-for-quality-evaluation-items-chapter-5)  
 
 ---
 ## 0. Preface
