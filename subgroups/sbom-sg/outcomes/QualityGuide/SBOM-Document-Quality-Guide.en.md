@@ -45,14 +45,13 @@ Key differences between the two documents include:
 
 ## 1. Scope
 
-This document “OpenChain SBOM Document Quality Guide” aims to outline certain requirements related to how an entity creates, delivers, and consumes a Software Bill of Materials (SBOM). Its goal is to ensure that entities producing or consuming conformant SBOMs have repeatable processes and streamlined tools.  
-*Note:* This guide does not require a conforming entity to adopt OpenChain (in any version), though doing so is greatly encouraged.
+This document “OpenChain SBOM Document Quality Guide” aims to outline certain requirements related to how an entity creates, delivers, and consumes Software Bill of Materials (SBOM), so that entities that produce and/or consume SBOMs that conform to this guide can ensure repeatability and streamlining of tools and processes for generating and consuming SBOMs. *Please Note* that this guide does not require a conforming entity to adopt OpenChain (in any version) but doing so is greatly encouraged.
 
-The guide is applied at the per SBOM level: an entity may use it as its sole means of delivering SBOMs; however, it is the individual SBOM that is in scope - not the entity itself. An SBOM compliant with this guide may be referred to as “OpenChain SBOM Document Quality Guide Compatible.”
+This guide is designed to work on a per SBOM level: an entity can use it as its sole way of delivering SBOMs but it is the individual SBOM that the guide refers to, not the entity that provides the SBOM. An SBOM using this guide can be called “OpenChain SBOM Document Quality Guide Compatible.”
 
-Releasing SBOMs that meet the requirements outlined in this guide does not preclude the delivery of SBOMs for the same software in alternative ways or formats.
+Releasing SBOMs that match the requirements outlined in this guide does not preclude an entity from also delivering SBOMs for the same software in alternate ways or formats.
 
-This guide is licensed under the [Creative Commons Attribution License 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
+This guide is licensed under [Creative Commons Attribution License 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
