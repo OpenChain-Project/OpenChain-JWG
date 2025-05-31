@@ -45,9 +45,14 @@ Key differences between the two documents include:
 
 ## 1. Scope
 
-This document “OpenChain SBOM Document Quality Guide” aims to outline certain requirements related to how an entity creates, delivers, and consumes Software Bill of Materials (SBOM), so that entities that produce and/or consume SBOMs that conform to this guide can ensure repeatability and streamlining of tools and processes for generating and consuming SBOMs. *Please Note* that this guide does not require a conforming entity to adopt OpenChain (in any version) but doing so is greatly encouraged.
+This document “OpenChain SBOM Document Quality Guide”is intended to form a common understanding among stakeholders in the supply chain. It presents improvements to improve the standardization, accuracy, transparency, and automation potential of SBOM.
 
-This guide is designed to work on a per SBOM level: an entity can use it as its sole way of delivering SBOMs but it is the individual SBOM that the guide refers to, not the entity that provides the SBOM. An SBOM using this guide can be called “OpenChain SBOM Document Quality Guide Compatible.”
+It helps to remove barriers in the distribution of software bills of materials (SBOM) by proposing improvements to common issues when the parties involved in the supply chain create, provide and use them.
+
+*Please Note* that this guide does not require a conforming entity to adopt OpenChain (in any version) but doing so is greatly encouraged.
+
+This guide is intended for all SBOM generation and operation target processes, including software packages, containers, SaaS, and embedded software. This guide refers to individual SBOMs, not the entities that provide them.
+An SBOM using this guide can be called “OpenChain SBOM Document Quality Guide Compatible.”
 
 Releasing SBOMs that match the requirements outlined in this guide does not preclude an entity from also delivering SBOMs for the same software in alternate ways or formats.
 
