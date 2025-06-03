@@ -478,13 +478,13 @@ SPDX 及び CycloneDX の仕様に詳しい人々にレビューをしてもら�
 「5.2 コンポーネント粒度の標準化と正規化」の評価方法で記述した、コンポーネントの粒度の違いについて実際の交換用フォーマット仕様で判別可能かを確認した。
 
 - SPDX 2.3
-relationshipsで、relationshipTypeがDEPENDS_ONやDEPENDENCY_OFになっているspdxElementIdとrelatedSpdxElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
+-- relationshipsで、relationshipTypeがDEPENDS_ONやDEPENDENCY_OFになっているspdxElementIdとrelatedSpdxElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
 
 - SPDX 3.0.1
-RelationshipクラスのfromとtoにあるElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
+-- RelationshipクラスのfromとtoにあるElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
 
 - CycloneDX 1.6
-dependenciesのrefとdependsOnに記述するbom-refのelment idからコンポーネントがパッケージかファイルかの判別ができる。
+-- dependenciesのrefとdependsOnに記述するbom-refのelment idからコンポーネントがパッケージかファイルかの判別ができる。
 
 ##### Appendix-1.2.2. サンプル
 
