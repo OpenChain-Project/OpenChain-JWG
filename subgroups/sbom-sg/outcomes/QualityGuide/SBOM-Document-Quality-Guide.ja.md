@@ -473,6 +473,8 @@ SPDX 及び CycloneDX の仕様に詳しい人々にレビューをしてもら�
 
 #### Appendix-1.2. コンポーネント粒度の標準化と正規化
 
+「5.2 コンポーネント粒度の標準化と正規化」の評価方法で記述した、コンポーネントの粒度の違いについて実際の交換用フォーマット仕様で判別可能かを確認した。
+
 ##### Appendix-1.2.1. SPDX 2.3
 relationshipsで、relationshipTypeがDEPENDS_ONやDEPENDENCY_OFになっているspdxElementIdとrelatedSpdxElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
 
