@@ -471,15 +471,15 @@ SBOM提供者は、使用する解析ツールの最新安定版やLTS情報、�
 必要な場合、仕様上正しく、また実際に企業などで利用されている、値の内容まで含めた、JSON Formatで記述されたSBOMのサンプルファイルを記載する。  
 SPDX 及び CycloneDX の仕様に詳しい人々にレビューをしてもらう必要がある。  
 
-#### Appendix-1.1. コンポーネント粒度の標準化と正規化
+#### Appendix-1.2. コンポーネント粒度の標準化と正規化
 
-##### Appendix-1.1.1. SPDX 2.3
+##### Appendix-1.2.1. SPDX 2.3
 relationshipsで、relationshipTypeがDEPENDS_ONやDEPENDENCY_OFになっているspdxElementIdとrelatedSpdxElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
 
-##### Appendix-1.1.2. SPDX 3.0.1
+##### Appendix-1.2.2. SPDX 3.0.1
 RelationshipクラスのfromとtoにあるElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
 
-##### Appendix-1.1.3. CycloneDX 1.6
+##### Appendix-1.2.3. CycloneDX 1.6
 dependenciesのrefとdependsOnに記述するbom-refのelment idからコンポーネントがパッケージかファイルかの判別ができる。
 
 
