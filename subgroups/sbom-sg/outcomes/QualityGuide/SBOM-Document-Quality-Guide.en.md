@@ -373,18 +373,22 @@ For example, the two SBOMs below use different package names - one as 'hello' an
 Although verifying that these represent the same package is possible by comparing, for instance, their PURLs, the fact that different tools may write different values for the same key frequently leads to confusion and poses challenges to the smooth operation of SBOM management.  
 
 #### 5.1.3 Improvement Measures  
-- Establish and disseminate unified naming conventions based on industry standards or internal guidelines, including concrete examples (such as regular expression format examples).  
-- Deploy automated verification tools to assess whether package names, version numbers, and supplier details comply with the set standards.  
-- Set up periodic reviews and feedback loops among stakeholders to refine and update the naming guidelines.
+- Organizations involved in the software supply chain shall agree to document values - such as purl - that uniquely identify a package.  
+- A standardized notation rule based on industry standards or internal guidelines shall be formulated, and concrete examples (e.g., format examples using regular expressions) shall be widely shared among the organizations involved in the software supply chain.  
+- Verification tools shall be shared among the organizations in the software supply chain, and a mechanism shall be established to check whether the following items - crucial for package identification and prone to inconsistent notation—comply with the established rules:  
+  - Package name  
+  - Package version  
+  - Package supplier name  
+  - Package source  
+  - Presence of purl  
 
 #### 5.1.4 Evaluation Methods  
-- Quantitatively monitor rule violation counts (errors or deviations) using automated checkers before and after guideline implementation.  
-- Conduct random sampling of SBOM entries to manually verify adherence to the naming conventions.  
-- Gather qualitative feedback from internal users regarding improvements in consistency and clarity.
+- Randomly check whether each documented item adheres to the standardized notation rules, and evaluate the compliance rate.  
 
 #### 5.1.5 Risks and Considerations  
-- Automated tools might not capture all edge cases or exceptions in naming.  
-- Updates to naming guidelines may induce short-term confusion if not clearly communicated and documented.
+- If the documentation rules are inadequately defined or overly complex, there is a risk of misclassification due to incomplete handling of exceptional cases or unique notations.
+- If the rules deviate from actual operational practices, there is a risk of misclassification resulting from either insufficient or excessively stringent checks.
+- It should be noted that complete automation of tools and processes is challenging; therefore, final checks and exception handling will require manual review.  
 
 ### 5.2 Standardization and Normalization of Component Granularity
 
