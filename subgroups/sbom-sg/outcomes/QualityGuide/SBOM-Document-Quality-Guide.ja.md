@@ -353,6 +353,92 @@ SBOMの信頼性と改ざん耐性を確保するために、以下の改善策�
 ##### 5.8.3. 改善策
 - 一般的な関係性について、標準となる表記を提案し、表記のブレが少なくなることを促す
 - 等価な関係性表記を標準的な表記に置き換えるツールや複数の関係性に使われる表記を見つけるツールを用意する
+- 標準となる表記の提案 [SPDX / CycloneDX]
+  - コンポーネントの現在の状態を記述するもの
+    - contains/composition-assemblies：～を含む（構成される）
+    - dependsOn/composition-dependencies：～に依存する（を必要とする）
+  - コンポーネントの由来を記述するもの
+    - generatedFrom*：components-pedigree：～生成された（複製された、改変された、ビルドされた）[* SPDX のVocabulariesには存在しない]
+- 【参考１】[SPDX Specification Version 3.0.1 relationshipType](https://spdx.github.io/spdx-spec/v3.0.1/model/Core/Vocabularies/RelationshipType/)分類
+  - コンポーネントの現在の状態を記述するもの
+    - ～を含む（構成される）
+      - contains: The from Element contains each to Element.
+      - expandsTo: The from archive expands out as an artifact described by each to Element.
+    - ～に依存する（を必要とする）
+      - dependsOn: The from Element depends on each to Element, during a LifecycleScopeType period.
+      - hasDynamicLink: The from Element dynamically links in each to Element, during a LifecycleScopeType period.
+      - hasOptionalDependency: The from Element optionally depends on each to Element, during a LifecycleScopeType period.
+      - hasProvidedDependency: The from Element has a dependency on each to Element, dependency is not in the distributed artifact, but assumed to be provided, during a LifecycleScopeType period.
+      - hasStaticLink: The from Element statically links in each to Element, during a LifecycleScopeType period.
+      - invokedBy: The from Element was invoked by the to Agent, during a LifecycleScopeType period (for example, a Build element that describes a build step).
+    - その他の状態
+      - hasConcludedLicense: The from SoftwareArtifact is concluded by the SPDX data creator to be governed by each to license.
+      - hasDeclaredLicense: The from SoftwareArtifact was discovered to actually contain each to license, for example as detected by use of automated tooling.
+      - hasDependencyManifest: The from Element has manifest files that contain dependency information in each to Element.
+      - hasDistributionArtifact: The from Element is distributed as an artifact in each to Element (e.g. an RPM or archive file).
+      - hasDocumentation: The from Element is documented by each to Element.
+      - hasMetadata: Every to Element is metadata about the from Element (from hasMetadata to).
+      - hasOptionalComponent: Every to Element is an optional component of the from Element (from         - hasOptionalComponent to).
+      - hasPrerequisite: The from Element has a prerequisite on each to Element, during a LifecycleScopeType period.
+      - hasRequirement: The from Element has a requirement on each to Element, during a LifecycleScopeType period.
+      - hasSpecification: Every to Element is a specification for the from Element (from hasSpecification to), during a LifecycleScopeType period.
+  - コンポーネントの由来を記述するもの
+    - ～生成された（複製された、改変された、ビルドされた）
+      - amendedBy: The from Element is amended by each to Element.
+      - availableFrom: The from Element is available from the additional supplier described by each to Element.
+      - configures: The from Element is a configuration applied to each to Element, during a LifecycleScopeType period.
+      - coordinatedBy: The from Vulnerability is coordinatedBy the to Agent(s) (vendor, researcher, or consumer agent).
+      - copiedTo: The from Element has been copied to each to Element.
+      - delegatedTo: The from Agent is delegating an action to the Agent of the to Relationship (which must be of type invokedBy), during a LifecycleScopeType (e.g. the to invokedBy Relationship is being done on behalf of from).
+      - generates: The from Element generates each to Element.
+      - hasInput: The from Build has each to Element as an input, during a LifecycleScopeType period.
+      - hasOutput: The from Build element generates each to Element as an output, during a LifecycleScopeType period.
+      - hasVariant: Every to Element is a variant the from Element (from hasVariant to).
+      - packagedBy: Every to Element is a packaged instance of the from Element (from packagedBy to).
+      - patchedBy: Every to Element is a patch for the from Element (from patchedBy to).
+    - ～と加工された
+      - hasAddedFile: Every to Element is a file added to the from Element (from hasAddedFile to).
+      - hasDeletedFile: Every to Element is a file deleted from the from Element (from hasDeletedFile to).
+    - 生成・加工の環境
+      - hasHost: The from Build was run on the to Element during a LifecycleScopeType period (e.g. the host that the build runs on).
+      - hasTest: Every to Element is a test artifact for the from Element (from hasTest to), during a LifecycleScopeType period.
+      - hasTestCase: Every to Element is a test case for the from Element (from hasTestCase to).
+      - modifiedBy: The from Element is modified by each to Element.
+      - testedOn: The from Element has been tested on the to Element(s).
+      - trainedOn: The from Element has been trained on the to Element(s).
+      - usesTool: The from Element uses each to Element as a tool, during a LifecycleScopeType period.
+  - 脆弱性関連
+      - affects: The from Vulnerability affects each to Element. The use of the affects type is constrained to VexAffectedVulnAssessmentRelationship classed relationships.
+      - doesNotAffect: The from Vulnerability has no impact on each to Element. The use of the doesNotAffect is constrained to VexNotAffectedVulnAssessmentRelationship classed relationships.
+      - exploitCreatedBy: The from Vulnerability has had an exploit created against it by each to Agent.
+      - fixedBy: Designates a from Vulnerability has been fixed by the to Agent(s).
+      - fixedIn: A from Vulnerability has been fixed in each to Element. The use of the fixedIn type is constrained to VexFixedVulnAssessmentRelationship classed relationships.
+      - foundBy: Designates a from Vulnerability was originally discovered by the to Agent(s).
+      - hasAssessmentFor: Relates a from Vulnerability and each to Element with a security assessment. To be used with VulnAssessmentRelationship types.
+      - hasAssociatedVulnerability: Used to associate a from Artifact with each to Vulnerability.
+      - publishedBy: Designates a from Vulnerability was made available for public use or reference by each to Agent.
+      - reportedBy: Designates a from Vulnerability was first reported to a project, vendor, or tracking database for formal identification by each to Agent.
+      - republishedBy: Designates a from Vulnerability's details were tracked, aggregated, and/or enriched to improve context (i.e. NVD) by each to Agent.
+      - underInvestigationFor: The from Vulnerability impact is being investigated for each to Element. The use of the underInvestigationFor type is constrained to VexUnderInvestigationVulnAssessmentRelationship classed relationships.
+  - 未分類
+      - ancestorOf: The from Element is an ancestor of each to Element.
+      - descendantOf: The from Element is a descendant of each to Element.
+      - describes: The from Element describes each to Element. To denote the root(s) of a tree of elements in a collection, the rootElement property should be used.
+      - hasDataFile: The from Element treats each to Element as a data file. A data file is an artifact that stores data required or optional for the from Element's functionality. A data file can be a database file, an index file, a log file, an AI model file, a calibration data file, a temporary file, a backup file, and more. For AI training dataset, test dataset, test artifact, configuration data, build input data, and build output data, please consider using the more specific relationship types: trainedOn, testedOn, hasTest, configures, hasInput, and hasOutput, respectively. This relationship does not imply dependency.
+      - hasEvidence: Every to Element is considered as evidence for the from Element (from hasEvidence to).
+      - hasExample: Every to Element is an example for the from Element (from hasExample to).
+      - other: Every to Element is related to the from Element where the relationship type is not described by any of the SPDX relationship types (this relationship is directionless).
+      - serializedInArtifact: The from SpdxDocument can be found in a serialized form in each to Artifact.
+- 【参考２】[CycloneDX v1.6 JSON](https://cyclonedx.org/docs/1.6/json/)におけるコンポーネント間関係性の記載方法
+  - [componentsの中にcomponents](https://cyclonedx.org/docs/1.6/json/#components_items_components)を階層的に記述することで内部構造を示す
+  - [componentsの中のpedigree](https://cyclonedx.org/docs/1.6/json/#components_items_pedigree)によって、created, distributed, modified, redistributed, combined等を記述する
+  - components間の依存関係については、[dependencies](https://cyclonedx.org/docs/1.6/json/#dependencies)で記述する
+    - [記述例](https://cyclonedx.org/use-cases/compositions-dependencies/)
+  - もう一つのcomponents間の関係の記述方法として[composition](https://cyclonedx.org/docs/1.6/json/#compositions)がある
+    - compositionの中の[assemblies](https://cyclonedx.org/docs/1.6/json/#compositions_items_assemblies)によって構成要素の列挙や、[dependencies](https://cyclonedx.org/docs/1.6/json/#compositions_items_dependencies)によって依存関係を記述する
+    - assembliesやdependenciesの情報の完全性の状態を[aggregate](https://cyclonedx.org/docs/1.6/json/#compositions_items_aggregate)で示す
+    - [記述例](https://cyclonedx.org/use-cases/compositions-dependencies/)
+
 
 ##### 5.8.4. 評価方法
 - ツールによる修正量や検出量を評価指標とする
