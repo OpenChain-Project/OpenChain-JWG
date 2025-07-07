@@ -425,14 +425,14 @@ SBOMの信頼性と改ざん耐性を確保するために、以下の改善策�
 
 ##### 5.8.3. 改善策
 定義されている関係性を見ると、contains, depensOn, generatesなどの基本的な関係性を記述するものと、リンク形式や利用ツールを示すといった詳細な関係性や付加情報としての関係性を記述するものがある。
-そこで、関係性の記述のうち、次をPrimaryな関係性記述と定め、Primaryな関係性は必ずSBOMに記載することを提案する。
+そこで、関係性の記述のうち、次をPrimaryな関係性記述と定め、Primaryな関係性は必ずSBOMに記載することを推奨する。
 
 - Primaryな関係性の提案 [SPDX / CycloneDX]
   - コンポーネントの現在の状態を記述するもの
     - contains/composition-assemblies：～を含む（構成される）
     - dependsOn/composition-dependencies：～に依存する（を必要とする）
   - コンポーネントの由来を記述するもの
-    - generatedFrom*：components-pedigree：～生成された（複製された、改変された、ビルドされた）[* SPDX のVocabulariesには存在しない]
+    - generatedFrom*/components-pedigree：～生成された（複製された、改変された、ビルドされた）[* SPDX のVocabulariesには存在しない]
 
 これらのPrimaryな関係性を用いる事例を以下に示す。
 
