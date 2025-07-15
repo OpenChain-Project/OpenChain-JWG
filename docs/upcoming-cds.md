@@ -1,4 +1,4 @@
-#### The 33rd meeting / The 8th hybrid meeting (DAY1)
+#### The 34th meeting / The 9th hybrid meeting (DAY1)
 
 - 日時 / Date and Time:
   - 2025年7月31日(木) 13:30-17:00 / Jul 31, 2025 13:30-17:00(JST)
