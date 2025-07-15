@@ -3,11 +3,22 @@
 </div>
 
 ## 全体会合の記録
-- **第31回会合/第6回ハイブリッド会合** 2024年10月17日(木)  
+- **第33回会合/第8回ハイブリッド会合** 2025年3月3日(木)  
+場所: トヨタ自動車 大手町オフィス(大手町ビル6F) または lfx Zoom  
+[&#x1f4da; Community Day紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/OpenChain%20Japan%20Community%20Day%20vol_33.pdf)
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/Community%20Day_%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pptx)
+[&#x1f3a5; 録画](https://openchainproject.org/news/2025/03/03/openchain-japan-community-day-33)
+[&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/0303_%E3%83%88%E3%83%A8%E3%82%BFOSPO%E7%B4%B9%E4%BB%8B_final_re.pdf)
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/OpenChain_JWG%E7%B4%B9%E4%BB%8B.pptx)
+[&#x1f4da; トヨタのOSPO活動について](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/0303_%E3%83%88%E3%83%A8%E3%82%BFOSPO%E7%B4%B9%E4%BB%8B_final_re.pdf)
+[&#x1f4da; Project ESSTRA ソフトウェアの透明性とトレーサビリティを強化するソフトウェアスイート](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/20250303_OpenChainJapanCommunityDay_ESSTRA.pdf)
+[&#x1f4da; 自動車業界におけるSBOM -経産省SBOM実証事業より-](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BSBOM%20-%20%E7%B5%8C%E7%94%A3%E7%9C%81SBOM%E5%AE%9F%E8%A8%BC%E4%BA%8B%E6%A5%AD%E3%82%88%E3%82%8A%20%E2%80%93%20.pdf)
+
+- **第32回会合/第7回ハイブリッド会合** 2024年10月17日(木)  
 場所: ダイキン工業株式会社(大阪 梅田) または lfx Zoom  
 [&#x1f4da; Community Day紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/d95e14729bea1d905638df6bc695f651cf58a2a2/Meeting-Materials/All-Member-Meeting/20241017/OpenChain%20Japan%20Community%20Day%20vol_32%E9%96%8B%E5%82%AC%E6%A1%88%E5%86%85.pdf)  
 [&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/d95e14729bea1d905638df6bc695f651cf58a2a2/Meeting-Materials/All-Member-Meeting/20241017/Community%20Day%20vol32_%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89_FIX.pptx)  
-&#x1f3a5; 録画（ちょっと待ってね）  
+[&#x1f3a5; 録画](https://openchainproject.org/news/2024/10/17/openchain-japan-community-day-32)  
 [&#x1f4da; 基調講演（OpenChain 最新動向）](https://openchainproject.org/news/2024/10/17/openchain-japan-community-day-2024-10-17-keynote-slides)  
 [&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/d95e14729bea1d905638df6bc695f651cf58a2a2/Meeting-Materials/All-Member-Meeting/20241017/OpenChain_JWG%E7%B4%B9%E4%BB%8B-20241017.pptx)  
 [&#x1f4da; OpenChain自己認証事例紹介 -HondaのSDVについて-](https://github.com/OpenChain-Project/OpenChain-JWG/blob/1da5bf81fad58565077c40ae4e3c250d39b167e1/Meeting-Materials/All-Member-Meeting/20241017/241017_Honda_%E8%87%AA%E5%B7%B1%E8%AA%8D%E8%A8%BC%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B_fin.pdf)  
