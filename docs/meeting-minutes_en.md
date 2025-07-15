@@ -3,6 +3,9 @@
 </div>
 
 ## All Member Meetings
+- **The 33rd meeting / The 7th Hybrid meeting** was held on March. 3, 2025  
+Venue: TOYOTA (Otemachi, Tokyo) and LFX Zoom  
+
 - **The 32nd meeting / The 6th Hybrid meeting** was held on October. 17, 2024  
 Venue: Daikin Insustries (Umeda, Osaka) and LFX Zoom  
 
