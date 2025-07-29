@@ -14,7 +14,7 @@
 ## Members / メンバー
 
 - Team Lead / チームリード  
-Naomichi Shima (NEC Solution Innovators) / 島 直道 (NECソリューションイノベータ)    
+Naomichi Shima (Sony Group Corporation) / 島 直道 (ソニーグループ)  
 
 - Members / メンバー（五十音順）  
 Teppei Asaba / 浅羽 鉄平  
