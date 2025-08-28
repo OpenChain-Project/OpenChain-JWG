@@ -3,6 +3,27 @@
 </div>
 
 ## 全体会合の記録
+- **第34回会合/第9回ハイブリッド会合** 2025年7月31日(木)-8月1日(金)  
+場所: 三菱電機 Serendie Street Yokohama(みなとみらい) または lfx Zoom  
+[&#x1f4da; Community Day紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OpenChain%20Japan%20Community%20Day%20vol_34.pdf)  
+  - Day1 (7月31日(木))  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/Community%20Day_vol%2034%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pptx)  
+[&#x1f3a5; 録画](https://www.youtube.com/watch?v=pcFaFgFnavU&list=PL6JiK_-nebBfkpdTIPxoDBvhnkviNK270&index=14)  
+[&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/Shane-Keynote-OpenChain-Japan-Communiy-Day-34%20-%202025-07-31.pptx)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OpenChain_JWG%E7%B4%B9%E4%BB%8B.pptx)  
+[&#x1f4da; 三菱電機のOSPO活動紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F_OpenChain_202507CommunityDay_OSPO%E7%B4%B9%E4%BB%8B.pdf)  
+[&#x1f4da; Serendie®Design System](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/%E4%B8%89%E8%8F%B1%E9%9B%BB%E6%A9%9F_Serendie%20Design%20System%E7%B4%B9%E4%BB%8B20250731.pdf)  
+[&#x1f4da; オープンソースライセンス研究所うっかりミス防止研究会の活動紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OLL%E2%80%97OSS%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%86%E3%81%A3%E3%81%8B%E3%82%8A%E3%83%9F%E3%82%B9%E9%98%B2%E6%AD%A2%E7%A0%94%E7%A9%B6%E4%BC%9A_%E4%BA%8B%E4%BE%8B%E7%B4%B9%E4%BB%8B.pdf)  
+[&#x1f4da; オープンソースライセンス研究所 FAQ中国語版の紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OLL-FAQ%E9%9B%86_%E4%B8%AD%E5%9B%BD%E8%AA%9E%E7%89%88.pdf)  
+[&#x1f4da; Open Source Summit North America 2025 参加レポート](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OSSNA2025%20%E5%8F%82%E5%8A%A0%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.pptx)  
+  - Day2 (8月1日(金))  
+[&#x1f3a5; 録画](https://www.youtube.com/watch?v=3wK9Oh4Xtv8&list=PL6JiK_-nebBfkpdTIPxoDBvhnkviNK270&index=15)  
+[&#x1f4da; 基調講演（OpenChain 最新動向）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/Shane-Keynote-OpenChain-Japan-Communiy-Day-34%20-%202025-07-31.pptx)  
+[&#x1f4da; はじめに](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OpenChain_JWG%E7%B4%B9%E4%BB%8B_day2.pdf)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OpenChain_JWG%E7%B4%B9%E4%BB%8B.pptx)  
+[&#x1f4da; 初学者向けオープンソースソフトウェアコンプライアンス教育](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E3%81%91%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%E6%95%99%E8%82%B2.pdf) [（pptx版）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/%E5%88%9D%E5%AD%A6%E8%80%85%E5%90%91%E3%81%91%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%E6%95%99%E8%82%B2.pptx)  
+[&#x1f4da; 締め（オープンレビュー）](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OpenChainJapanCommunityDay2%E7%B7%A0%E3%82%81.pdf)  
+
 - **第33回会合/第8回ハイブリッド会合** 2025年3月3日(木)  
 場所: トヨタ自動車 大手町オフィス(大手町ビル6F) または lfx Zoom  
 [&#x1f4da; Community Day紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250303/OpenChain%20Japan%20Community%20Day%20vol_33.pdf)  
