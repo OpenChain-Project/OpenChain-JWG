@@ -698,8 +698,9 @@ SPDX 及び CycloneDX の仕様に詳しい人々にレビューをしてもら�
   - RelationshipクラスのfromとtoにあるElementのSPDXIDからそのコンポーネントがパッケージかファイルかの判別ができる。
 
 - CycloneDX 1.6
-  - dependenciesのrefとdependsOnに記述するbom-refのelment idからコンポーネントがパッケージかファイルかの判別ができる。
-
+  - componentやcomponentsにpurlが存在するかで判断できるが、purlエントリーはRequiredではないので、存在しない場合には判断方法は不明。
+  - typeに"file"という種別はあるが、コンポーネントの粒度としての"file"という意味ではない。
+  
 ##### Appendix-1.2.2. サンプル
 
 > パッケージとファイルの依存関係それぞれのサンプルが必要か?
@@ -724,6 +725,11 @@ SPDX 及び CycloneDX の仕様に詳しい人々にレビューをしてもら�
 
 - CycloneDX 1.6
 
+|||MakerがUserに提供するSBOM|MakerがUserに提供するSBOM|
+|-|-|-|-|
+||コンポーネントの単位|[ファイル](https://github.com/no-ta/public-sandbox/blob/main/samples/example5.2/sample-5.2-component-granularity-productX-maker-file.cdx.json)|[パッケージ](https://github.com/no-ta/public-sandbox/blob/main/samples/example5.2/sample-5.2-component-granularity-productX-maker-package.cdx.json)|
+|Vendorが提供するアプリAのSBOM|[ファイル](https://github.com/no-ta/public-sandbox/blob/main/samples/example5.2/sample-5.2-component-granularity-appA-vendor-file.cdx.json)|ファイル単位|[MakerがアプリAから依存があるOSSのファイル情報をパッケージ情報に変換してアプリAのみファイル単位にする](https://github.com/no-ta/public-sandbox/blob/main/samples/example5.2/sample-5.2-component-granularity-productX-user-package.cdx.json)|
+|Vendorが提供するアプリAのSBOM|[パッケージ](https://github.com/no-ta/public-sandbox/blob/main/samples/example5.2/sample-5.2-component-granularity-appA-vendor-package.cdx.json)|[MakerがアプリAのパッケージからファイルを分解してファイル単位にする](https://github.com/no-ta/public-sandbox/blob/main/samples/example5.2/sample-5.2-component-granularity-productX-user-file.cdx.json)|パッケージ単位|
 
 ### Appendix-2. 5章の項目記載用テンプレート
 
