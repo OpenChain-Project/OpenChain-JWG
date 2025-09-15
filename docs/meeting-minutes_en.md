@@ -2,8 +2,14 @@
   <a href="/OpenChain-JWG/index_en.html">Back / 戻る</a>
 </div>
 
-## All Member Meetings
-- **The 32nd meeting / The 6th Hybrid meeting** was held on October. 17, 2024  
+## Japan Community Day (All Member Meetings)
+- **The 34th meeting / The 9th Hybrid meeting** was held on July. 31, 2025  
+Venue: Mitsubishi Electric (Minatomirai, Kanagawa) and LFX Zoom  
+
+- **The 33rd meeting / The 8th Hybrid meeting** was held on March. 3, 2025  
+Venue: TOYOTA (Otemachi, Tokyo) and LFX Zoom  
+
+- **The 32nd meeting / The 7th Hybrid meeting** was held on October. 17, 2024  
 Venue: Daikin Insustries (Umeda, Osaka) and LFX Zoom  
 
 - **The 31st meeting / The 6th Hybrid meeting** was held on June. 27, 2024  
