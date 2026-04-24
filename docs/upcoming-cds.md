@@ -6,10 +6,10 @@
   - 2026年5月15日(金) 13:45-17:30 / May 15, 2026 13:45-17:30(JST)
 - 場所 / Location
   - リアル会場 / in-person:
-    - ソニーシティ大崎 BRIDGE TERMINAL
-    - https://www.sony.co.jp/recruit/office/osaki/
+    - [ソニーシティ大崎 BRIDGE TERMINAL](https://www.sony.co.jp/recruit/office/osaki/)
+    - [申込フォーム](https://forms.office.com/pages/responsepage.aspx?id=il3GZliRIUWi2GZJY9tI5JsNvwdDk5lJqjlXWK_3vvhUNUs1WDFCSUUzSUkzQ0tOTkdWU0NIS1owVS4u&route=shorturl)
   - オンラインでも（一部）同時配信 / Also available (in part) via live stream online
-    - https://zoom-lfx.platform.linuxfoundation.org/meeting/98000226853?password=58260b69-e3ab-49be-a327-defad38c41f3
+    - [https://zoom-lfx.platform.linuxfoundation.org/meeting/98000226853?password=58260b69-e3ab-49be-a327-defad38c41f3](https://zoom-lfx.platform.linuxfoundation.org/meeting/98000226853?password=58260b69-e3ab-49be-a327-defad38c41f3)
 
 1. オープニング
 1. Welcome Mary!! 新エグゼクティブディレクター紹介
