@@ -61,38 +61,41 @@ SPDX Liteは、必要な項目（タグ）について、手書き入力や人�
 
 SPDX Liteの項目と各項目の必要な理由を以下に記載します。
 
-"cardinality of SPDX"がMandatoryの項目はSPDXの仕様を満たすために必須な項目です。Optionalの項目は、SPDXの仕様としてはOptionalですが、SPDX Liteの仕様としては記載されることが必要です。Conditionalの項目については、SPDX Liteにおいても記載が任意の項目です。
-"cardinality of SPDX"で、manyと記載されている項目は、SPDXフォーマットからの変換などを行った場合に、同名称のタグが複数存在し得ることを示していますが、oneであれば、一つのSPDX Liteファイルの中に、同名称のタグは一つだけ存在することになります。
+**※ 表中の "cardinality of SPDX" の表記ルールについて**
+- "cardinality of SPDX"がMandatory（必須）の項目はSPDXの仕様を満たすために必須な項目です。
+- Optional（任意）の項目は、SPDXの仕様としてはOptionalですが、SPDX Liteの仕様としては記載されることが必要です。
+- Conditionalの項目については、SPDX Liteにおいても記載が任意の項目です。
+- "cardinality of SPDX"で、manyと記載されている項目は、SPDXフォーマットからの変換などを行った場合に、同名称のタグが複数存在し得ることを示していますが、oneであれば、一つのSPDX Liteファイルの中に、同名称のタグは一つだけ存在することになります。
 
 
 ### SPDX Liteの項目一覧
 | # | corresponding SPDX section no. | License Info. (tag) | cardinality of SPDX |
 |:-----|:----|:-----------------------|:--------------|
-|L1.1  |2.1  | SPDX Version           |Mandatory, one |
-|L1.2  |2.2  | Data License           |Mandatory, one |
-|L1.3  |2.3  | SPDX Identifier        |Mandatory, one |
-|L1.4	 |2.4	 | Document Name	        | Mandatory, one |
-|L1.5	 |2.5	 | SPDX Document Namespace| Mandatory, one |
-|L1.6	 |2.8	 | Creator	              | Mandatory, one or many |
+|L1.1  |2.1  | SPDX Version           | Mandatory, one |
+|L1.2  |2.2  | Data License           | Mandatory, one |
+|L1.3  |2.3  | SPDX Identifier        | Mandatory, one |
+|L1.4  |2.4  | Document Name          | Mandatory, one |
+|L1.5  |2.5  | SPDX Document Namespace| Mandatory, one |
+|L1.6  |2.8  | Creator	              | Mandatory, one or many |
 |L1.7  |2.9  | Created                | Mandatory, one |
-|L2.1	 |3.1	 | Package Name	          | Mandatory, one |
-|L2.2	 |3.2	 | Package SPDX Identifier| Mandatory, one |
-|L2.3	 |3.3	 | Package Version        | Optional, one |
-|L2.4	 |3.4	 | Package File Name      | Optional, one |
-|L2.5	 |3.7	 | Package Download Location | Mandatory, one |
-|L2.6	 |3.8	 | Files Analyzed         | Optional, one |
+|L2.1  |3.1  | Package Name           | Mandatory, one |
+|L2.2  |3.2  | Package SPDX Identifier| Mandatory, one |
+|L2.3  |3.3  | Package Version        | Optional, one |
+|L2.4  |3.4  | Package File Name      | Optional, one |
+|L2.5  |3.7  | Package Download Location | Mandatory, one |
+|L2.6  |3.8  | Files Analyzed         | Optional, one |
 |L2.7  |3.11 | Package Home Page      | Optional, one |
-|L2.8	 |3.13 | Concluded License      | Mandatory, one |
-|L2.9	 |3.15 | Declared License       | Mandatory, one |
+|L2.8  |3.13 | Concluded License      | Mandatory, one |
+|L2.9  |3.15 | Declared License       | Mandatory, one |
 |L2.10 |3.16 | Comments on License    | Optional, one |
 |L2.11 |3.17 | Copyright Text         | Mandatory, one |
 |L2.12 |3.20 | Package Comment        | Optional, one |
-|L3.1	 |6.1	 | License Identifier     | Conditional (mandatory, one) |
-|L3.2	 |6.2	 | Extracted Text         | Conditional (mandatory, one) |
-|L3.3	 |6.3	 | License Name           | Conditional (mandatory, one) |
-|L3.4	 |6.5	 | License Comment        | Conditional (mandatory, one) |
+|L3.1  |6.1  | License Identifier     | Conditional (mandatory, one) |
+|L3.2  |6.2  | Extracted Text         | Conditional (mandatory, one) |
+|L3.3  |6.3  | License Name           | Conditional (mandatory, one) |
+|L3.4  |6.5  | License Comment        | Conditional (mandatory, one) |
 
-各タグの内容で特定できない項目がある場合は、"NOASSERTION”を記載します。
+各タグの内容で特定できない項目がある場合は、"NOASSERTION"を記載します。
 
 ### L1.1  SPDX Version
 SPDXの仕様のバージョンを記載します。
@@ -100,27 +103,27 @@ SPDXの仕様のバージョンを記載します。
 
 ### L1.2  Data License
 SPDX Liteファイルのライセンスを記載します。
-SPDXの仕様に従うため本項目は“CC0-1.0”を記載します。
+SPDXの仕様に従うためには、本項目には"CC0-1.0"と記載します。
 
 ### L1.3  SPDX Identifier
-SPDX Liteファイルの識別子です。各SPDX Liteファイルで一意になるように決めてください。それ以外は提供する側で自由に決めて構いません。
+SPDX Liteファイルの識別子です。SPDXの仕様に従い、ここには"SPDXRef-DOCUMENT"と記載します。
 
 ### L1.4  Document Name
 SPDX Liteファイルのファイル名を記載します。
 
 ### L1.5  SPDX Document Namespace
 Uniform Resource Identifier（URI）を使用してSPDX Liteファイルの名前空間を記載します。
-本項目はSPDX Liteファイルを外部から参照するために利用します。
+各SPDX Liteファイルで一意になるように決めてください。本項目はSPDX Liteファイルを外部から参照するために利用します。
 
 ### L1.6  Creator
 SPDX Liteファイルの作成者を記載します。
 本項目は誰が (ツールの場合は、何が)作成したかを特定するために利用します。
-個人は「Creator: Person:」を記載します。
-組織は「Creator: Organization:」を記載します。
-ツールは「Creator: Tool:」を記載します。
+- 個人は「Person:」を記載します。
+- 組織は「Organization:」を記載します。
+- ツールは「Tool:」を記載します。
 
 ### L1.7  Created
-SPDX Liteファイルを作成した日を記載します。
+SPDX Liteファイルを作成した日時を記載します。
 
 ### L2.1  Package Name
 ソフトウェア パッケージの名称を記載します。
@@ -143,7 +146,7 @@ SPDX Liteファイルを結合したりツールに取り込んだりしたり�
 本項目は使用しているソフトウェアと同じソフトウェアを入手するために利用します。
 
 ### L2.6  Files Analyzed
-SPDX Liteファイルを手作業で作成する場合に"false"を記載します。このタグは、SPDXに関わる自動化ツールなどが、ライセンス情報をソースコードなどのファイルからスキャンし解析したことを示すタグで、手作業でSPDX Liteファイルを作成した場合には、”false”を記載しなければなりません。
+SPDX Liteファイルを手作業で作成する場合に"false"を記載します。このタグは、SPDXに関わる自動化ツールなどが、ライセンス情報をソースコードなどのファイルからスキャンし解析したことを示すタグで、手作業でSPDX Liteファイルを作成した場合には、"false"を記載しなければなりません。
 
 ### L2.7  Package Home Page
 ソフトウェア パッケージのホームページを記載します。
@@ -171,9 +174,9 @@ SPDX Liteファイルの作成者がライセンスに関連する情報やラ�
 本項目は、SPDXの仕様上、自由記載が可能な項目であり、例えば、サプライチェーンにおけるライセンス管理に有効な、下記のようなソフトウェア パッケージに関する、追加情報の記載を行うことが可能です。
 
 (1)ModificationRecord
-ソフトウェア パッケージが改変されている場合は”true”を記載します。
-ソフトウェア パッケージが改変されていない場合は”false”を記載します。
-OSSのソースコードに独自の修正を加えたり、OSSのソースコードを一部流用する場合は改変されていると判断するため”true”を記載します。
+ソフトウェア パッケージが改変されている場合は"true"を記載します。
+ソフトウェア パッケージが改変されていない場合は"false"を記載します。
+OSSのソースコードに独自の修正を加えたり、OSSのソースコードを一部流用する場合は改変されていると判断するため"true"を記載します。
 この項目はSPDXには存在しません。SPDX Liteの独自の項目です。
 特定のライセンスではソフトウェアを改変した時に従う必要があるライセンス条件があります。そのため、ソフトウェアの改変を明示するために本項目を利用します。 ソフトウェア パッケージが、『「Package Download Location」に記載された入手先からダウンロードしたソフトウェアそのものと、それに対するパッチファイル』が、それぞれ別個のSPDX Liteファイルで分離管理され、コンパイル段階でパッチが適用されているならば、ソフトウェア パッケージとして提供されるコンパイル前のソフトウェアは、改変されておらず"false"として記載されることになります。
 
@@ -205,16 +208,16 @@ SPDXライセンス リストに掲載されていないライセンスの場合
 
 ## 3. ライセンス情報の作成手順
 
-ライセンス情報は分かる範囲でできる限り記載する事が大切です。 ソフトウェアサプライチェーンにおいて、ライセンス情報を受け取る側はライセンスを遵守するために少しでも多くの情報を必要とします。そのため、明確でない場合も出来る限りのライセンス情報を記載してコメントに明確でない旨を記載する事を推奨します。
+ライセンス情報は分かる範囲でできる限り記載することが大切です。 ソフトウェアサプライチェーンにおいて、ライセンス情報を受け取る側はライセンスを遵守するために少しでも多くの情報を必要とします。そのため、明確でない場合もできる限りのライセンス情報を記載してコメントに明確でない旨を記載することを推奨します。
 
 ライセンス情報を記載したファイル(SPDX, SPDX Liteなど)を作成するには、ソースコードをスキャンするツールによって生成する他、手作業で作成する場合に、記載するライセンス情報を絞り込んだSPDX Liteファイルを直接作成する手段を選択することも可能です。
 
 ### ライセンス情報を作成するツールに関する情報
 
-The Linux Foundationが、ソフトウェア開発に関連する各種ツールについて、情報をまとめたサイトを作成しています。それらを参考に、ツールを選択することが出来ます。
+The Linux Foundationが、ソフトウェア開発に関連する各種ツールについて、情報をまとめたサイトを作成しています。それらを参考に、ツールを選択できます。
 
-日本語: https://www.linuxfoundation.jp/resources/open-source-guides/tools-managing-open-source-programs/
-英語版: https://www.linuxfoundation.org/resources/open-source-guides/tools-managing-open-source-programs/
+- 日本語: https://www.linuxfoundation.jp/resources/open-source-guides/tools-managing-open-source-programs/
+- 英語版: https://www.linuxfoundation.org/resources/open-source-guides/tools-managing-open-source-programs/
 
 
 
@@ -224,17 +227,18 @@ The Linux Foundationが、ソフトウェア開発に関連する各種ツール
 #### L1.1 SPDX Version
 -> SPDX-2.2
 
-この文書を作成している段階では、SPDX Liteは、SPDX 2.2 Appendix VIIIで規定されるフォーマットに準じていますので、SPDX-2.2と記載します。
+この文書を作成している段階では、SPDX Liteは、SPDX 2.2 Appendix VIIIで規定されるフォーマットに準じていますので、"SPDX-2.2"と記載します。
 
 #### L1.2 Data License
 -> 「CC0-1.0」あるいは「Copyright このファイルを作成した会社」
 
-ライセンス情報を収めたファイルそのもののライセンス情報を記入します。
+ライセンス情報を収めたファイルそのもののライセンス情報を記入します。SPDXの仕様に厳密に従うためには、本項目には"CC0-1.0"と記載します。
 
 #### L1.3 SPDX Identifier
--> SPDXRef-0
+-> SPDXRef-DOCUMENT
 
-ライセンス情報をまとめたファイルの識別子です。SPDX Liteファイルの中で一意になるように決めますので、ファイルを結合などしなければ、任意の文字列で構いません。
+ライセンス情報をまとめたファイルの識別子です。SPDXの仕様に厳密に従うためには、本項目には"SPDXRef-DOCUMENT"と記載します。（手作業の運用において結合などの予定がなければ任意の文字列が使われることもありますが、ツール互換性のために固定することを推奨します。）
+
 SPDX Liteファイルを結合したりツールに取り込んだりしたりする場合に一意であることを保証するのは受領側の責任です。
 
 #### L1.4 Document Name
@@ -243,17 +247,21 @@ SPDX Liteファイルを結合したりツールに取り込んだりしたり�
 ファイル名と同一にするのが基本です。
 
 #### L1.5 SPDX Document Namespace
-->
+-> http://spdx.org/spdxdocs/busybox-1.30.1-unique-string
+
+URLの形式で、他と重複しない一意な値を記載します。
 
 #### L1.6 Creator
--> 「ライセンス情報を作成したツール名」あるいは、「Person: 作成者のメールアドレス」
+-> 「Tool: ライセンス情報を作成したツール名」あるいは、「Person: 作成者のメールアドレス」
 
-ツールを用いて作成した場合など、ツール名が入りますが、このファイルを受け取った側が、問い合せを出来る先を記載することが望ましいとされています。
+ツールを用いて作成した場合など、ツール名が入りますが、このファイルを受け取った側が、問い合わせできる先を記載することが望ましいとされています。
 
 #### L1.7 Created
--> YYYY-MM-DD  (例えば、2020-08-10)
+-> YYYY-MM-DDTHH:MM:SSZ  (例えば、2020-08-10T01:23:45Z)
 
-日付けのフォーマットは、ライセンス情報ファイルにおける正式なフォーマットが、いくつかありますが、年月日を8桁で記載する方法で構いません。
+SPDXの仕様に厳密に従うためには、本項目には"YYYY-MM-DDTHH:MM:SSZ"（UTC表記のISO 8601形式）と記載します。[^date]
+
+[^date]: 以前ここには「年月日を8桁で記載する方法（YYYY-MM-DD）で構いません。」と書いていましたが、検証ツール等で厳密にチェックされる場合があるため、時刻（かつUTC表記）まで記載することを強く推奨します。日付のみで管理していた場合は、末尾に「T00:00:00Z」を付加することで仕様に準拠できます。
 
 #### L2.1 Package Name
 -> busybox
