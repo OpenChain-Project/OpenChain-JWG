@@ -18,7 +18,7 @@ First-time attendees are also welcome.
     - ルネサスエレクトロニクス株式会社 (東京都江東区豊洲三丁目2番24号 豊洲フォレシア)
     - [申込フォーム](https://ocgroups.dev/openchain/group/vwyd32w/event/k8sbq2h)
   - オンラインでも（一部）同時配信 / Also available (in part) via live stream online
-    - (ちょっと待ってね)
+    - https://zoom-lfx.platform.linuxfoundation.org/meeting/91482814204?password=b210b0c6-105f-4074-a11e-9658821f2ed4
 
 Day1
 1. オープニング
