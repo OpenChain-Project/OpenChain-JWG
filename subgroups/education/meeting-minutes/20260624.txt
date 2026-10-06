@@ -1,0 +1,63 @@
+# 開催概要
+- 日時: 2026年6月24日(水) 13:30 - 15:00
+- 場所: オンライン (Zoom)
+- 出席者 (敬称略・順不同):
+  富士ソフト 越野、ソニー 島、富士通 山城、ルネサス 余保、三菱電機 大内、オリンパス 出口、小泉
+
+---
+
+# 議題・連絡事項
+
+## 1. 教育資料応用編の進捗確認
+- Word化の完了報告
+  - 教育資料応用編の Word 版を作成完了し、Slack に投稿済み。
+  - 内容の最終確認依頼。コメントや指摘事項は Slack にて受付け。
+  - 確認期限: 7月中旬を目安とする。
+- Slackでの質問・提案事項（忍頂寺さんのコメントより）
+  - 議題①: LFC193, LFC194 日本語版の要否について
+    - 参考リンク:
+      - [LFC193: Introduction to Open Source License Compliance Management](https://training.linuxfoundation.org/ja/training/introduction-to-open-source-license-compliance-management-lfc193/)
+      - [LFC194: Implementing Open Source License Compliance Management](https://training.linuxfoundation.org/ja/training/implementing-open-source-license-compliance-management-lfc194/)
+    - 討論内容:
+      - LFC193 / LFC194 は OSPO（組織・管理層）向けの教育資料。
+      - 当教育SG の主な対象・目標は「一般社員向けの教育資料作成」であるため、LFC193 / 194 の日本語化に取り組むとすれば OSPO WG の領域が妥当ではないかとの意見。今回のミーティングでは詳細な議論までは実施せず。
+  - 議題②: 本家 Education-WG が進める教材改訂への対応
+    - SGとしては上記の立場なので、現時点では積極的には関わらない。話の流れによっては協力すべき場面も出てくるかも（継続確認事項）
+
+---
+
+## 2. OSS翻訳環境の紹介
+- 翻訳ツール・コミュニティの参考情報の共有
+  - Webベースの翻訳プラットフォーム: [Weblate (Hosted Weblate)](https://hosted.weblate.org/)
+  - OSSソフトウェア例（Siril）: [Siril Download / Release Note](https://siril.org/download/2026-06-17-siril-1-4-4/)
+
+---
+
+## 3. SBOM入門（SPDX Lite Guideline）読み合わせ・フィードバック
+- [SPDX-Lite-Guideline_jp.md](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/subgroups/sbom-sg/outcomes/SPDX-Lite/Guideline/SPDX-Lite-Guideline_jp.md) 第2章の読み合わせを実施し、以下の記述改善・指摘点が出たため、GitHub 上で改定案を作成予定。
+
+- L1.2 Data License
+  - 議論・指摘: 「CC0-1.0」以外の記述や「Copyright ...」の扱いについて。
+  - （追記）SPDX 2系統では「CC0-1.0」と書くように決められていますが、SPDX 3ではその条件が外れています。SPDX Liteとしては3の仕様を先取りしたということで、、、^_^;
+
+- L1.3 SPDX Identifier
+  - 議論・指摘: ガイドの例に `SPDXRef-0` とあるが、検証ツール等で弾かれる可能性があるため `SPDXRef-DOCUMENT` とすべき。
+  - （追記）PR444で対応済み
+
+- L1.5 SPDX Document Namespace
+  - 議論・指摘: 自社ドメインの指定方法、および未指定時のデフォルト値（`spdx.org/spdxdocs` 等）の取り扱いを確認。
+  - （追記）PR444で対応済み
+
+- L1.6 Creator
+  - 議論・指摘: ツール名指定時の接頭辞（`Tool: `）の必須化や、`Person:` 指定時の複数名表記フォーマットについて。
+  - （追記）PR444で対応済み
+
+- L1.7 Created
+  - 議論・指摘: `YYYY-MM-DD` 表記のみだと SPDX Verifier でエラーになる場合があるため、`yyyy-mm-ddT00:00:00Z` などの ISO 8601 形式（タイムゾーン込み）が必要。
+  - （追記）PR444で対応済み。細かい事情は脚注に
+
+---
+
+# 次回予定・アクションアイテム
+- 教育資料応用編 Word 版の確認と Slack へのコメント（～7月中旬、全員）
+- SBOM入門 (SPDX Lite ガイドライン) の改定案を GitHub 上で作成・公開し、メンバーへ確認依頼（小泉。上の個々の項目にも記載してあるようPR444として対応済みです。レビュー期間は設けていましたので問題ないとは思いますが、気になる方はGitHubの最新状況を確認してください。）

@@ -1,0 +1,69 @@
+# 開催概要
+- 日時: 2026年7月22日(水) 13:30 - 15:00
+- 場所: オンライン (Zoom)
+- 参加者 (順不同・敬称略):
+  富士ソフト 越野、ソニー 島、ルネサス 余保、
+  - tsukasa yobo (Renesas Electronics Corporation)
+  - shinji sato
+  - 小泉 (Satoru Koizumi)
+  - 出口
+
+---
+
+## 議題・討議内容
+
+### 1. 教育資料の名称整理（夏休みの宿題）
+- 教育資料リポジトリ（`Education_Material/Training`）配下にある下記3つの資料について、総合的な名称付け・体系化を行いたい。
+  - 教育資料 (コンプライアンスプログラム・バージョン)
+  - OSS教育資料 (サプライチェーンリスクマネジメント・バージョン) ライセンス基礎
+  - 応用編
+- **アクション**:
+  - 次回に向けて各自で名称案を検討してくること。
+  - 名称決定後、GitHub上の該当ファイル・フォルダ構造およびドキュメント内の表記を修正・反映する。
+- **対象リポジトリ・参照**:
+  - https://github.com/koizumistr/OpenChain-JWG/tree/spdxlite-ch2_3-to_Created/Education_Material/Training
+
+---
+
+### 2. SPDX Liteガイドライン（2章・3章 Created版）のレビューと修正
+- SPDX Liteガイドラインの修正案（2章・3章それぞれ Created までの修正版）についてレビューを行った。
+- 修正案や追加の指摘がある場合は、GitHubのPull Request/Issue等で送付いただく。
+- **対象ファイル**:
+  - https://github.com/koizumistr/OpenChain-JWG/blob/spdxlite-ch2_3-to_Created/subgroups/sbom-sg/outcomes/SPDX-Lite/Guideline/SPDX-Lite-Guideline_jp.md
+
+---
+
+### 3. 「SBOM入門 (SPDX Liteガイドライン)」読み合わせ (L2.1 ～ L2.7)
+
+#### **L2.2 Package SPDX Identifier**
+- **Q**: 一意な名称であれば自由に指定してよいか？
+  - **A**: 仕様上は一意であれば問題ない。ただし、各種ツールにおいては `SPDXRef-` というプレフィックスが付与されていないと構文エラー（Error）になる可能性があるため注意。
+- **文面調整**: 「SPDX Liteファイルを結合したりツールに取り込んだりしたりする場合」→「取り込んだりする場合」に表現を修正する。
+
+#### **L2.3 Package Version**
+- **Q**: バージョンが不明な場合の記述方法は？
+  - **A**: `"NOASSERTION"` や「不明」等の明記が望ましい。
+
+#### **L2.4 Package File Name & L2.5 Package Download Location**
+- 手作業でライセンス情報ファイルを作成する場合の解説について、修正時のパッチ提供に関する記述が分かりにくくなっている懸念があるため、表現の推敲・修正案を別途検討予定。
+
+#### **L2.6 Files Analyzed**
+- **誤字修正**: 「想定さえています」→「想定されています」
+- **Q / 討議**: `false` が固定値であるとの情報（渡邊氏等の資料）があるが、定義上の扱いはどうなるか？
+  - **A**: SPDX Liteでは手作業による作成が多い想定であるため `false` 固定のように説明されているケースがある。仕様・定義としては、手動作成時は `false`、ツール等によるスキャン・解析時は `true` を想定している。
+  - **アクション**: 誤解を生みにくい記述・修正案を検討する。
+
+#### **L2.7 Package Home Page**
+- **誤字修正**: 「可能ならばの」→「可能ならば」
+- **Q**: リポジトリ（GitHub等）から直接取得した場合の記述方法は？
+  - **A**: リポジトリの取得元URL自体は `Package Download Location` (L2.5) に記載するため、`Package Home Page` にはOSSの公式サイトURLを記載するのが望ましい（手動取得の場合のガイドライン言及を明確化する）。
+
+#### **その他（第2章 2. 必要なライセンス情報の項目 / Cardinality）**
+- **Cardinalityの説明**: SPDXの別バージョンが上書き混在した記述になっている箇所があるため整理を行う。
+  > *「cardinality of SPDX が Mandatory の項目は SPDX の仕様を満たすために必須な項目です。Optional の項目は、SPDX の仕様としては Optional ですが、SPDX Lite の仕様としては記載されることが必要です。」*
+
+---
+
+# 宿題
+- 教育資料（3部）の統合名称案の検討（全員）
+- ガイドライン修正案（パッチ提供箇所の表現、Files Analyzedの解説、誤字修正など）の作成・提示（小泉）とレビュー（全員）
