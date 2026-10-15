@@ -69,7 +69,7 @@ SPDX Liteの項目と各項目の必要な理由を以下に記載します。
 
 
 ### SPDX Liteの項目一覧
-| # | corresponding SPDX section no. | License Info. (tag) | cardinality of SPDX |
+| # | corresponding SPDX v2.2 section no. | License Info. (tag) | cardinality of SPDX |
 |:-----|:----|:-----------------------|:--------------|
 |L1.1  |2.1  | SPDX Version           | Mandatory, one |
 |L1.2  |2.2  | Data License           | Mandatory, one |
@@ -82,11 +82,11 @@ SPDX Liteの項目と各項目の必要な理由を以下に記載します。
 |L2.2  |3.2  | Package SPDX Identifier| Mandatory, one |
 |L2.3  |3.3  | Package Version        | Optional, one |
 |L2.4  |3.4  | Package File Name      | Optional, one |
-|L2.5  |3.7  | Package Download Location | Mandatory, one |
+|L2.5  |3.7  | Package Download Location | Mandatory, one (v2.2) / Optional, one (v2.3) |
 |L2.6  |3.8  | Files Analyzed         | Optional, one |
 |L2.7  |3.11 | Package Home Page      | Optional, one |
-|L2.8  |3.13 | Concluded License      | Mandatory, one |
-|L2.9  |3.15 | Declared License       | Mandatory, one |
+|L2.8  |3.13 | Concluded License      | Mandatory, one (v2.2) / Optional, one (v2.3)[^v2.3]|
+|L2.9  |3.15 | Declared License       | Mandatory, one (v2.2) / Optional, one (v2.3)[^v2.3]|
 |L2.10 |3.16 | Comments on License    | Optional, one |
 |L2.11 |3.17 | Copyright Text         | Mandatory, one |
 |L2.12 |3.20 | Package Comment        | Optional, one |
@@ -94,6 +94,8 @@ SPDX Liteの項目と各項目の必要な理由を以下に記載します。
 |L3.2  |6.2  | Extracted Text         | Conditional (mandatory, one) |
 |L3.3  |6.3  | License Name           | Conditional (mandatory, one) |
 |L3.4  |6.5  | License Comment        | Conditional (mandatory, one) |
+
+[^v2.3]: ライセンス関連の記載はSPDX（本体）のv2.2では必須でしたが、（本体の）v2.3では必須ではなくなりました。SPDX Liteはライセンス情報の授受を主目的に使われることを想定していますので、v2.2、v2.3のどちらでも、この項目の記載は必須です。
 
 各タグの内容で特定できない項目がある場合は、"NOASSERTION"を記載します。
 
