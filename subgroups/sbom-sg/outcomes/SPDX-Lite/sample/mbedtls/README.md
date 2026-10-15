@@ -16,6 +16,8 @@ Apache License v2 と GPLv2のどちらかのライセンスを選択できる�
 mbedtls は 2.16.6 までは 上記のとおり Apache License v2 と GPLv2 のデュアルライセンスでリリースされていました。
 しかしそれより新しいバージョンは Apache License v2 でのみリリースされるように変更になりました。
 
+そして、その後に Apache License v2 と GPLv2 のデュアルライセンスでリリースされるように戻りました。
+
 # ダウンロードページ
 
 https://tls.mbed.org/download から最新バージョンのソースコードが Apache License v2と
