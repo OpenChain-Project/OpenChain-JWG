@@ -8,12 +8,12 @@ OpenChain Japan Work Group（以降Japan WG）は、[OpenChain Project](https://
 * OpenChain Projectでは、プラチナメンバーと一般メンバーが定義されています
 * プラチナメンバーは、有償で、OpenChain Projectのボード会議に参加できます
 * 一般メンバーは、誰でも自由に無償で活動に参加できます
-* 詳細は、Project General Managerである[Shane Coughlan](<mailto:coughlan@linux.com>)に問い合わせてください
+* 詳細は、Executive Directorである[Mary (Meixia) Wang](<mailto:mwang@linuxfoundation.org>)に問い合わせてください
 
 ## OpenChain Japan Work Groupについて
 * OpenChain Japan WGは、日本・アジアを中心に、OSSライセンス遵守やOSS利用に関する課題解決を目指しています
 * 規約等については、OpenChain Japan WGとして個別に設けておらず、OpenChain Projectの規約等に従います（本文書に書かれた内容以外に特に注意する事項はありません）。また、[The Linux Foundationの行動規範](https://www.linuxfoundation.jp/code-of-conduct/)に従います。
-* OpenChain Projectの規約等については、Project General Managerである[Shane Coughlan](<mailto:coughlan@linux.com>)に問い合わせてください
+* OpenChain Projectの規約等については、Executive Directorである[Mary (Meixia) Wang](<mailto:mwang@linuxfoundation.org>)に問い合わせてください
 
 ## OpenChain Japan WGの主な活動
 * OSSライセンス遵守やOSS利用に関して、メンバーが抱える課題を議論し、解決案を提案していきます（国内会合、ML等）
@@ -72,6 +72,9 @@ OpenChain Japan WGには5つのメーリングリストがあります。各メ�
 - SBOM SG（旧称 ライセンス情報 SG） ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-sbom](https://lists.openchainproject.org/g/japan-sg-sbom)  
 [&#x2709; japan-sg-sbom+subscribe@lists.openchainproject.org](mailto:japan-sg-sbom+subscribe@lists.openchainproject.org)  
+- OSPO SG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-ospo](https://lists.openchainproject.org/g/japan-sg-ospo)  
+[&#x2709; japan-sg-ospo+subscribe@lists.openchainproject.org](mailto:japan-sg-ospo+subscribe@lists.openchainproject.org)  
 
 ### Slack
 
