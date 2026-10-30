@@ -40,6 +40,10 @@ OpenChain Japan WG内では、共通の関心を持つ人たちが集まりサ�
 		- 組織に応じたワークフローの構築
 		- 省力化 (オートメーション)
 		- 質の向上
+- [OSPO SG](https://ocgroups.dev/todo/group/usd4vs5)
+	- TODO GroupとOpenChain Japan WGによるサポートにより、OSPO ローカル ミートアップという形で行っています。現在は、次の２つの活動を行っています
+		- OSPO Simple Q＆A： Simpleな疑問への答えを議論し、まとめることでOSPOの理解を深め、広める取り組み
+		- OSS Strategy： OSSと事業の関係を整理して、OSPOの事業戦略のあり方を模索する取り組み
 
 ## OpenChain Japan WGメンバー
 * OpenChain Japan WGは、オープン コミュニティ活動です
