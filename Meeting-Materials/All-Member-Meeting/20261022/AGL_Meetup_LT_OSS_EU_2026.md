@@ -7,4 +7,4 @@
 - [AGL Technical Meetup #2 (202601020)](https://ocgroups.dev/lf-japan/group/5kvg3tf/event/wsrywq6)
 
 ---
-The material presented by Takashi Nintoji (Honda R&D) in this session is based on the slides by Kazuyoshi Akiyama (Honda R&D) at AGL Technical Meetup #2 (Oct 20, 2026). 
+The material presented by Takashi Ninjouji (Honda R&D) in this session is based on the slides by Kazuyoshi Akiyama (Honda R&D) at AGL Technical Meetup #2 (Oct 20, 2026). 
