@@ -42,14 +42,15 @@ OpenChain JWG内では、共通の関心を持つ人たちが集まりサブグ�
 - [&#x1f4c2;Planning](subgroups/planning/)  
 - [&#x1f4c2;Promotion](subgroups/promotion/)  
 - [&#x1f4c2;SBOM (former License Information Exchange)](subgroups/licensing/)  
+- [&#x1f4c2;OSPO](https://ocgroups.dev/todo/group/usd4vs5)  
 
 ---
 
-## 全体会合
+## Community Day （全体会合）
 
 誰でも参加可能な、オープンソースコンプライアンスに関する内容を広く扱う会合で、ほぼ定期的（大体2-3ヶ月に一度）に開催されています。主にセミナー形式でプレゼンテーションやQA、議論等を行ないます。取り上げるテーマや開催形式は、回ごとにPlanningサブグループで検討・企画しています。
 
-- [&#x1f4c2; 全体会合の記録](meeting-minutes.html)  
+- [&#x1f4c2; Community Day （全体会合）の記録](meeting-minutes.html)  
 
 ---
 
@@ -88,6 +89,9 @@ OpenChain Japan WGには5つのメーリングリストがあります。各メ�
 - SBOM SG（旧 ライセンス情報 SG） ML  
 [&#x1f310; https://lists.openchainproject.org/g/japan-sg-sbom](https://lists.openchainproject.org/g/japan-sg-sbom)  
 [&#x2709; japan-sg-sbom+subscribe@lists.openchainproject.org](mailto:japan-sg-sbom+subscribe@lists.openchainproject.org)  
+- OSPO SG ML  
+[&#x1f310; https://lists.openchainproject.org/g/japan-sg-ospo](https://lists.openchainproject.org/g/japan-sg-ospo)  
+[&#x2709; japan-sg-ospo+subscribe@lists.openchainproject.org](mailto:japan-sg-ospo+subscribe@lists.openchainproject.org)  
 
 ---
 
