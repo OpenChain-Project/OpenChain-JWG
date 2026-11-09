@@ -3,6 +3,12 @@
 </div>
 
 ## Japan Community Day (All Member Meetings)
+- **The 36th meeting / The 11th Hybrid meeting** was held on October. 22, 2026  
+Venue: Renesas Electronics Corporation (Toyosu, Tokyo) and LFX Zoom  
+
+- **The 35th meeting / The 10th Hybrid meeting** was held on May. 15, 2026  
+Venue: Sony (Osaki, Tokyo) and LFX Zoom  
+
 - **The 34th meeting / The 9th Hybrid meeting** was held on July. 31, 2025  
 Venue: Mitsubishi Electric (Minatomirai, Kanagawa) and LFX Zoom  
 

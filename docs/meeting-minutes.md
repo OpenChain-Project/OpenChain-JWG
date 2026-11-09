@@ -3,6 +3,25 @@
 </div>
 
 ## 全体会合の記録
+-  **第36回会合/第11回ハイブリッド会合** 2026年10月22日(木)-23日(金)  
+場所: ルネサスエレクトロニクス株式会社 (東京都江東区豊洲三丁目2番24号 豊洲フォ
+レシア)  
+[&#x1f4da; Community Day紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/OpenChain%20Japan%20Community%20Day%20vol_36.pdf)  
+  - Day1 (10月22日(木))  
+[&#x1f4da; 議事進行スライド](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/Community%20Day_vol%2036%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)  
+[&#x1f3a5; 録画](https://www.youtube.com/watch?v=SLNYX-tg58s)  
+[&#x1f4da; OpenChain JWG紹介](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/OpenChain_JWG%E7%B4%B9%E4%BB%8B_20261022.pptx)  
+[&#x1f4da; Session 1: CRA概要](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/20261022_CRA.pptx.pdf)  
+[&#x1f4da; Session 2: OSS Europe / EU動向キャッチアップ - その1](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/OpenChain-OSSEU-202610.pdf)  
+[&#x1f4da; Session 2: OSS Europe / EU動向キャッチアップ - その2](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/AGL_Meetup_LT_OSS_EU_2026.md)  
+[&#x1f4da; Session 3: Open Source Steward](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/20261022_Steward.pptx.pdf)  
+[&#x1f4da; Session 4: SBOM最前線](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/Session%204%20SBOM%E6%9C%80%E5%89%8D%E7%B7%9A.pdf)  
+[&#x1f4da; Session 5: 脆弱性対応と報告義務](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/OCJ%20Community%20Day%2020261022%20-%20%E8%84%86%E5%BC%B1%E6%80%A7%E7%99%BA%E8%A6%8B%E6%99%82%E3%81%AE%E3%83%95%E3%83%AD%E3%83%BC.pdf)  
+[&#x1f4da; Session 6: Tuf](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20261022/%E3%80%90%E5%85%AC%E9%96%8B%E3%80%91TUF(The%20Update%20Framework)%E3%81%AE%E7%B4%B9%E4%BB%8B-%E5%85%AC%E9%96%8B%E7%94%A8.pdf)  
+
+-  **第35回会合/第10回ハイブリッド会合** 2026年5月15日(金)  
+場所: ソニーシティ大崎 BRIDGE TERMINAL  
+
 - **第34回会合/第9回ハイブリッド会合** 2025年7月31日(木)-8月1日(金)  
 場所: 三菱電機 Serendie Street Yokohama(みなとみらい) または lfx Zoom  
 [&#x1f4da; Community Day紹介チラシ](https://github.com/OpenChain-Project/OpenChain-JWG/blob/master/Meeting-Materials/All-Member-Meeting/20250731/OpenChain%20Japan%20Community%20Day%20vol_34.pdf)  
