@@ -191,21 +191,22 @@ OSSのソースコードに独自の修正を加えたり、OSSのソースコ�
 特定のライセンスではソフトウェアのリンク方法によって、他にも影響を与えます。そのため、ソフトウェアのリンク方法を明示するために本項目を利用します。 ソフトウェア パッケージに含まれるソフトウェアが動的リンク又は静的リンクのどちらを用いているかを記載します。
 
 ### L3.1  License Identifier
-SPDX License Listに掲載されていないライセンスの場合、識別子を記載します。SPDX Liteファイルの中で一意になるように決めてください。それ以外は提供する側で自由に決めて構いません。 本項目は使用しているソフトウェアのライセンスを特定するために利用します。
+[SPDX License List](https://spdx.org/licenses/)（MITやApache-2.0など、主要なオープンソースライセンスの標準識別子一覧）に掲載されていないライセンス（独自ライセンスや商用ライセンス等）の場合、識別子を記載します。SPDX Liteファイルの中で一意になるように決めてください。「LicenseRef-」で始まり、英数字と記号（_-+）からなる文字列であれば、提供する側で自由に決めて構いません。[^LicenseRef]本項目は使用しているソフトウェアのライセンスを特定するために利用します。
 SPDX Liteファイルを結合したりツールに取り込んだりしたりする場合に一意であることを保証するのは受領側の責任です。
 
+[^LicenseRef]: 以前ここには「提供する側で自由に決めて構いません。」と書いていましたが、検証ツール等で厳密にチェックされる場合があるため、「LicenseRef-」で始まり、英数字と記号（_-+）からなる文字列にすることを推奨します。
+
 ### L3.2  Extracted Text
-SPDX License Listに掲載されていないライセンスの場合、ライセンス条文を記載します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンスの場合、ライセンス条文を記載します。
 本項目は使用しているソフトウェアのライセンスを補足するために利用します。
 
 ### L3.3  License Name
-SPDXライセンス リストに掲載されていないライセンスの場合、ライセンス名を記載します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンスの場合、ライセンス名を記載します。
 本項目は使用しているソフトウェアのライセンス名を特定するために利用します。
 
 ### L3.4  License Comment
-SPDXライセンス リストに掲載されていないライセンスの場合、ライセンスに関連する情報を記載します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンスの場合、ライセンスに関連する情報を記載します。
 本項目は使用しているソフトウェアのライセンスを補足するために利用します。
-
 
 
 ## 3. ライセンス情報の作成手順
@@ -220,7 +221,6 @@ The Linux Foundationが、ソフトウェア開発に関連する各種ツール
 
 - 日本語: https://www.linuxfoundation.jp/resources/open-source-guides/tools-managing-open-source-programs/
 - 英語版: https://www.linuxfoundation.org/resources/open-source-guides/tools-managing-open-source-programs/
-
 
 
 ### 手作業でライセンス情報ファイルを作成する場合
@@ -383,29 +383,37 @@ busyboxのように、アプリケーション一式をソフトウェア パッ
 
 
 ### L3.1  License Identifier
--> NOASSERTION あるいは SPDXRef-LICENSE-00001
+-> NOASSERTION （あるいは LicenseRef-00001）
 
-SPDX License Listに掲載されていないライセンスの場合、識別子を記載します。SPDX Liteファイルの中で一意になるように決めてください。それ以外は提供する側で自由に決めて構いません。 本項目は使用しているソフトウェアのライセンスを特定するために利用します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンス（独自のライセンスや改変されたライセンス等）の場合、識別子を記載します。SPDX Liteファイルの中で一意になるように決めてください。「LicenseRef-」で始まり、英数字と記号（_-+）からなる文字列であれば、提供する側で自由に決めて構いません。 本項目は使用しているソフトウェアのライセンスを特定するために利用します。
+
+[SPDX License List](https://spdx.org/licenses/)に掲載されているライセンス（busyboxでは「GPL-2.0-only」）のOSSの場合、こちらの項目は使いませんので「NOASSERTION」とします。[^toolerror]
+
+[^toolerror]: ここでは「使わない（対象外）」という意味で NOASSERTION と記載していますが、ツールで処理しようとすると、この記述が原因でエラーになってしまうことがあります。そのため、標準的なライセンス（GPLなど）のみの場合には、ツールを通す前にあらかじめこれらの項目自体を（行ごと）削除しておくか、該当部分を空欄にしておくなどの実務的な対応が必要になるかもしれません。
 
 ### L3.2  Extracted Text
 -> NOASSERTION
 
-SPDX License Listに掲載されていないライセンスの場合、ライセンス条文を記載します。
-このタグに記載を行う場合には、ライセンス条文の全文を記載します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンスの場合、ライセンス条文を記載します。
+本項目に記載を行う場合には、ライセンス条文の全文を記載します。
+
+[SPDX License List](https://spdx.org/licenses/)に掲載されているライセンス（busyboxでは「GPL-2.0-only」）のOSSの場合、こちらの項目は使いませんので「NOASSERTION」とします。
 
 ### L3.3  License Name
 -> NOASSERTION
 
-SPDXライセンス リストに掲載されていないライセンスの場合、ライセンス名を記載します。
-このタグに記載を行う場合には、ライセンス名として記載されているライセンス条文のタイトルなど転記します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンスの場合、ライセンス名を記載します。
+本項目に記載を行う場合には、ライセンス名として記載されているライセンス条文のタイトルなどを転記します。
+
+[SPDX License List](https://spdx.org/licenses/)に掲載されているライセンス（busyboxでは「GPL-2.0-only」）のOSSの場合、こちらの項目は使いませんので「NOASSERTION」とします。
 
 ### L3.4  License Comment
 -> NOASSERTION
 
-SPDXライセンス リストに掲載されていないライセンスの場合、ライセンスに関連する情報を記載します。
+[SPDX License List](https://spdx.org/licenses/)に掲載されていないライセンスの場合、ライセンスに関連する情報を記載します。
 本項目は使用しているソフトウェアのライセンスを補足するために利用します。
 
-
+[SPDX License List](https://spdx.org/licenses/)に掲載されているライセンス（busyboxでは「GPL-2.0-only」）のOSSの場合、こちらの項目は使いませんので「NOASSERTION」とします。
 
 
 ## 4. ライセンス情報のサンプル
