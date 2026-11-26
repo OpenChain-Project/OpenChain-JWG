@@ -1,11 +1,10 @@
 # OpenChain Project Japan Work Group への参加について
 
 ## 初版：2018年8月2日
-## 最終更新：2021年4月27日
+## 最終更新：2026年10月27日
 
 ## 本文書について
 * 本文書は、OpenChain ProjectのJapan Work Groupについて、基本事項を説明した資料です。JapanWork Groupに参加する際は、ご一読ください。
-
 
 ## OpenChain Projectについて
 * OpenChain Projectは、 Linux FoundationがホストするオープンなProjectで、OSS(Open Source Software)ライセンス遵守の促進活動を通じて、サプライチェーン（組織間）における信頼構築を目指しています
@@ -13,13 +12,13 @@
 * OpenChain Projectでは、プラチナメンバーと一般メンバーが定義されています
   * プラチナメンバーは、有償で、OpenChain Projectのボード会議に参加できます
   * 一般メンバーは、誰でも自由に無償で活動に参加できます
-* 詳細は、Project General ManagerであるShane Coughlan <coughlan@linux.com>に問い合わせてください
+* 詳細は、Executive Directorである[Mary (Meixia) Wang](<mailto:mwang@linuxfoundation.org>)に問い合わせてください
 
 ## Japan Work Groupについて
 * Japan Work Group（以降Japan WG）は、OpenChain Projectの一つの活動です
 * Japan WGは、日本・アジアを中心に、OSSライセンス遵守やOSS利用に関する課題解決を目指しています
 * 規約等については、Japan WGとして個別に設けておらず、OpenChain Projectの規約等に従います（本文書に書かれた内容以外に特に注意する事項はありません）また、[The Linux Foundationの行動規範](https://www.linuxfoundation.jp/code-of-conduct/)に従います。
-* OpenChain Projectの規約等については、Project General ManagerであるShane Coughlan <coughlan@linux.com>に問い合わせてください
+* OpenChain Projectの規約等については、Project General ManagerであるExecutive Directorである[Mary (Meixia) Wang](<mailto:mwang@linuxfoundation.org>)に問い合わせてください
 
 ## Japan WGの主な活動
 * OSSライセンス遵守やOSS利用に関して、メンバーが抱える課題を議論し、解決案を提案していきます（国内会合、ML等）
